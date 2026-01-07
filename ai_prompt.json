@@ -1,3 +1,228 @@
 {
-  json
+  "status": true,
+  "categories": [
+    {
+      "category_id": "recommended",
+      "category_name": "Recommended",
+      "order": 1
+    },
+    {
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "order": 2
+    },
+    {
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "order": 3
+    },
+    {
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "order": 4
+    },
+    {
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "order": 5
+    },
+    {
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "order": 6
+    }
+  ],
+  "prompts": [
+    {
+      "id": "ai-1",
+      "title": "Hyper-Realistic Dreamy Portrait",
+      "image_url": "/images/ai-1.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A hyper-realistic portrait of the young woman from the uploaded image, captured in a close-up at a tilted 45-degree angle, with waist-length very long brown voluminous hair flowing freely, soft strands across her face, long curled eyelashes, and gentle deep red lips creating a dreamy sweetness.",
+      "ai_style": "Photorealistic",
+      "tags": [
+        "portrait",
+        "hyperrealistic",
+        "dreamy"
+      ],
+      "likes": 2140,
+      "views": 26780,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-2",
+      "title": "Indoor Fashion Profile",
+      "image_url": "/images/ai-2.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A young woman with long dark wavy hair sitting on a light gray textured sofa indoors, wearing an all-black outfit with rhinestone AI bandeau top, moody warm lighting, casual dramatic editorial atmosphere.",
+      "ai_style": "Realistic Editorial",
+      "tags": [
+        "fashion",
+        "indoor",
+        "editorial"
+      ],
+      "likes": 980,
+      "views": 11200,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-3",
+      "title": "Levitating Twilight Figure",
+      "image_url": "/images/ai-3.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a surreal atmospheric fine art photograph of a young woman levitating above a calm dark surface at twilight, melancholic serene expression, auburn hair flowing, cinematic painterly lighting, dreamy poetic mood.",
+      "ai_style": "Surreal Realism",
+      "tags": [
+        "surreal",
+        "fine art",
+        "levitation"
+      ],
+      "likes": 2140,
+      "views": 26780,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-4",
+      "title": "Fantasy Mermaid Beach Romance",
+      "image_url": "/images/ai-4.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Cinematic ultra-realistic fantasy beach portrait at sunset featuring a South Asian man holding a mystical mermaid woman, dramatic ocean waves, pastel sky, romantic cinematic mood.",
+      "ai_style": "Ultra-Realistic Fantasy",
+      "tags": [
+        "fantasy",
+        "romance",
+        "beach"
+      ],
+      "likes": 1760,
+      "views": 22100,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-5",
+      "title": "Social Media Influencer Scene",
+      "image_url": "/images/ai-5.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Photo-realistic influencer lifestyle image with Instagram and Facebook branding, confident pose, modern digital creator environment, professional lighting.",
+      "ai_style": "Photorealistic",
+      "tags": [
+        "social",
+        "branding",
+        "instagram"
+      ],
+      "likes": 1320,
+      "views": 19800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-6",
+      "title": "Desert Soldier Communication",
+      "image_url": "/images/ai-6.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Medium shot of a soldier sitting behind a rock in desert terrain, holding a radio handset, tactical gear, rifle resting nearby, cinematic military realism.",
+      "ai_style": "Cinematic Realism",
+      "tags": [
+        "military",
+        "soldier",
+        "action"
+      ],
+      "likes": 860,
+      "views": 14300,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-7",
+      "title": "Celebrity Bar Celebration",
+      "image_url": "/images/ai-7.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A man wearing a red Zara jacket at a bar, drinking with Blackpink members, energetic realistic party celebration atmosphere.",
+      "ai_style": "Realistic Party",
+      "tags": [
+        "party",
+        "celebrity",
+        "nightlife"
+      ],
+      "likes": 1590,
+      "views": 24500,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-8",
+      "title": "Luxury Private Jet Arrival",
+      "image_url": "/images/ai-8.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Elegant woman stepping off a private jet in daylight, luxury fashion, cinematic lifestyle photography, success and sophistication theme.",
+      "ai_style": "Luxury Cinematic",
+      "tags": [
+        "luxury",
+        "jet",
+        "success"
+      ],
+      "likes": 1890,
+      "views": 27800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-9",
+      "title": "Editorial Paper Collage Portrait",
+      "image_url": "/images/ai-9.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Highly detailed editorial paper-collage portrait built from layered cut-out paper fragments, handcrafted textures, vintage-modern fine art aesthetic.",
+      "negative_prompt": "painterly, oil painting, watercolor, smooth digital illustration, anime",
+      "ai_style": "Collage Art",
+      "tags": [
+        "collage",
+        "editorial",
+        "art"
+      ],
+      "likes": 740,
+      "views": 9900,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-10",
+      "title": "Skyscraper Climbing Action Shot",
+      "image_url": "/images/ai-10.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Ultra-realistic cinematic action scene of a man climbing the glass exterior of a skyscraper, dramatic height, dynamic city below, intense IMAX-style framing.",
+      "ai_style": "Action Cinematic",
+      "tags": [
+        "action",
+        "cinematic",
+        "skyscraper"
+      ],
+      "likes": 2010,
+      "views": 31200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    }
+  ]
 }
