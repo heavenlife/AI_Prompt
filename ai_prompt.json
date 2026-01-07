@@ -7,29 +7,34 @@
       "order": 1
     },
     {
+      "category_id": "trending",
+      "category_name": "Trending",
+      "order": 2
+    },
+    {
       "category_id": "ai-001",
       "category_name": "AI Portrait",
-      "order": 2
+      "order": 3
     },
     {
       "category_id": "social-1",
       "category_name": "Social / Lifestyle",
-      "order": 3
+      "order": 4
     },
     {
       "category_id": "nature-1",
       "category_name": "Nature / Outdoor",
-      "order": 4
+      "order": 5
     },
     {
       "category_id": "action-1",
       "category_name": "Action / Cinematic",
-      "order": 5
+      "order": 6
     },
     {
       "category_id": "art-1",
       "category_name": "Art / Creative",
-      "order": 6
+      "order": 7
     }
   ],
   "prompts": [
