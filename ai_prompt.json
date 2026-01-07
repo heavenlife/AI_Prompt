@@ -223,6 +223,196 @@
       "is_premium": true,
       "is_recommended": true,
       "is_trending": true
+    },
+    {
+      "id": "ai-11",
+      "title": "Healing Spirit Fantasy Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-11.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "8K ultra-realistic close-up shot, 9:16 ratio, a young man lying on a bed holding a red rose, softly illuminated by a glowing pink spirit woman touching his forehead with magical healing energy, sparkling particles, cinematic bokeh, dreamy fantasy aura.",
+      "ai_style": "Fantasy Realism",
+      "tags": [
+        "fantasy",
+        "healing",
+        "cinematic"
+      ],
+      "likes": 1680,
+      "views": 23400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-12",
+      "title": "Freefall Dragonite Rescue",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-12.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Photorealistic cinematic freefall scene of a man falling belly-down toward a friendly Dragonite above clouds at sunset, exact facial likeness preserved, dramatic motion, golden hour lighting, anime-inspired pose accuracy.",
+      "ai_style": "Cinematic Fantasy",
+      "tags": [
+        "fantasy",
+        "anime",
+        "action"
+      ],
+      "likes": 1540,
+      "views": 21900,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-13",
+      "title": "Romantic Dusk Canopy Couple",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-13.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Romantic outdoor evening photoshoot at dusk featuring a couple sitting closely under a draped canopy, warm ambient lighting, bohemian elegance, intimate chemistry, tropical background, original faces preserved.",
+      "ai_style": "Lifestyle Romance",
+      "tags": [
+        "romantic",
+        "couple",
+        "outdoor"
+      ],
+      "likes": 1820,
+      "views": 26100,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-14",
+      "title": "Nature Music Serenity Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-14.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Hyperrealistic cinematic portrait of a young man sitting against a tree in lush greenery, wearing vintage headphones, eyes closed, magical floating particles, sun rays through foliage, peaceful nature-inspired mood.",
+      "ai_style": "Cinematic Nature",
+      "tags": [
+        "nature",
+        "music",
+        "peaceful"
+      ],
+      "likes": 1390,
+      "views": 20500,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-15",
+      "title": "Split Portrait Dual Reality Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-15.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "High-detail surreal split-portrait poster showing the same woman in warm and cool color grading, symmetrical composition, floral double exposure, contemporary art aesthetic, bold cinematic typography.",
+      "ai_style": "Surreal Poster Art",
+      "tags": [
+        "poster",
+        "surreal",
+        "double exposure"
+      ],
+      "likes": 1210,
+      "views": 18700,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-16",
+      "title": "Decode 3D Stylized Character",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-16.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "3D stylized human boy in DECODE abstract fusion design with oversized head, expressive pose, glossy accessories, organic skin texture, ultra-polished cinematic product render style.",
+      "ai_style": "3D Stylized",
+      "tags": [
+        "3d",
+        "stylized",
+        "character"
+      ],
+      "likes": 1950,
+      "views": 28900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-17",
+      "title": "Paragliding Ocean Adventure",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-17.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Ultra-realistic aerial action shot of a woman paragliding over a tropical ocean coastline, wide-angle selfie perspective, bright daylight, cinematic motion, identity preserved.",
+      "ai_style": "Action Realism",
+      "tags": [
+        "paragliding",
+        "ocean",
+        "adventure"
+      ],
+      "likes": 1720,
+      "views": 24800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-18",
+      "title": "Hero on Giant Tortoise",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-18.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Ultra-realistic cinematic hero shot of a man riding a giant tortoise through Dhaka city, crowd watching, dramatic low-angle perspective, Bengali text overlay, powerful atmosphere.",
+      "ai_style": "Epic Cinematic",
+      "tags": [
+        "hero",
+        "city",
+        "cinematic"
+      ],
+      "likes": 2210,
+      "views": 33500,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-19",
+      "title": "Pixar Forest Magic Character",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-19.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Pixar-style 3D animated character derived from reference photo, magical forest environment, expressive animals, warm joyful mood, vertical cinematic framing, no realism.",
+      "ai_style": "Pixar 3D",
+      "tags": [
+        "pixar",
+        "animation",
+        "fantasy"
+      ],
+      "likes": 1840,
+      "views": 27600,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-20",
+      "title": "Neon Couple Bed Scene",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-20.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "High-angle top-down cinematic lifestyle shot of a couple lying on a bed under blue and purple neon lighting, intimate pose, strong geometric composition, realistic textures.",
+      "ai_style": "Cinematic Lifestyle",
+      "tags": [
+        "couple",
+        "neon",
+        "lifestyle"
+      ],
+      "likes": 1670,
+      "views": 23900,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
     }
   ]
 }
