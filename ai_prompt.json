@@ -36,7 +36,7 @@
     {
       "id": "ai-1",
       "title": "Hyper-Realistic Dreamy Portrait",
-      "image_url": "/images/ai-1.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-1.jpg",
       "category_id": "ai-001",
       "category_name": "AI Portrait",
       "prompt": "A hyper-realistic portrait of the young woman from the uploaded image, captured in a close-up at a tilted 45-degree angle, with waist-length very long brown voluminous hair flowing freely, soft strands across her face, long curled eyelashes, and gentle deep red lips creating a dreamy sweetness.",
@@ -55,7 +55,7 @@
     {
       "id": "ai-2",
       "title": "Indoor Fashion Profile",
-      "image_url": "/images/ai-2.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-2.jpg",
       "category_id": "ai-001",
       "category_name": "AI Portrait",
       "prompt": "A young woman with long dark wavy hair sitting on a light gray textured sofa indoors, wearing an all-black outfit with rhinestone AI bandeau top, moody warm lighting, casual dramatic editorial atmosphere.",
@@ -74,7 +74,7 @@
     {
       "id": "ai-3",
       "title": "Levitating Twilight Figure",
-      "image_url": "/images/ai-3.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-3.jpg",
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "prompt": "Create a surreal atmospheric fine art photograph of a young woman levitating above a calm dark surface at twilight, melancholic serene expression, auburn hair flowing, cinematic painterly lighting, dreamy poetic mood.",
@@ -93,7 +93,7 @@
     {
       "id": "ai-4",
       "title": "Fantasy Mermaid Beach Romance",
-      "image_url": "/images/ai-4.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-4.jpg",
       "category_id": "nature-1",
       "category_name": "Nature / Outdoor",
       "prompt": "Cinematic ultra-realistic fantasy beach portrait at sunset featuring a South Asian man holding a mystical mermaid woman, dramatic ocean waves, pastel sky, romantic cinematic mood.",
@@ -112,7 +112,7 @@
     {
       "id": "ai-5",
       "title": "Social Media Influencer Scene",
-      "image_url": "/images/ai-5.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-5.jpg",
       "category_id": "social-1",
       "category_name": "Social / Lifestyle",
       "prompt": "Photo-realistic influencer lifestyle image with Instagram and Facebook branding, confident pose, modern digital creator environment, professional lighting.",
@@ -131,7 +131,7 @@
     {
       "id": "ai-6",
       "title": "Desert Soldier Communication",
-      "image_url": "/images/ai-6.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-6.jpg",
       "category_id": "action-1",
       "category_name": "Action / Cinematic",
       "prompt": "Medium shot of a soldier sitting behind a rock in desert terrain, holding a radio handset, tactical gear, rifle resting nearby, cinematic military realism.",
@@ -150,7 +150,7 @@
     {
       "id": "ai-7",
       "title": "Celebrity Bar Celebration",
-      "image_url": "/images/ai-7.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-7.jpg",
       "category_id": "social-1",
       "category_name": "Social / Lifestyle",
       "prompt": "A man wearing a red Zara jacket at a bar, drinking with Blackpink members, energetic realistic party celebration atmosphere.",
@@ -169,7 +169,7 @@
     {
       "id": "ai-8",
       "title": "Luxury Private Jet Arrival",
-      "image_url": "/images/ai-8.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-8.jpg",
       "category_id": "social-1",
       "category_name": "Social / Lifestyle",
       "prompt": "Elegant woman stepping off a private jet in daylight, luxury fashion, cinematic lifestyle photography, success and sophistication theme.",
@@ -188,7 +188,7 @@
     {
       "id": "ai-9",
       "title": "Editorial Paper Collage Portrait",
-      "image_url": "/images/ai-9.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-9.jpg",
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "prompt": "Highly detailed editorial paper-collage portrait built from layered cut-out paper fragments, handcrafted textures, vintage-modern fine art aesthetic.",
@@ -208,7 +208,7 @@
     {
       "id": "ai-10",
       "title": "Skyscraper Climbing Action Shot",
-      "image_url": "/images/ai-10.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-10.jpg",
       "category_id": "action-1",
       "category_name": "Action / Cinematic",
       "prompt": "Ultra-realistic cinematic action scene of a man climbing the glass exterior of a skyscraper, dramatic height, dynamic city below, intense IMAX-style framing.",
