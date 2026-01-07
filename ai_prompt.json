@@ -413,6 +413,196 @@
       "is_premium": false,
       "is_recommended": true,
       "is_trending": false
+    },
+    {
+      "id": "ai-21",
+      "title": "Mosaic Cubist Stained Glass Art",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-21.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Mosaic-inspired cubist painting with stained-glass aesthetic, handcrafted texture from irregular geometric fragments, earthy warm color palette, cracked tile textures, soft diffused lighting, museum-style fine art look.",
+      "ai_style": "Cubist Mosaic Art",
+      "tags": [
+        "cubist",
+        "mosaic",
+        "fine art"
+      ],
+      "likes": 1340,
+      "views": 19600,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-22",
+      "title": "Wedding Big Head Caricature",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-22.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Hyperrealistic 3D big-head caricature of a joyful wedding couple, exaggerated expressions, smooth cartoon textures, bright yellow background, Pixar-style lighting, cute and humorous tone.",
+      "ai_style": "3D Caricature",
+      "tags": [
+        "caricature",
+        "wedding",
+        "3d"
+      ],
+      "likes": 2100,
+      "views": 31800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-23",
+      "title": "Shattered Glass Power Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-23.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Ultra-realistic 8K cinematic portrait of a man in a dark three-piece suit, powerful expression, shattered glass and broken mirror reflections, moody low-key lighting, luxury editorial tone.",
+      "ai_style": "Luxury Cinematic Portrait",
+      "tags": [
+        "portrait",
+        "luxury",
+        "dramatic"
+      ],
+      "likes": 2480,
+      "views": 35200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-24",
+      "title": "Traditional Indian Fashion Overlay",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-24.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Digitally enhanced portrait of a young South Asian woman in vibrant red traditional Indian attire with gold embroidery, swirling skirt pose, face overlay effect, soft celebratory lighting.",
+      "ai_style": "Cultural Fashion",
+      "tags": [
+        "traditional",
+        "indian",
+        "fashion"
+      ],
+      "likes": 1760,
+      "views": 26400,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-25",
+      "title": "Melancholic Train Platform Roses",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-25.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Hyper-realistic full-body portrait of a woman sitting on a quiet train platform surrounded by red roses, cinematic melancholy mood, soft overcast lighting, editorial elegance.",
+      "ai_style": "Cinematic Editorial",
+      "tags": [
+        "cinematic",
+        "romantic",
+        "editorial"
+      ],
+      "likes": 1910,
+      "views": 28900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-26",
+      "title": "Minimalist Korean Fine Art Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-26.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Dreamy minimalist fine art portrait of a young woman holding a pillow, high-key white background, pastel tones, extremely soft lighting, calm melancholic mood, Korean lifestyle photography style.",
+      "ai_style": "Minimal Fine Art",
+      "tags": [
+        "minimal",
+        "korean",
+        "fine art"
+      ],
+      "likes": 1620,
+      "views": 24100,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-27",
+      "title": "Ace of Spades Cinematic Card",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-27.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Ultra-realistic cinematic portrait of a man inside an Ace of Spades playing card design, black and blue theme, carnival mafia costume, burning ace card, dramatic card-frame composition.",
+      "ai_style": "Conceptual Cinematic",
+      "tags": [
+        "concept",
+        "card",
+        "cinematic"
+      ],
+      "likes": 2190,
+      "views": 33200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-28",
+      "title": "Sci-Fi Hoverboard Chase",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-28.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Low-angle wide cinematic action shot of a man riding a futuristic hoverboard, extreme foreshortening pose, Pepsi can in foreground, sci-fi city environment, 1980s film style.",
+      "ai_style": "Sci-Fi Action",
+      "tags": [
+        "sci-fi",
+        "action",
+        "hoverboard"
+      ],
+      "likes": 2050,
+      "views": 34100,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-29",
+      "title": "Joyful Beach Celebrity Moment",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-29.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Realistic candid beach photo of two people walking together, joyful playful moment, bright natural lighting, lively crowd, modern street photography realism.",
+      "ai_style": "Street Photography",
+      "tags": [
+        "beach",
+        "candid",
+        "lifestyle"
+      ],
+      "likes": 1870,
+      "views": 27900,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-30",
+      "title": "Underground Ninja Turtle Standoff",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-30.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Ultra-realistic cinematic scene in a dark sewer tunnel with a man standing in murky water protected by four ninja turtles, gritty movie-poster composition, dramatic lighting.",
+      "ai_style": "Dark Fantasy Cinematic",
+      "tags": [
+        "fantasy",
+        "cinematic",
+        "epic"
+      ],
+      "likes": 2680,
+      "views": 38900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
     }
   ]
 }
