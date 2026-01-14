@@ -2513,6 +2513,386 @@
       "is_premium": false,
       "is_recommended": true,
       "is_trending": false
+    },
+    {
+      "id": "ai-131",
+      "title": "Urban Chic Baby Style",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-131.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a 1-year-old baby boy wearing denim dungarees and a white T-shirt. Styled in casual urban chic. Shot with a DSLR 85mm lens. Lighting: bright studio key light. Background: concrete-textured neutral backdrop. Emotions/Vibe: confident and modern. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Urban Baby Editorial",
+      "tags": [
+        "baby",
+        "urban",
+        "modern"
+      ],
+      "likes": 2140,
+      "views": 39200,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-132",
+      "title": "Boho Dream Baby",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-132.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a giggling 8-month-old baby with curly hair, wearing a flowy linen romper and a flower crown. Styled in boho-chic, dreamy tones. Shot with a DSLR 50mm prime lens, creating smooth bokeh. Lighting: soft natural sunlight streaming through lace curtains. Background: rustic wooden floor with neutral macrame décor. Emotions/Vibe: joyful and carefree. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Boho Baby Editorial",
+      "tags": [
+        "baby",
+        "boho",
+        "joy"
+      ],
+      "likes": 2360,
+      "views": 41800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-133",
+      "title": "Golden Meadow Baby",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-133.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Professional baby photoshoot featuring a happy 1-year-old baby with dimples, wearing a soft knitted romper and straw hat. Styled in natural golden tones. Shot with a DSLR 35mm lens capturing wide yet intimate details. Lighting: glowing golden hour sunlight. Background: blooming meadow with tall grass. Emotions/Vibe: radiant, free-spirited joy. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Golden Hour Baby",
+      "tags": [
+        "baby",
+        "meadow",
+        "golden"
+      ],
+      "likes": 2680,
+      "views": 46300,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-134",
+      "title": "Coastal Newborn Serenity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-134.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Professional baby photoshoot featuring a newborn wrapped in linen swaddle on a wicker basket. Styled in coastal-inspired minimalism. Shot with mirrorless 35mm lens at the seashore. Lighting: soft sunrise glow. Background: sandy beach and gentle waves. Emotions/Vibe: tranquil, fresh, pure. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Coastal Newborn",
+      "tags": [
+        "newborn",
+        "coastal",
+        "minimal"
+      ],
+      "likes": 2410,
+      "views": 42900,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-135",
+      "title": "Boho Newborn Elegance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-135.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a sweet newborn baby girl with rosy cheeks, wearing a lace romper and a dainty flower crown. Styled in boho chic with earthy tones and natural textures. Shot with a mirrorless 50mm prime lens, shallow depth of field, and soft background blur. Lighting: warm window light with soft shadows. Background: rustic wooden floor with dried flowers. Emotions/Vibe: calm, natural, and tender. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Boho Newborn Portrait",
+      "tags": [
+        "newborn",
+        "boho",
+        "tender"
+      ],
+      "likes": 2590,
+      "views": 44700,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-136",
+      "title": "Golden Meadow Newborn",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-136.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Professional baby photoshoot featuring a newborn wrapped in a beige muslin cloth with a tiny flower crown. Styled in natural boho elegance. Shot with mirrorless 70mm lens during golden hour. Lighting: golden sunlight with soft lens flare. Background: lush meadow with tall grass. Emotions/Vibe: peaceful, dreamy, organic. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Boho Nature Newborn",
+      "tags": [
+        "newborn",
+        "meadow",
+        "boho"
+      ],
+      "likes": 2330,
+      "views": 41100,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-137",
+      "title": "Scandinavian Newborn Calm",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-137.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a sleepy newborn boy wrapped in a mint swaddle with a knitted hat. Styled in minimalist Scandinavian aesthetic. Shot with a full-frame DSLR and 35mm lens for intimate framing. Lighting soft natural daylight through sheer curtains. Background plain white textured blanket. EmotionsVibe peaceful, pure, and delicate. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Scandinavian Newborn",
+      "tags": [
+        "newborn",
+        "minimal",
+        "scandinavian"
+      ],
+      "likes": 2210,
+      "views": 39800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-138",
+      "title": "Cozy Winter Newborn",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-138.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a chubby newborn wrapped in a hand-knit wool cocoon and pom-pom bonnet. Styled in cozy rustic winter theme. Shot with medium format camera and 105mm lens. Lighting: diffused indoor lighting mimicking winter morning. Background: faux fur rug and wooden crate. Emotions/Vibe: snug, serene, heartwarming. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Rustic Winter Newborn",
+      "tags": [
+        "newborn",
+        "winter",
+        "cozy"
+      ],
+      "likes": 2470,
+      "views": 43200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-139",
+      "title": "Rustic Barn Newborn",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-139.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a newborn wrapped in burlap cloth on a wooden crate. Styled in rustic countryside theme. Shot with DSLR 50mm portrait lens. Lighting: warm golden indoor tones. Background: weathered barn wood panels. Emotions/Vibe: cozy, natural, heartwarming. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Rustic Newborn Portrait",
+      "tags": [
+        "newborn",
+        "rustic",
+        "barn"
+      ],
+      "likes": 2290,
+      "views": 40700,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-140",
+      "title": "Botanical Rose Newborn",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-140.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a newborn wrapped in a floral-patterned muslin swaddle, surrounded by pink rose petals. Styled in romantic botanical theme. Shot with mirrorless 50mm lens, creamy bokeh. Lighting: diffused natural light from a skylight. Background: white textured rug sprinkled with petals. Emotions/Vibe: soft, romantic, serene. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Botanical Newborn",
+      "tags": [
+        "newborn",
+        "botanical",
+        "romantic"
+      ],
+      "likes": 2610,
+      "views": 45900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-141",
+      "title": "Minimal Angelic Newborn",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-141.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a newborn dressed in an ivory onesie with a tiny bow headband. Styled in pure minimalist elegance. Shot with DSLR 35mm lens, bright exposure. Lighting: clean white studio lighting. Background: all-white backdrop and soft blanket. Emotions/Vibe: angelic, peaceful, light. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Minimalist Newborn",
+      "tags": [
+        "newborn",
+        "minimal",
+        "angelic"
+      ],
+      "likes": 2480,
+      "views": 42100,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-142",
+      "title": "Holiday Fireplace Newborn",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-142.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a newborn bundled in a plaid blanket near a crackling fireplace. Styled in warm holiday comfort. Shot with DSLR 70mm portrait lens. Lighting: warm firelight glow and candlelight. Background: cozy living room with holiday decor. Emotions/Vibe: comforting, festive, peaceful. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Holiday Newborn",
+      "tags": [
+        "newborn",
+        "holiday",
+        "cozy"
+      ],
+      "likes": 2710,
+      "views": 46700,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-143",
+      "title": "Vintage Maternity Roadside",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-143.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional maternity photoshoot featuring a stylish couple leaning against a classic car, the mother in a retro polka-dot dress. Styled in 1950s vintage chic. Shot with DSLR 85mm portrait lens. Lighting: natural daylight with subtle shadows. Background: open countryside road. Emotions/Vibe: nostalgic, playful, loving, elegant. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting maternal beauty and emotion.",
+      "ai_style": "Vintage Maternity",
+      "tags": [
+        "maternity",
+        "vintage",
+        "retro"
+      ],
+      "likes": 2340,
+      "views": 40900,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-144",
+      "title": "Tropical Hammock Maternity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-144.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Professional maternity photoshoot featuring an expectant couple relaxing in a hammock, the mother in a lightweight linen outfit. Styled in tropical minimalism. Shot with mirrorless 50mm lens, low contrast tones. Lighting: soft midday tropical light. Background: palm trees and turquoise sea. Emotions/Vibe: relaxed, warm, intimate, tranquil. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting maternal beauty and emotion.",
+      "ai_style": "Tropical Maternity",
+      "tags": [
+        "maternity",
+        "tropical",
+        "minimal"
+      ],
+      "likes": 2580,
+      "views": 45200,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-145",
+      "title": "Country Road Maternity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-145.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Professional maternity photoshoot featuring a couple standing beside a vintage car on a gravel road, the mother in a casual floral maxi dress. Styled in nostalgic country travel. Shot with mirrorless 50mm lens. Lighting: warm evening glow. Background: long countryside road and open fields. Emotions/Vibe: adventurous, nostalgic, loving, peaceful. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting maternal beauty and emotion.",
+      "ai_style": "Country Travel Maternity",
+      "tags": [
+        "maternity",
+        "country",
+        "travel"
+      ],
+      "likes": 2460,
+      "views": 43800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-146",
+      "title": "Golden Beach Maternity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-146.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Professional maternity photoshoot featuring an expectant couple standing barefoot by the ocean, the mother in a flowing white chiffon dress and the father embracing her lovingly. Styled in romantic coastal elegance. Shot with mirrorless 50mm lens, creamy bokeh focus. Lighting: warm golden hour sunlight reflecting off the waves. Background: sunset beach with soft ripples and pastel sky. Emotions/Vibe: serene, affectionate, timeless, joyful. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting maternal beauty and emotion.",
+      "ai_style": "Coastal Maternity",
+      "tags": [
+        "maternity",
+        "beach",
+        "romantic"
+      ],
+      "likes": 2890,
+      "views": 50100,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-147",
+      "title": "Hygge Winter Maternity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-147.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional maternity photoshoot featuring an expecting couple in warm knitwear, cuddled up on a sofa near a fireplace. Styled in cozy hygge aesthetic. Shot with 85mm lens, shallow depth of field. Lighting: soft indoor ambient glow with fairy lights. Background: rustic wooden cabin interior. Emotions/Vibe: intimate, warm, comforting, joyful. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting maternal beauty and emotion.",
+      "ai_style": "Hygge Maternity",
+      "tags": [
+        "maternity",
+        "cozy",
+        "winter"
+      ],
+      "likes": 2620,
+      "views": 47100,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-148",
+      "title": "City Glam Maternity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-148.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional maternity photoshoot featuring a couple standing against city lights, the mother wearing a fitted black gown. Styled in modern glamor. Shot with mirrorless 35mm lens. Lighting: soft bokeh from city skyline. Background: glowing skyscraper lights. Emotions/Vibe: confident, romantic, dramatic, elegant. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting maternal beauty and emotion.",
+      "ai_style": "Urban Glam Maternity",
+      "tags": [
+        "maternity",
+        "city",
+        "glam"
+      ],
+      "likes": 2780,
+      "views": 48900,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-149",
+      "title": "Rooftop Sunset Maternity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-149.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional maternity photoshoot featuring a stylish couple on a rooftop terrace, the mother in a chic silk dress. Styled in modern urban minimalism. Shot with mirrorless camera, shallow depth. Lighting: golden sunset with city skyline glow. Background: skyline of modern skyscrapers. Emotions/Vibe: romantic, empowered, chic, joyful. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting maternal beauty and emotion.",
+      "ai_style": "Urban Minimal Maternity",
+      "tags": [
+        "maternity",
+        "rooftop",
+        "modern"
+      ],
+      "likes": 2910,
+      "views": 51200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-150",
+      "title": "High Fashion Studio Maternity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-150.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional maternity photoshoot featuring an elegant expectant mother in a satin gown with her partner dressed in a tuxedo. Styled in high-fashion studio elegance. Shot with medium format camera, crisp detail. Lighting: soft diffused studio light. Background: smooth grey fabric backdrop. Emotions/Vibe: sophisticated, confident, radiant, affectionate. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting maternal beauty and emotion.",
+      "ai_style": "Fashion Maternity Portrait",
+      "tags": [
+        "maternity",
+        "fashion",
+        "studio"
+      ],
+      "likes": 3050,
+      "views": 54800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
     }
   ]
 }
