@@ -1373,6 +1373,576 @@
       "is_premium": true,
       "is_recommended": false,
       "is_trending": true
+    },
+    {
+      "id": "ai-71",
+      "title": "Queen of Diamonds Mystery Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-71.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A cinematic, ultra-realistic portrait of a handsome young man sitting at a glossy black table, surrounded by floating playing cards frozen mid-air. He holds a Queen of Diamonds card vertically over one eye, revealing only one intense, sharp eye staring directly at the camera. He has fair to warm skin tone, a strong jawline, straight nose, and well-defined facial features. His hair is medium-length, dark brown, slightly layered and naturally styled. He wears a sleeveless black shirt, giving a sleek and mysterious look. His lips are neutral, expression calm yet confident. The lighting is soft studio lighting with gentle shadows, creating a dramatic, magical atmosphere. Background is minimal beige, shallow depth of field, ultra-detailed skin texture, 85mm lens look, high contrast, cinematic realism, 8K quality.",
+      "ai_style": "Cinematic Portrait",
+      "tags": [
+        "cards",
+        "mystery",
+        "cinematic"
+      ],
+      "likes": 2140,
+      "views": 32680,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-72",
+      "title": "Abstract Mechanical Face Sculpture",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-72.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "A futuristic abstract-mechanical portrait style that combines soft 3D sculptural forms with modular geometric construction. Using the attached photo model, a 100% stylization of the original face was created. The visuals consist of layered cylinders, rings, discs, pipes and curved panels, arranged with great precision like a mechanical mosaic or kinetic art sculpture.\nThe color palette is clean, modern and balanced, dominated by accents of ivory white, cream, soft beige, muted teal, light blue, warm orange, mustard yellow and coral red. The material appears smooth, matte, and semi-gloss, resembling a painted resin, plastic, or polished composite surface.\nThe lighting is studio-like and controlled, creating soft shadows and depth that emphasize volume and separation of forms. The edges are sharp and smooth, with a high-end industrial design aesthetic. The compositions feel engineered yet organic, combining human tenderness with machine logic.\nThe overall atmosphere is elegant, futuristic, artistic and contemplative, evoking themes of man-machine fusion, modern design sculpture and conceptual digital art. Very clean finish, premium 3D illustration quality, gallery level contemporary art.",
+      "ai_style": "Abstract 3D Art",
+      "tags": [
+        "abstract",
+        "mechanical",
+        "futuristic"
+      ],
+      "likes": 1680,
+      "views": 25140,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-73",
+      "title": "Tokyo Rain Window Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-73.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Create street cinematic Japanese photography style, a young woman (upload image) seen through a rain-covered car window in Tokyo, melancholic and quiet urban mood. She rests her chin on her stacked hands, elbows leaning on the car door, gazing pensively to the left with a calm, introspective expression. Soft facial features, flawless porcelain skin Wearing a loose black scarf with abstract white splatter pattern, beige wool coat. Silver accessories: chunky silver chain bracelet, simple silver ring, small silver hoop earrings. Raindrops on the glass with heavy texture and soft distortion, subtle reflections of neon street lights and traffic signs on the wet window. Background shows blurred Tokyo street scenery, wet asphalt, faint neon signage, vending machines glow, muted city colors, shallow depth of field. Overcast rainy lighting, soft diffused light, no harsh shadows. Desaturated cinematic color grading with cool gray, muted green, soft amber highlights, Japanese street film still aesthetic, analog film look, realistic photography, emotional urban portrait, shot through glass, rain mood, high detail.neon bokeh, motion blur, slow shutter, nostalgic romance",
+      "ai_style": "Street Cinematic",
+      "tags": [
+        "japanese",
+        "rain",
+        "street"
+      ],
+      "likes": 2450,
+      "views": 38210,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-74",
+      "title": "Rock Star Stage Performance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-74.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Ultra realistic cinematic 4:5, portrait of a rock star performing on stage, using the uploaded reference image as the primary facial identity. Preserve the exact facial structure, skin tone, eye shape, nose, lips, and natural expression from the reference photo.\nSubject is confident, powerful, and charismatic, wearing modern rock star attire leather jacket, dark fitted outfit, subtle metallic details.\nDramatic concert lighting with stage spotlights, soft rim light, realistic shadows, shallow depth of field.\nShot on a professional DSLR, 85mm lens, f/1.8, ultra high detail, natural skin texture, realistic pores, no face distortion.\nPhotorealistic, cinematic color grading, high contrast, 8K resolution, studio quality realism.\nNegative Prompt (Very Important)\nUse this to reduce distortion:\ncartoon, anime, illustration, painting, blurry, low resolution, exaggerated features, altered face shape, extra fingers, distorted eyes, oversharpened skin, plastic skin, unreal lighting, face mismatch\nStyle\nImage Reference Weight: 0.7 – 0.85\nFace Fidelity / Identity Strength: High\nCFG Scale: 6 – 8\nSteps: 30 – 40\nSampler: DPM++ or equivalent\nAspect Ratio: 4:5 for \nportraits",
+      "ai_style": "Concert Cinematic",
+      "tags": [
+        "rock",
+        "concert",
+        "stage"
+      ],
+      "likes": 2310,
+      "views": 36100,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-75",
+      "title": "Cartoon Twin Wall Art",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-75.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "A young woman standing against a plain wall with a large, colorful, stylized cartoon portrait of herself next to her. She has long, light brown hair tied in a high ponytail with a pink scrunchie, and she wears a loose, short-sleeved button-up shirt with a black-and-white pixelated cat pattern over a graphic t-shirt featuring a pixelated cat face. She is also wearing light gray, distressed denim shorts, black slip-on shoes shaped like cute black cats with pink ears and white faces, and has a silver chain necklace and a visible tattoo sleeve on her left arm. She has a relaxed pose with one hand in her pocket and the other slightly bent, with her legs crossed at the ankles. The cartoon portrait depicts her with detailed facial features, long brown hair with bangs, and a confident expression, set against a geometric background with a purple circle, teal triangles, and small blue accents, with the word \"Riya\" written in bold, black, cursive font below the portrait. image signature \"(Rana Boy)\"",
+      "ai_style": "Illustration Composite",
+      "tags": [
+        "cartoon",
+        "portrait",
+        "art"
+      ],
+      "likes": 1840,
+      "views": 28960,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-76",
+      "title": "Luxury Fashion Editorial Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-76.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "An ultra-realistic cinematic portrait of a stylish man standing against a deep black textured backdrop, captured in stunning 8K resolution with extreme detail and clarity. The man is shown in a three-quarter side profile, facing right, with a calm yet confident expression.\nHe is wearing sleek black rectangular sunglasses with glossy frames, reflecting subtle studio light. His outfit is a luxury black shirt featuring a high-fashion design: shimmering silver reflective patterns across the chest and sleeves, with a subtle metallic sparkle effect that catches the light dramatically. A small elegant signature-style (LV) logo is visible on the chest, embroidered in white.\nHis arms are crossed naturally at waist level, showcasing multiple diamond-encrusted accessories: heavy iced-out bracelets, a luxury iced watch, and bold statement rings on both hands, all highly detailed with realistic reflections, refractions, and gemstone brilliance.\nCinematic low-key lighting with a soft key light from the left and gentle rim light outlining his silhouette, creating depth and separation from the dark background. High contrast, moody atmosphere with subtle film grain, shallow depth of field, and sharp focus on facial features, jewelry, and fabric textures.\nShot on a professional cinema camera, 85mm lens, f/1.8 aperture, ultra-sharp focus, photorealistic skin details, HDR lighting, global illumination, realistic shadows, luxury editorial style, fashion magazine cover aesthetic, dramatic, bold, and powerful mood.",
+      "ai_style": "Luxury Editorial",
+      "tags": [
+        "fashion",
+        "luxury",
+        "editorial"
+      ],
+      "likes": 2680,
+      "views": 41230,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-77",
+      "title": "Hospital Irony Scene",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-77.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "A man resembling the person in the reference photo is lying on a hospital bed, under bright clinical lights. He has a dextrose line attached to his left arm, but instead of a medical fluid bag, it is a Red Horse beer bottle hanging like an IV drip, glowing slightly as the liquid flows through the tube. The man looks tired but slightly amused, wearing a hospital gown, with medical equipment and monitors around him. The background shows a clean hospital room with white walls, stainless steel fixtures, and a calm night ambiance. Hyper realistic, dramatic lighting, detailed skin texture, cinematic close-up",
+      "ai_style": "Conceptual Cinematic",
+      "tags": [
+        "concept",
+        "hospital",
+        "irony"
+      ],
+      "likes": 1920,
+      "views": 30140,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-78",
+      "title": "Burning Newspaper Anti-Hero",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-78.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Create an ultra-realistic 8K cinematic portrait that perfectly recreates the subject's physical features, hairstyle, expression, and outfit from the reference image use face reference exactly. Mid-shot composition, centered frame: the subject holds a large burning newspaper, flames curling along the edges and illuminating his face with warm orange-gold tones. He stares directly into the camera with a calm, mysterious intensity. The background is a dark night scene with minimal light-subtle urban bokeh or faint distant glow-allowing the fire to be the main source of illumination. Dynamic firelight creates vivid highlights, shifting shadows, and realistic reflections on skin and clothing. Art direction: modern dark wardrobe (black or charcoal), contrasting sharply with the flames. The newspaper shows partially readable text, curling edges, smoke trails, and floating embers. High-contrast cinematic look, warm fire tones over a deep neutral backdrop. Shot with a 50mm lens at f/1.8, shallow depth of field, crisp focus on the subject and flames. Mood: bold, rebellious, modern anti-hero energy.",
+      "ai_style": "Dark Cinematic",
+      "tags": [
+        "fire",
+        "antihero",
+        "cinematic"
+      ],
+      "likes": 2560,
+      "views": 39870,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-79",
+      "title": "Zootopia Body Paint Art",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-79.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "A creative and stunning shot that combines the art of Body Painting and the Disney world, specifically the famous animation movie \"Zootopia\".\nThe Main Item\nIn the forefront of the picture you see a woman in the attached photo) smiling with long black hair, whose body has been used as a living \"canvas\". The body is completely covered in accurate, professional drawings of movie characters, as we see:\n*Judy Hopps): The police bunny appears in several different places and positions.\n* fuck Wilde (Nick Wilde): The smart fox shows up in his usual green shirt and tie.\n*High school personalities: such as the receptionist (Benjamin Clohauser), Mayor Leodore Leonhardt, and other city dwellers.\n*Details: Celestial and urban background colors were combined with body painting vertically, and the woman is holding a red Popsicle in her hand, a famous symbol from the movie's events.\nBack ground\nThe background is a scene of the colorful and futuristic Zootopia, with the presence of the Monorail and the city's famous buildings. Below are cartoon copies of characters to enhance the imaginary atmosphere of the picture.\nThe art style\n* Lighting: Bright, clear that highlights painting details and accuracy of colors.\n*Makeup: Matches the eye makeup (shades of blue and yellow) with the colors of the movie and characters.\n*SIGNATURE: Below the image is the logo \"KARAMELLA\", indicating the individual or artist of the work.\nThe image is a great embodiment of the art of Creative Cosplay, where a person not only wears a costume, but transforms themselves into a piece of art that expresses the work.",
+      "ai_style": "Body Paint Art",
+      "tags": [
+        "bodypaint",
+        "zootopia",
+        "cosplay"
+      ],
+      "likes": 2210,
+      "views": 35420,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-80",
+      "title": "Abstract Love Poem Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-80.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Abstract expressive portrait paintings in a mixed media digital art style, combining semi-realistic facial renderings and bold painterly abstractions. Use cubist brushstrokes, layered paint textures, splatters, and scratches. Combine geometric lines, overlapping filled backgrounds and objects, sketch-like markings, and subtle grunge textures that line the face. The color palette is dominated by warm earth tones, a muted cream backdrop, accented with bold cabbage washes of orange, red, teal and blue. High contrast lighting, dramatic depth, modern contemporary art aesthetics, there are lots of overlapping love poems almost filling the frame, the face is exposed with a bit of bright colored handwriting, editorial fine art portrait style, painterly realism blends with abstract expressionism, textured canvas appearance, artistic imperfection, intense and emotional visual composition.",
+      "ai_style": "Abstract Expressionism",
+      "tags": [
+        "abstract",
+        "painting",
+        "fine art"
+      ],
+      "likes": 1760,
+      "views": 26890,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-81",
+      "title": "Miniature Mojito Advertising Scene",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-81.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "PROMPT DEFINITIVO – MOJITO (HIGHBALL GLASS)\nVERTICAL 9:16 – USER PHOTO + TEXT\nPROMPT (ENGLISH – COPY & PASTE)\nFormat & Composition\nVertical 9:16, ultra-realistic high-end advertising composite, cinematic beverage photography, professional studio quality, Instagram / Reels ready composition.\nSubject (MANDATORY – USER PHOTO)\nUse the uploaded photo as the exact facial and identity reference for the man.\nSame face, same features, same age, same identity.\nNo face replacement, no beautification, no smoothing, no stylization, no alteration.\nScene Concept\nA surreal, photorealistic scene where the man appears miniaturized and comfortably seated inside a large transparent highball glass, relaxed posture, natural confident expression, interacting organically with the environment.\nGlass Type (MANDATORY)\nClassic highball glass (tall, cylindrical), crystal clear, realistic thickness, accurate proportions for a Mojito.\nCocktail – MOJITO\nInside the highball glass:\nLarge fresh lime slices, vivid green, juicy pulp clearly visible\nAbundant fresh mint leaves, bright green, crisp texture, detailed veins\nClear sparkling soda water with realistic carbonation bubbles\nCrushed ice partially submerged, refracting light naturally\nLiquid & Motion\nVisible liquid level, dynamic bubbles, frozen-motion splash elements, realistic refraction through glass and ice.\nLighting\nFresh, clean, refreshing lighting.\nStrong backlight to enhance transparency of glass, ice, lime, and mint.\nSoft rim light outlining the subject for depth and separation.\nText (MANDATORY)\nAt the bottom of the image, centered:\n“MOJITO”\nClean modern sans-serif font, bold, all caps.\nWhite color.\nNo outline, no shadow, no glow.\nPremium advertising look.\nBackground\nClean dark-to-soft gradient background with subtle bokeh.\nNo additional text, no logos, no branding, no watermarks.\nCamera & Framing\nVertical framing optimized for mobile viewing.\nCentered highball glass, subject clearly readable, balanced proportions.",
+      "ai_style": "Advertising Composite",
+      "tags": [
+        "mojito",
+        "advertising",
+        "miniature"
+      ],
+      "likes": 2870,
+      "views": 46210,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-82",
+      "title": "Farmer Snow Globe Miniature",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-82.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Transform the person in the submitted photo into a full-body in real human miniature style. The character is reimagined as a farmer with authentic rural details, wearing traditional farmer clothing: long-sleeve shirt, simple vest, rolled-up pants, and sandals suitable for working in rice fields.Inside the globe, create a serene sawah environment with green rice paddies, small irrigation paths, and warm rural elements. A subtle glowing sunrise light reflects the peaceful countryside mood.\nThe snow globe is placed on a wooden table inside a cozy home interior, illuminated by a warm desk lamp that creates soft shadows and gentle highlights on the glass surface. The lighting feels intimate, calm, and cinematic.\nPlace the miniature inside a transparent snow globe, but replace snow with a soft atmospheric mist inspired by rice fields.The base of the snow globe is decorated with natural and rural ornaments, such as wood textures and rice plant motifs, and prominently displays the name “Farmer” engraved clearly on the front.\nUltra-detailed 3D render, high-quality textures, soft lighting, shallow depth of field, cozy atmosphere, collectible figurine aesthetic, realistic materials, 4K resolution. Image size 9:16",
+      "ai_style": "Miniature Diorama",
+      "tags": [
+        "farmer",
+        "snowglobe",
+        "miniature"
+      ],
+      "likes": 1960,
+      "views": 31840,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-83",
+      "title": "Torn Photo Scrapbook Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-83.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Transform this image [Upload Your Image] into a 64K DSLR shot resolution of A young man (same face as the uploaded image) stands in a three-quarter profile, looking slightly upward and away from the camera with a serious expression.\nAttire: He is wearing an off-white khaki bomber-style jacket with a high collar and black drawstrings.\nFeature Detail: A unique \"torn photo\" effect is applied to his face, where a smaller, monochromatic polaroid-style image of his own eye and forehead is pinned over his actual face, creating a layered, artistic surrealism.\nGraphic Elements & Composition\nScrapbook Aesthetic: Multiple elements\nare \"pinned\" or \"taped\" around the subject, including small polaroid photos of events, a newspaper clipping titled \"[BY SOLOSLIMZY]\" and a small card that says \"[OSOSO BOY]\".\nBackground: A textured, light gray or taupe wall serves as the backdrop. It is covered in elegant, slanted cursive handwriting in a darker ink, giving the impression of a personal journal or letter.\nTypography: Main Title: Large, bold, distressed stencil-style font at the bottom reading \"[SOLOAI]\" in white. Secondary Text: Clean sans-serif text above the title reads \"[OSOSO TO THE WORLD]\" the left side identifies \"[AI IS THE FUTURE]\" block\" at the very bottom lists various production names and credits.\nSignature: A handwritten-style script on\nCredit Block: A formal movie-style \"billing\nLighting & Color Palette:\nTones: Muted, earthy color palette dominated by olive green, gray, and cream, with high-contrast white text. Lighting: Soft, directional lighting that creates gentle shadows on the jacket and face, emphasizing the 3D layered effect of the pinned items. Octane render & Unreal Engine 5.",
+      "ai_style": "Surreal Editorial",
+      "tags": [
+        "scrapbook",
+        "surreal",
+        "editorial"
+      ],
+      "likes": 2230,
+      "views": 34990,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-84",
+      "title": "Astronaut Shock Bubble Scene",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-84.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Photorealistic image of a man \" Use my attached image to perfectly match the face to the scene 100%\" black-framed glasses, face showing extreme shock with mouth agape screaming, dressed in authentic white NASA astronaut suit hav man face Inside a transparent glass ball, The man's head was inside the glass bubble so he could breathe, flag patch, and chest control panel, floating weightlessly in space above Earth, surrounded by chaotic asteroid impacts, explosions, burning rocks, and shattered satellite debris streaking past, dynamic action pose with arms extended, epic sci-fi disaster scene, high detail, dramatic lighting.",
+      "ai_style": "Sci-Fi Disaster",
+      "tags": [
+        "astronaut",
+        "space",
+        "sci-fi"
+      ],
+      "likes": 2910,
+      "views": 47120,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-85",
+      "title": "Cyber Football Awakening",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-85.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "A football player(face must be 100% same as given in reference )standing alone in a dark, futuristic arena, head looking at camera and deep deep focus, wearing a white and sky-blue striped football jersey with number 10, captain armband on arm. Electric blue energy and smoky aura flow around his body, glowing particles rising like power awakening. A futuristic holographic HUD interface floats behind him, displaying data and code. At his feet rests a football with fiery orange glowing panels, casting reflections on the wet ground. His boots emit subtle orange light, contrasting with the cold blue atmosphere. Dramatic low-key lighting, volumetric fog, cinematic shadows, ultra-realistic skin texture, detailed fabric folds, shallow depth of field, cyber-sports aesthetic, epic mood, dark background, high contrast, 8K ultra-detail, photorealistic, cinematic poster style.",
+      "ai_style": "Cyber Sports",
+      "tags": [
+        "football",
+        "cyber",
+        "sports"
+      ],
+      "likes": 3140,
+      "views": 52360,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-86",
+      "title": "Abstract Poetic Expression",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-86.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Abstract expressive portrait paintings in a mixed media digital art style, combining semi-realistic facial renderings and bold painterly abstractions. Use cubist brushstrokes, layered paint textures, splatters, and scratches. Combine geometric lines, overlapping filled backgrounds and objects, sketch-like markings, and subtle grunge textures that line the face. The color palette is dominated by warm earth tones, a muted cream backdrop, accented with bold cabbage washes of orange, red, teal and blue. High contrast lighting, dramatic depth, modern contemporary art aesthetics, there are lots of overlapping love poems almost filling the frame, the face is exposed with a bit of bright colored handwriting, editorial fine art portrait style, painterly realism blends with abstract expressionism, textured canvas appearance, artistic imperfection, intense and emotional visual composition.",
+      "ai_style": "Abstract Expressionism",
+      "tags": [
+        "abstract",
+        "poetry",
+        "fine art"
+      ],
+      "likes": 1780,
+      "views": 26740,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-87",
+      "title": "Minimalist New Year Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-87.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A high-end minimalist promotional poster featuring of Her. The design uses a layered composition: on the left, a sharp full-body shot of she walking forward, wearing a Stylish t-shirt, loose trousers, white sneakers with blue accents, and dark sunglasses. In the background, a larger, semi-transparent, faded bust-up portrait of him overlaps the scene. The background is a clean, bright white with a thick vertical black stripe on the far left edge. At the bottom right, the text 'HAPPY NEW YEAR 2026' is displayed; 'HAPPY' is written vertically, 'NEW YEAR' is in a bold black sans-serif font, and '2026' is in a vibrant red, stylized cursive script. Professional studio lighting, sharp focus on the foreground, clean graphic design style.",
+      "ai_style": "Minimal Poster",
+      "tags": [
+        "poster",
+        "new year",
+        "minimal"
+      ],
+      "likes": 2040,
+      "views": 33680,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-88",
+      "title": "Wind Sculpted Hijab Fashion",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-88.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "A surreal wide-angle cinematic shot of a young girl wearing a flowing blue hijab, holding a small fluffy cat gently in her arms. Her hijab and her shoes are perfectly color-matched in the same elegant blue tone, creating a cohesive fashion statement. The hijab is dramatically lifted and sculpted by strong wind, flowing through the air as dust, debris, and light particles spiral around her. Her cute blue shoes appear prominently in the foreground, highly textured, sharply detailed, with dynamic motion blur emphasizing movement and depth.\nHyper-realistic skin and fabric details, dramatic high-contrast lighting with cinematic rim light, stormy sky filled with heavy clouds and subtle lightning glow. Intense, emotional atmosphere. High-fashion editorial aesthetic, surreal realism, Vogue-inspired composition, powerful and poetic mood.",
+      "ai_style": "Surreal Fashion",
+      "tags": [
+        "fashion",
+        "hijab",
+        "surreal"
+      ],
+      "likes": 2390,
+      "views": 38410,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-89",
+      "title": "Luxury Jet Relaxation",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-89.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A high-quality, photorealistic image of a beautiful curvy young woman with her hair in a neat bun, sitting comfortably in a luxury private jet. She is wearing a pink Inter Miami soccer jersey and distressed light blue denim shorts. She is looking away toward the window, leaning against a patterned pillow on a plush tan leather seat. The lighting is soft and natural, coming from the cabin window, creating an atmosphere of wealthy travel and relaxation.",
+      "ai_style": "Luxury Lifestyle",
+      "tags": [
+        "private jet",
+        "luxury",
+        "travel"
+      ],
+      "likes": 2210,
+      "views": 35790,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-90",
+      "title": "Wildlife Prone Photographer",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-90.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "A photo of a man lying prone ( face should be 100% same as per uploading picture), wearing olive green field clothing that matches his surroundings. His expression is calm and focused.\nHe is holding a DSLR camera.\nAnimals in the Photo\nA highly detailed calf rhinoceros perched on Keanu's right shoulder, looking very tame and adorable.\nIn the slightly blurred background (bokeh), a large rhinoceros can be seen walking, adding to the sense of adventure in the wild.The color palette is dominated by forest colors like olive green, green, and black, creating a raw and organic feel. Image Size must be 9:16",
+      "ai_style": "Wildlife Cinematic",
+      "tags": [
+        "wildlife",
+        "photography",
+        "nature"
+      ],
+      "likes": 2590,
+      "views": 41980,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-91",
+      "title": "Leaf Constructed Bio-Art Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-91.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Hyper-realistic 3D organic collage half body with face portrait of a man with black-rimmed glasses, The face is constructed entirely from thousands of tiny, overlapping leaves. Skin tones are mimicked by beige, tan, and dried leaves. High texture, visible leaf veins, volumetric stacking. Background is a textured collage of rough tree bark. Distinct depth of field separating the subject from the background. Soft, natural shadows, macro photography detail, bio-art style",
+      "ai_style": "Bio Art Realism",
+      "tags": [
+        "bio-art",
+        "leaves",
+        "organic"
+      ],
+      "likes": 2180,
+      "views": 36120,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-92",
+      "title": "Neo-Western Cowboy Key Art",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-92.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Create a high-end cinematic Neo-Western cowboy movie poster–style composite portrait derived strictly from the uploaded facial reference, with absolute identity preservation and zero tolerance for deviation. The subject’s facial anatomy, bone structure, skin texture, natural pores, exact eye shape, exact eye color, exact hair color, hairline, beard density, scars, and overall facial identity must remain 100% identical to the reference photo. The composition is locked, stable, and repeatable in a vertical 2:3 aspect ratio, with a balanced theatrical layout where the main actor occupies precisely the upper 50% of the frame, and the supporting narrative elements fill the lower 50%. The main actor is framed in a Medium Close-Up (MCU) with a slight low-angle camera, body fixed in a 3/4 turn to the viewer’s left, head turned back toward center, right shoulder subtly lowered, and a controlled 5-degree downward chin tilt, producing a powerful “through-the-brow” gaze directly into the lens. Behind the main actor is a dramatic Western sky, featuring towering storm clouds, layered golden-hour light rays, subtle dust haze, and warm–cool contrast, creating epic scale and emotional tension without overpowering the subject. The outfit remains a late-19th-century outlaw ensemble: a heavy distressed dark-brown leather duster coat with visible wear and abrasion, layered over a desaturated olive-gray plaid flannel shirt worn open at the collar, paired with a charcoal-black wide-brim, high-crown felt Stetson-style cowboy hat with a studded leather band and trail-dust texture. Facial expression is stoic and resolute—eyes slightly narrowed, lips closed in a firm neutral line—projecting authority and hardened resolve. Hair remains exactly the same color and texture as the reference, dark espresso brown, short-to-medium length, tucked under the hat with natural strands visible at the temples, seamlessly blending into a salt-and-pepper beard with crisp micro-contrast. Lighting is cinematic golden hour with dual-source control: a warm directional key light from camera-left creating a Rembrandt triangle on the right cheek, combined with a clean golden rim light separating the silhouette from the sky, with deep low-key shadows under the hat brim. Color grading is modern cinematic, emphasizing warm amber highlights, crushed blacks, restrained skin tones, and subtle orange–teal separation. The lower half of the frame depicts supporting characters—multiple cowboys riding horses across an open frontier plain, smaller in scale, partially silhouetted against dust, sunset glow, and atmospheric depth. The separation between the upper main actor and lower supporting scene is achieved through a soft, seamless gradient blend of light, clouds, dust, and haze, with no hard dividing line and no text elements present. Overall style is high-end theatrical key art, iconic, cinematic, and legend-driven—evoking classic Western film posters with modern hyper-realistic finishing, optimized for consistent, repeatable results across different users.",
+      "ai_style": "Neo-Western Cinematic",
+      "tags": [
+        "western",
+        "cowboy",
+        "movie poster"
+      ],
+      "likes": 3420,
+      "views": 58900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-93",
+      "title": "Kawaii Coffee Selfie",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-93.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Create ultra-cute photorealistic close-up selfie of a young woman (upload image), flawless fair glowing skin, pastel blue-gray doll contact lenses, innocent sweet gaze looking at camera, soft aegyo expression, subtle pink blush on cheeks and under eyes, tiny beauty mole under left eye, glossy strawberry-pink lips gently sipping a thin white straw, honey brown long hair in loose fluffy side braid over left shoulder, soft wispy face-framing bangs, braid tied with sheer white organza ribbon, wearing a pure white blouse with pastel light-blue trim, puff sleeves, delicate thin silver necklace, holding a clear plastic cup with dark iced coffee, neat french manicure square nails, soft daylight from window, diffused lighting, dreamy glow, shallow depth of field, creamy bokeh background, cozy aesthetic café or hotel room, kawaii Korean beauty style, Instagram aesthetic, ultra detailed, photorealistic, soft focus, 85mm lens, f1.8",
+      "ai_style": "Korean Beauty Realism",
+      "tags": [
+        "kawaii",
+        "selfie",
+        "coffee"
+      ],
+      "likes": 2980,
+      "views": 51240,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-94",
+      "title": "Urban Street Art Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-94.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use my image upload in highly detailed illustration of a stylish man with a bold, confident attitude.\nThe man must be exactly the same person as in the provided reference photo, using the attached image as the sole facial reference, with no alteration to facial features, structure, skin tone, or identity. Preserve the face precisely as in the reference image.\nHe is wearing a red baseball cap turned backward and sunglasses with a subtle red reflection covering his eyes.\nThe outfit features a dark jacket with red accents, giving a strong street-inspired, urban aesthetic.\nUse a high-contrast color palette dominated by black, white, and vivid red to create a graphic novel / street art style look.\nThe background includes abstract paint splashes and expressive textures, adding a dynamic, edgy atmosphere.\nThe overall mood should feel visually striking, intense, and polished, with sharp details and strong urban character energy.\nUltra-detailed, high resolution, cinematic lighting, street art illustration style, sharp focus.\nAdd left side photo hand writing signature",
+      "ai_style": "Street Art Illustration",
+      "tags": [
+        "street art",
+        "urban",
+        "illustration"
+      ],
+      "likes": 2460,
+      "views": 40180,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-95",
+      "title": "Romantic Couple Ultra HD",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-95.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Hyper-realistic romantic  couple portrait in\n16K ultra HD. The handsome  boy wearing a same T-shirt, black jeans, and stands behind the beautiful  girl, couple poses her lovingly from behind. The girl wears the same outfit as in the reference image, gently leaning against his chest with a soft, emotional expression. Both look directly into the camera 100 person face matchwanted ahir monu. Don't change your original face and original body shape",
+      "ai_style": "Romantic Realism",
+      "tags": [
+        "couple",
+        "romance",
+        "portrait"
+      ],
+      "likes": 2640,
+      "views": 44830,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-96",
+      "title": "Climbing Toward 2025",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-96.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Generate A cinematic, hyper-realistic wide shot of a rugged mountain climber scaling a steep, textured rock face. Use reference image for face hair and skin tone, On his back, he carries a massive, heavy metallic number '6' secured with climbing ropes. At the very top of the cliff, the year '2025' is carved out of large, industrial stone blocks. The lighting is dramatic and moody, with golden sunbeams breaking through dark, swirling storm clouds (god rays). The climber wears professional, weathered mountaineering gear in dark tones with red accents. The overall aesthetic is gritty, high-contrast, and epic, symbolizing the transition into a new year through struggle and perseverance. 8k resolution, photorealistic, intense atmosphere.",
+      "ai_style": "Epic Cinematic",
+      "tags": [
+        "mountain",
+        "climber",
+        "2025"
+      ],
+      "likes": 3120,
+      "views": 53160,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-97",
+      "title": "Attitude Sports Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-97.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Create a dynamic sports poster of uploaded reference photo for exact face, hairstyle, and skin tone smoking a cigarette with attitude, designed in a modern, energetic style. The composition features a large, dramatic profile portrait of the person in the background with intense red and black abstract strokes radiating outward, symbolizing power and motion. In the foreground, the same person is shown in reclining on the hood of a vintage black and white modify car, his expression full of attitude",
+      "ai_style": "Sports Poster",
+      "tags": [
+        "sports",
+        "poster",
+        "attitude"
+      ],
+      "likes": 2290,
+      "views": 38740,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-98",
+      "title": "Steel Number Ascent",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-98.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Generate a 4K photo of a 30 year old man (100% same face the reference photo), dressed like a professional mountaineer-outdoor jacket, climbing harness, carabiner, gloves, and climbing boots-is scaling an extremely high and steep rock wall.\nOn their back is a massive \"6\" number, made of heavy stainless steel, tied with ropes, super durable, reflective, and featuring fine scratches.\nAt the top of the rock, the number \"2025\" is similarly made of stainless steel, nailed to the rock in a monumental and very heavy-looking manner.\nThe camera angle is from bottom to top, emphasizing the absurd height of the wall.\nA dramatic sky with dark clouds and sunbeams shining through, cinematic lighting, and strong contrast. Hyper-realistic rock texture, sweat, dust, and muscle effort details are visible.",
+      "ai_style": "Hyper Realistic Action",
+      "tags": [
+        "climbing",
+        "steel",
+        "epic"
+      ],
+      "likes": 3050,
+      "views": 49810,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-99",
+      "title": "Seaside Saree Elegance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-99.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Cinematic seaside portrait of a young Woman standing near weathered rocks, ocean breeze lifting her flowing pastel saree. Golden-hour sunlight kisses her skin as pearl jewelry glimmers softly. Waves blur into creamy bokeh while her confident gaze meets the horizon. The palette feels airy and romantic. Ulttra-photorealistic 8K composition with stylish 'Alpk Verse' signature bottom right capturing freedom femininity elegance coastal serenity timeless",
+      "ai_style": "Coastal Cinematic",
+      "tags": [
+        "seaside",
+        "saree",
+        "elegance"
+      ],
+      "likes": 2410,
+      "views": 40290,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-100",
+      "title": "Exaggerated Cash King Caricature",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-100.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a highly exaggerated, funny 3D caricature of the person from the reference image.\nThe character has a huge, oversized head, an enormous wide grin showing teeth, and comically expressive eyes.\nKeep a neatly trimmed beard and eyebrows slightly exaggerated for humor.\nHe is wearing a classic dark suit with a tie, but make the suit slightly exaggerated in size for a comical effect.\nThe character is holding huge, cartoonishly oversized stacks of cash with some gold coins teetering on top.\nA glowing cigar is in his mouth with smoke swirling in funny shapes.\nExpression: playful, greedy, mischievous, and ridiculously over-the-top funny.\nBackground: simple dark gradient, spotlight on the character.\nStyle: ultra-detailed, Pixar-style meets exaggerated cartoon, bright colors, exaggerated proportions, comic humor vibe.\nHigh-quality 3D render, with dramatic yet funny lighting, emphasizing the caricature features.",
+      "ai_style": "3D Cartoon Caricature",
+      "tags": [
+        "caricature",
+        "funny",
+        "3d"
+      ],
+      "likes": 3560,
+      "views": 61240,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
     }
   ]
 }
