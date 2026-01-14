@@ -1943,6 +1943,576 @@
       "is_premium": true,
       "is_recommended": true,
       "is_trending": true
+    },
+    {
+      "id": "ai-101",
+      "title": "Luxury Fame Device Storm",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-101.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Ultra-realistic 16K cinematic image of a young man (use uploaded photo for 100% exact face & hair match).\nMan standing in a confident stylish pose, looking forward with a calm, powerful expression.\nOutfit: modern hoodie\nScene: countless iPhones and smartwatches falling from above in slow motion; on multiple device displays, his exact selfie appears in different stylish looks.\nMood: luxury, fame,",
+      "ai_style": "Luxury Cinematic",
+      "tags": [
+        "luxury",
+        "technology",
+        "fame"
+      ],
+      "likes": 2870,
+      "views": 46800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-102",
+      "title": "Angry Birds Sky Flight",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-102.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a completely new ultra realistic 9:16 image for Gemini 3 Pro Nano Banana of the same handsome, youthful, physically fit man with identical facial features to the selfie, now soaring through the Angry Birds sky mid flight. Red, Chuck, Bomb, Stella, and several pigs are flying around him in chaotic joyful formation. The man is launched from a giant slingshot, arms spread, laughing as wind rushes past his hair and shirt. His outfit: fitted black gamer T-shirt with a tiny red bird icon, olive green cargo pants, white sneakers with red and yellow touches. Below him: floating wooden planks, glass blocks, TNT boxes, and collapsing pig towers. Characters look fully realistic with detailed feathers, natural color transitions, and glossy expressive eyes. Lighting is bright golden afternoon sun highlighting feathers and skin, with dynamic motion blur on background hills and blocks. Cinematic movie-like style with rich game colors and slight film grain, captured with a 20 mm lens for dramatic aerial depth.",
+      "ai_style": "Game Cinematic Realism",
+      "tags": [
+        "angry birds",
+        "game",
+        "fantasy"
+      ],
+      "likes": 3240,
+      "views": 55210,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-103",
+      "title": "Classic Cafe Oil Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-103.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Using my uploaded reference photo, preserve my exact facial features, exact hairstyle, and general likeness (USER'S LIKENESS).\nCreate a rich oil painting illustration in a Warm, Classical Portraiture style. Subject (USER'S LIKENESS), male, is seated at a round wooden table, with his forearms resting on the surface. He is looking intensely and directly at the viewer. He is wearing a black leather jacket over a dark shirt. In the foreground, a small white coffee cup and saucer is prominently displayed. The background is impressionistic and textured with warm strokes of ochre, tan, and brown, suggesting a cafe setting. Lighting is soft, warm, directional light, emphasizing the rich brushwork and intimate mood. Aesthetic is classic portrait painting, intimate cafe scene, and rich, textured illustration. 8k resolution digital oil painting, with an absolute and non-negotiable focus on the painterly illustration style, the subject's direct intense gaze, the black leather jacket, and the white coffee cup in the foreground.",
+      "ai_style": "Oil Painting Illustration",
+      "tags": [
+        "oil painting",
+        "classic",
+        "cafe"
+      ],
+      "likes": 2410,
+      "views": 38900,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-104",
+      "title": "Dual Exposure Floor Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-104.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A hyper-realistic full-body artistic portrait of a woman [Reference Face: Insert User Photo Here] seated casually on the floor, laughing with a confident gaze upwards. She wears a modern black top, loose gray jeans, and chunky gray-and-white sneakers. Her waist-length wavy milky-brown hair is half-braided. The background is a stylish monochrome artistic overlay featuring a large, soft-focus side profile of her face, creating a dual-exposure aesthetic. Soft cinematic lighting, sharp focus on the seated figure, 8k resolution.",
+      "ai_style": "Artistic Realism",
+      "tags": [
+        "portrait",
+        "dual exposure",
+        "fashion"
+      ],
+      "likes": 2590,
+      "views": 42750,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-105",
+      "title": "2026 Dopamine Leap",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-105.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Photorealistic full-body portrait of a stylish male model mid-air leap (knees tucked, arms spread), wearing a futuristic iridescent bomber jacket over a black techwear set, rainbow liquid-chrome “2026” floating behind him like a badge, confetti particles frozen in the air, vibrant dopamine palette (hot pink, cyan, lemon, purple), studio gradient background, sharp rim lighting, crisp skin texture, cinematic motion freeze, ultra-detailed fabric shine, 9:16, 8K, high shutter-speed look, colorful vibe",
+      "ai_style": "Futuristic Fashion",
+      "tags": [
+        "2026",
+        "fashion",
+        "motion"
+      ],
+      "likes": 3360,
+      "views": 60120,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-106",
+      "title": "Boho Desert Spin",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-106.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "The Bohemian (Boho) Look: High Desert Winds\n​Setting: A vast, sun-drenched desert landscape with sandstone rock formations during late afternoon \"golden hour.\"\nThe Look: Fluidity and texture. A floor-length, flowing duster kimono made of patchwork patterned silk featuring all five hex colors, dominated by Caribbean Green (#06d6a0) and Sunglow Yellow (#ffd166). Underneath, loose linen trousers in NCS Blue (#118ab2) and a simple top. Layered beaded necklaces involving turquoise and coral tones.\nThe Pose: An expressive, movement-based pose. The model is spinning slowly, arms extended wide towards the sky to catch the wind in the fabric of the duster. Head is thrown back, eyes closed towards the sun.\n​Prompt: Ultra-detailed 4K vertical fashion shot. Boho unisex style in a desert landscape at sunset. The model is caught mid-spin, arms outstretched to the sky, head thrown back, letting the wind billow a floor-length patterned silk duster kimono featuring Caribbean Green (#06d6a0), Sunglow Yellow (#ffd166), and Paradise Pink (#ef476f). Linen trousers in NCS Blue (#118ab2) underneath. Golden hour light glowing through the translucent fabrics. Sand and rock textures are highly detailed.",
+      "ai_style": "Boho Fashion",
+      "tags": [
+        "boho",
+        "desert",
+        "fashion"
+      ],
+      "likes": 2140,
+      "views": 36600,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-107",
+      "title": "Angry Birds Game World",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-107.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a completely new ultra realistic Instagram vertical 4:5 image for Gemini 3 Pro Nano Banana of the same handsome, youthful, physically fit man with identical facial features to the selfie, now fully inside the Angry Birds game world. He is mid action, standing on a wooden platform among floating stone and glass blocks, laughing and pulling back a massive slingshot band with Red sitting in the pouch, while Chuck, Bomb, Stella and several green pigs are all around him reacting in dynamic poses. The man wears a cool modern gamer outfit inspired by the game colors: fitted black T-shirt with a small red bird icon on the chest, casual cargo pants in olive green, and white sneakers with subtle red and yellow accents, all looking real and textured. The environment recreates the classic Angry Birds level: blue sky with soft clouds, distant rolling green hills, and stacks of wooden beams, stone blocks, and glass panels suspended in the air, some already breaking with tiny realistic debris and dust. All characters appear lifelike with dense, detailed feathers, natural color variations, soft shadows between feather layers, realistic shine in their eyes, and slightly worn textures on the pigs’ skin and helmets, not cartoon, not CGI, not plastic. Lighting feels like bright late afternoon sun from one side, casting clear but soft shadows and warm highlights on the man’s skin, on the slingshot wood, and on the feathers, with a slight glow in the air that makes the world feel magical and nostalgic. The overall mood is joyful, fun, and full of motion, instantly bringing back memories of playing Angry Birds on a phone. Artistic style is cinematic but grounded, like a high budget movie adaptation of the game, with ultra high resolution detail, slight film grain, and a rich but controlled color grade that keeps reds, yellows, greens, and blues vivid while maintaining natural skin tone. Camera angle is a slightly low, dynamic three-quarter view, as if shot on a 24 mm lens at around f/3.2, keeping the man and the nearest characters crisply in focus while the far background structures are slightly blurred to create depth.",
+      "ai_style": "Game Cinematic",
+      "tags": [
+        "game",
+        "angry birds",
+        "cinematic"
+      ],
+      "likes": 3510,
+      "views": 62400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-108",
+      "title": "Time Travel Anime Duo",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-108.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Using my uploaded photo, make A 3D rendered scene of a futuristic time-travel journey, featuring a 3D realistic anime with big head and smaller body, slightly stylized with Handsome filipino facial features, with impressed pose, wearing a denim jacket, white shirt with text \"Welcome 2026\", black cargo pants, sitting cross-legged on a floating platform. His black hair blewn by the wind. Beside him is a highly detailed, 3D cartoon-style robot cat resembling Doraemon, with a blue and white body, red nose, expressive",
+      "ai_style": "Anime 3D",
+      "tags": [
+        "anime",
+        "time travel",
+        "2026"
+      ],
+      "likes": 2330,
+      "views": 39850,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-109",
+      "title": "Leather Glow Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-109.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A portrait photo of the man from reference, smiling broadly and looking up towards the left, illuminated by warm, dramatic side-lighting against a completely black background. He wears round metal-frame sunglasses, a dark brown aged leather jacket, and a black knit turtleneck. The light catches the texture of the leather and the side of his face, casting deep shadows.",
+      "ai_style": "Studio Portrait",
+      "tags": [
+        "portrait",
+        "leather",
+        "dramatic"
+      ],
+      "likes": 2170,
+      "views": 35940,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-110",
+      "title": "Leather Glow Portrait Variant",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-110.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A portrait photo of the man from reference, smiling broadly and looking up towards the left, illuminated by warm, dramatic side-lighting against a completely black background. He wears round metal-frame sunglasses, a dark brown aged leather jacket, and a black knit turtleneck. The light catches the texture of the leather and the side of his face, casting deep shadows.",
+      "ai_style": "Studio Portrait",
+      "tags": [
+        "portrait",
+        "leather",
+        "studio"
+      ],
+      "likes": 2040,
+      "views": 34100,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-111",
+      "title": "Ultra-Luxury Tropical Cabana",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-111.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "​A high-end lifestyle photograph of a man in white silk pajamas lounging on a massive outdoor daybed in a luxury beach cabana. He is surrounded by six beautiful women in elegant swimwear and white sarongs, some leaning in toward him and others standing gracefully nearby. In the foreground, a low table is overflowing with a lavish spread of tropical fruits, gourmet appetizers, colorful cocktails, and chilled champagne bottles in ice buckets. The setting is a tropical paradise at golden hour, with white curtains fluttering in the breeze, a tall palm tree, and the turquoise ocean in the background. Cinematic lighting, vibrant colors, 8k resolution, commercial travel photography style.\n​Key Elements Breakdown\n​If you want to modify this image, here are the \"ingredients\" used in the prompt:\n​The Vibe: Use terms like \"Ultra-luxury,\" \"Tropical getaway,\" or \"Opulent lifestyle\" to set the mood.\n​The Wardrobe: Specifying \"white silk pajamas\" and \"white sarongs\" creates that clean, coordinated aesthetic seen in the photo.\n​The Foreground: Focus on \"lavish food spread\" and \"gourmet appetizers\" to ensure the AI generates the detailed table setting.\n​The Lighting: \"Golden hour\" or \"Sunset glow\" is essential for that warm, soft skin tone and the orange hue on the curtains.\nUse uploaded photo as reference face",
+      "ai_style": "Luxury Lifestyle",
+      "tags": [
+        "luxury",
+        "beach",
+        "lifestyle"
+      ],
+      "likes": 4180,
+      "views": 76200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-112",
+      "title": "Gravity Defying City Fall",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-112.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "This cheerful, gravity-defying photo was taken from the perspective of a man (), who appears to be falling from the top of a tall building at a busy city intersection. The man is captured in full motion, with one arm outstretched towards the camera and the other behind him, legs wide open and red Converse sneakers visible in the foreground. Man wears a sweater (the one in the photo) and ripped jeans. The background shows a dramatic aerial view of a vibrant cityscape, teeming with colorful cars, yellow taxis, buses and buildings painted in warm shades of orange, pink, purple and turquoise. The view is bright and clear, with natural lighting, vibrant colors, and a strong sense of depth and vertigo, as if a skyscraper was falling down. They are ultra-realistic photography, resolutions, focus, dynamic composition, cinematic effect, wide angle lenses, 3D perspective and immersive.",
+      "ai_style": "Urban Action Photography",
+      "tags": [
+        "falling",
+        "city",
+        "action"
+      ],
+      "likes": 3560,
+      "views": 59400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-113",
+      "title": "Days of Thunder Racing Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-113.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "A fan-created cinematic portrait inspired by the movie \"Days of Thunder.\" A young woman from the 1980s, with fair skin and the same facial features as the uploaded image. She is wearing a gritty, dirty 2025 BMW M8 GTE racing suit covered in realistic, authentic sponsor logos. The artwork is a dramatic, high-resolution collage:\n– A close-up of her intense, serious face, windswept hair, and dirt on her cheeks\n– A dynamic side-profile with her wearing a racing helmet under dramatic lighting\n– A full-body pose of her standing confidently in the racing suit, hands on hips, bold posture\n– In the background, a 2025 BMW M8 GTE race car drifting through a corner at high speed, tires smoking, motion blur emphasizing speed\nThe composition has a cinematic lighting setup with intense contrast, lens flares, and vibrant but moody color grading. The finish is glossy and highly detailed like a professional movie poster. The visual tone is adrenaline-fueled, dramatic, and empowering—fusing 1980s racing nostalgia with futuristic motorsport aesthetics. Poster-like design in ultra-sharp 8K resolution.",
+      "ai_style": "Cinematic Poster Art",
+      "tags": [
+        "racing",
+        "poster",
+        "cinematic"
+      ],
+      "likes": 2890,
+      "views": 48700,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-114",
+      "title": "Extreme Zipline Disaster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-114.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Hyper-realistic extreme adventure close-up portrait of a man. The man is ziplining at the exact moment the safety rope snaps and breaks mid-air. The broken safety cable is clearly visible, frayed and whipping backward, frozen in motion to emphasize danger. Camera shot using an action camera, eye-level perspective, wide-angle / fisheye lens, slightly tilted frame for added chaos. Dynamic dramatic angle from above, creating a strong sense of depth and vertigo. Background far below shows a rocky canyon / steep stone gorge, massive jagged cliffs, deep ravine, raw natural textures, extreme height perception. Below the canyon is a turquoise natural lake with large scattered rocks, surrounded by dense tropical green forest, forming dramatic vertical stripe patterns that curve and visually encircle the subject when viewed from above. The man is wearing: helmet and full safety gear, black hand gloves, beige cargo shorts, adidas ultraboost white. Expression: pure panic and shock, mouth wide open shouting, eyes wide, intense fear visible. Pose: right hand holding an action camera stick, arm tense, left arm outstretched instinctively, fingers spread, losing balance. Bright midday sunlight, clear blue sky, strong natural highlights and shadows. Sharp focus on the subject, ultra-detailed textures (skin, fabric, rope fibers, rock surfaces). Cinematic color grading, vivid colors, high contrast, extreme adventure mood, raw realism. Ultra-realistic photography, cinematic action still, dynamic motion freeze, dramatic perspective. Vertical composition 9:16, 16K ultra-HD resolution, crystal clear.",
+      "ai_style": "Extreme Adventure",
+      "tags": [
+        "zipline",
+        "danger",
+        "adventure"
+      ],
+      "likes": 4120,
+      "views": 73300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-115",
+      "title": "Modern Gentleman Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-115.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "\"A hyper-realistic photograph of a handsome man in his 30s with dark, wavy hair and a well-groomed dark beard, looking off-camera to the right with a serious, confident expression. He is wearing a stylish grey glen plaid double-breasted suit with a black shirt and a dark pocket square. He is also wearing classic gold-rimmed round sunglasses and a wristwatch. He is standing outdoors in a sunlit park or city street lined with blurred trees and foliage. The lighting is bright and natural with strong sunlight and shadows, shot on a 50mm lens, shallow depth of field, fashion photography aesthetic, 8k, ultra-realistic.\"",
+      "ai_style": "Fashion Portrait",
+      "tags": [
+        "fashion",
+        "gentleman",
+        "portrait"
+      ],
+      "likes": 2450,
+      "views": 39800,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-116",
+      "title": "Urban Winter Romance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-116.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Maintain the same faces and persons, use uploaded photos for accurate faces hyper-realistic. Use facial features of uploaded photos. A couple featuring a stylish urban couple with soft affectionate expressions, wearing fashion-forward winter streetwear including faux-fur collars, patterned winter scarves, thermal gloves, and glossy puffer jackets, captured in a close-up portrait while in an intimate cheek-to-cheek pose at a 3/4 angle in a snow-dusted city alley, surrounded by gentle snowfall and photographed with diffused overcast light in a romantic winter editorial style using bold winter contrasts with shallow depth of field to evoke a mood of warmth.",
+      "ai_style": "Winter Editorial",
+      "tags": [
+        "winter",
+        "couple",
+        "romance"
+      ],
+      "likes": 2780,
+      "views": 45100,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-117",
+      "title": "Nordic Forest Embrace",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-117.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Maintain the same faces and persons, use uploaded photos for accurate faces hyper-realistic. Use facial features of uploaded photos. A couple featuring a whimsical couple with sweet soft smiles, wearing vintage Nordic-inspired outfits including patterned mittens, embroidered wool caps, fringed shawls, and faux-fur coats, captured in a half-body shot while in a gentle embrace pose at a 3/4 angle in a snow-laden forest path, surrounded by gentle snowfall and photographed with soft natural daylight in a romantic winter editorial style using pastel winter hues with shallow depth of field to evoke a mood of tenderness.",
+      "ai_style": "Nordic Winter",
+      "tags": [
+        "nordic",
+        "forest",
+        "couple"
+      ],
+      "likes": 2620,
+      "views": 42300,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-118",
+      "title": "Alpine Forehead Touch",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-118.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Maintain the same faces and persons, use uploaded photos for accurate faces hyper-realistic. Use facial features of uploaded photos. A couple featuring an adventurous couple with glowing happy expressions, wearing chic alpine winterwear including quilted gloves, wool ear-warmers, padded parkas, and fuzzy earmuffs, captured in a medium close-up shot while in a gentle forehead-touch pose at a tilted high-angle in a frosted hillside viewpoint, surrounded by drifting snowflakes and photographed with soft natural daylight in a dreamy pastel aesthetic using icy cool tones with centered framing to evoke a mood of romance.",
+      "ai_style": "Alpine Romance",
+      "tags": [
+        "alpine",
+        "winter",
+        "romance"
+      ],
+      "likes": 2890,
+      "views": 46900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-119",
+      "title": "Winter Garden Slow Dance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-119.jpg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Maintain the same faces and persons, use uploaded photos for accurate faces hyper-realistic. Use facial features of uploaded photos. A couple featuring an elegant couple with soft dreamy expressions, wearing refined winter couture including velvet gloves, fur-trimmed cloaks, delicate shawls, and satin-lined coats, captured in a wide cinematic shot while in a slow-dance pose at a high-angle in a frosted botanical garden, surrounded by falling snow and photographed with golden-hour glow in a dreamy pastel aesthetic using pastel winter hues with dynamic motion composition to evoke a mood of romance.",
+      "ai_style": "Cinematic Romance",
+      "tags": [
+        "dance",
+        "winter",
+        "elegance"
+      ],
+      "likes": 3010,
+      "views": 50200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-120",
+      "title": "Rooftop Winter Joy",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-120.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Maintain the same faces and persons, use uploaded photos for accurate faces hyper-realistic. Use facial features of uploaded photos. A couple featuring a modern chic couple with playful lighthearted expressions, wearing trendy city winter fashion including faux-leather gloves, sleek beanies, tailored coats, and oversized scarves, captured in a full-body shot while in a leaning-on-rail pose at a 3/4 angle on a snow-covered rooftop, surrounded by soft fog and photographed with diffused overcast light in a lifestyle photography style using bold winter contrasts with dynamic motion composition to evoke a mood of joy.",
+      "ai_style": "Winter Lifestyle",
+      "tags": [
+        "rooftop",
+        "winter",
+        "joy"
+      ],
+      "likes": 2740,
+      "views": 45800,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-121",
+      "title": "Classic Winter Bridge Romance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-121.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Maintain the same faces and persons, use uploaded photos for accurate faces hyper-realistic. Use facial features of uploaded photos. A couple featuring a classic romantic couple with relaxed affectionate expressions, wearing coordinated neutral winter layers including rib-knit scarves, suede gloves, fleece vests, and cable-knit hats, captured in a close-up portrait while in a leaning-close pose at an eye-level angle on a frosted wooden bridge, surrounded by soft fog and photographed with diffused overcast light in cinematic realism using warm cozy neutrals with centered framing to evoke a mood of romance.",
+      "ai_style": "Winter Lifestyle",
+      "tags": [
+        "winter",
+        "romance",
+        "bridge"
+      ],
+      "likes": 2640,
+      "views": 43800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-122",
+      "title": "Frozen River Whisper",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-122.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Maintain the same faces and persons, use uploaded photos for accurate faces hyper-realistic. Use facial features of uploaded photos. A couple featuring a calm gentle couple with serene warm looks, wearing earth-toned winterwear including wool hoods, fleecy gloves, puffer vests, and knitted shawls, captured in a half-body shot while in a soft whisper-close pose at an eye-level angle beside a frozen riverbank, surrounded by gentle snowfall and photographed with soft natural daylight in romantic winter editorial style using warm cozy neutrals with centered framing to evoke a mood of tenderness.",
+      "ai_style": "Romantic Winter Editorial",
+      "tags": [
+        "winter",
+        "river",
+        "tenderness"
+      ],
+      "likes": 2510,
+      "views": 41700,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-123",
+      "title": "Joyful Ski Resort Glide",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-123.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Maintain the same faces and persons, use uploaded photos for accurate faces hyper-realistic. Use facial features of uploaded photos. A couple featuring a sporty ski-couple with laughing joyful smiles, wearing performance ski sets including reflective helmets, insulated gloves, technical jackets, and ski neck gaiters, captured in a wide cinematic shot while in a holding-hands glide pose at a high-angle in a ski resort slope, surrounded by bright sunlight and photographed with golden-hour glow in a lifestyle photography style using bold winter contrasts with dynamic motion composition to evoke a mood of joy.",
+      "ai_style": "Cinematic Sports Lifestyle",
+      "tags": [
+        "ski",
+        "sports",
+        "joy"
+      ],
+      "likes": 3320,
+      "views": 58900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-124",
+      "title": "Hygge Cabin Warmth",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-124.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Maintain the same faces and persons, use uploaded photos for accurate faces hyper-realistic. Use facial features of uploaded photos. A couple featuring a cozy winter couple with playful energy, wearing hygge-inspired loungewear including wool socks, warm plaid shawls, fluffy mittens, and knitted headbands, captured in a full-body shot while in a cuddled-up sitting pose at an eye-level angle outside a snowy wooden cabin, surrounded by soft fog and photographed with diffused overcast light in a dreamy pastel aesthetic using warm cozy neutrals with centered framing to evoke a mood of warmth.",
+      "ai_style": "Hygge Lifestyle",
+      "tags": [
+        "cabin",
+        "cozy",
+        "winter"
+      ],
+      "likes": 2910,
+      "views": 47600,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-125",
+      "title": "Frozen Lake Walk",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-125.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Maintain the same faces and persons, use uploaded photos for accurate faces hyper-realistic. Use facial features of uploaded photos. A couple featuring an artistic couple with serene calm looks, wearing minimalist neutral-toned winter attire including sleek beanies, ribbed wool gloves, fleece-lined coats, and soft knit wraps, captured in a wide cinematic shot while in a slow-walk side-by-side pose at an eye-level angle on a frozen lake surface, surrounded by winter haze and photographed with cinematic low-contrast lighting in a lifestyle photography style using pastel winter hues with wide scenic framing to evoke a mood of tenderness.",
+      "ai_style": "Minimal Winter Cinematic",
+      "tags": [
+        "lake",
+        "minimal",
+        "winter"
+      ],
+      "likes": 2380,
+      "views": 40200,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-126",
+      "title": "Baby Aviator Explorer",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-126.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring an 8-month-old baby boy wearing a vintage aviator cap and goggles. Styled in travel explorer theme. Shot with a DSLR 85mm lens. Lighting: warm directional light. Background: stacked suitcases and old maps. Emotions/Vibe: curious and adventurous. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Editorial Baby Portrait",
+      "tags": [
+        "baby",
+        "aviator",
+        "explorer"
+      ],
+      "likes": 1870,
+      "views": 32600,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-127",
+      "title": "Autumn Baby Joy",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-127.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a laughing 9-month-old baby wearing a mustard romper and knitted hat. Styled in warm autumn palette. Shot with a DSLR 50mm lens. Lighting: golden afternoon light. Background: pile of fallen leaves and pumpkins. Emotions/Vibe: cozy and vibrant. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Autumn Baby Editorial",
+      "tags": [
+        "baby",
+        "autumn",
+        "cozy"
+      ],
+      "likes": 2040,
+      "views": 35800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-128",
+      "title": "Boho Teepee Baby",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-128.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a 9-month-old baby wearing a beige boho romper with fringe detailing. Styled in natural earthy tones. Shot with a DSLR 85mm lens. Lighting: filtered sunlight through linen canopy. Background: outdoor teepee tent with pampas grass. Emotions/Vibe: relaxed and serene. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Boho Baby Portrait",
+      "tags": [
+        "baby",
+        "boho",
+        "serene"
+      ],
+      "likes": 1910,
+      "views": 34100,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-129",
+      "title": "Winter Baby Comfort",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-129.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a 9-month-old baby bundled in a knitted sweater and booties. Styled in warm winter tones. Shot with a DSLR 70mm lens. Lighting: soft ambient firelight glow. Background: cozy living room with fuzzy blankets and string lights. Emotions/Vibe: warm, snuggly, comforting. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Winter Baby Lifestyle",
+      "tags": [
+        "baby",
+        "winter",
+        "comfort"
+      ],
+      "likes": 2230,
+      "views": 38900,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-130",
+      "title": "Minimalist Baby Innocence",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-130.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Professional baby photoshoot featuring a 6-month-old baby with bright blue eyes, wearing a simple white onesie. Styled in minimalist modern aesthetics. Shot with a medium-format camera and 80mm lens for crisp detail. Lighting: diffused white studio lighting. Background: plain white cyclorama. Emotions/Vibe: pure, peaceful innocence. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing softness and warmth.",
+      "ai_style": "Minimal Baby Portrait",
+      "tags": [
+        "baby",
+        "minimal",
+        "innocence"
+      ],
+      "likes": 2450,
+      "views": 42100,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
     }
   ]
 }
