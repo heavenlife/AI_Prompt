@@ -3843,6 +3843,386 @@
       "is_premium": true,
       "is_recommended": true,
       "is_trending": true
+    },
+    {
+      "id": "ai-201",
+      "title": "Corporate Town Hall Leadership",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-201.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Transform this uploaded photo into a company annual general meeting or town hall event. Keep their exact facial features and tone unchanged. Change their outfit to a formal suit or elegant corporate dress and place them on a stage or podium with company logo screen. Use neutral daylight with overhead spot and high-resolution DSLR quality. Evoke a motivational and leadership mood with a full-body on-stage angle. Apply a photo-realistic corporate editorial style and palette of whites, grays, and deep blues. Maintain a genuine, professional vibe.",
+      "ai_style": "Corporate Editorial",
+      "tags": [
+        "corporate",
+        "leadership",
+        "townhall"
+      ],
+      "likes": 4620,
+      "views": 83500,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-202",
+      "title": "Global Leadership Summit",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-202.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Transform this uploaded photo into a global leadership summit or economic forum. Retain their exact face, tone, and expression. Change the outfit to a tailored formal suit with a subtle tie and place them in a conference center with global flags and audience seating. Use neutral daylight plus overhead conference lighting and HD DSLR quality. Convey a prestigious and diplomatic mood with a three-quarter candid shot. Style in magazine-grade editorial realism with tones of steel blue, gray, and ivory. Keep it authentically global corporate.",
+      "ai_style": "Executive Editorial",
+      "tags": [
+        "summit",
+        "global",
+        "executive"
+      ],
+      "likes": 4880,
+      "views": 90200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-203",
+      "title": "Executive Boardroom Strategy",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-203.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Transform this uploaded photo into a strategic boardroom discussion. Retain the same face and natural expression. Outfit the subject in a gray or charcoal business suit with crisp shirt. Use a modern glass-walled meeting room with colleagues blurred in the background. Capture under natural daylight filtering through windows. Convey a focused, intelligent, and composed tone in a three-quarter portrait composition. Style with photo-realistic clarity and a neutral, minimalist color palette for a clean, executive look.",
+      "ai_style": "Executive Portrait",
+      "tags": [
+        "boardroom",
+        "strategy",
+        "business"
+      ],
+      "likes": 4210,
+      "views": 76800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-204",
+      "title": "Prestigious Business Awards Gala",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-204.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Transform this uploaded photo into a prestigious business awards gala. Keep the facial structure and tone consistent. Dress them in an evening formal suit or elegant dress with subtle shimmer. Position them in front of a stage with spotlights and event branding backdrop. Use golden warm ambient lighting. Capture a celebratory, proud, and confident mood with a full-body presence. Render in cinematic realism using a black-gold color scheme for a luxurious, magazine-style aesthetic.",
+      "ai_style": "Luxury Event Cinematic",
+      "tags": [
+        "awards",
+        "gala",
+        "luxury"
+      ],
+      "likes": 5030,
+      "views": 94400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-205",
+      "title": "Corporate Gala Networking",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-205.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Transform this uploaded photo into a high-end corporate gala networking reception scene. Keep the personâ€™s natural facial identity and original expression consistent. Change their outfit to a tailored tuxedo or elegant formal dress and place them in a luxurious event hall with branded banners and soft decorative lighting. Use warm ambient event lighting with a cinematic full-frame DSLR camera style. Ensure a confident and sociable mood with a waist-up candid pose. Apply an editorial realism aesthetic and color palette of golds, blacks, and creams for a premium look. Maintain a natural, documentary-style vibe.",
+      "ai_style": "Premium Networking Editorial",
+      "tags": [
+        "networking",
+        "corporate",
+        "gala"
+      ],
+      "likes": 4560,
+      "views": 82100,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-206",
+      "title": "Rustic Barn First Dance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-206.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring newlyweds dancing in a rustic barn. Styled in vintage country romance. Shot with mirrorless 50mm lens, warm tones. Lighting: string lights and lantern glow. Background: wooden barn interior with floral decor. Emotions/Vibe: cozy, nostalgic, joyful. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Wedding Editorial",
+      "tags": [
+        "wedding",
+        "barn",
+        "dance"
+      ],
+      "likes": 5340,
+      "views": 101200,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-207",
+      "title": "Grand Ballroom First Dance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-207.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the couple sharing their first dance under chandeliers. Styled in high-end luxury. Shot with DSLR 85mm lens, cinematic focus. Lighting: soft golden interior lighting. Background: grand ballroom with marble floors. Emotions/Vibe: elegant and joyful. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Luxury Wedding Cinematic",
+      "tags": [
+        "wedding",
+        "ballroom",
+        "luxury"
+      ],
+      "likes": 5890,
+      "views": 112400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-208",
+      "title": "Vintage Train Wedding Departure",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-208.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the couple departing on a vintage train. Styled in nostalgic 1950s charm. Shot with mirrorless 35mm lens, cinematic grain effect. Lighting: morning sunlight streaming through glass roof. Background: antique railway platform. Emotions/Vibe: adventurous and sentimental. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Vintage Wedding Story",
+      "tags": [
+        "wedding",
+        "train",
+        "vintage"
+      ],
+      "likes": 4980,
+      "views": 88900,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-209",
+      "title": "Garden Cake Cutting",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-209.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the couple cutting their cake beneath a floral canopy. Styled in classic elegance. Shot with full-frame DSLR 50mm lens, shallow depth of field. Lighting: soft natural afternoon light. Background: garden pavilion with white drapery. Emotions/Vibe: joyful and refined. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Classic Wedding Editorial",
+      "tags": [
+        "wedding",
+        "cake",
+        "garden"
+      ],
+      "likes": 4620,
+      "views": 84200,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-210",
+      "title": "Fairytale Castle Garden Walk",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-210.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the couple walking through castle gardens. Styled in fairytale grandeur. Shot with full-frame DSLR 105mm lens, cinematic tones. Lighting: cloudy afternoon with soft shadows. Background: medieval castle and manicured gardens. Emotions/Vibe: regal, timeless, romantic. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Fairytale Wedding Cinematic",
+      "tags": [
+        "wedding",
+        "castle",
+        "romantic"
+      ],
+      "likes": 6170,
+      "views": 119800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-211",
+      "title": "Lakeside Wedding Serenity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-211.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the newlyweds sitting by the water. Styled in romantic naturalism. Shot with mirrorless 50mm lens, soft reflection. Lighting: golden hour glow reflecting off the lake. Background: calm lakeside with floral arrangements. Emotions/Vibe: peaceful, tender, loving. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Wedding Editorial",
+      "tags": [
+        "wedding",
+        "lakeside",
+        "romantic"
+      ],
+      "likes": 5120,
+      "views": 97800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-212",
+      "title": "Palace Gate Royal Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-212.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the couple posing in front of palace gates. Styled in regal and opulent elegance. Shot with telephoto 135mm portrait lens. Lighting: diffused daylight with reflectors. Background: grand palace courtyard with ornate details. Emotions/Vibe: majestic and timeless. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Royal Wedding Cinematic",
+      "tags": [
+        "wedding",
+        "palace",
+        "royal"
+      ],
+      "likes": 6040,
+      "views": 113600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-213",
+      "title": "Barefoot Beach Love",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-213.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the bride and groom walking barefoot on the beach. Styled in boho-chic. Shot with full-frame DSLR 35mm lens, creamy bokeh. Lighting: golden hour seaside sunlight. Background: ocean waves and driftwood arch. Emotions/Vibe: carefree, joyful, intimate. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Boho Wedding Editorial",
+      "tags": [
+        "wedding",
+        "beach",
+        "boho"
+      ],
+      "likes": 5580,
+      "views": 104300,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-214",
+      "title": "Snowfall Wedding Embrace",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-214.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the couple embracing in falling snow. Styled in winter fairytale. Shot with mirrorless 35mm lens, crisp focus. Lighting: natural diffused daylight over snow. Background: snow-covered mountains and pine trees. Emotions/Vibe: cozy, romantic, adventurous. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Winter Wedding Cinematic",
+      "tags": [
+        "wedding",
+        "snow",
+        "winter"
+      ],
+      "likes": 6290,
+      "views": 118900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-215",
+      "title": "Cathedral Ring Exchange",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-215.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the couple exchanging rings at the altar. Styled in timeless classic. Shot with DSLR 70mm lens, balanced composition. Lighting: warm indoor candlelight. Background: historic cathedral interior. Emotions/Vibe: emotional and reverent. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Classic Wedding Editorial",
+      "tags": [
+        "wedding",
+        "cathedral",
+        "rings"
+      ],
+      "likes": 4870,
+      "views": 89200,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-216",
+      "title": "Desert Dune Union",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-216.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the couple holding hands against desert dunes. Styled in bohemian luxury. Shot with full-frame DSLR 85mm lens, cinematic wide shot. Lighting: warm sunset tones. Background: sweeping desert landscape. Emotions/Vibe: serene and passionate. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Desert Wedding Cinematic",
+      "tags": [
+        "wedding",
+        "desert",
+        "boho"
+      ],
+      "likes": 5440,
+      "views": 99600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-217",
+      "title": "Veil in Ocean Breeze",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-217.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded images of couple and create a Professional wedding day photoshoot — featuring the bride’s veil blowing in the sea breeze. Styled in ethereal minimalism. Shot with DSLR 70–200mm zoom lens. Lighting: natural ocean light with misty haze. Background: rugged cliffs and ocean horizon. Emotions/Vibe: dreamy and intimate. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing genuine emotion, celebration, and timeless beauty.",
+      "ai_style": "Ethereal Wedding Editorial",
+      "tags": [
+        "wedding",
+        "veil",
+        "ocean"
+      ],
+      "likes": 5710,
+      "views": 108700,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-218",
+      "title": "Kettlebell Power Training",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-218.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Professional male fitness photoshoot featuring a strong male model doing kettlebell swings, wearing rugged athletic gear. Styled in edgy, high-contrast cinematic style. Shot with DSLR 70â€“200mm lens, crisp focus, shallow depth of field. Lighting: moody gym lighting with dramatic shadows. Background: industrial warehouse with exposed brick and metal. Emotions/Vibe: intense, powerful, determined. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing strength, definition, and determination.",
+      "ai_style": "Fitness Cinematic",
+      "tags": [
+        "fitness",
+        "kettlebell",
+        "strength"
+      ],
+      "likes": 4390,
+      "views": 78100,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-219",
+      "title": "Neon Boxing Intensity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-219.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Professional male fitness photoshoot featuring a muscular male boxer practicing punches on a neon-lit ring, wearing modern boxing shorts and gloves. Styled in neon-noir, high-contrast cinematic style. Shot with DSLR 85mm lens, shallow depth of field. Lighting: vibrant neon backlighting with soft shadows. Background: modern boxing studio with neon accents. Emotions/Vibe: fierce, aggressive, focused. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing strength, definition, and determination.",
+      "ai_style": "Neon Fitness Noir",
+      "tags": [
+        "boxing",
+        "fitness",
+        "neon"
+      ],
+      "likes": 4820,
+      "views": 86400,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-220",
+      "title": "Rooftop Fitness Drive",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-220.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Professional male fitness photoshoot featuring a lean male model doing bodyweight exercises, wearing modern street-style activewear. Styled in bold, editorial street style. Shot with mirrorless 35mm lens, shallow depth of field. Lighting: golden hour sunlight casting long shadows. Background: city rooftop with skyline view. Emotions/Vibe: confident, aspirational, focused. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing strength, definition, and determination.",
+      "ai_style": "Urban Fitness Editorial",
+      "tags": [
+        "fitness",
+        "street",
+        "rooftop"
+      ],
+      "likes": 4610,
+      "views": 82300,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
     }
   ]
 }
