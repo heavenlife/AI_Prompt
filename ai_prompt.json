@@ -2893,6 +2893,576 @@
       "is_premium": true,
       "is_recommended": true,
       "is_trending": true
+    },
+    {
+      "id": "ai-151",
+      "title": "Minimal Indoor Haldi Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-151.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring a bride wearing a yellow saree in a minimalist indoor setup, gently smiling. Styled in minimal, classic, soft tones. Shot with DSLR 50mm lens, warm focus. Lighting: natural window light. Background: neutral wall with a touch of greenery. Emotions/Vibe: calm, natural, introspective. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Minimal Haldi Portrait",
+      "tags": [
+        "haldi",
+        "minimal",
+        "indoor"
+      ],
+      "likes": 3120,
+      "views": 54800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-152",
+      "title": "Vibrant Outdoor Haldi Smile",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-152.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring a bride joyfully smiling with turmeric on her cheeks, surrounded by marigold flowers and yellow drapes. Styled in vibrant, traditional, festive tones. Shot with DSLR 85mm lens, shallow depth of field, soft focus. Lighting: bright morning light. Background: outdoor floral haldi setup. Emotions/Vibe: joyful, radiant, authentic. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Festive Haldi Photography",
+      "tags": [
+        "haldi",
+        "festive",
+        "outdoor"
+      ],
+      "likes": 3540,
+      "views": 61200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-153",
+      "title": "Family Garden Haldi Moment",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-153.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring a bride gracefully smiling as turmeric is applied by her bridesmaids, surrounded by family dressed in mustard and ivory traditional attire. Styled in soft, elegant, traditional tones with natural light. Shot with DSLR 85mm lens, shallow depth of field, creamy bokeh, and pastel hues. Lighting: soft morning sunlight. Background: open garden with floral mandap and yellow drapes. Emotions/Vibe: serene, joyful, affectionate, heartwarming. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Traditional Haldi Ceremony",
+      "tags": [
+        "haldi",
+        "family",
+        "garden"
+      ],
+      "likes": 3380,
+      "views": 58900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-154",
+      "title": "Candid Courtyard Haldi Splash",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-154.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring a bride laughing as turmeric is splashed on her by friends. Styled in vibrant, candid, festive tones. Shot with DSLR 35mm lens, motion blur, vivid colors. Lighting: bright midday sun. Background: traditional courtyard with marigold curtains. Emotions/Vibe: energetic, joyful, expressive. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Candid Haldi Action",
+      "tags": [
+        "haldi",
+        "candid",
+        "friends"
+      ],
+      "likes": 3720,
+      "views": 65500,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-155",
+      "title": "Emotional Family Haldi Ritual",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-155.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring the bride with her parents applying turmeric lovingly. Styled in homely, traditional, emotional tones. Shot with DSLR 50mm lens, shallow depth of field, warm saturation. Lighting: soft natural window light. Background: traditional living room decorated with yellow drapes and diyas. Emotions/Vibe: tender, emotional, heartfelt, and pure. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Emotional Haldi Portrait",
+      "tags": [
+        "haldi",
+        "parents",
+        "emotional"
+      ],
+      "likes": 3610,
+      "views": 62800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-156",
+      "title": "Playful Umbrella Haldi Shot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-156.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring a bride holding a bright yellow umbrella while smiling playfully. Styled in creative, vibrant, fun tones. Shot with DSLR 35mm lens, vivid highlights. Lighting: bright daylight. Background: outdoor haldi area with petals on the ground. Emotions/Vibe: quirky, fun, bold. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Creative Haldi Portrait",
+      "tags": [
+        "haldi",
+        "playful",
+        "creative"
+      ],
+      "likes": 3490,
+      "views": 60100,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-157",
+      "title": "Editorial Pastel Haldi Pose",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-157.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Use the above uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring a bride posing elegantly against a pastel background, turmeric smeared gently on her face. Styled in minimalist, artistic, editorial tones. Shot with DSLR 50mm lens, soft lighting, subtle contrast. Lighting: diffused daylight. Background: simple indoor wall with floral frame. Emotions/Vibe: confident, poised, serene. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Editorial Haldi Portrait",
+      "tags": [
+        "haldi",
+        "editorial",
+        "pastel"
+      ],
+      "likes": 3330,
+      "views": 57200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-158",
+      "title": "Boho Terrace Haldi Ceremony",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-158.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring a bride in a yellow floral lehenga smiling under a boho canopy setup surrounded by bridesmaids. Styled in bohemian, earthy, modern-traditional fusion. Shot with mirrorless camera 35mm lens, muted tones, soft bokeh. Lighting: warm golden hour light. Background: open terrace with dreamcatchers and colorful drapes. Emotions/Vibe: cheerful, candid, relaxed, and artsy. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Boho Haldi Photography",
+      "tags": [
+        "haldi",
+        "boho",
+        "bridesmaids"
+      ],
+      "likes": 3870,
+      "views": 68300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-159",
+      "title": "Radiant Haldi Smile Close-up",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-159.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Use the uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring a close-up shot of a brideâ€™s radiant smile with turmeric touches. Styled in soft, intimate, radiant tones. Shot with DSLR 85mm macro lens, crisp clarity. Lighting: diffused daylight. Background: blurred floral wall. Emotions/Vibe: joyful, candid, radiant. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Close-up Haldi Portrait",
+      "tags": [
+        "haldi",
+        "closeup",
+        "smile"
+      ],
+      "likes": 4020,
+      "views": 72500,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-160",
+      "title": "Modern Studio Haldi Editorial",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-160.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Use the uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring a bride standing elegantly in front of a modern artistic backdrop. Styled in editorial, clean, modern tones. Shot with DSLR 85mm lens, controlled lighting. Lighting: softbox golden tone. Background: studio setup with textured yellow backdrop. Emotions/Vibe: sophisticated, stylish, elegant. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Modern Haldi Editorial",
+      "tags": [
+        "haldi",
+        "studio",
+        "editorial"
+      ],
+      "likes": 4190,
+      "views": 75800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-161",
+      "title": "Modern Mustard Saree Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-161.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Haldi ceremony photoshoot featuring a modern bride in a simple mustard saree laughing as turmeric is applied. Styled in minimalist, aesthetic, clean tones. Shot with DSLR 35mm lens, sharp focus, and airy whites. Lighting: diffused daylight from large windows. Background: minimalist modern home with floral accents. Emotions/Vibe: intimate, fresh, and natural. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing color splashes, laughter, and cultural warmth.",
+      "ai_style": "Modern Haldi Editorial",
+      "tags": [
+        "haldi",
+        "modern",
+        "minimal"
+      ],
+      "likes": 3420,
+      "views": 59100,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-162",
+      "title": "Dreamy Groom Haldi Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-162.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom in a pastel yellow kurta, covered in haldi with gentle expression, looking upward. Styled in artistic, cinematic, dreamy tone. Shot with DSLR 85mm f/1.8 lens. Lighting: filtered sunlight through flowers. Background: floral canopy with yellow and white blooms. Emotions/Vibe: introspective, graceful, serene. High-resolution, cinematic-quality portrait.",
+      "ai_style": "Cinematic Groom Haldi",
+      "tags": [
+        "groom",
+        "haldi",
+        "cinematic"
+      ],
+      "likes": 3180,
+      "views": 54800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-163",
+      "title": "Joyful Garden Groom Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-163.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom in a plain white kurta, face glowing with haldi, laughing joyfully. Styled in candid, natural, festive tone. Shot with DSLR 35mm lens for wide framing. Lighting: bright daylight with golden tones. Background: garden decorated with marigolds and colorful drapes. Emotions/Vibe: joyful, radiant, lively. Editorial-quality, cinematic composition.",
+      "ai_style": "Candid Groom Haldi",
+      "tags": [
+        "groom",
+        "haldi",
+        "candid"
+      ],
+      "likes": 3760,
+      "views": 63400,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-164",
+      "title": "Boho Linen Groom Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-164.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom in linen yellow attire with floral patterns, gently smiling as haldi glows on his skin. Styled in boho, artistic, soft tone. Shot with mirrorless camera 50mm lens. Lighting: diffused morning sunlight. Background: outdoor garden with minimal rustic decor. Emotions/Vibe: relaxed, organic, content. Photorealistic, editorial-quality composition.",
+      "ai_style": "Boho Groom Haldi",
+      "tags": [
+        "groom",
+        "boho",
+        "haldi"
+      ],
+      "likes": 3290,
+      "views": 57200,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-165",
+      "title": "Royal Courtyard Groom Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-165.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom in ivory kurta with gold embroidery, standing proudly with haldi covering his face and neck. Styled in royal, elegant, traditional tone. Shot with DSLR 85mm portrait lens. Lighting: warm evening sunlight. Background: Rajasthani-style courtyard with carved arches and yellow flowers. Emotions/Vibe: regal, composed, celebratory. High-resolution, cinematic-quality details.",
+      "ai_style": "Royal Groom Haldi",
+      "tags": [
+        "groom",
+        "royal",
+        "haldi"
+      ],
+      "likes": 4010,
+      "views": 72100,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-166",
+      "title": "Vibrant Mustard Groom Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-166.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom wearing a mustard kurta, haldi smeared across his cheeks, and smiling confidently. Styled in vibrant, festive, modern tone. Shot with mirrorless 50mm lens for sharp focus. Lighting: bright natural daylight. Background: marigold wall with yellow drapes. Emotions/Vibe: cheerful, confident, radiant. High-resolution, photorealistic cinematic composition.",
+      "ai_style": "Festive Groom Haldi",
+      "tags": [
+        "groom",
+        "festive",
+        "haldi"
+      ],
+      "likes": 3890,
+      "views": 66800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-167",
+      "title": "Golden Hour Groom Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-167.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom dressed in a yellow kurta with subtle embroidery, smiling softly as haldi paste covers his face and arms. Styled in warm, candid, traditional tone. Shot with DSLR 85mm lens for creamy background blur. Lighting: golden hour glow creating radiant tones. Background: outdoor courtyard with marigold garlands and soft sunlight. Emotions/Vibe: peaceful, reflective, joyful. High-resolution, editorial-quality, cinematic composition.",
+      "ai_style": "Golden Groom Haldi",
+      "tags": [
+        "groom",
+        "goldenhour",
+        "haldi"
+      ],
+      "likes": 3610,
+      "views": 61200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-168",
+      "title": "Urban Rooftop Groom Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-168.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom in mustard kurta, smiling as haldi brightens his face, with cityscape behind. Styled in modern, casual, bright tone. Shot with DSLR 35mm lens. Lighting: natural daylight. Background: rooftop terrace with yellow paper decor. Emotions/Vibe: fresh, confident, lively. Editorial-quality, cinematic-style photography.",
+      "ai_style": "Urban Groom Haldi",
+      "tags": [
+        "groom",
+        "urban",
+        "haldi"
+      ],
+      "likes": 3470,
+      "views": 58400,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-169",
+      "title": "Open Garden Groom Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-169.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom wearing a yellow linen kurta, smiling brightly, haldi covering his arms. Styled in bright, natural, outdoor tone. Shot with DSLR 50mm lens, fast shutter for sharp detail. Lighting: vibrant midday sun with soft reflections. Background: open garden with sunlit floral decor. Emotions/Vibe: cheerful, radiant, free. Editorial-quality, photorealistic style.",
+      "ai_style": "Outdoor Groom Haldi",
+      "tags": [
+        "groom",
+        "outdoor",
+        "haldi"
+      ],
+      "likes": 3720,
+      "views": 63900,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-170",
+      "title": "Classic Cultural Groom Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-170.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom in a silk cream kurta, standing with haldi applied across his face and chest. Styled in traditional, cultural tone. Shot with DSLR 50mm portrait lens. Lighting: natural afternoon sunlight. Background: classic Indian haldi setup with yellow drapes and clay pots. Emotions/Vibe: proud, joyful, calm. High-resolution, photorealistic details.",
+      "ai_style": "Traditional Groom Haldi",
+      "tags": [
+        "groom",
+        "traditional",
+        "haldi"
+      ],
+      "likes": 3580,
+      "views": 60100,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-171",
+      "title": "Humble Courtyard Groom Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-171.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom in a cream-colored kurta, hands folded in joy, face adorned with haldi. Styled in traditional, cultural, candid look. Shot with DSLR 35mm lens for natural perspective. Lighting: soft diffused daylight. Background: courtyard decorated with yellow fabric and fl\n\noral motifs. Emotions/Vibe: humble, happy, serene. Editorial-quality, cinematic composition.",
+      "ai_style": "Traditional Groom Haldi",
+      "tags": [
+        "groom",
+        "haldi",
+        "traditional"
+      ],
+      "likes": 3640,
+      "views": 61200,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-172",
+      "title": "Minimal Cotton Groom Haldi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-172.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image of man and crate a Professional Indian groom Haldi photoshoot — featuring a groom wearing a simple cotton kurta, haldi gently applied to his face, smiling calmly. Styled in minimalist, natural light tone. Shot with mirrorless 50mm prime lens. Lighting: soft indoor daylight. Background: neutral wall with a few yellow flower strands. Emotions/Vibe: peaceful, genuine, grounded. Photorealistic, cinematic-quality details.",
+      "ai_style": "Minimal Groom Haldi",
+      "tags": [
+        "groom",
+        "haldi",
+        "minimal"
+      ],
+      "likes": 3310,
+      "views": 57800,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-173",
+      "title": "Regal Navy & Red Couple Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-173.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional Indian couple portrait, full-length shot. The man wears a navy three-piece suit while the woman wears a deep red embroidered gown. They are embracing under a rose wall backdrop with golden Edison bulbs. Lighting: cinematic warm spotlight with strong backlighting. Mood: regal and celebratory. Style: editorial fashion shoot with sharp focus and smooth tones. Color palette: navy and gold. End Result: a highly detailed, realistic photo that evokes elegance and grandeur.",
+      "ai_style": "Regal Editorial Couple",
+      "tags": [
+        "couple",
+        "editorial",
+        "royal"
+      ],
+      "likes": 4520,
+      "views": 81200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-174",
+      "title": "Burgundy & Gold Royal Couple",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-174.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional Indian couple portrait, full-length shot. The man is wearing a deep burgundy tuxedo while the woman dazzles in a gold-embroidered lehenga. They are standing close, smiling at each other in a luxurious indoor banquet hall with golden chandeliers. Backdrop: cascading rose wall in red and cream, decorated with fairy lights for bokeh. Lighting: cinematic warm spotlight with golden-hour tone and subtle backlight. Mood: regal, romantic, and celebratory. Style: high-resolution editorial photography with shallow depth of field and creamy tones. Color palette: burgundy, gold, and ivory. End Result: a highly detailed, realistic image evoking royal elegance.",
+      "ai_style": "Royal Banquet Couple",
+      "tags": [
+        "couple",
+        "royal",
+        "banquet"
+      ],
+      "likes": 4890,
+      "views": 88400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-175",
+      "title": "Emerald Garden Wedding Couple",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-175.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional Indian couple portrait, full-length shot. The couple is dressed in elegant formal wear — man in an emerald-green tuxedo, woman in a champagne lehenga with crystal beadwork. They are standing close, smiling naturally. The setting is an outdoor garden reception surrounded by lush greenery. Backdrop Details: circular floral arch of white roses and green foliage illuminated with fairy lights. Lighting: golden-hour sunlight with backlight accents. Mood: regal, joyful, and romantic. Style: cinematic realism with shallow depth of field. Camera Angle: eye level. Color Palette: emerald, gold, and cream. End Result: a vibrant and luxurious garden wedding reception photo.",
+      "ai_style": "Garden Wedding Editorial",
+      "tags": [
+        "couple",
+        "garden",
+        "wedding"
+      ],
+      "likes": 4670,
+      "views": 83900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-176",
+      "title": "Navy & Silver Reception Elegance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-176.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional Indian couple portrait, full-length shot. The man wears a navy-blue tuxedo, and the woman stuns in a silver-beaded gown. They are posing under a circular floral arch of white lilies and blue orchids in a lavish indoor reception. Lighting: moody and soft, with a subtle cool backlight from Edison bulbs. Mood: elegant, calm, and romantic. Style: professional high-resolution portrait with bokeh background. Color palette: navy, silver, and icy blue. End Result: a refined, magazine-quality image of an Indian couple in a luxurious setting.",
+      "ai_style": "Luxury Reception Portrait",
+      "tags": [
+        "couple",
+        "luxury",
+        "reception"
+      ],
+      "likes": 4410,
+      "views": 79600,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-177",
+      "title": "Mauve Orchid Regal Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-177.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional Indian couple portrait, full-length shot. The man is in a classic tuxedo, and the woman in a mauve embroidered gown. They’re standing under a large circular arch of roses and orchids with cascading string lights. Lighting: cinematic warm spotlight creating rim highlights. Mood: sophisticated and regal. Style: editorial wedding photography with crisp clarity and background blur. Color palette: mauve, ivory, and gold. End Result: a luxurious, magazine-style Indian reception portrait.",
+      "ai_style": "Editorial Wedding Portrait",
+      "tags": [
+        "couple",
+        "editorial",
+        "wedding"
+      ],
+      "likes": 4580,
+      "views": 82100,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-178",
+      "title": "Champagne Blush Wedding Elegance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-178.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional Indian couple portrait, full-length shot. The man is dressed in a charcoal suit, and the woman in a champagne-colored gown with intricate lacework. They hold hands beneath a floral arch of white roses and soft pink hydrangeas. Lighting: soft professional golden glow with rim light accent. Mood: sophisticated, joyful, and intimate. Style: cinematic realism with smooth bokeh and sharp focus on faces. Color palette: champagne neutrals and blush pinks. End Result: a luxurious and high-resolution Indian wedding reception photo.",
+      "ai_style": "Elegant Wedding Reception",
+      "tags": [
+        "couple",
+        "elegant",
+        "wedding"
+      ],
+      "likes": 4320,
+      "views": 77400,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-179",
+      "title": "Blush Fairy-Light Romance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-179.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional Indian couple portrait, full-length shot. The man wears a light gray suit, and the woman is in a blush-pink gown with sequins. They’re gazing lovingly at each other under a hanging floral ceiling of pink and ivory blooms. Lighting: soft natural glow with fairy light bokeh. Mood: dreamy, tender, and joyful. Style: fine-art portrait with shallow depth of field. Color palette: soft pinks and whites. End Result: a highly detailed, realistic image capturing the beauty of romance.",
+      "ai_style": "Fine Art Romance",
+      "tags": [
+        "couple",
+        "romantic",
+        "fineart"
+      ],
+      "likes": 4490,
+      "views": 80300,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-180",
+      "title": "Mauve Lace Dreamy Couple",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-180.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Professional Indian couple portrait, full-length shot. The man wears a classic black tuxedo while the woman wears a mauve lace gown. They’re holding hands under a floral curtain of pink and white blooms. Lighting: soft professional glow with fairy light halo. Mood: intimate and dreamy. Style: fine-art portrait with creamy background blur. Color palette: soft mauves and pinks. End Result: a highly detailed, realistic image that radiates love and sophistication.",
+      "ai_style": "Dreamy Wedding Fine Art",
+      "tags": [
+        "couple",
+        "dreamy",
+        "wedding"
+      ],
+      "likes": 4710,
+      "views": 84600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
     }
   ]
 }
