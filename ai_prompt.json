@@ -3463,6 +3463,386 @@
       "is_premium": true,
       "is_recommended": true,
       "is_trending": false
+    },
+    {
+      "id": "ai-181",
+      "title": "Mountain Mehndi Serenity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-181.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a bride enjoying henna session amidst scenic mountains. Styled in natural, airy tone. Shot with DSLR 35mm lens, wide-angle view. Lighting: soft afternoon light. Background: hillside gazebo with flower curtains. Emotions/Vibe: peaceful, organic, joyful. High-resolution, editorial-quality, cinematic composition showcasing nature and tradition.",
+      "ai_style": "Natural Mehndi Editorial",
+      "tags": [
+        "mehndi",
+        "bride",
+        "nature"
+      ],
+      "likes": 3920,
+      "views": 66800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-182",
+      "title": "Peacock Inspired Mehndi Glam",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-182.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a bride with peacock-inspired henna motifs and turquoise attire. Styled in vibrant, artistic palette. Shot with DSLR 50mm lens, vivid colors. Lighting: soft artificial setup. Background: decorated stage with peacock feathers. Emotions/Vibe: festive, glamorous, creative. High-resolution, editorial-quality, cinematic composition highlighting intricate color harmony.",
+      "ai_style": "Artistic Mehndi Glam",
+      "tags": [
+        "mehndi",
+        "peacock",
+        "festive"
+      ],
+      "likes": 4280,
+      "views": 74100,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-183",
+      "title": "Boho Meadow Mehndi Celebration",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-183.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a carefree bride with floral mehndi patterns, sitting with friends under a canopy of fairy lights. Styled in boho-chic, colorful tones. Shot with DSLR 35mm lens, soft focus on natural movement. Lighting: golden hour sunlight. Background: open meadow with bohemian tents. Emotions/Vibe: free-spirited, joyful, candid, dreamy. High-resolution, editorial-quality, cinematic composition, photorealistic details focusing on floral henna and relaxed celebration.",
+      "ai_style": "Boho Mehndi Editorial",
+      "tags": [
+        "mehndi",
+        "boho",
+        "friends"
+      ],
+      "likes": 4650,
+      "views": 80900,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-184",
+      "title": "Royal Garden Mehndi Elegance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-184.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a regal bride sitting among floral arrangements displaying mehndi on both hands. Styled in pastel elegance. Shot with DSLR 85mm lens, soft focus. Lighting: golden afternoon light. Background: manicured royal garden with fountains. Emotions/Vibe: elegant, tranquil, sophisticated. High-resolution, editorial-quality, cinematic composition with garden serenity.",
+      "ai_style": "Royal Mehndi Portrait",
+      "tags": [
+        "mehndi",
+        "royal",
+        "garden"
+      ],
+      "likes": 4370,
+      "views": 76300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-185",
+      "title": "Vintage Haveli Mehndi Art",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-185.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a traditional bride wearing antique jewelry and detailed mehndi, seated on carved wooden furniture. Styled in vintage, heritage tone. Shot with DSLR 85mm lens, muted tones for classic feel. Lighting: filtered daylight through arches. Background: heritage haveli with rustic textures. Emotions/Vibe: nostalgic, elegant, serene. High-resolution, editorial-quality, cinematic composition focusing on timeless mehndi artistry and vintage attire.",
+      "ai_style": "Vintage Mehndi Heritage",
+      "tags": [
+        "mehndi",
+        "heritage",
+        "vintage"
+      ],
+      "likes": 4180,
+      "views": 72200,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-186",
+      "title": "Sunset Rooftop Mehndi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-186.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a modern bride displaying intricate henna against a sunset skyline. Styled in contemporary, romantic fashion. Shot with mirrorless 50mm lens, warm backlighting. Lighting: sunset golden hour. Background: urban rooftop with lantern décor. Emotions/Vibe: modern, dreamy, passionate. High-resolution, editorial-quality, cinematic composition with artistic framing.",
+      "ai_style": "Modern Sunset Mehndi",
+      "tags": [
+        "mehndi",
+        "sunset",
+        "modern"
+      ],
+      "likes": 4510,
+      "views": 79800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-187",
+      "title": "Candlelit Romantic Mehndi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-187.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a glowing bride illuminated by candles, showing shimmering mehndi. Styled in moody, romantic tones. Shot with mirrorless 85mm lens, low light focus. Lighting: candlelit ambiance. Background: intimate indoor setting with brass décor. Emotions/Vibe: serene, emotional, warm. High-resolution, editorial-quality, cinematic composition emphasizing intimacy and detail.",
+      "ai_style": "Moody Candle Mehndi",
+      "tags": [
+        "mehndi",
+        "romantic",
+        "candle"
+      ],
+      "likes": 4260,
+      "views": 73600,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-188",
+      "title": "Coastal Breeze Mehndi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-188.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a modern Indian bride applying henna by the ocean breeze, wearing a pastel lehenga. Styled in coastal, minimal aesthetic. Shot with mirrorless 50mm lens, cool tones. Lighting: natural sunset glow. Background: beachside cabana with tropical flowers. Emotions/Vibe: calm, romantic, refreshing. High-resolution, editorial-quality, cinematic composition emphasizing natural beauty and serene atmosphere.",
+      "ai_style": "Coastal Mehndi Editorial",
+      "tags": [
+        "mehndi",
+        "beach",
+        "coastal"
+      ],
+      "likes": 4680,
+      "views": 82400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-189",
+      "title": "Temple Courtyard Mehndi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-189.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a bride with devotional mehndi designs, captured near temple carvings. Styled in spiritual, cultural aesthetics. Shot with DSLR 85mm lens, crisp focus. Lighting: morning ambient light. Background: ancient temple courtyard. Emotions/Vibe: divine, serene, sacred. High-resolution, editorial-quality, cinematic composition emphasizing tradition and faith.",
+      "ai_style": "Spiritual Mehndi Portrait",
+      "tags": [
+        "mehndi",
+        "temple",
+        "spiritual"
+      ],
+      "likes": 4020,
+      "views": 69100,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-190",
+      "title": "Rainy Veranda Mehndi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-190.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a bride under a transparent umbrella showing her fresh mehndi. Styled in romantic, cozy mood. Shot with mirrorless 35mm lens, reflective water surfaces. Lighting: cloudy natural light. Background: decorated veranda with raindrops. Emotions/Vibe: intimate, warm, candid. High-resolution, editorial-quality, cinematic composition emphasizing emotion and texture.",
+      "ai_style": "Rainy Romantic Mehndi",
+      "tags": [
+        "mehndi",
+        "rainy",
+        "romantic"
+      ],
+      "likes": 4390,
+      "views": 77100,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-191",
+      "title": "Minimal Studio Mehndi Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-191.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a bride seated on a simple white chair highlighting intricate henna. Styled in minimal, clean aesthetic. Shot with 85mm prime lens, shallow depth. Lighting: studio softbox. Background: plain pastel backdrop. Emotions/Vibe: calm, elegant, focused. High-resolution, editorial-quality, cinematic composition emphasizing form and detail.",
+      "ai_style": "Minimal Mehndi Editorial",
+      "tags": [
+        "mehndi",
+        "minimal",
+        "studio"
+      ],
+      "likes": 3820,
+      "views": 64500,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-192",
+      "title": "Desert Sun Mehndi Drama",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-192.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the above uploaded image of woman and create a Professional Mehndi ceremony photoshoot featuring a radiant bride showcasing henna under desert sunlight, wearing a flowing red outfit. Styled in exotic, dramatic theme. Shot with telephoto lens for expansive background. Lighting: bright desert daylight. Background: golden sand dunes with camel silhouettes. Emotions/Vibe: adventurous, bold, artistic. High-resolution, editorial-quality, cinematic composition highlighting contrast and patterns.",
+      "ai_style": "Exotic Mehndi Editorial",
+      "tags": [
+        "mehndi",
+        "desert",
+        "dramatic"
+      ],
+      "likes": 4510,
+      "views": 81200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-193",
+      "title": "Diwali Festival Selfie",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-193.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use uploaded image and create a festival selfie of a young woman, happy smiling, captured during Diwali night under warm candlelight and diyas, wearing a red and gold lehenga with traditional jewelry, with glowing lanterns and bokeh of lights behind, slightly off-angle selfie, emphasizing bright eyes and shimmering outfit, captured with 50mm lens, cinematic realism, golden and warm tones, joyful and radiant mood, ultra-detailed, 4k high-quality photograph.",
+      "ai_style": "Festival Selfie Realism",
+      "tags": [
+        "diwali",
+        "festival",
+        "selfie"
+      ],
+      "likes": 4920,
+      "views": 88900,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-194",
+      "title": "Eid Celebration Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-194.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use uploaded image and create a festival selfie of a young woman, calm and radiant, captured during Eid celebration under warm evening light, wearing an elegant embroidered salwar suit with hijab, with twinkling lights and family gathering behind, centered portrait, emphasizing bright eyes and glowing skin, captured with 50mm lens, cinematic realism, soft golden and emerald tones, peaceful and joyous mood, ultra-detailed, 4k high-quality photograph.",
+      "ai_style": "Cultural Festival Portrait",
+      "tags": [
+        "eid",
+        "festival",
+        "portrait"
+      ],
+      "likes": 4360,
+      "views": 75800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-195",
+      "title": "Urban Rooftop Blue Hour Selfie",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-195.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image and create a urban evening selfie of a woman wearing a hat on a rooftop, skyline in background with city lights glowing, cinematic blue-hour lighting, depth-of-field focus, stylish expression, natural color grading, realistic photographic texture, captured with 35mm lens.",
+      "ai_style": "Urban Cinematic Selfie",
+      "tags": [
+        "urban",
+        "rooftop",
+        "selfie"
+      ],
+      "likes": 4010,
+      "views": 69900,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-196",
+      "title": "Gym Mirror Confidence Selfie",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-196.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Use the uploaded image and create a mirror selfie of a young woman, confident, captured in a gym under fluorescent lighting, wearing workout clothes, with gym equipment reflections in the background, centered portrait, emphasizing fashion details, captured with smartphone selfie camera, natural HDR, muted neutrals, professional and poised, ultra-detailed, 4k high-quality photograph.",
+      "ai_style": "Fitness Lifestyle Selfie",
+      "tags": [
+        "gym",
+        "fitness",
+        "selfie"
+      ],
+      "likes": 3880,
+      "views": 66200,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-197",
+      "title": "Sunny Park Smile Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-197.jpg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Use the uploaded image and create a happy smiling selfie of a young woman in a green park, warm afternoon sunlight, soft bokeh background, bright eyes, natural smile, healthy skin tone, gentle wind in hair, 4k photorealistic quality, cinematic tone mapping.",
+      "ai_style": "Natural Outdoor Portrait",
+      "tags": [
+        "park",
+        "outdoor",
+        "smile"
+      ],
+      "likes": 4190,
+      "views": 73100,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-198",
+      "title": "Soft Indoor Natural Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-198.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Use the uploaded image and create a natural selfie portrait of a young woman indoors, soft daylight from a window, minimal makeup, casual grey t-shirt, clean modern apartment background, realistic skin texture, cinematic lighting, shallow depth of field, captured with a 50mm lens, calm neutral expression, photorealistic detail.",
+      "ai_style": "Natural Light Portrait",
+      "tags": [
+        "indoor",
+        "natural",
+        "portrait"
+      ],
+      "likes": 4060,
+      "views": 70800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-199",
+      "title": "Corporate Office Headshot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-199.jpg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Use the uploaded image and create a professional headshot selfie of a young woman in a modern glass office, wearing a dark suit and tie, confident expression, even lighting, natural background blur, ultra-realistic photo, 85mm portrait lens effect, crisp details, balanced exposure.",
+      "ai_style": "Corporate Headshot",
+      "tags": [
+        "office",
+        "professional",
+        "headshot"
+      ],
+      "likes": 4370,
+      "views": 77400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-200",
+      "title": "Conference Keynote Speaker",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-200.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Transform this uploaded photo into a professional conference keynote session. Keep their facial details and expression identical. Change their attire to a formal blazer with lapel mic and place them in a large conference room with LED screens and audience in background. Use daylight-balanced stage lighting and sharp lens focus. Ensure a confident and inspiring mood with a half-body speaker pose. Go for a magazine-quality photo style using clean whites, blacks, and corporate blue accents. Preserve the authentic live event energy.",
+      "ai_style": "Corporate Event Editorial",
+      "tags": [
+        "conference",
+        "speaker",
+        "corporate"
+      ],
+      "likes": 4680,
+      "views": 84200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
     }
   ]
 }
