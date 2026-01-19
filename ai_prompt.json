@@ -4223,6 +4223,577 @@
       "is_premium": false,
       "is_recommended": true,
       "is_trending": false
+    },
+    {
+      "id": "ai-221",
+      "title": "Sci-Fi Battle Rope Power",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-221.jpeg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Professional male fitness photoshoot featuring a sci-fi-inspired male athlete performing battle rope exercises, wearing futuristic neon activewear. Styled in futuristic, cinematic editorial style. Shot with DSLR 35mm lens, crisp focus. Lighting: glowing LED lights creating high-contrast shadows. Background: modern tech gym with neon panels. Emotions/Vibe: bold, fearless, energized. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing strength, definition, and determination.",
+      "ai_style": "Futuristic Fitness Cinematic",
+      "tags": [
+        "fitness",
+        "sci-fi",
+        "battle ropes",
+        "neon"
+      ],
+      "likes": 4980,
+      "views": 91200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-222",
+      "title": "Classic Gym Strength",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-222.jpeg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Professional male fitness photoshoot featuring a strong male model lifting dumbbells, wearing retro gym shorts and tank top. Styled in classic, editorial fitness style. Shot with DSLR 85mm lens, crisp focus. Lighting: directional overhead gym lighting. Background: vintage gym with wooden floors and mirrors. Emotions/Vibe: confident, focused, determined. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing strength, definition, and determination.",
+      "ai_style": "Classic Fitness Editorial",
+      "tags": [
+        "fitness",
+        "dumbbells",
+        "classic gym"
+      ],
+      "likes": 4310,
+      "views": 78400,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-223",
+      "title": "Grit Boxing Intensity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-223.jpeg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Professional male fitness photoshoot featuring a muscular male athlete practicing boxing punches, wearing gloves and fitted training shorts. Styled in gritty, high-energy editorial style. Shot with DSLR 85mm lens, crisp motion capture. Lighting: dramatic side studio lighting with shadows. Background: vintage boxing gym with punching bags. Emotions/Vibe: fierce, determined, aggressive. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing strength, definition, and determination.",
+      "ai_style": "Boxing Cinematic Grit",
+      "tags": [
+        "boxing",
+        "fitness",
+        "gritty"
+      ],
+      "likes": 4690,
+      "views": 86500,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-224",
+      "title": "Beach Sprint Freedom",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-224.jpeg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Professional male fitness photoshoot featuring a lean male athlete sprinting along the shoreline, wearing lightweight beach fitness gear. Styled in vibrant, cinematic action style. Shot with mirrorless 24â€“70mm lens, motion blur capture. Lighting: bright morning sunlight with reflective water highlights. Background: sandy beach with ocean waves. Emotions/Vibe: energetic, free, unstoppable. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing strength, definition, and determination.",
+      "ai_style": "Outdoor Action Fitness",
+      "tags": [
+        "fitness",
+        "beach",
+        "sprint"
+      ],
+      "likes": 5230,
+      "views": 98700,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-225",
+      "title": "Industrial Weight Power",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-225.jpeg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Professional male fitness photoshoot featuring a muscular male athlete performing intense weightlifting, wearing sleeveless gym wear. Styled in gritty, high-contrast, action-packed cinematic style. Shot with DSLR 50mm lens, crisp focus, dynamic angles. Lighting: harsh studio spotlights emphasizing muscle definition. Background: industrial gym with steel equipment. Emotions/Vibe: fierce, determined, unstoppable. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing strength, definition, and determination.",
+      "ai_style": "Industrial Fitness Cinematic",
+      "tags": [
+        "fitness",
+        "weightlifting",
+        "industrial"
+      ],
+      "likes": 5470,
+      "views": 102300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-226",
+      "title": "Underground Deadlift Focus",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-226.jpeg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Professional male fitness photoshoot featuring a muscular male athlete performing deadlifts, wearing fitted compression wear. Styled in gritty, moody cinematic style. Shot with DSLR 70â€“200mm lens, crisp detail. Lighting: directional industrial lighting. Background: underground gym with exposed pipes and concrete. Emotions/Vibe: intense, disciplined, determined. High-resolution, editorial-quality, cinematic composition, photorealistic details emphasizing strength, definition, and determination.",
+      "ai_style": "Moody Strength Cinematic",
+      "tags": [
+        "fitness",
+        "deadlift",
+        "strength"
+      ],
+      "likes": 4920,
+      "views": 90300,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-227",
+      "title": "Power Color Editorial",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-227.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use the uploaded image of the woman and create a mid-shot cinematic portrait of a female model wearing a vibrant yellow suit. She stands against a bold red and blue color-block background. High-contrast studio lighting sculpts her face and outfit geometry. Her expression is assertive and stylish, leaning casually against a wall. The red-blue-yellow palette creates a mood of modern editorial power. Dramatic studio fashion style with ultra-detailed, magazine cover finish.",
+      "ai_style": "Fashion Editorial Studio",
+      "tags": [
+        "fashion",
+        "editorial",
+        "color-block"
+      ],
+      "likes": 6180,
+      "views": 124900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-228",
+      "title": "Neon Street Confidence",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-228.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use the uploaded image of the woman and create a waist-up cinematic street-style photograph of a female model wearing a leather jacket and silver accessories. She stands against a neon-lit city alley background. Neon magenta and cyan lighting highlights her cheekbones and the glossy texture of her jacket. Her expression is confident and bold, with her gaze fixed slightly above the camera. The neon blue and purple palette creates a mood of urban energy and mystery. Cinematic realism style with ultra-detailed, professional fashion photography.",
+      "ai_style": "Neon Street Fashion",
+      "tags": [
+        "fashion",
+        "street",
+        "neon"
+      ],
+      "likes": 5890,
+      "views": 116200,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-229",
+      "title": "Cliffside Elegance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-229.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use the uploaded image of the woman and create a full-body cinematic photograph of a woman wearing a flowing turquoise dress. She stands against an ocean cliffside background. Golden-hour sunlight sculpts her hair and the fabric’s motion. Her expression is relaxed and confident, with eyes directed above the lens. The palette of turquoise and amber creates a cinematic vibe of freedom and elegance. Cinematic editorial style with high-resolution realism.",
+      "ai_style": "Cinematic Fashion Editorial",
+      "tags": [
+        "fashion",
+        "ocean",
+        "editorial"
+      ],
+      "likes": 6410,
+      "views": 131800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-230",
+      "title": "Rain City Solitude",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-230.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use the uploaded image of the woman and create a three-quarter body cinematic photograph of a woman wearing a dark trench coat. She stands against a blurred rainy cityscape with reflections. Cool ambient lighting sculpts the water droplets and her face contours. Her expression is pensive yet composed, looking slightly downward. The cool blue and gray palette creates a cinematic mood of mystery and solitude. Dramatic studio realism with ultra-detailed, magazine-level atmosphere.",
+      "ai_style": "Moody Urban Cinematic",
+      "tags": [
+        "fashion",
+        "rain",
+        "urban"
+      ],
+      "likes": 5740,
+      "views": 109600,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-231",
+      "title": "Minimal Black Elegance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-231.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use the uploaded image of the woman and create a mid-shot portrait of a woman wearing a sleek black turtleneck. She stands against a soft beige gradient background. Soft diffused lighting sculpts the folds of her outfit and the contours of her face. Her expression is calm but intense, with her head slightly tilted back. The neutral monochrome palette creates a cinematic mood of elegance and sophistication. Minimalist fashion editorial style with high-resolution cinematic detail.",
+      "ai_style": "Minimalist Fashion Editorial",
+      "tags": [
+        "fashion",
+        "minimal",
+        "editorial"
+      ],
+      "likes": 6120,
+      "views": 118400,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-232",
+      "title": "Desert Red Power",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-232.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use the uploaded image of the woman and create a wide-angle cinematic mid-shot of a woman wearing a flowy red gown. She stands against a glowing desert sunset background. Dramatic natural light sculpts her features and dress movement. Her expression is thoughtful and strong, gazing toward the distance. The fiery red and gold palette creates a mood of strength and freedom. Cinematic realism style with magazine cover aesthetic.",
+      "ai_style": "Cinematic Desert Editorial",
+      "tags": [
+        "fashion",
+        "desert",
+        "cinematic"
+      ],
+      "likes": 6840,
+      "views": 132900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-233",
+      "title": "Golden Field Grace",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-233.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use the uploaded image of the woman and create a low-angle cinematic close-up portrait of a woman wearing a flowing ivory dress. She stands against a sunlit golden field background. Warm natural lighting sculpts her features, emphasizing her eyes and hair strands. Her expression is serene yet powerful, with a soft gaze toward the horizon. The golden and amber color palette creates a cinematic mood of natural elegance and timeless grace. Fashion editorial style with ultra-high detail photography and cinematic atmosphere.",
+      "ai_style": "Golden Hour Editorial",
+      "tags": [
+        "fashion",
+        "golden hour",
+        "elegance"
+      ],
+      "likes": 7020,
+      "views": 141300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-234",
+      "title": "Pastel Serenity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-234.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use the uploaded image of the woman and create a close-up portrait of a female model wearing a soft lavender blouse. She stands against a pastel pink and blue gradient background. Soft pastel glow lighting emphasizes her eyes and smooth complexion. Her expression is gentle and reflective, with eyes closed slightly. The gradient pastel palette creates a cinematic mood of tenderness and elegance. Fashion editorial style with high-resolution professional lighting.",
+      "ai_style": "Pastel Fashion Editorial",
+      "tags": [
+        "fashion",
+        "pastel",
+        "editorial"
+      ],
+      "likes": 6450,
+      "views": 126800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-235",
+      "title": "Garden Gold Pendant",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-235.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use uploaded image of product and create an Indian woman wearing a Gold Pendant with Gold Chain standing in a lush garden, illuminated by dappled afternoon sunlight, captured in a serene, organic atmosphere. The scene emphasizes fine jewelry reflections, natural skin texture, and bokeh light play. 85mm portrait lens with shallow depth of field. The color palette includes soft greens, warm golds, and beige tones. The setting evokes natural luxury, highlighting the pendant’s glow against a blurred floral background. Camera settings: f/1.6 aperture, ISO 160, warm tone grading.",
+      "ai_style": "Jewelry Lifestyle Editorial",
+      "tags": [
+        "jewelry",
+        "gold",
+        "garden"
+      ],
+      "likes": 7310,
+      "views": 149200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-236",
+      "title": "Emerald Garden Gold",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-236.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use uploaded image of product and create a woman wearing a Gold Pendant with Gold Chain standing in a lush green garden, illuminated by soft dappled sunlight through leaves, captured in a serene, natural atmosphere. The scene emphasizes fine jewelry reflections, natural skin texture, and bokeh light play. 85mm portrait lens with shallow depth of field. The color palette includes emerald greens, gold, and sunlit beige tones. The scene evokes a feeling of organic luxury, highlighting the pendant’s radiant glow against a softly blurred garden backdrop. Camera settings: f/1.6 aperture, ISO 160, warm tone grading.",
+      "ai_style": "Luxury Jewelry Garden",
+      "tags": [
+        "jewelry",
+        "gold",
+        "luxury"
+      ],
+      "likes": 7560,
+      "views": 152900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-237",
+      "title": "Sunset Beach Gold",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-237.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use uploaded image of product and create an Indian woman wearing a Gold Pendant with Gold Chain standing on a beach at sunset, illuminated by golden light, captured in a warm, romantic mood. The scene emphasizes wind-blown hair, sun reflections, and fine metal detail. 85mm lens with shallow focus and cinematic tone. The color palette features coral pinks, amber golds, and soft sand tones. The scene evokes aspirational serenity, highlighting the pendant’s glow against a blurred sunset ocean background. Camera settings: f/2.2 aperture, ISO 160, golden tone edit.",
+      "ai_style": "Sunset Jewelry Cinematic",
+      "tags": [
+        "jewelry",
+        "beach",
+        "sunset"
+      ],
+      "likes": 7920,
+      "views": 168400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-238",
+      "title": "Luxury Lounge Gold",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-238.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use uploaded image of product and create a sophisticated woman wearing a Gold Pendant with Gold Chain sitting in an elegant lounge, illuminated by soft window light, captured in a luxurious, cinematic mood. The scene emphasizes HDR metal shine, soft skin tones, and realistic jewelry texture. 70mm lens with 8K ultra realism. The palette features mocha browns, champagne gold, and ivory. The setting evokes refined comfort, highlighting the pendant’s intricate detail against a blurred indoor interior. Camera settings: f/1.4 aperture, ISO 125, soft matte finish.",
+      "ai_style": "Luxury Jewelry Editorial",
+      "tags": [
+        "jewelry",
+        "luxury",
+        "interior"
+      ],
+      "likes": 8210,
+      "views": 174900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-239",
+      "title": "Studio Gold Drama",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-239.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use uploaded image of product and create a glamorous woman wearing a Gold Pendant with Gold Chain standing in a professional studio, illuminated by dramatic spotlights, captured in an elegant, high-contrast mood. The scene emphasizes glossy metal detail, shadow depth, and skin texture realism. 100mm macro lens with HDR cinematic tone. The palette features deep blacks, radiant golds, and soft skin highlights. The atmosphere evokes timeless luxury, focusing on the pendant’s brilliance against a dark gradient background. Camera settings: f/1.2 aperture, ISO 80, high contrast finish.",
+      "ai_style": "High Contrast Jewelry Studio",
+      "tags": [
+        "jewelry",
+        "studio",
+        "luxury"
+      ],
+      "likes": 8640,
+      "views": 183200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-240",
+      "title": "Dark Studio Gold Icon",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-240.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use uploaded image of product and create an Indian woman wearing a Gold Pendant with Gold Chain standing in a dark studio, illuminated by focused spotlights, captured in an elegant, high-contrast mood. The scene emphasizes glossy gold detail, shadow depth, and skin tone realism. 100mm macro lens with HDR cinematic tone. The palette features deep blacks, radiant golds, and soft beige highlights. The atmosphere evokes timeless luxury, focusing on the pendant’s brilliance against a dark gradient background. Camera settings: f/1.2 aperture, ISO 80, high contrast finish.",
+      "ai_style": "Iconic Jewelry Portrait",
+      "tags": [
+        "jewelry",
+        "gold",
+        "portrait"
+      ],
+      "likes": 8920,
+      "views": 191600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-241",
+      "title": "Rainy Window Gold Elegance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-241.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use uploaded image of product and create an elegant Indian female model wearing a Gold Pendant with Gold Chain standing near a rainy window, illuminated by diffused daylight, captured in an editorial, cinematic mood. The scene emphasizes HDR jewelry detail, water droplet reflections, and realistic skin glow. 100mm macro lens with HDR cinematic tone. The color palette features cool silver-grays, muted gold, and ivory tones. The atmosphere evokes calm intimacy, highlighting the pendant’s refined craftsmanship against a rain-streaked glass background. Camera settings: f/2.0 aperture, ISO 200, high dynamic range edit.",
+      "ai_style": "Cinematic Jewelry Editorial",
+      "tags": [
+        "jewelry",
+        "gold",
+        "rain"
+      ],
+      "likes": 7420,
+      "views": 152300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-242",
+      "title": "Balcony Golden Hour Jewelry",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-242.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use uploaded image of product and create a woman wearing a Gold Pendant with Gold Chain standing on a sunlit balcony, illuminated by golden hour backlight, captured in a serene, elegant atmosphere. The scene emphasizes realistic skin pores, natural hair movement, and soft light reflections on metal. 85mm portrait lens with shallow depth of field and 8K ultra realism. The image color palette features warm amber golds, ivory, and soft beige tones. The setting evokes aspirational warmth, highlighting the luminous reflections and fine craftsmanship of the jewelry against a blurred city skyline. Camera settings: f/1.4 aperture, natural ISO balance, soft contrast edit.",
+      "ai_style": "Golden Hour Jewelry Portrait",
+      "tags": [
+        "jewelry",
+        "balcony",
+        "sunset"
+      ],
+      "likes": 7810,
+      "views": 166900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-243",
+      "title": "Luxury Lounge Gold Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-243.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use uploaded image of product and create an Indian woman wearing a Gold Pendant with Gold Chain seated in an elegant lounge, illuminated by window-filtered light, captured in a luxurious, cinematic mood. The scene emphasizes HDR metal shine, soft skin tones, and delicate jewelry texture. 70mm lens with 8K ultra realism. The palette features mocha browns, champagne gold, and ivory. The setting evokes refined comfort, highlighting the pendant’s intricate craftsmanship against a blurred indoor interior. Camera settings: f/1.4 aperture, ISO 125, soft matte finish.",
+      "ai_style": "Luxury Jewelry Interior",
+      "tags": [
+        "jewelry",
+        "luxury",
+        "interior"
+      ],
+      "likes": 8040,
+      "views": 171800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-244",
+      "title": "Indian Patriotic Heritage Art",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-244.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a hyper-realistic and cinematic digital artwork of uploaded image inspired by Indian patriotic and historical themes, featuring a Indian Man as the central figure with a serene yet powerful expression. Include a monumental Indian landmark like India Gate in the background, and a vivid, high-resolution Indian tricolor flag fluttering dynamically in the wind. Surround the composition with elements from the Salt March and blend it with grayscale tones for supporting visuals to create a sense of historical depth. Use a slightly desaturated color palette with vibrant highlights, emphasizing textures like stone, cloth, and atmosphere. Add dramatic lighting and a soft cloudy sky to enhance the mood. Maintain a balance of realism and artistry, with a composition that conveys national pride, sacrifice, and unity. Aspect Ratio 9:16",
+      "ai_style": "Patriotic Cinematic Artwork",
+      "tags": [
+        "patriotic",
+        "india",
+        "history"
+      ],
+      "likes": 9650,
+      "views": 224300,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-245",
+      "title": "Indian Army Pride Artwork",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-245.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a hyper-realistic and cinematic digital artwork inspired by Indian patriotic and historical themes, featuring an Indian army officer as the central figure with a serene yet powerful expression. Include a monumental Indian landmark like the Red Fort in the background, and a vivid, high-resolution Indian tricolor flag fluttering dynamically in the wind. Surround the composition with elements from the Independence Day parade, vintage military vehicles, and marching soldiers, and blend it with grayscale tones for supporting visuals to create a sense of historical depth. Use a slightly desaturated color palette with vibrant highlights, emphasizing textures like stone, cloth, and atmosphere. Add dramatic lighting and a soft cloudy sky to enhance the mood. Maintain a balance of realism and artistry, with a composition that conveys national pride, sacrifice, and unity. Aspect Ratio 9:16",
+      "ai_style": "Military Patriotic Art",
+      "tags": [
+        "army",
+        "patriotism",
+        "india"
+      ],
+      "likes": 10120,
+      "views": 239700,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-246",
+      "title": "Indian Woman Entrepreneur Pride",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-246.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a hyper-realistic and cinematic digital artwork inspired by Indian patriotic and historical themes, featuring a female Indian entrepreneur in traditional saree with a laptop in hand as the central figure with a serene yet powerful expression. Include a monumental Indian landmark like India Gate in the background, and a vivid, high-resolution Indian tricolor flag fluttering dynamically in the wind. Surround the composition with elements from local industries, handmade goods, and scenes of rural women working towards self-reliance, and blend it with grayscale tones for supporting visuals to create a sense of historical depth. Use a slightly desaturated color palette with vibrant highlights, emphasizing textures like stone, cloth, and atmosphere. Add dramatic lighting and a soft cloudy sky to enhance the mood. Maintain a balance of realism and artistry, with a composition that conveys national pride, sacrifice, and unity. Aspect Ratio 9:16",
+      "ai_style": "Women Empowerment Patriotic Art",
+      "tags": [
+        "women",
+        "india",
+        "entrepreneur"
+      ],
+      "likes": 9820,
+      "views": 231400,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-247",
+      "title": "Quit India Movement Tribute",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-247.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a hyper-realistic and cinematic digital artwork inspired by Indian patriotic and historical themes, featuring a Indian man in uploaded image as the central figure with a serene yet powerful expression. Include a monumental Indian landmark like Brihadeeswara Temple in the background, and a vivid, high-resolution Indian tricolor flag fluttering dynamically in the wind. Surround the composition with elements from Quit India Movement protests and blend it with grayscale tones for supporting visuals to create a sense of historical depth. Use a slightly desaturated color palette with vibrant highlights, emphasizing textures like stone, cloth, and atmosphere. Add dramatic lighting and a soft cloudy sky to enhance the mood. Maintain a balance of realism and artistry, with a composition that conveys national pride, sacrifice, and unity. Aspect Ratio 9:16",
+      "ai_style": "Historical Patriotic Art",
+      "tags": [
+        "freedom",
+        "history",
+        "india"
+      ],
+      "likes": 9540,
+      "views": 227600,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-248",
+      "title": "Indian Economic Rise Vision",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-248.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a hyper-realistic and cinematic digital artwork inspired by Indian patriotic and historical themes, featuring a visionary Indian man business leader in a formal suit as the central figure with a serene yet powerful expression. Include a monumental Indian landmark like the Red Fort in the background, and a vivid, high-resolution Indian tricolor flag fluttering dynamically in the wind. Surround the composition with elements from Indiaâ€™s economic resurgence post-independence, such as vintage stock tickers, early factories, and railway lines, and blend it with grayscale tones for supporting visuals to create a sense of historical depth. Use a slightly desaturated color palette with vibrant highlights, emphasizing textures like stone, cloth, and atmosphere. Add dramatic lighting and a soft cloudy sky to enhance the mood. Maintain a balance of realism and artistry, with a composition that conveys national pride, sacrifice, and unity.",
+      "ai_style": "Economic Patriotic Artwork",
+      "tags": [
+        "business",
+        "india",
+        "patriotism"
+      ],
+      "likes": 9270,
+      "views": 219800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-249",
+      "title": "Republic Day Celebration Banner",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-249.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a national celebration banner featuring a national leader in a vivid, tri-color-themed composition inspired by Republic Day. The background should include a sky filled with paragliders trailing tricolor smoke, fluttering flags, and floating clouds in saffron, white, and green, with iconic monuments such as Rashtrapati Bhavan, India Gate, and Lotus Temple placed prominently. The subject should be shown in a celebratory gesture, with layered bold text like '26 January / Jai Hind / Unity in Diversity' arranged vertically or diagonally in stylized typography. Use a color palette dominated by sunset orange, eggshell white, leaf green, with accents of navy and chrome, and incorporate national motifs like doves, conch shells, spinning wheel, and Ashoka Chakra for symbolic richness. Ensure the design reflects a vibrant, festive, and bold tone, using soft light beams, glow effects, or mist to give depth and patriotic emotion. Aspect Ratio 9:16",
+      "ai_style": "Republic Day Graphic Art",
+      "tags": [
+        "republic day",
+        "india",
+        "celebration"
+      ],
+      "likes": 11240,
+      "views": 265900,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-250",
+      "title": "Indian Air Force Salute",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-250.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create an ultra-realistic portrait of a young Indian Air Force man pilot saluting towards the sunrise, wearing a flight suit with a tricolor badge on his chest. He stands confidently against a backdrop of the Indian national flag merging into a watercolor map of India. Use bold typography above him that says \"15th August - Independence Day\" in saffron and brown tones. Lighting should be golden ambient with crisp shadow definition. Add parchment-style background texture, evoking a blend of pride, tradition, and modernity.",
+      "ai_style": "Military Independence Artwork",
+      "tags": [
+        "air force",
+        "independence day",
+        "india"
+      ],
+      "likes": 11890,
+      "views": 284600,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
     }
   ]
 }
