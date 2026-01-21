@@ -40,6 +40,16 @@
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "order": 7
+    },
+    {
+      "category_id": "surreal-art",
+      "category_name": "Surreal / Fantasy",
+      "order": 8
+    },
+    {
+      "category_id": "cgi-advertising",
+      "category_name": "CGI Advertising",
+      "order": 9
     }
   ],
   "prompts": [
@@ -7724,6 +7734,1142 @@
       ],
       "likes": 28750,
       "views": 914600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-401",
+      "title": "Mexican Muralism Portrait Transformation",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-401.jpeg",
+      "category_id": "art-heritage",
+      "category_name": "Cultural Art Styles",
+      "prompt": "Transform the uploaded photo of a person into a Mexican muralism art style, preserving facial structure and expression, dressed in a charro suit with silver spurs, rendered using fresco technique, featuring a colonial plaza wall, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
+      "ai_style": "Mexican Muralism",
+      "tags": [
+        "mexican art",
+        "muralism",
+        "fresco",
+        "cultural portrait"
+      ],
+      "likes": 21450,
+      "views": 702300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-402",
+      "title": "Celtic Illuminated Manuscript Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-402.jpeg",
+      "category_id": "art-heritage",
+      "category_name": "Cultural Art Styles",
+      "prompt": "Transform the uploaded photo of a person into a Celtic illuminated manuscript art style, preserving facial structure and expression, dressed in a Celtic tunic with a torc necklace, rendered using tempera on parchment, featuring knotwork manuscript pages, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
+      "ai_style": "Celtic Illumination",
+      "tags": [
+        "celtic art",
+        "manuscript",
+        "knotwork",
+        "heritage"
+      ],
+      "likes": 19830,
+      "views": 648900,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-403",
+      "title": "Tibetan Thangka Portrait Art",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-403.jpeg",
+      "category_id": "art-heritage",
+      "category_name": "Cultural Art Styles",
+      "prompt": "Transform the uploaded photo of a person into a Tibetan thangka art style, preserving facial structure and expression, dressed in a Tibetan chuba with prayer beads, rendered using mineral pigments on silk, featuring a Himalayan monastery interior, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
+      "ai_style": "Tibetan Thangka",
+      "tags": [
+        "tibetan art",
+        "thangka",
+        "spiritual",
+        "heritage"
+      ],
+      "likes": 22110,
+      "views": 731200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-404",
+      "title": "Kerala Mural Painting Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-404.jpeg",
+      "category_id": "art-heritage",
+      "category_name": "Cultural Art Styles",
+      "prompt": "Transform the uploaded photo of a person into a Kerala mural painting art style, preserving facial structure and expression, dressed in kasavu attire with temple flower garlands, rendered using mineral pigment mural method, featuring a temple wall with vegetal borders, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
+      "ai_style": "Kerala Mural Art",
+      "tags": [
+        "kerala mural",
+        "indian art",
+        "temple art"
+      ],
+      "likes": 23640,
+      "views": 802500,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-405",
+      "title": "Andean Retablo Portrait Art",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-405.jpeg",
+      "category_id": "art-heritage",
+      "category_name": "Cultural Art Styles",
+      "prompt": "Transform the uploaded photo of a person into an Andean retablo art style, preserving facial structure and expression, dressed in a pollera and poncho with woven tassels, rendered using mixed-media wood panel, featuring an Andean mountain village, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
+      "ai_style": "Andean Retablo",
+      "tags": [
+        "andean art",
+        "retablo",
+        "folk art"
+      ],
+      "likes": 18720,
+      "views": 621400,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-406",
+      "title": "Rajasthani Miniature Painting Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-406.jpeg",
+      "category_id": "art-heritage",
+      "category_name": "Cultural Art Styles",
+      "prompt": "Transform the uploaded photo of a person into a Rajasthani miniature painting art style, preserving facial structure and expression, dressed in a royal angarkha with a jeweled turban, rendered using natural pigments on handmade paper, featuring a palace courtyard with jharokha arches, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
+      "ai_style": "Rajasthani Miniature",
+      "tags": [
+        "rajasthani art",
+        "miniature painting",
+        "royal"
+      ],
+      "likes": 25410,
+      "views": 845900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-407",
+      "title": "Chinese Gongbi Portrait Painting",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-407.jpeg",
+      "category_id": "art-heritage",
+      "category_name": "Cultural Art Styles",
+      "prompt": "Transform the uploaded photo of a person into a Chinese gongbi art style, preserving facial structure and expression, dressed in hanfu with a jade hairpin, rendered using fine ink and color on silk, featuring a classical garden pavilion, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
+      "ai_style": "Chinese Gongbi",
+      "tags": [
+        "gongbi",
+        "chinese art",
+        "silk painting"
+      ],
+      "likes": 20980,
+      "views": 688300,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-408",
+      "title": "Kid Birthday Carnival Photoshoot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-408.jpeg",
+      "category_id": "kids-photoshoot",
+      "category_name": "Kids Photography",
+      "prompt": "Professional kid birthday photoshoot featuring a cheerful 5-year-old boy enjoying cotton candy, wearing bright carnival-themed clothes. Styled in bold, colorful, playful tones. Shot with mirrorless 35mm lens, dynamic depth of field. Lighting: warm natural sunlight with highlights. Background: carnival fairground with balloons and banners. Emotions/Vibe: excited, happy, playful. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing fun moments.",
+      "ai_style": "Cinematic Kids Photography",
+      "tags": [
+        "kids",
+        "birthday",
+        "carnival",
+        "photorealistic"
+      ],
+      "likes": 17320,
+      "views": 564700,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-409",
+      "title": "Kid Astronaut Birthday Photoshoot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-409.jpeg",
+      "category_id": "kids-photoshoot",
+      "category_name": "Kids Photography",
+      "prompt": "Professional kid birthday photoshoot featuring a curious 5-year-old boy wearing astronaut costume, playing with space toys. Styled in futuristic, bright tones. Shot with DSLR 50mm lens, shallow depth of field. Lighting: soft ambient studio light with glowing accents. Background: space-themed studio with planets and stars. Emotions/Vibe: imaginative, excited, playful. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing wonder.",
+      "ai_style": "Futuristic Kids Photography",
+      "tags": [
+        "kids",
+        "astronaut",
+        "space theme"
+      ],
+      "likes": 18940,
+      "views": 603800,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-410",
+      "title": "Superhero Kid Birthday Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-410.jpeg",
+      "category_id": "kids-photoshoot",
+      "category_name": "Kids Photography",
+      "prompt": "Professional kid birthday photoshoot featuring a proud 5-year-old boy in superhero costume, standing on a stool with arms raised. Styled in bold comic-inspired colors. Shot with mirrorless 24-70mm lens, cinematic framing. Lighting: bright directional sunlight with soft fill. Background: superhero themed studio backdrop with stars and cityscape graphics. Emotions/Vibe: heroic, imaginative, fun. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing adventure and excitement.",
+      "ai_style": "Comic Cinematic Photography",
+      "tags": [
+        "kids",
+        "superhero",
+        "birthday"
+      ],
+      "likes": 20110,
+      "views": 659200,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-411",
+      "title": "Kid Birthday Airplane Run",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-411.jpeg",
+      "category_id": "kids-photoshoot",
+      "category_name": "Kids Photography",
+      "prompt": "Professional kid birthday photoshoot featuring a happy 5-year-old boy running with a toy airplane, wearing a casual adventure outfit. Styled in bright and airy playful colors. Shot with mirrorless 35mm lens, capturing motion blur and candid action. Lighting: golden hour sunlight. Background: park playground decorated with balloons and banners. Emotions/Vibe: energetic, adventurous, fun-loving. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing childhood joy.",
+      "ai_style": "Cinematic Kids Photography",
+      "tags": [
+        "kids",
+        "birthday",
+        "outdoor",
+        "motion"
+      ],
+      "likes": 17640,
+      "views": 582300,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-412",
+      "title": "Kid Birthday Candle Moment",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-412.jpeg",
+      "category_id": "kids-photoshoot",
+      "category_name": "Kids Photography",
+      "prompt": "Professional kid birthday photoshoot featuring an excited 5-year-old boy blowing out candles, wearing a colorful party hat and suspenders. Styled in vibrant and whimsical tones. Shot with DSLR 50mm lens, crisp focus on the subject. Lighting: natural diffused daylight. Background: lush garden with flowers and balloons. Emotions/Vibe: joyful, celebratory, playful. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing festive fun.",
+      "ai_style": "Editorial Kids Photography",
+      "tags": [
+        "kids",
+        "birthday",
+        "celebration"
+      ],
+      "likes": 18490,
+      "views": 601200,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-413",
+      "title": "Train Conductor Birthday Theme",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-413.jpeg",
+      "category_id": "kids-photoshoot",
+      "category_name": "Kids Photography",
+      "prompt": "Professional kid birthday photoshoot featuring a joyful 5-year-old boy dressed as a train conductor, holding a toy train. Styled in warm, playful tones. Shot with mirrorless 24-70mm lens, cinematic focus. Lighting: bright natural daylight with soft shadows. Background: train station themed setup with balloons and banners. Emotions/Vibe: energetic, playful, happy. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing childhood excitement.",
+      "ai_style": "Themed Kids Photography",
+      "tags": [
+        "kids",
+        "birthday",
+        "train theme"
+      ],
+      "likes": 16920,
+      "views": 548900,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-414",
+      "title": "Soft Indoor Birthday Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-414.jpeg",
+      "category_id": "kids-photoshoot",
+      "category_name": "Kids Photography",
+      "prompt": "Professional kid birthday photoshoot featuring a shy 4-year-old boy sitting at a birthday table with cupcakes, wearing a cute knitted sweater. Styled in soft pastel tones. Shot with DSLR 85mm lens, shallow depth of field, soft bokeh. Lighting: warm indoor ambient glow. Background: cozy living room with minimal birthday decorations. Emotions/Vibe: calm, heartwarming, intimate. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing childhood wonder.",
+      "ai_style": "Soft Portrait Photography",
+      "tags": [
+        "kids",
+        "birthday",
+        "indoor",
+        "pastel"
+      ],
+      "likes": 15840,
+      "views": 501700,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-415",
+      "title": "Rustic Barn Pre-Wedding",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-415.jpeg",
+      "category_id": "pre-wedding",
+      "category_name": "Pre-Wedding Photography",
+      "prompt": "Use the above uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple dressed in rustic chic outfits, sitting on hay bales near a vintage barn. Styled in countryside romantic. Shot with a 50mm prime lens, warm tone edit. Lighting: afternoon sun rays through barn doors. Background: open farm fields with wooden barn backdrop. Emotions/Vibe: cozy, authentic, affectionate, and relaxed. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing heartfelt simplicity.",
+      "ai_style": "Rustic Romantic Photography",
+      "tags": [
+        "pre-wedding",
+        "rustic",
+        "countryside"
+      ],
+      "likes": 24300,
+      "views": 812600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-416",
+      "title": "Beach Sunset Pre-Wedding",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-416.jpeg",
+      "category_id": "pre-wedding",
+      "category_name": "Pre-Wedding Photography",
+      "prompt": "Use the uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple in flowing beachwear, embracing near the shoreline as waves crash gently. Styled in romantic minimalism. Shot with a DSLR 35mm lens, soft focus and cinematic tones. Lighting: golden sunset glow reflecting off the water. Background: tropical beach horizon with warm orange skies. Emotions/Vibe: passionate, serene, affectionate, and relaxed. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing warmth and timeless love.",
+      "ai_style": "Beach Romantic Photography",
+      "tags": [
+        "pre-wedding",
+        "beach",
+        "sunset"
+      ],
+      "likes": 26840,
+      "views": 901300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-417",
+      "title": "Garden Vintage Pre-Wedding",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-417.jpeg",
+      "category_id": "pre-wedding",
+      "category_name": "Pre-Wedding Photography",
+      "prompt": "Use the uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple dressed in vintage-inspired clothing, sitting in a blooming floral garden. Styled in timeless romanticism. Shot with a DSLR 105mm lens, smooth background blur. Lighting: soft afternoon sunlight through blossoms. Background: colorful botanical garden with blooming roses. Emotions/Vibe: gentle, nostalgic, loving, and natural. High-resolution, editorial-quality, cinematic composition, photorealistic details evoking classic romance.",
+      "ai_style": "Vintage Romantic Photography",
+      "tags": [
+        "pre-wedding",
+        "garden",
+        "vintage"
+      ],
+      "likes": 23110,
+      "views": 784500,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-418",
+      "title": "Paris Editorial Pre-Wedding",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-418.jpeg",
+      "category_id": "pre-wedding",
+      "category_name": "Pre-Wedding Photography",
+      "prompt": "Use the above uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple elegantly dressed, walking hand-in-hand near the Eiffel Tower. Styled in Parisian editorial glamour. Shot with a 35mm lens, natural daylight tones. Lighting: morning soft light. Background: romantic Paris streets and landmarks. Emotions/Vibe: chic, passionate, sophisticated, and timeless. High-resolution, editorial-quality, cinematic composition, photorealistic details radiating European elegance.",
+      "ai_style": "Parisian Editorial Photography",
+      "tags": [
+        "pre-wedding",
+        "paris",
+        "editorial"
+      ],
+      "likes": 29450,
+      "views": 1024300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-419",
+      "title": "Waterfall Adventure Pre-Wedding",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-419.jpeg",
+      "category_id": "pre-wedding",
+      "category_name": "Pre-Wedding Photography",
+      "prompt": "Use the above uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple in light clothing standing under a cascading waterfall mist. Styled in natural cinematic beauty. Shot with a DSLR 35mm lens, misty water droplets enhancing mood. Lighting: diffused daylight with natural backlight. Background: lush jungle and waterfall scene. Emotions/Vibe: adventurous, refreshing, and deeply connected. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing emotion and nature.",
+      "ai_style": "Nature Cinematic Photography",
+      "tags": [
+        "pre-wedding",
+        "waterfall",
+        "nature"
+      ],
+      "likes": 25780,
+      "views": 873900,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-420",
+      "title": "Desert Dunes Pre-Wedding",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-420.jpeg",
+      "category_id": "pre-wedding",
+      "category_name": "Pre-Wedding Photography",
+      "prompt": "Use the uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple in flowing neutral-toned outfits walking through golden desert dunes. Styled in boho-luxury. Shot with a 70-200mm telephoto lens, dreamy focus and motion blur. Lighting: warm sunset casting long shadows. Background: vast desert expanse with rippling sand. Emotions/Vibe: romantic, soulful, and tranquil. High-resolution, editorial-quality, cinematic composition, photorealistic details reflecting passion and calm.",
+      "ai_style": "Boho Luxury Photography",
+      "tags": [
+        "pre-wedding",
+        "desert",
+        "boho"
+      ],
+      "likes": 28190,
+      "views": 947600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-421",
+      "title": "Lavender Field Pre-Wedding",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-421.jpeg",
+      "category_id": "pre-wedding",
+      "category_name": "Pre-Wedding Photography",
+      "prompt": "Use the above uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple in white and lavender attire dancing among endless lavender rows. Styled in dreamy rustic elegance. Shot with a 55mm lens, soft focus and creamy tones. Lighting: golden hour illumination with pastel hues. Background: purple lavender fields stretching to the horizon. Emotions/Vibe: serene, tender, and poetic. High-resolution, editorial-quality, cinematic composition, photorealistic details filled with warmth and scent of love.",
+      "ai_style": "Dreamy Rustic Photography",
+      "tags": [
+        "pre-wedding",
+        "lavender",
+        "romantic"
+      ],
+      "likes": 29840,
+      "views": 1042300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-422",
+      "title": "Mountain Peak Pre-Wedding",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-422.jpeg",
+      "category_id": "pre-wedding",
+      "category_name": "Pre-Wedding Photography",
+      "prompt": "Use the uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple wearing elegant trekking outfits, embracing at the edge of a snow-capped mountain peak. Styled in cinematic adventure. Shot with a wide-angle 24mm lens, emphasizing vast landscapes. Lighting: natural high-altitude sunlight with dramatic shadows. Background: panoramic mountain view under clear skies. Emotions/Vibe: adventurous, free-spirited, and emotional. High-resolution, editorial-quality, cinematic composition, photorealistic details reflecting love and freedom.",
+      "ai_style": "Adventure Cinematic Photography",
+      "tags": [
+        "pre-wedding",
+        "mountains",
+        "adventure"
+      ],
+      "likes": 31420,
+      "views": 1128900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-423",
+      "title": "ASOS Style Menswear Stock",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-423.jpeg",
+      "category_id": "fashion-stock",
+      "category_name": "Fashion Stock",
+      "prompt": "A high quality stock photo of an indian man wearing orange nylon bomber jacket in modern ASOS-inspired styling, full body shot, running pose, very short hair, multi color background, 85-mm-lens, The overall style should feature bright, vibrant color accents, ultra-high-definition clarity, crisp edges, and refined visual depth. Aspect Ratio: 4:5.",
+      "ai_style": "Modern Fashion Stock",
+      "tags": [
+        "fashion",
+        "menswear",
+        "asos"
+      ],
+      "likes": 17630,
+      "views": 563400,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-424",
+      "title": "ASOS Style Womenswear Stock",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-424.jpeg",
+      "category_id": "fashion-stock",
+      "category_name": "Fashion Stock",
+      "prompt": "A high quality stock photo of a caucasian girl wearing yellow denim oversized t-shirt in modern ASOS-inspired styling, full body shot, walking pose, long wavy hair, gradient background, 85-mm-lens, The overall style should feature bright, vibrant color accents, ultra-high-definition clarity, crisp edges, and refined visual depth. Aspect Ratio: 4:5.",
+      "ai_style": "Modern Fashion Stock",
+      "tags": [
+        "fashion",
+        "womenswear",
+        "asos"
+      ],
+      "likes": 18390,
+      "views": 598200,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-425",
+      "title": "Emerald Royal Saree Jewelry",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-425.jpeg",
+      "category_id": "jewelry-fashion",
+      "category_name": "Jewelry Photography",
+      "prompt": "Create a hyper-realistic image of a female model wearing a stunning emerald-studded necklace with matching earrings and bracelet. The model is dressed in a royal silk saree with golden zari work, seated elegantly on a marble bench in a palace garden. The lighting should consist of soft golden spotlights and natural daylight to highlight the vibrant emeralds and the intricate saree fabric. Use a Canon EOS R5 with an 85mm f/1.2 lens to capture a full-body shot at a 45° angle. The backdrop is a luxurious palace garden with ornate sculptures and flowing fountains in the blur. The color palette transitions from emerald greens to golds and soft pastels. The jewelry should glimmer with soft, clean reflections. Add a brand logo in the bottom right corner with the tagline \"[Brand Name]\". Place the product code and pricing QR in the lower left. Mood: regal, elegant, and sophisticated. Ideal for royal wedding campaigns.",
+      "ai_style": "Luxury Jewelry Photography",
+      "tags": [
+        "jewelry",
+        "emerald",
+        "wedding"
+      ],
+      "likes": 34210,
+      "views": 1214300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-426",
+      "title": "Emerald Lehenga Jewelry Editorial",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-426.jpeg",
+      "category_id": "jewelry-fashion",
+      "category_name": "Jewelry Photography",
+      "prompt": "Create a hyper-realistic image of a woman wearing an emerald-studded choker with matching dangler earrings and a maang tikka. The model is dressed in a velvet lehenga with intricate zari embroidery, seated gracefully on a velvet antique couch. The lighting should consist of a warm golden spotlight from above paired with soft fill lights to highlight the shimmer of the emeralds and the texture of the fabric. Use a Canon EOS R5 with an 85mm f/1.2 lens to capture a full-body fashion shot at a 45° angle. The backdrop is a royal palace with golden columns blurred in the background. The color palette transitions from golden tones to deep greens, adding depth and richness. The jewelry sparkles with dramatic highlights on every gemstone. Add the brand logo in the bottom right corner. Ideal for fashion magazine campaigns.",
+      "ai_style": "High Fashion Jewelry Editorial",
+      "tags": [
+        "jewelry",
+        "lehenga",
+        "luxury"
+      ],
+      "likes": 32980,
+      "views": 1158900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-427",
+      "title": "Luxury Female Fitness Strength",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-427.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "Professional female fitness photoshoot featuring a muscular female performing strength exercises in high-end, fashion-forward gym wear. Styled in editorial, luxury style. Shot with 85mm lens, crisp focus. Lighting: diffused studio light. Background: modern luxury gym with sleek interiors. Emotions/Vibe: stylish, powerful, confident. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting strength and sophistication.",
+      "ai_style": "Luxury Fitness Editorial",
+      "tags": [
+        "fitness",
+        "female",
+        "strength"
+      ],
+      "likes": 21460,
+      "views": 702300,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-428",
+      "title": "Pilates Resort Fitness",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-428.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "Professional female fitness photoshoot featuring a toned female performing Pilates and light resistance exercises in designer swimwear. Styled in luxurious, cinematic style. Shot with 85mm lens, shallow depth of field. Lighting: soft morning resort sunlight. Background: infinity pool overlooking ocean. Emotions/Vibe: elegant, confident, serene. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting grace and poise.",
+      "ai_style": "Resort Fitness Cinematic",
+      "tags": [
+        "fitness",
+        "pilates",
+        "luxury"
+      ],
+      "likes": 23870,
+      "views": 812400,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-429",
+      "title": "Female Deadlift Power",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-429.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "Professional female fitness photoshoot featuring a muscular female lifter performing deadlifts in fitted gym wear. Styled in gritty, high-contrast gym style. Shot with 70â€“200mm telephoto lens, crisp focus. Lighting: dramatic studio strobes with strong shadows. Background: modern weightlifting gym. Emotions/Vibe: powerful, focused, relentless. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting strength and determination.",
+      "ai_style": "Gritty Gym Photography",
+      "tags": [
+        "fitness",
+        "deadlift",
+        "power"
+      ],
+      "likes": 22140,
+      "views": 689500,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-430",
+      "title": "Female Boxer Action Shot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-430.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "Professional female fitness photoshoot featuring a strong female boxer mid-punch wearing boxing gloves and athletic gear. Styled in dramatic, action-oriented style. Shot with 70â€“200mm lens, motion capture focus. Lighting: studio spotlights with shadows. Background: modern boxing gym with equipment. Emotions/Vibe: fierce, intense, focused. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting power and agility.",
+      "ai_style": "Action Sports Photography",
+      "tags": [
+        "fitness",
+        "boxing",
+        "action"
+      ],
+      "likes": 24780,
+      "views": 834200,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-431",
+      "title": "Beachfront Yoga Serenity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-431.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "Professional female fitness photoshoot featuring a flexible female performing yoga stretches in premium resort activewear. Styled in soft, cinematic tropical style. Shot with 35mm lens, shallow focus. Lighting: sunrise light. Background: pristine beachfront with turquoise water. Emotions/Vibe: peaceful, elegant, poised. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting balance and serenity.",
+      "ai_style": "Tropical Fitness Cinematic",
+      "tags": [
+        "fitness",
+        "yoga",
+        "beach"
+      ],
+      "likes": 26540,
+      "views": 912300,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-432",
+      "title": "Editorial Weightlifting Studio",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-432.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "Professional female fitness photoshoot featuring a strong female performing weightlifting in high-fashion activewear. Styled in minimal, editorial fashion style. Shot with 70â€“200mm lens, crisp focus. Lighting: soft diffused studio light. Background: sleek white studio with modern props. Emotions/Vibe: empowered, stylish, focused. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting strength and elegance.",
+      "ai_style": "Minimal Editorial Fitness",
+      "tags": [
+        "fitness",
+        "weightlifting",
+        "editorial"
+      ],
+      "likes": 24120,
+      "views": 801600,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-433",
+      "title": "Volcanic Resistance Training",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-433.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "Professional female fitness photoshoot featuring a muscular female performing outdoor resistance exercises in heat-resistant activewear. Styled in dramatic, volcanic style. Shot with 70â€“200mm lens, crisp focus. Lighting: intense natural sunlight. Background: molten lava rocks and volcanic terrain. Emotions/Vibe: fearless, strong, determined. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting endurance and resilience.",
+      "ai_style": "Extreme Fitness Cinematic",
+      "tags": [
+        "fitness",
+        "outdoor",
+        "endurance"
+      ],
+      "likes": 28910,
+      "views": 1045600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-434",
+      "title": "Mediterranean Resort Training",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-434.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "Professional female fitness photoshoot featuring a fit female performing functional training in chic resort activewear. Styled in bright, elegant style. Shot with 24â€“70mm lens, crisp focus. Lighting: warm afternoon sunlight. Background: Mediterranean villa terrace with sea view. Emotions/Vibe: empowered, radiant, focused. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting strength and luxury lifestyle.",
+      "ai_style": "Luxury Resort Fitness",
+      "tags": [
+        "fitness",
+        "resort",
+        "luxury"
+      ],
+      "likes": 27360,
+      "views": 958400,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-435",
+      "title": "Retro-Futurist Noir Character",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-435.jpeg",
+      "category_id": "character-art",
+      "category_name": "Character Art",
+      "prompt": "Transform the uploaded photo of person into a high-detail retro-futurist noir character portrait, preserving facial structure, wearing chrome trench exoshell, set in rain-soaked neon megadistrict, with high-contrast sodium haze, ultra-realistic facial features, cinematic depth of field, highly detailed textures, professional concept art quality, sharp focus, 8K resolution, fantasy illustration meets photorealism",
+      "ai_style": "Retro Futurist Noir",
+      "tags": [
+        "character",
+        "noir",
+        "futuristic"
+      ],
+      "likes": 33480,
+      "views": 1423600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-436",
+      "title": "Solarpunk Hero Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-436.jpeg",
+      "category_id": "character-art",
+      "category_name": "Character Art",
+      "prompt": "Transform the uploaded photo of person into a high-detail solar punk epic character portrait, preserving facial structure, wearing photovoltaic hero attire, set in terraced sun gardens, with warm godray sunlight, ultra-realistic facial features, cinematic depth of field, highly detailed textures, professional concept art quality, sharp focus, 8K resolution, fantasy illustration meets photorealism",
+      "ai_style": "Solarpunk Fantasy",
+      "tags": [
+        "character",
+        "solarpunk",
+        "epic"
+      ],
+      "likes": 32190,
+      "views": 1357800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-437",
+      "title": "Dark Cosmic Fantasy Avatar",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-437.jpeg",
+      "category_id": "character-art",
+      "category_name": "Character Art",
+      "prompt": "Transform the uploaded photo of person into a high-detail dark cosmic fantasy character portrait, preserving facial structure, wearing void-touched ceremonial armor, set in eclipsed obsidian temple, with corona eclipse lighting, ultra-realistic facial features, cinematic depth of field, highly detailed textures, professional concept art quality, sharp focus, 8K resolution, fantasy illustration meets photorealism",
+      "ai_style": "Dark Cosmic Fantasy",
+      "tags": [
+        "character",
+        "cosmic",
+        "dark-fantasy"
+      ],
+      "likes": 35620,
+      "views": 1584300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-438",
+      "title": "Post-Apocalyptic Raider",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-438.jpeg",
+      "category_id": "character-art",
+      "category_name": "Character Art",
+      "prompt": "Transform the uploaded photo of person into a high-detail post-apocalyptic sci-fi character portrait, preserving facial structure, wearing scavenged tactical raider suit, set in buried transit megavault, with dust-filtered shaft light, ultra-realistic facial features, cinematic depth of field, highly detailed textures, professional concept art quality, sharp focus, 8K resolution, fantasy illustration meets photorealism",
+      "ai_style": "Post-Apocalyptic Sci-Fi",
+      "tags": [
+        "character",
+        "apocalypse",
+        "sci-fi"
+      ],
+      "likes": 34110,
+      "views": 1498700,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-439",
+      "title": "Mythic Steampunk Warrior",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-439.jpeg",
+      "category_id": "character-art",
+      "category_name": "Character Art",
+      "prompt": "Transform the uploaded photo of person into a high-detail mythic steampunk character portrait, preserving facial structure, wearing brass-clockwork battle coat, set in fog-laced skyport, with ember backlighting, ultra-realistic facial features, cinematic depth of field, highly detailed textures, professional concept art quality, sharp focus, 8K resolution, fantasy illustration meets photorealism",
+      "ai_style": "Steampunk Fantasy",
+      "tags": [
+        "character",
+        "steampunk",
+        "mythic"
+      ],
+      "likes": 32870,
+      "views": 1382400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-440",
+      "title": "Girl Dinner Drop UI Concept",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-440.jpeg",
+      "category_id": "fashion-concept",
+      "category_name": "Fashion Concept Art",
+      "prompt": "A hyperreal fashion mockup titled \"GIRL DINNER DROP\", designed as an interactive outfit-builder UI. The scene features a full-body 3D female character model standing on a minimalist platform, wearing a curated outfit inspired by chaotic girlcore and ironic elegance. The outfit includes:\n– oversized thrifted cardigan\n– delicate silk slip skirt\n– fuzzy pink slippers\nThe left side of the image shows a vertical UI panel with labeled clothing swatches or tiles matching each part of the outfit oversized thrifted cardigan, delicate silk slip skirt, fuzzy pink slippers. The design style is modern, flat, and editorial with clean lines, pastel shadows, and soft drop lighting.\nThe model’s pose is relaxed and confident, perfectly lit under softbox lighting. The background is neutral milky white to keep focus on the outfit and interface. Everything is presented like a fashion drop concept art – ideal for satirical styling, meme fashion collections, or digital outfit archives. Aspect Ratio 9:16.",
+      "ai_style": "Fashion UI Concept",
+      "tags": [
+        "fashion",
+        "ui",
+        "girlcore"
+      ],
+      "likes": 41250,
+      "views": 1924300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-441",
+      "title": "Farmer's Market Drop UI Concept",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-441.jpeg",
+      "category_id": "fashion-concept",
+      "category_name": "Fashion Concept Art",
+      "prompt": "A hyperreal fashion mockup titled \"FARMER'S MARKET DROP\", designed as an interactive outfit-builder UI. The scene features a full-body 3D female character model standing on a minimalist platform, wearing a curated outfit inspired by slow living and cottagecore. The outfit includes:\n– linen wrap top\n– stitched patch skirt\n– wooden clogs\nThe left side of the image shows a vertical UI panel with labeled clothing swatches or tiles matching each part of the outfit linen wrap top, stitched patch skirt, wooden clogs. The design style is modern, flat, and editorial with clean lines, pastel shadows, and soft drop lighting.\nThe model’s pose is relaxed and confident, perfectly lit under softbox lighting. The background is neutral soft cream to keep focus on the outfit and interface. Everything is presented like a fashion drop concept art – ideal for satirical styling, meme fashion collections, or digital outfit archives. Aspect Ratio 9:16.",
+      "ai_style": "Fashion UI Concept",
+      "tags": [
+        "fashion",
+        "cottagecore",
+        "ui"
+      ],
+      "likes": 39840,
+      "views": 1849200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-442",
+      "title": "Rooftop Battle Rope Slam",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-442.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "A powerful action shot of a muscular Indian young and handsome man mid-workout at a rooftop, performing a battle rope slam, wearing tight athletic gear. Lighting is high-contrast split lighting, emphasizing muscle definition. He has a mid-roar, surrounded by an urban skyline. Shot with a 35mm prime lens at a dynamic low angle, with high sharpness and moody tones.",
+      "ai_style": "Urban Fitness Action",
+      "tags": [
+        "fitness",
+        "rooftop",
+        "battle-rope"
+      ],
+      "likes": 28760,
+      "views": 1024300,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-443",
+      "title": "Kettlebell Power Swing",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-443.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "A powerful action shot of a muscular Indian young and handsome man mid-workout at a gym, performing a kettlebell swing, wearing tight athletic gear. Lighting is dramatic with hard shadows, emphasizing muscle definition. He has an intense focus, surrounded by gym equipment. Shot with a 24-70mm zoom lens at low level, with high sharpness and moody tones.",
+      "ai_style": "Gym Strength Action",
+      "tags": [
+        "fitness",
+        "kettlebell",
+        "gym"
+      ],
+      "likes": 26140,
+      "views": 934800,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-444",
+      "title": "Pull-Up Endurance Shot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-444.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "A powerful action shot of a muscular Indian young and handsome man mid-workout at a gym, performing a pull-up, wearing tight athletic gear. Lighting is dramatic with hard shadows, emphasizing muscle definition. He has a deep breath, surrounded by gym equipment. Shot with a 24-70mm zoom lens at low level, with high sharpness and moody tones.",
+      "ai_style": "Strength Training Cinematic",
+      "tags": [
+        "fitness",
+        "pull-up",
+        "strength"
+      ],
+      "likes": 24930,
+      "views": 891200,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-445",
+      "title": "Pull-Up Portrait Angle",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-445.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "A powerful action shot of a muscular Indian young and handsome man mid-workout at a gym, performing a pull-up, wearing tight athletic gear. Lighting is dramatic with hard shadows, emphasizing muscle definition. He has a deep breath, surrounded by gym equipment. Shot with an 85mm portrait lens at a high side angle, with high sharpness and moody tones.",
+      "ai_style": "Fitness Portrait Action",
+      "tags": [
+        "fitness",
+        "portrait",
+        "pull-up"
+      ],
+      "likes": 25510,
+      "views": 912600,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-446",
+      "title": "Kettlebell Strength Focus",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-446.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "A powerful action shot of a muscular Indian young and handsome man mid-workout at a gym, performing a kettlebell swing, wearing tight athletic gear. Lighting is dramatic with hard shadows, emphasizing muscle definition. He has an intense focus, surrounded by gym equipment. Shot with a 24-70mm zoom lens at low level, with high sharpness and moody tones.",
+      "ai_style": "High-Intensity Gym",
+      "tags": [
+        "fitness",
+        "kettlebell",
+        "power"
+      ],
+      "likes": 26880,
+      "views": 961300,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-447",
+      "title": "Industrial Tire Flip",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-447.jpeg",
+      "category_id": "fitness",
+      "category_name": "Fitness Photography",
+      "prompt": "A powerful action shot of a muscular Indian young and handsome man mid-workout at a gym, performing a tire flip, wearing tank top and joggers. Lighting is dramatic with hard shadows, emphasizing muscle definition. He has an intense focus, surrounded by industrial gym equipment. Shot with a 70-200mm telephoto lens at a ground-level upward angle, with high sharpness and moody tones.",
+      "ai_style": "Industrial Strength Fitness",
+      "tags": [
+        "fitness",
+        "tire-flip",
+        "industrial"
+      ],
+      "likes": 30210,
+      "views": 1187400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-448",
+      "title": "AquaGlow Fantasy Waterfall",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-448.jpeg",
+      "category_id": "surreal-art",
+      "category_name": "Surreal Landscape",
+      "prompt": "A surreal, photorealistic landscape where a giant \"AquaGlow\" can is tilted at the top of a lush green mountain, pouring out a massive waterfall of vibrant turquoise liquid. The water cascades down with dramatic splashes and bubbles, forming a wide river that flows through a peaceful valley. Tiny human figures stand along the riverbank, admiring the spectacle. The sky is bright with fluffy clouds and flying birds, and the entire scene is lit with natural, soft sunlight. The mood is imaginative, refreshing, and whimsical, with a hint of fantasy realism. Aspect Ratio 4:5",
+      "ai_style": "Surreal Product Landscape",
+      "tags": [
+        "surreal",
+        "fantasy",
+        "product-art"
+      ],
+      "likes": 36480,
+      "views": 1623400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-449",
+      "title": "MystiFuel Purple Cascade",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-449.jpeg",
+      "category_id": "surreal-art",
+      "category_name": "Surreal Landscape",
+      "prompt": "A surreal, photorealistic landscape where a giant \"MystiFuel\" can is tilted at the top of a lush green mountain, pouring out a massive waterfall of vibrant purple liquid. The water cascades down with dramatic splashes and bubbles, forming a wide river that flows through a peaceful valley. Tiny human figures stand along the riverbank, admiring the spectacle. The sky is bright with fluffy clouds and flying birds, and the entire scene is lit with natural, soft sunlight. The mood is imaginative, refreshing, and whimsical, with a hint of fantasy realism. Aspect Ratio 4:5",
+      "ai_style": "Surreal Product Fantasy",
+      "tags": [
+        "surreal",
+        "purple",
+        "fantasy"
+      ],
+      "likes": 35290,
+      "views": 1559200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-450",
+      "title": "CitrusBlast Orange Falls",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-450.jpeg",
+      "category_id": "surreal-art",
+      "category_name": "Surreal Landscape",
+      "prompt": "A surreal, photorealistic landscape where a giant \"CitrusBlast\" can is tilted at the top of a lush green mountain, pouring out a massive waterfall of vibrant orange liquid. The water cascades down with dramatic splashes and bubbles, forming a wide river that flows through a peaceful valley. Tiny human figures stand along the riverbank, admiring the spectacle. The sky is bright with fluffy clouds and flying birds, and the entire scene is lit with natural, soft sunlight. The mood is imaginative, refreshing, and whimsical, with a hint of fantasy realism. Aspect Ratio 4:5",
+      "ai_style": "Surreal Beverage Fantasy",
+      "tags": [
+        "surreal",
+        "orange",
+        "product-art"
+      ],
+      "likes": 37140,
+      "views": 1687300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-451",
+      "title": "SkyDrop Fantasy Waterfall",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-451.jpeg",
+      "category_id": "surreal-art",
+      "category_name": "Surreal Landscape",
+      "prompt": "A surreal, photorealistic landscape where a giant \"SkyDrop\" can is tilted at the top of a lush green mountain, pouring out a massive waterfall of vibrant sky blue liquid. The water cascades down with dramatic splashes and bubbles, forming a wide river that flows through a peaceful valley. Tiny human figures stand along the riverbank, admiring the spectacle. The sky is bright with fluffy clouds and flying birds, and the entire scene is lit with natural, soft sunlight. The mood is imaginative, refreshing, and whimsical, with a hint of fantasy realism. Aspect Ratio 4:5",
+      "ai_style": "Surreal Product Landscape",
+      "tags": [
+        "surreal",
+        "fantasy",
+        "product-art",
+        "blue"
+      ],
+      "likes": 38240,
+      "views": 1729400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-452",
+      "title": "BerryRush Magenta Cascade",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-452.jpeg",
+      "category_id": "surreal-art",
+      "category_name": "Surreal Landscape",
+      "prompt": "A surreal, photorealistic landscape where a giant \"BerryRush\" can is tilted at the top of a lush green mountain, pouring out a massive waterfall of vibrant magenta liquid. The water cascades down with dramatic splashes and bubbles, forming a wide river that flows through a peaceful valley. Tiny human figures stand along the riverbank, admiring the spectacle. The sky is bright with fluffy clouds and flying birds, and the entire scene is lit with natural, soft sunlight. The mood is imaginative, refreshing, and whimsical, with a hint of fantasy realism. Aspect Ratio 4:5",
+      "ai_style": "Surreal Beverage Fantasy",
+      "tags": [
+        "surreal",
+        "fantasy",
+        "magenta",
+        "product-art"
+      ],
+      "likes": 36910,
+      "views": 1663800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-453",
+      "title": "LemonSpark Yellow Falls",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-453.jpeg",
+      "category_id": "surreal-art",
+      "category_name": "Surreal Landscape",
+      "prompt": "A surreal, photorealistic landscape where a giant \"LemonSpark\" can is tilted at the top of a lush green mountain, pouring out a massive waterfall of vibrant yellow liquid. The water cascades down with dramatic splashes and bubbles, forming a wide river that flows through a peaceful valley. Tiny human figures stand along the riverbank, admiring the spectacle. The sky is bright with fluffy clouds and flying birds, and the entire scene is lit with natural, soft sunlight. The mood is imaginative, refreshing, and whimsical, with a hint of fantasy realism. Aspect Ratio 4:5",
+      "ai_style": "Surreal Citrus Fantasy",
+      "tags": [
+        "surreal",
+        "fantasy",
+        "yellow",
+        "product-art"
+      ],
+      "likes": 39180,
+      "views": 1792500,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-454",
+      "title": "LinkedIn Helicopter CGI Ad",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-454.jpeg",
+      "category_id": "cgi-advertising",
+      "category_name": "CGI Advertising",
+      "prompt": "Create a CGI-style advertisement featuring a helicopter with a colorful, vibrant design that matches the logo colors of the LinkedIn brand. The helicopter should be flying in a clear blue sky, with a few fluffy clouds scattered in the background. Below the helicopter, it is carrying a large 3D LinkedIn logo, suspended by a cable. The brand logo should be bright, bold, and fit seamlessly with the overall vibrant theme of the helicopter. Ensure that the helicopter's colors harmonize with the logo, similar to how the brand colors are integrated into the helicopter's design. The lighting should be bright and natural, with sunlight reflecting off the helicopter's surface and the logo being carried. Aspect Ratio 4:5",
+      "ai_style": "CGI Brand Advertising",
+      "tags": [
+        "cgi",
+        "branding",
+        "linkedin",
+        "advertising"
+      ],
+      "likes": 28460,
+      "views": 1189300,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-455",
+      "title": "FaceBook Helicopter CGI Ad",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-455.jpeg",
+      "category_id": "cgi-advertising",
+      "category_name": "CGI Advertising",
+      "prompt": "Create a CGI-style advertisement featuring a helicopter with a colorful, vibrant design that matches the logo colors of the FaceBook brand. The helicopter should be flying in a clear blue sky, with a few fluffy clouds scattered in the background. Below the helicopter, it is carrying a large 3D FaceBook logo, suspended by a cable. The brand logo should be bright, bold, and fit seamlessly with the overall vibrant theme of the helicopter. Ensure that the helicopter's colors harmonize with the logo, similar to how the brand colors are integrated into the helicopter's design. The lighting should be bright and natural, with sunlight reflecting off the helicopter's surface and the logo being carried. Aspect Ratio 4:5",
+      "ai_style": "CGI Brand Advertising",
+      "tags": [
+        "cgi",
+        "branding",
+        "facebook",
+        "advertising"
+      ],
+      "likes": 30190,
+      "views": 1298400,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-456",
+      "title": "WhatsApp Helicopter CGI Ad",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-456.jpeg",
+      "category_id": "cgi-advertising",
+      "category_name": "CGI Advertising",
+      "prompt": "Create a CGI-style advertisement featuring a helicopter with a colorful, vibrant design that matches the logo colors of the WhatsApp brand. The helicopter should be flying in a clear blue sky, with a few fluffy clouds scattered in the background. Below the helicopter, it is carrying a large 3D WhatsApp logo, suspended by a cable. The brand logo should be bright, bold, and fit seamlessly with the overall vibrant theme of the helicopter. Ensure that the helicopter's colors harmonize with the logo, similar to how the brand colors are integrated into the helicopter's design. The lighting should be bright and natural, with sunlight reflecting off the helicopter's surface and the logo being carried. Aspect Ratio 4:5",
+      "ai_style": "CGI Brand Advertising",
+      "tags": [
+        "cgi",
+        "branding",
+        "whatsapp",
+        "advertising"
+      ],
+      "likes": 32640,
+      "views": 1427100,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-457",
+      "title": "Pinterest Helicopter CGI Ad",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-457.jpeg",
+      "category_id": "cgi-advertising",
+      "category_name": "CGI Advertising",
+      "prompt": "Create a CGI-style advertisement featuring a helicopter with a colorful, vibrant design that matches the logo colors of the Pinterest brand. The helicopter should be flying in a clear blue sky, with a few fluffy clouds scattered in the background. Below the helicopter, it is carrying a large 3D Pinterest logo, suspended by a cable. The brand logo should be bright, bold, and fit seamlessly with the overall vibrant theme of the helicopter. Ensure that the helicopter's colors harmonize with the logo, similar to how the brand colors are integrated into the helicopter's design. The lighting should be bright and natural, with sunlight reflecting off the helicopter's surface and the logo being carried. Aspect Ratio 4:5",
+      "ai_style": "CGI Brand Advertising",
+      "tags": [
+        "cgi",
+        "branding",
+        "pinterest",
+        "advertising"
+      ],
+      "likes": 29480,
+      "views": 1215600,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-458",
+      "title": "YouTube Helicopter CGI Ad",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-458.jpeg",
+      "category_id": "cgi-advertising",
+      "category_name": "CGI Advertising",
+      "prompt": "Create a CGI-style advertisement featuring a helicopter with a colorful, vibrant design that matches the logo colors of the YouTube brand. The helicopter should be flying in a clear blue sky, with a few fluffy clouds scattered in the background. Below the helicopter, it is carrying a large 3D YouTube logo, suspended by a cable. The brand logo should be bright, bold, and fit seamlessly with the overall vibrant theme of the helicopter. Ensure that the helicopter's colors harmonize with the logo, similar to how the brand colors are integrated into the helicopter's design. The lighting should be bright and natural, with sunlight reflecting off the helicopter's surface and the logo being carried. Aspect Ratio 4:5",
+      "ai_style": "CGI Brand Advertising",
+      "tags": [
+        "cgi",
+        "branding",
+        "youtube",
+        "advertising"
+      ],
+      "likes": 34710,
+      "views": 1542800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-459",
+      "title": "Instagram Helicopter CGI Ad",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-459.jpeg",
+      "category_id": "cgi-advertising",
+      "category_name": "CGI Advertising",
+      "prompt": "Create a CGI-style advertisement featuring a helicopter with a colorful, vibrant design that matches the logo colors of the Instagram brand. The helicopter should be flying in a clear blue sky, with a few fluffy clouds scattered in the background. Below the helicopter, it is carrying a large 3D Instagram logo, suspended by a cable. The brand logo should be bright, bold, and fit seamlessly with the overall vibrant theme of the helicopter. Ensure that the helicopter's colors harmonize with the logo, similar to how the brand colors are integrated into the helicopter's design. The lighting should be bright and natural, with sunlight reflecting off the helicopter's surface and the logo being carried. Aspect Ratio 4:5",
+      "ai_style": "CGI Brand Advertising",
+      "tags": [
+        "cgi",
+        "branding",
+        "instagram",
+        "advertising"
+      ],
+      "likes": 36280,
+      "views": 1684900,
       "is_premium": true,
       "is_recommended": true,
       "is_trending": true
