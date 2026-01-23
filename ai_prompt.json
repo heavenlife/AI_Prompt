@@ -132,10 +132,10 @@
     {
       "id": "ai-5",
       "title": "Social Media Influencer Scene",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-5.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-5.png",
       "category_id": "social-1",
       "category_name": "Social / Lifestyle",
-      "prompt": "Create a photo realistic-looking image using the provided photo as reference for the face and body. A full shot of a young woman with dark hair, styled in soft waves. She is wearing a white spaghetti strep tank crop top with a stylish logo \"Ai prompts by S.K.\" and black tidy mini shorts, along with sports shoes. She is seated confidently on a 2-foot vibrant Instagram logo stool, slightly angled towards the viewer. Behind her, on the left side, a giant smartphone screen is displayed vertically, showing an \"Ai prompts by S.K.\" social media profile with \"10 M followers\" (use the uploaded photo as the profile picture). To the lower right, an oversized 1-foot high, vibrant Facebook logo is placed on the floor, with a small white coffee cup with a TikTok logo resting on it. The background is a clean, minimalist grey. The lighting is even and professional, highlighting the textures of her clothing and the subtle reflections on the phone screen and Facebook logo.\nUse uploaded photo as reference face and body 100%.",
+      "prompt": "Potret ekspresif dan penuh warna dari seorang pria (foto yang terupload) yang menatap ke atas dengan rasa takjub dan keingintahuan seperti anak kecil. la mengenakan kacamata besar berwarna oranye terang dengan lensa berwarna penuh yang lembut menyebarkan cahaya. Wajahnya dirender menggunakan goresan sketsa hitam yang tebal dan dinamis-longgar namun penuh intensi-menangkap emosi mentah dan karakter yang kuat. Latar belakang tersusun dari lapisan halaman koran bertekstur, terlihat jelas namun menyatu secara organik. Percikan cat energik berwarna biru cerah dan oranye hangat meledak di seluruh komposisi, menambah kesan gerak dan kontras. Karya ini memadukan realisme dengan ekspresionisme abstrak secara mulus, membangkitkan tema kepolosan, harapan, imajinasi, dan kebebasan kreatif. Tekstur painterly, kontras tinggi, dan estetika editorial fine-art, Rasio 3:4.",
       "ai_style": "Photorealistic",
       "tags": [
         "social",
@@ -361,10 +361,10 @@
     {
       "id": "ai-17",
       "title": "Paragliding Ocean Adventure",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-17.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-17.png",
       "category_id": "nature-1",
       "category_name": "Nature / Outdoor",
-      "prompt": "Create an aerial shot of [reference woman from the attached photo], preserving her exact facial features and identity with maximum accuracy.\nHigh-resolution action photography, ultra-realistic, wide-angle lens.\nLow perspective from a selfie stick, full-body shot against an expansive tropical ocean and vibrant coastline.\n[Reference woman from the photo] is paragliding over the coast, suspended in a paragliding harness with her legs freely dangling. She is wearing a black bikini and simple flip-flops.\nShe holds a selfie stick in her left hand pointed toward herself and a paragliding control handle in her right hand.\nBright natural daylight, clear sky, dynamic motion, sharp focus, cinematic composition, realistic proportions, no face alteration, no stylization, true-to-life appearance based strictly on the reference photo.\nUse uploaded photo as reference face and body 100%.",
+      "prompt": "A hyper-realistic FIFA Ultimate Team TOTY player card, rating 107 CF.\nA young male footballer wearing a BARCELONA -style jersey, name\n\"ZAID Sheik\" with number 10 on the back, kissing the UEFA CHAMPIONS LEAGUE trophy.\nBlue and gold Team of the Year card\ndesign, royal gold frame with crystalline blue shards and glowing particles.\nStadium background blurred with\ncinematic depth of field.\nPremium EA Sports FC style card layout\nUltra-detailed lighting, dramatic\nhighlights, sharp focus, 4K resolution.Player stats displayed at the bottom:\nPAC 99, SHO 99, PAS 98, DRI 99, DEF 85, PHY 95.\nProfessional sports poster look, glossy\nfinish, epic and legendary mood.",
       "ai_style": "Action Realism",
       "tags": [
         "paragliding",
@@ -418,10 +418,10 @@
     {
       "id": "ai-20",
       "title": "Neon Couple Bed Scene",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-20.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-20.png",
       "category_id": "social-1",
       "category_name": "Social / Lifestyle",
-      "prompt": "Subject & Pose: > \"A high-angle, top-down full-body shot of a couple lying on a bed. The man is lying flat on his back, arms spread slightly to his sides, wearing a red t-shirt and black shorts. A woman is positioned diagonally across him; she is lying on her side/stomach, resting her head on his chest while her right leg is hooked over his thighs and her foot rests near his calf. Her body creates a diagonal line across the frame.\"\n\u200BDetails & Composition:\n\u200B\"The woman curvaceous hugging figure is wearing pink plain spaghetti strep tank crop top and high waist pink patterned mini short. The man, One of his arms is tucked under her while his other hand holds a plush toy against his side. The lighting is dominated by a deep blue and purple neon ambient glow, creating high-contrast shadows. The bed has a white ribbed mattress cover and a tall, beige upholstered headboard in the background.\"\n\u200BStyle: > \"Candid lifestyle photography, cinematic lighting, sharp focus on the textures of the fabric and skin, 8k resolution, realistic proportions.\"\n\u200BWhy this works:\n\u200BGeometric Description: By describing the \"diagonal line\" and the \"high-angle,\" you tell the AI exactly where to place the limbs.\n\u200BPositional Anchors: Phrases like \"hooked over his thighs\" and \"resting her head on his chest\" ensure the subjects are physically connected rather than just floating near each other.\n\u200BEnvironment Context: Mentioning the blue/purple lighting helps the AI understand the mood and depth of the scene. Use uploaded photos as reference face and body 100%.",
+      "prompt": "Extremely sharp ultra-photorealistic full body photo of a professional man working in a luxury executive office cabin, using uploaded reference face with exact identity match, crystal clear skin texture with visible pores, sharp beard hair strands, wearing dark navy tailored suit, white shirt, polished leather shoes, sitting behind wooden desk with laptop, documents, pen holder, city skyline visible through floor-to-ceiling glass window, strong natural daylight, hard edge lighting, zero motion blur, high contrast, micro details in fabric and skin, shot on professional DSLR, studio quality, ultra sharp focus, hyper detailed, 16K resolution, real life corporate photography.",
       "ai_style": "Cinematic Lifestyle",
       "tags": [
         "couple",
@@ -725,7 +725,7 @@
       "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-36.png",
       "category_id": "social-1",
       "category_name": "Social / Lifestyle",
-      "prompt": "4:5 vertical waist-up portrait of a curvy young woman and man with identical facial identity inside a luxury car at night. Leaning back across the seat, one arm extended along the cushion, head slightly turned with direct, confident gaze and softly parted lips. Glitter spaghetti-strap crop top with deep V neckline, blue jeans and dark belt, crystal drop earrings and layered necklaces. Dark leather interior, panoramic roof, on-camera flash creating crisp highlights and deep cabin shadows.Don't change your original face and body shape",
+      "prompt": "A hyper-realistic, surreal 3D masterpiece depicting a dynamic scene where a man with uploaded face as reference (the reference image is myself not public figure) is physically bursting through the surface of a giant, weathered King of Spades playing card. The subject is adorned in opulent royal regalia, specifically a deep crimson velvet sherwani heavily embroidered with intricate gold thread patterns and a majestic golden crown encrusted with red gemstones. He leans forward with intensity, his right hand reaching out toward the camera lens in a forced perspective gesture, breaking the fourth wall. The playing card itself is rendered not as paper but as a thick, brittle plaster or concrete material, shattering explosively around his form; jagged stone fragments, floating debris, and fine dust particles are suspended in mid-air, caught in the split-second of impact. The lighting is cinematic and dramatic, utilizing high-contrast studio lighting to accentuate the metallic sheen of the gold, the texture of the velvet, and the volumetric shadows cast by the flying debris. The composition is centered and symmetrical, set against a dark, matte void background to emphasize the subject, rendered in 8k resolution with Octane Render quality, raytracing, and tactile, high-fidelity textures.",
       "ai_style": "Luxury Night Photography",
       "tags": [
         "luxury",
@@ -1045,10 +1045,10 @@
     {
       "id": "ai-53",
       "title": "Asian Cafe Action Portrait",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-53.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-53.png",
       "category_id": "social-1",
       "category_name": "Social / Lifestyle",
-      "prompt": "A stunning Asian woman with fair complexion, short pixie cut, wearing traditional cultural dress and stilettos, adorned with sunglasses, dynamic action pose, in cafe, bird's eye view, shot on Google Pixel 8 Pro, photorealistic, ultra-detailed, professional photography, 8k resolution, cinematic lighting",
+      "prompt": "Create a hyper-realistic portrait illustration based on the provided photograph. The artwork must accurately replicate the subject with precise likeness and high-detail rendering. Present the face in an intense, emotionally charged expression, captured from a dramatic close-up with a slightly low-angle perspective. Depict the hair as windswept and dynamic, with sharp, defined strands that convey movement.Use bright, even lighting to produce soft highlights  on the skin and hair, revealing detailed skin texture, fine pores, natural shadows, and vivid reflections in the eyes. Dress the subject in an oversized black hoodie that appears natural and well-integrated into the scene. Set the subject against a solid, bold background color—such as vibrant yellow—to create strong visual contrast and impact.The final illustration should blend semi-photorealistic and semi-illustrative aesthetics, characteristic of modern poster art, emphasizing dynamic energy, clarity, vibrant colors, and sharp, high-resolution edges. Use my picture for reference don't change it. Half body shot.",
       "ai_style": "Lifestyle Cinematic",
       "tags": [
         "asian",
@@ -5118,7 +5118,7 @@
     {
       "id": "ai-267",
       "title": "HEART HERO Cardiologist Action Figure",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-267.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-267.jpeg",
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "prompt": "Create a photorealistic action figure of Dr. James Walker (Cardiologist) in a blister pack, styled like a premium collectible toy. The figure should be posed standing upright. The blister pack should have a hospital blue header with the text 'HEART HERO' in large white letters and below it, in smaller red letters. Include accessories in compartments on the right side of the figure: a stethoscope, an EKG monitor, a clipboard, and a blood pressure cuff with a Mayo Clinic logo on it. The background of the blister pack should be black. Ensure the action figure retains facial features and general appearance, with a smiling expression, and render the image in high detail with a photorealistic quality.",
@@ -5138,7 +5138,7 @@
     {
       "id": "ai-268",
       "title": "KING KOHLI Cricket Action Figure",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-268.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-268.jpeg",
       "category_id": "sports",
       "category_name": "Sports",
       "prompt": "Create a photorealistic action figure of Male Cricket Player - Virat Kohli in a blister pack, styled like a premium collectible toy. The figure should be posed standing upright. The blister pack should have a royal blue header with the text 'KING KOHLI' in large white letters and below it, in smaller gold letters. Include accessories in compartments on the right side of the figure: a cricket bat, a helmet, a pair of gloves, and a trophy with a Nike logo on it. The background of the blister pack should be black. Ensure the action figure retains my facial features and general appearance from the uploaded photo, with a smiling expression, and render the image in high detail with a photorealistic quality.",
@@ -5158,7 +5158,7 @@
     {
       "id": "ai-269",
       "title": "BBQ KING Pitmaster Action Figure",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-269.jpg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-269.jpeg",
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "prompt": "Create a photorealistic action figure of a male barbecue pitmaster in a blister pack, styled like a premium collectible toy. The figure should be posed standing upright. The blister pack should have a dark brown header with the text 'BBQ KING' in large white letters and below it, in smaller orange letters. Include accessories in compartments on the right side of the figure: a pair of tongs, a meat thermometer, a bottle of BBQ sauce, and a grill lid with a FlameBroz logo on it. The background of the blister pack should be black. Ensure the action figure retains facial features and general appearance, with a smiling expression, and render the image in high detail with a photorealistic quality.",
@@ -8870,6 +8870,818 @@
       ],
       "likes": 36280,
       "views": 1684900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-460",
+      "title": "Red Dress Dance Artistic Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-460.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "a woman with a red dress does a dance, in the style of dimitry roulland, lilia alvarado, light and dark contrast, hispanicore, uhd image, flickr, mark lovett --no watermark --ar 4:3 --style raw",
+      "ai_style": "Cinematic Dance Art",
+      "tags": [
+        "dance",
+        "red dress",
+        "cinematic",
+        "artistic",
+        "motion"
+      ],
+      "likes": 21450,
+      "views": 984200,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-461",
+      "title": "Expressive Red Dress Dance Scene",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-461.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "a woman with a red dress does a dance, in the style of dimitry roulland, lilia alvarado, light and dark contrast, hispanicore, uhd image, flickr, mark lovett --no watermark --ar 4:3 --style raw",
+      "ai_style": "Cinematic Dance Art",
+      "tags": [
+        "dance",
+        "performance",
+        "dramatic lighting",
+        "motion"
+      ],
+      "likes": 19830,
+      "views": 872100,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-462",
+      "title": "Hispanicore Dance Motion Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-462.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "a woman with a red dress does a dance, in the style of dimitry roulland, lilia alvarado, light and dark contrast, hispanicore, uhd image, flickr, mark lovett --no watermark --ar 4:3 --style raw",
+      "ai_style": "Expressive Motion Photography",
+      "tags": [
+        "dance",
+        "hispanicore",
+        "fine art",
+        "movement"
+      ],
+      "likes": 17640,
+      "views": 801900,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-463",
+      "title": "Cinematic Red Dress Performance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-463.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "a woman with a red dress does a dance, in the style of dimitry roulland, lilia alvarado, light and dark contrast, hispanicore, uhd image, flickr, mark lovett --no watermark --ar 4:3 --style raw",
+      "ai_style": "High Contrast Dance Visual",
+      "tags": [
+        "dance",
+        "cinematic",
+        "contrast",
+        "editorial"
+      ],
+      "likes": 16290,
+      "views": 744500,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-464",
+      "title": "Peaceful Park Music Moment",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-464.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "a young woman sits on a park bench listening to music on her headphones, she is surrounded by trees and flowers, and the sun is shining through the leaves. she looks peaceful and content, the woman is framed by the trees and flowers, and the sun is shining behind her head. this creates a sense of tranquility and peace, the natural light is soft and diffused, creating a warm and inviting atmosphere, the image is post-processed to enhance the colors and contrast, and to add a subtle vignette, a wide-angle lens to capture the full scene, documentary, iso 100, f/11, 1/200 sec, commercial photography, hasselblad, photorealistic, in the style of ultrafine detail, high quality photo, eye-catching detail, realistic hyper-detail, 32k uhd, in the style of focus stacking, focus on joints/connections, stockphoto, contest winner, advertising-inspired, digitally enhanced, large-scale --no watermark --ar 65:48",
+      "ai_style": "Lifestyle Documentary Photography",
+      "tags": [
+        "lifestyle",
+        "music",
+        "peaceful",
+        "nature",
+        "stockphoto"
+      ],
+      "likes": 28940,
+      "views": 1348200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-465",
+      "title": "Tranquil Park Headphone Lifestyle",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-465.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "a young woman sits on a park bench listening to music on her headphones, she is surrounded by trees and flowers, and the sun is shining through the leaves. she looks peaceful and content, the woman is framed by the trees and flowers, and the sun is shining behind her head. this creates a sense of tranquility and peace, the natural light is soft and diffused, creating a warm and inviting atmosphere, the image is post-processed to enhance the colors and contrast, and to add a subtle vignette, a wide-angle lens to capture the full scene, documentary, iso 100, f/11, 1/200 sec, commercial photography, hasselblad, photorealistic, in the style of ultrafine detail, high quality photo, eye-catching detail, realistic hyper-detail, 32k uhd, in the style of focus stacking, focus on joints/connections, stockphoto, contest winner, advertising-inspired, digitally enhanced, large-scale --no watermark --ar 65:48",
+      "ai_style": "Natural Light Lifestyle",
+      "tags": [
+        "park",
+        "music",
+        "relaxation",
+        "nature"
+      ],
+      "likes": 24110,
+      "views": 1194300,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-466",
+      "title": "Serene Outdoor Music Lifestyle Shot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-466.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "a young woman sits on a park bench listening to music on her headphones, she is surrounded by trees and flowers, and the sun is shining through the leaves. she looks peaceful and content, the woman is framed by the trees and flowers, and the sun is shining behind her head. this creates a sense of tranquility and peace, the natural light is soft and diffused, creating a warm and inviting atmosphere, the image is post-processed to enhance the colors and contrast, and to add a subtle vignette, a wide-angle lens to capture the full scene, documentary, iso 100, f/11, 1/200 sec, commercial photography, hasselblad, photorealistic, in the style of ultrafine detail, high quality photo, eye-catching detail, realistic hyper-detail, 32k uhd, in the style of focus stacking, focus on joints/connections, stockphoto, contest winner, advertising-inspired, digitally enhanced, large-scale --no watermark --ar 65:48",
+      "ai_style": "Editorial Lifestyle Photography",
+      "tags": [
+        "documentary",
+        "peace",
+        "music",
+        "outdoor"
+      ],
+      "likes": 22780,
+      "views": 1116900,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-467",
+      "title": "Calm Park Listening Editorial Scene",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-467.jpg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "a young woman sits on a park bench listening to music on her headphones, she is surrounded by trees and flowers, and the sun is shining through the leaves. she looks peaceful and content, the woman is framed by the trees and flowers, and the sun is shining behind her head. this creates a sense of tranquility and peace, the natural light is soft and diffused, creating a warm and inviting atmosphere, the image is post-processed to enhance the colors and contrast, and to add a subtle vignette, a wide-angle lens to capture the full scene, documentary, iso 100, f/11, 1/200 sec, commercial photography, hasselblad, photorealistic, in the style of ultrafine detail, high quality photo, eye-catching detail, realistic hyper-detail, 32k uhd, in the style of focus stacking, focus on joints/connections, stockphoto, contest winner, advertising-inspired, digitally enhanced, large-scale --no watermark --ar 65:48",
+      "ai_style": "Stock Lifestyle Photography",
+      "tags": [
+        "stock",
+        "music",
+        "nature",
+        "calm"
+      ],
+      "likes": 21940,
+      "views": 1063800,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-468",
+      "title": "Women Hairstyle Grid 3x3",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-468.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of Indian woman, generate a 1:1 square image featuring 3×3 grid of 9 different hairstyles applied to the same person. Each of the 9 hairstyle variations should be clearly separated in the grid and include the hairstyle name. Keep the person’s face, expression, skin tone, lighting, outfit, accessories and background identical to the original uploaded photo only the hairstyles should change.",
+      "ai_style": "AI Hairstyle Try-On Grid",
+      "tags": [
+        "hairstyle",
+        "tryon",
+        "grid",
+        "beauty",
+        "ai portrait"
+      ],
+      "likes": 28450,
+      "views": 1423000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-469",
+      "title": "Indian Woman Hairstyle Comparison",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-469.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of Indian woman, generate a 1:1 square image featuring 3×3 grid of 9 different hairstyles applied to the same person. Each of the 9 hairstyle variations should be clearly separated in the grid and include the hairstyle name. Keep the person’s face, expression, skin tone, lighting, outfit, accessories and background identical to the original uploaded photo only the hairstyles should change.",
+      "ai_style": "AI Hairstyle Visualization",
+      "tags": [
+        "hair",
+        "makeover",
+        "comparison",
+        "ai face"
+      ],
+      "likes": 26120,
+      "views": 1298400,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-470",
+      "title": "Square Hairstyle Try-On Grid",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-470.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of Indian woman, generate a 1:1 square image featuring 3×3 grid of 9 different hairstyles applied to the same person. Each of the 9 hairstyle variations should be clearly separated in the grid and include the hairstyle name. Keep the person’s face, expression, skin tone, lighting, outfit, accessories and background identical to the original uploaded photo only the hairstyles should change.",
+      "ai_style": "Identity-Preserved Hair AI",
+      "tags": [
+        "hairstyles",
+        "identity",
+        "beauty ai"
+      ],
+      "likes": 24780,
+      "views": 1184300,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-471",
+      "title": "Men Hairstyle Grid 3x3",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-471.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of Indian Man, generate a 1:1 square image featuring 3×3 grid of 9 different hairstyles applied to the same person. Each of the 9 hairstyle variations should be clearly separated in the grid and include the hairstyle name. Keep the person’s face, expression, skin tone, lighting, outfit, accessories and background identical to the original uploaded photo only the hairstyles should change.",
+      "ai_style": "Men Hairstyle Grid",
+      "tags": [
+        "mens hair",
+        "style grid",
+        "ai grooming"
+      ],
+      "likes": 23110,
+      "views": 1105900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-472",
+      "title": "Male Hairstyle Try-On Grid",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-472.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of Indian man, generate a 1:1 square image featuring 3×3 grid of 9 different hairstyles applied to the same person. Each of the 9 hairstyle variations should be clearly separated in the grid and include the hairstyle name. Keep the person’s face, expression, skin tone, lighting, outfit, accessories and background identical to the original uploaded photo only the hairstyles should change.",
+      "ai_style": "Haircut Preview AI",
+      "tags": [
+        "men",
+        "haircut",
+        "try on"
+      ],
+      "likes": 21940,
+      "views": 1042100,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-473",
+      "title": "AI Hair Grid for Men",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-473.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of Indian man, generate a 1:1 square image featuring 3×3 grid of 9 different hairstyles applied to the same person. Each of the 9 hairstyle variations should be clearly separated in the grid and include the hairstyle name. Keep the person’s face, expression, skin tone, lighting, outfit, accessories and background identical to the original uploaded photo only the hairstyles should change.",
+      "ai_style": "AI Grooming Preview",
+      "tags": [
+        "hair ai",
+        "face preserved",
+        "style"
+      ],
+      "likes": 20870,
+      "views": 986500,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-474",
+      "title": "Multi-View Hair Try-On Side Part",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-474.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of man, generate a photorealistic multi-view hairstyle try-on showing front view, side view, back view. Keep the person’s face, facial structure, expression, skin tone, lighting, camera quality, outfit, and accessories, exactly identical to the original image. Change only the hairstyle to deep side-parted layered hair, with dark chocolate brown hair color. Identical background premium salon interior. Ensure seamless identity preservation, realistic hair flow from every angle, accurate hairline, natural shadows, and studio-quality realism.",
+      "ai_style": "Photoreal Hair Try-On",
+      "tags": [
+        "multi view",
+        "salon",
+        "hair ai"
+      ],
+      "likes": 30210,
+      "views": 1564200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-475",
+      "title": "Textured Quiff Hair Try-On",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-475.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of man, generate a photorealistic multi-view hairstyle try-on showing front view, side view, back view. Keep the person’s face, facial structure, expression, skin tone, lighting, camera quality, outfit, and accessories, exactly identical to the original image. Change only the hairstyle to textured quiff, with dark ash black hair color. Identical background modern barbershop interior. Ensure seamless identity preservation, realistic hair flow from every angle, accurate hairline, natural shadows, and studio-quality realism.",
+      "ai_style": "Barbershop Hair AI",
+      "tags": [
+        "quiff",
+        "barber",
+        "haircut"
+      ],
+      "likes": 29180,
+      "views": 1493300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-476",
+      "title": "Blunt Bob Hairstyle Try-On",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-476.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of woman, generate a photorealistic multi-view hairstyle try-on showing front view, side view, back view. Keep the person’s face, facial structure, expression, skin tone, lighting, camera quality, outfit, and accessories, exactly identical to the original image. Change only the hairstyle to chin-length blunt bob, with warm caramel hair color. Identical background bright natural light room. Ensure seamless identity preservation, realistic hair flow from every angle, accurate hairline, natural shadows, and studio-quality realism.",
+      "ai_style": "Women Hair AI",
+      "tags": [
+        "bob cut",
+        "women",
+        "hair ai"
+      ],
+      "likes": 31540,
+      "views": 1628700,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-477",
+      "title": "Long Beach Waves Try-On",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-477.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of fashion influencer woman, generate a photorealistic multi-view hairstyle try-on showing front view, side view, back view. Keep the person’s face, facial structure, expression, skin tone, lighting, camera quality, outfit, and accessories, exactly identical to the original image. Change only the hairstyle to long beachy layers, with ash blonde hair color. Identical background luxury loft interior. Ensure seamless identity preservation, realistic hair flow from every angle, accurate hairline, natural shadows, and studio-quality realism.",
+      "ai_style": "Influencer Hair Try-On",
+      "tags": [
+        "beach hair",
+        "luxury",
+        "fashion ai"
+      ],
+      "likes": 33890,
+      "views": 1782400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-478",
+      "title": "Classic Side Part Hairstyle",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-478.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of man, generate a photorealistic multi-view hairstyle try-on showing front view, side view, back view. Keep the person’s face, facial structure, expression, skin tone, lighting, camera quality, outfit, and accessories, exactly identical to the original image. Change only the hairstyle to classic side part, with medium golden brown hair color. Identical background neutral gray wall. Ensure seamless identity preservation, realistic hair flow from every angle, accurate hairline, natural shadows, and studio-quality realism.",
+      "ai_style": "Classic Hair AI",
+      "tags": [
+        "side part",
+        "men style",
+        "realistic"
+      ],
+      "likes": 26430,
+      "views": 1325600,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-479",
+      "title": "Fade Haircut Try-On",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-479.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of man, generate a photorealistic multi-view hairstyle try-on showing front view, side view, back view. Keep the person’s face, facial structure, expression, skin tone, lighting, camera quality, outfit, and accessories, exactly identical to the original image. Change only the hairstyle to fade haircut, with black hair color. Identical background plain wall. Ensure seamless identity preservation, realistic hair flow from every angle, accurate hairline, natural shadows, and studio-quality realism.",
+      "ai_style": "Fade Haircut AI",
+      "tags": [
+        "fade",
+        "barber ai",
+        "mens hair"
+      ],
+      "likes": 27980,
+      "views": 1412100,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-480",
+      "title": "Long Wavy Surfer Hair Try-On",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-480.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of man, generate a photorealistic multi-view hairstyle try-on showing front view, side view, back view. Keep the person’s face, facial structure, expression, skin tone, lighting, camera quality, outfit, and accessories, exactly identical to the original image. Change only the hairstyle to long wavy surfer hair, with sun-kissed dark brown hair color. Identical background beach-inspired studio. Ensure seamless identity preservation, realistic hair flow from every angle, accurate hairline, natural shadows, and studio-quality realism.",
+      "ai_style": "Surfer Hair AI",
+      "tags": [
+        "long hair",
+        "surfer",
+        "hairstyle ai"
+      ],
+      "likes": 32210,
+      "views": 1695400,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-481",
+      "title": "Asymmetrical Sleek Bob Hair Try-On",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-481.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Using the uploaded photo of urban professional woman, generate a photorealistic multi-view hairstyle try-on showing front view, side view, back view. Keep the person’s face, facial structure, expression, skin tone, lighting, camera quality, outfit, and accessories, exactly identical to the original image. Change only the hairstyle to asymmetrical sleek bob, with jet black hair color. Identical background contemporary hair studio. Ensure seamless identity preservation, realistic hair flow from every angle, accurate hairline, natural shadows, and studio-quality realism.",
+      "ai_style": "Photoreal Hair Try-On",
+      "tags": [
+        "hairstyle",
+        "bob cut",
+        "identity preserved",
+        "ai portrait"
+      ],
+      "likes": 34120,
+      "views": 1784300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-482",
+      "title": "New Year Festival Lifestyle Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-482.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Ultra-realistic festival lifestyle photography of young man wearing tailored festive blazer made of velvet, celebrating New Year in a modern rooftop lounge, joyful facial expressions, natural body language, warm festive lighting, professional fashion photoshoot quality, shallow depth of field, cinematic color grading, 8k resolution.",
+      "ai_style": "Festival Lifestyle Photography",
+      "tags": [
+        "festival",
+        "new year",
+        "lifestyle",
+        "fashion"
+      ],
+      "likes": 28640,
+      "views": 1398200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-483",
+      "title": "40th Birthday Garden Lifestyle Shoot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-483.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A professional lifestyle birthday photoshoot featuring man, celebrating 40, wearing relaxed summer blazer made of lightweight cotton, standing in private backyard garden, with floral decor, rustic cake, hanging lanterns, soft cinematic lighting, natural skin tones, realistic facial expressions, shallow depth of field, high-resolution photography, clean composition, celebratory mood, ultra-realistic, professional studio quality",
+      "ai_style": "Birthday Lifestyle Photography",
+      "tags": [
+        "birthday",
+        "lifestyle",
+        "garden",
+        "celebration"
+      ],
+      "likes": 22190,
+      "views": 1045300,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-484",
+      "title": "19th Birthday Urban Studio Shoot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-484.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A professional lifestyle birthday photoshoot featuring man, celebrating 19, wearing oversized hoodie outfit made of fleece fabric, standing in art-inspired studio room, with graffiti balloons, neon cake, LED candles, soft cinematic lighting, natural skin tones, realistic facial expressions, shallow depth of field, high-resolution photography, clean composition, celebratory mood, ultra-realistic, professional studio quality",
+      "ai_style": "Youth Birthday Lifestyle",
+      "tags": [
+        "birthday",
+        "teen",
+        "studio",
+        "modern"
+      ],
+      "likes": 24870,
+      "views": 1186400,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-485",
+      "title": "35th Birthday Luxury Hotel Shoot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-485.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A professional lifestyle birthday photoshoot featuring man, celebrating 35, wearing designer tuxedo made of silk blend, standing in high-end hotel suite, with black balloons, premium cake, crystal candles, soft cinematic lighting, natural skin tones, realistic facial expressions, shallow depth of field, high-resolution photography, clean composition, celebratory mood, ultra-realistic, professional studio quality",
+      "ai_style": "Luxury Birthday Editorial",
+      "tags": [
+        "luxury",
+        "birthday",
+        "tuxedo",
+        "hotel"
+      ],
+      "likes": 30740,
+      "views": 1623900,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-486",
+      "title": "32nd Birthday Apartment Lifestyle Shoot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-486.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A professional lifestyle birthday photoshoot featuring man, celebrating 32, wearing classic three-piece suit made of wool blend, standing in luxury apartment lounge, with gold balloons, champagne cake, table candles, soft cinematic lighting, natural skin tones, realistic facial expressions, shallow depth of field, high-resolution photography, clean composition, celebratory mood, ultra-realistic, professional studio quality",
+      "ai_style": "Elegant Birthday Lifestyle",
+      "tags": [
+        "birthday",
+        "elegant",
+        "apartment",
+        "formal"
+      ],
+      "likes": 26890,
+      "views": 1278400,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-487",
+      "title": "21st Birthday Urban Loft Shoot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-487.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A professional lifestyle birthday photoshoot featuring man, celebrating 21, wearing smart casual shirt and jeans made of denim cotton, standing in urban loft space, with colorful balloons, cupcake tower, paper confetti, soft cinematic lighting, natural skin tones, realistic facial expressions, shallow depth of field, high-resolution photography, clean composition, celebratory mood, ultra-realistic, professional studio quality",
+      "ai_style": "Casual Birthday Lifestyle",
+      "tags": [
+        "birthday",
+        "casual",
+        "loft",
+        "youth"
+      ],
+      "likes": 23910,
+      "views": 1124600,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-488",
+      "title": "45th Birthday Rooftop Celebration",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-488.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A professional lifestyle birthday photoshoot featuring man, celebrating 45, wearing formal shirt with waistcoat made of twill fabric, standing in rooftop terrace setting, with string lights, layered cake, glass candle holders, soft cinematic lighting, natural skin tones, realistic facial expressions, shallow depth of field, high-resolution photography, clean composition, celebratory mood, ultra-realistic, professional studio quality",
+      "ai_style": "Rooftop Birthday Lifestyle",
+      "tags": [
+        "birthday",
+        "rooftop",
+        "evening",
+        "lifestyle"
+      ],
+      "likes": 21480,
+      "views": 1013700,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-489",
+      "title": "28th Birthday Cozy Home Shoot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-489.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A professional lifestyle birthday photoshoot featuring man, celebrating 28, wearing knit sweater and chinos made of merino wool, standing in cozy home living space, with pastel balloons, homemade cake, fairy lights, soft cinematic lighting, natural skin tones, realistic facial expressions, shallow depth of field, high-resolution photography, clean composition, celebratory mood, ultra-realistic, professional studio quality",
+      "ai_style": "Cozy Birthday Lifestyle",
+      "tags": [
+        "birthday",
+        "home",
+        "cozy",
+        "warm"
+      ],
+      "likes": 22650,
+      "views": 1089200,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-490",
+      "title": "25th Birthday Minimal Studio Shoot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-490.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A professional lifestyle birthday photoshoot featuring man, celebrating 25, wearing tailored blazer and shirt made of linen, standing in minimalist studio interior, with metallic balloons, birthday cake, soft glow candles, soft cinematic lighting, natural skin tones, realistic facial expressions, shallow depth of field, high-resolution photography, clean composition, celebratory mood, ultra-realistic, professional studio quality",
+      "ai_style": "Minimal Birthday Editorial",
+      "tags": [
+        "birthday",
+        "minimal",
+        "studio",
+        "modern"
+      ],
+      "likes": 25980,
+      "views": 1236100,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-491",
+      "title": "Wildlife Travel Selfie – Serengeti",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-491.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "High-quality selfie taken by a wildlife Male travel photographer with khaki hat and rugged features, holding a pair of binoculars. Background features the Serengeti plains in Tanzania with acacia trees and grazing elephants visible behind. The angle is steady arm-extended selfie. Lighting is golden savanna sunlight with natural warmth. Image quality has realistic depth, cinematic wildlife travel aesthetic. Feel like real selfie, no camera no smartphone in the image. Aspect Ratio 1:1",
+      "ai_style": "Cinematic Travel Selfie",
+      "tags": [
+        "wildlife",
+        "travel",
+        "selfie",
+        "africa"
+      ],
+      "likes": 31240,
+      "views": 1568200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-492",
+      "title": "Street Food Influencer Selfie – Bangkok",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-492.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "High-quality selfie taken by a cheerful street-food influencer with short cropped hair and patterned shirt, holding a bowl of mango sticky rice. Background features a floating market in Bangkok, Thailand with wooden boats and colorful produce visible behind. The angle is downward selfie angle. Lighting is bright diffused daylight with lively ambiance. Image quality has vivid colors, candid feel, social travel aesthetic. Feel like real selfie, no camera no smartphone in the image. Aspect Ratio 1:1",
+      "ai_style": "Food Travel Lifestyle",
+      "tags": [
+        "street food",
+        "bangkok",
+        "travel",
+        "selfie"
+      ],
+      "likes": 29810,
+      "views": 1429600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-493",
+      "title": "History Vlogger Selfie – Colosseum",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-493.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "High-quality selfie taken by an enthusiastic history vlogger with tousled hair and casual blazer, holding a miniature Roman helmet souvenir. Background features the Colosseum in Rome, Italy with ancient arches and stone textures visible behind. The angle is slightly upward heroic angle. Lighting is warm mid-morning sun with soft shadows. Image quality has balanced tones, timeless travel aesthetic. Feel like real selfie, no camera no smartphone in the image. Aspect Ratio 1:1",
+      "ai_style": "Heritage Travel Selfie",
+      "tags": [
+        "rome",
+        "history",
+        "travel",
+        "selfie"
+      ],
+      "likes": 27460,
+      "views": 1293100,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-494",
+      "title": "Beach Influencer Selfie – Copacabana",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-494.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "High-quality selfie taken by a vibrant male beach influencer with sun-kissed skin, holding a fresh pineapple drink. Background features Copacabana Beach in Rio de Janeiro, Brazil with ocean waves and colorful umbrellas visible behind. The angle is casual arm-extended angle. Lighting is bright tropical sunlight with lively highlights. Image quality has bold colors, energetic vibe, Instagram-ready aesthetic. Feel like real selfie, no camera no smartphone in the image. Aspect Ratio 1:1",
+      "ai_style": "Beach Lifestyle Selfie",
+      "tags": [
+        "beach",
+        "brazil",
+        "travel",
+        "influencer"
+      ],
+      "likes": 33680,
+      "views": 1744200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-495",
+      "title": "Urban Explorer Selfie – Times Square",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-495.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "High-quality selfie taken by a confident male city explorer with a leather jacket and styled stubble, holding a takeaway coffee cup. Background features a neon-lit Times Square in New York City with massive digital billboards and crowds visible behind. The angle is straight-on selfie angle. Lighting is mixed artificial neon lighting with high contrast. Image quality has sharp detail, bold urban Instagram aesthetic. Aspect Ratio 1:1",
+      "ai_style": "Urban Night Selfie",
+      "tags": [
+        "new york",
+        "city",
+        "night",
+        "selfie"
+      ],
+      "likes": 36120,
+      "views": 1897600,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-496",
+      "title": "Adventure Traveler Selfie – Machu Picchu",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-496.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "High-quality selfie taken by a rugged male adventure traveler with windblown hair, holding a woven Andean scarf. Background features the ancient ruins of Machu Picchu in Peru with misty mountains and stone terraces visible behind. The angle is wide-angle selfie perspective. Lighting is cool early morning light with mountain haze. Image quality has natural textures, muted tones, epic travel aesthetic. Feel like real selfie, no camera no smartphone in the image. Aspect Ratio 1:1",
+      "ai_style": "Epic Travel Selfie",
+      "tags": [
+        "peru",
+        "mountains",
+        "travel",
+        "adventure"
+      ],
+      "likes": 32940,
+      "views": 1675300,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-497",
+      "title": "Classic City Traveler Selfie – London",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-497.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "High-quality selfie taken by a smart casual male traveler with neatly trimmed hair and a wool scarf, holding a folded city map. Background features Westminster Bridge in London, England with Big Ben and the Thames visible behind. The angle is centered selfie composition. Lighting is cool cloudy daylight with soft contrast. Image quality has realistic tones, documentary-style social aesthetic. Feel like real selfie, no camera no smartphone in the image. Aspect Ratio 1:1",
+      "ai_style": "Classic Travel Lifestyle",
+      "tags": [
+        "london",
+        "travel",
+        "city",
+        "selfie"
+      ],
+      "likes": 25130,
+      "views": 1187400,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-498",
+      "title": "Adventure Vlogger Selfie – Victoria Falls",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-498.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "High-quality selfie taken by an energetic male adventure vlogger with short hair and a waterproof jacket. Background features the powerful Victoria Falls on the Zambia-Zimbabwe border with massive waterfalls and mist clouds visible behind. The angle is wide-angle arm-length shot. Lighting is bright overcast light with natural contrast. Image quality has light motion blur, dynamic travel aesthetic. Aspect Ratio 1:1",
+      "ai_style": "Adventure Vlog Selfie",
+      "tags": [
+        "waterfall",
+        "africa",
+        "travel",
+        "vlog"
+      ],
+      "likes": 30490,
+      "views": 1492800,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-499",
+      "title": "Winter Nautical Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-499.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Maintain the same face and person, use uploaded photo for accurate face hyper-realistic. Use facial features of uploaded photo. A young woman with a content mild smile, wearing a navy sailor-style beanie and a wind-resistant pea coat, captured in a half-body portrait while posed leaning on a frosty railing at an eye-level angle on a snowy harbor pier, surrounded by cool sea mist and photographed with muted overcast light in a nautical winter style using navy and sea-gray tones with balanced horizontal composition to evoke a mood of peaceful coastal chill.",
+      "ai_style": "Hyper-Real Portrait Styling",
+      "tags": [
+        "portrait",
+        "winter",
+        "nautical",
+        "identity preserved"
+      ],
+      "likes": 28760,
+      "views": 1358200,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-500",
+      "title": "Urban Winter Fashion Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-500.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Maintain the same face and person, use uploaded photo for accurate face hyper-realistic. Use facial features of uploaded photo. A stylish young woman with a confident half-smile, wearing a cobalt rib-knit cap and a tailored winter trench coat, captured in a mid-length portrait while posed leaning casually on a snowy pedestrian bridge at a high-angle, surrounded by soft drifting flakes and photographed with balanced natural light in an urban winter style using cobalt-and-gray tones with geometric framing to evoke a mood of modern coolness.",
+      "ai_style": "Urban Winter Editorial Portrait",
+      "tags": [
+        "portrait",
+        "winter fashion",
+        "urban",
+        "identity preserved"
+      ],
+      "likes": 31940,
+      "views": 1624700,
       "is_premium": true,
       "is_recommended": true,
       "is_trending": true
