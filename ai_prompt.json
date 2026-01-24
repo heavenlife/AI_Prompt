@@ -131,16 +131,17 @@
     },
     {
       "id": "ai-5",
-      "title": "Social Media Influencer Scene",
+      "title": "Abstract Social Media Influencer Portrait",
       "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-5.png",
-      "category_id": "social-1",
-      "category_name": "Social / Lifestyle",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
       "prompt": "Potret ekspresif dan penuh warna dari seorang pria (foto yang terupload) yang menatap ke atas dengan rasa takjub dan keingintahuan seperti anak kecil. la mengenakan kacamata besar berwarna oranye terang dengan lensa berwarna penuh yang lembut menyebarkan cahaya. Wajahnya dirender menggunakan goresan sketsa hitam yang tebal dan dinamis-longgar namun penuh intensi-menangkap emosi mentah dan karakter yang kuat. Latar belakang tersusun dari lapisan halaman koran bertekstur, terlihat jelas namun menyatu secara organik. Percikan cat energik berwarna biru cerah dan oranye hangat meledak di seluruh komposisi, menambah kesan gerak dan kontras. Karya ini memadukan realisme dengan ekspresionisme abstrak secara mulus, membangkitkan tema kepolosan, harapan, imajinasi, dan kebebasan kreatif. Tekstur painterly, kontras tinggi, dan estetika editorial fine-art, Rasio 3:4.",
-      "ai_style": "Photorealistic",
+      "ai_style": "Abstract Expressionist Portrait",
       "tags": [
-        "social",
-        "branding",
-        "instagram"
+        "abstract",
+        "editorial",
+        "fine-art",
+        "creative"
       ],
       "likes": 1320,
       "views": 19800,
@@ -360,16 +361,17 @@
     },
     {
       "id": "ai-17",
-      "title": "Paragliding Ocean Adventure",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-17.png",
-      "category_id": "nature-1",
-      "category_name": "Nature / Outdoor",
+      "title": "FIFA Ultimate Team TOTY Card – ZAID Sheik",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-17.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
       "prompt": "A hyper-realistic FIFA Ultimate Team TOTY player card, rating 107 CF.\nA young male footballer wearing a BARCELONA -style jersey, name\n\"ZAID Sheik\" with number 10 on the back, kissing the UEFA CHAMPIONS LEAGUE trophy.\nBlue and gold Team of the Year card\ndesign, royal gold frame with crystalline blue shards and glowing particles.\nStadium background blurred with\ncinematic depth of field.\nPremium EA Sports FC style card layout\nUltra-detailed lighting, dramatic\nhighlights, sharp focus, 4K resolution.Player stats displayed at the bottom:\nPAC 99, SHO 99, PAS 98, DRI 99, DEF 85, PHY 95.\nProfessional sports poster look, glossy\nfinish, epic and legendary mood.",
-      "ai_style": "Action Realism",
+      "ai_style": "Sports Card Cinematic",
       "tags": [
-        "paragliding",
-        "ocean",
-        "adventure"
+        "football",
+        "FIFA",
+        "TOTY",
+        "sports-poster"
       ],
       "likes": 1720,
       "views": 24800,
@@ -417,16 +419,17 @@
     },
     {
       "id": "ai-20",
-      "title": "Neon Couple Bed Scene",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-20.png",
+      "title": "Luxury Corporate Executive Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-20.jpg",
       "category_id": "social-1",
       "category_name": "Social / Lifestyle",
       "prompt": "Extremely sharp ultra-photorealistic full body photo of a professional man working in a luxury executive office cabin, using uploaded reference face with exact identity match, crystal clear skin texture with visible pores, sharp beard hair strands, wearing dark navy tailored suit, white shirt, polished leather shoes, sitting behind wooden desk with laptop, documents, pen holder, city skyline visible through floor-to-ceiling glass window, strong natural daylight, hard edge lighting, zero motion blur, high contrast, micro details in fabric and skin, shot on professional DSLR, studio quality, ultra sharp focus, hyper detailed, 16K resolution, real life corporate photography.",
-      "ai_style": "Cinematic Lifestyle",
+      "ai_style": "Luxury Corporate Photography",
       "tags": [
-        "couple",
-        "neon",
-        "lifestyle"
+        "corporate",
+        "executive",
+        "office",
+        "luxury"
       ],
       "likes": 1670,
       "views": 23900,
@@ -721,16 +724,17 @@
     },
     {
       "id": "ai-36",
-      "title": "Luxury Car Night Portrait",
+      "title": "Royal Surreal Playing Card Breakthrough",
       "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-36.png",
-      "category_id": "social-1",
-      "category_name": "Social / Lifestyle",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
       "prompt": "A hyper-realistic, surreal 3D masterpiece depicting a dynamic scene where a man with uploaded face as reference (the reference image is myself not public figure) is physically bursting through the surface of a giant, weathered King of Spades playing card. The subject is adorned in opulent royal regalia, specifically a deep crimson velvet sherwani heavily embroidered with intricate gold thread patterns and a majestic golden crown encrusted with red gemstones. He leans forward with intensity, his right hand reaching out toward the camera lens in a forced perspective gesture, breaking the fourth wall. The playing card itself is rendered not as paper but as a thick, brittle plaster or concrete material, shattering explosively around his form; jagged stone fragments, floating debris, and fine dust particles are suspended in mid-air, caught in the split-second of impact. The lighting is cinematic and dramatic, utilizing high-contrast studio lighting to accentuate the metallic sheen of the gold, the texture of the velvet, and the volumetric shadows cast by the flying debris. The composition is centered and symmetrical, set against a dark, matte void background to emphasize the subject, rendered in 8k resolution with Octane Render quality, raytracing, and tactile, high-fidelity textures.",
-      "ai_style": "Luxury Night Photography",
+      "ai_style": "Surreal 3D Cinematic Art",
       "tags": [
-        "luxury",
-        "car",
-        "night"
+        "surreal",
+        "royal",
+        "3d-art",
+        "cinematic"
       ],
       "likes": 1680,
       "views": 24310,
@@ -1044,16 +1048,17 @@
     },
     {
       "id": "ai-53",
-      "title": "Asian Cafe Action Portrait",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-53.png",
-      "category_id": "social-1",
-      "category_name": "Social / Lifestyle",
+      "title": "High-Energy Poster Style Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-53.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
       "prompt": "Create a hyper-realistic portrait illustration based on the provided photograph. The artwork must accurately replicate the subject with precise likeness and high-detail rendering. Present the face in an intense, emotionally charged expression, captured from a dramatic close-up with a slightly low-angle perspective. Depict the hair as windswept and dynamic, with sharp, defined strands that convey movement.Use bright, even lighting to produce soft highlights  on the skin and hair, revealing detailed skin texture, fine pores, natural shadows, and vivid reflections in the eyes. Dress the subject in an oversized black hoodie that appears natural and well-integrated into the scene. Set the subject against a solid, bold background color—such as vibrant yellow—to create strong visual contrast and impact.The final illustration should blend semi-photorealistic and semi-illustrative aesthetics, characteristic of modern poster art, emphasizing dynamic energy, clarity, vibrant colors, and sharp, high-resolution edges. Use my picture for reference don't change it. Half body shot.",
-      "ai_style": "Lifestyle Cinematic",
+      "ai_style": "Poster Art Portrait",
       "tags": [
-        "asian",
-        "cafe",
-        "fashion"
+        "poster",
+        "illustrative",
+        "editorial",
+        "portrait"
       ],
       "likes": 1760,
       "views": 26490,
@@ -5118,7 +5123,7 @@
     {
       "id": "ai-267",
       "title": "HEART HERO Cardiologist Action Figure",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-267.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-267.jpg",
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "prompt": "Create a photorealistic action figure of Dr. James Walker (Cardiologist) in a blister pack, styled like a premium collectible toy. The figure should be posed standing upright. The blister pack should have a hospital blue header with the text 'HEART HERO' in large white letters and below it, in smaller red letters. Include accessories in compartments on the right side of the figure: a stethoscope, an EKG monitor, a clipboard, and a blood pressure cuff with a Mayo Clinic logo on it. The background of the blister pack should be black. Ensure the action figure retains facial features and general appearance, with a smiling expression, and render the image in high detail with a photorealistic quality.",
@@ -5138,7 +5143,7 @@
     {
       "id": "ai-268",
       "title": "KING KOHLI Cricket Action Figure",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-268.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-268.jpg",
       "category_id": "sports",
       "category_name": "Sports",
       "prompt": "Create a photorealistic action figure of Male Cricket Player - Virat Kohli in a blister pack, styled like a premium collectible toy. The figure should be posed standing upright. The blister pack should have a royal blue header with the text 'KING KOHLI' in large white letters and below it, in smaller gold letters. Include accessories in compartments on the right side of the figure: a cricket bat, a helmet, a pair of gloves, and a trophy with a Nike logo on it. The background of the blister pack should be black. Ensure the action figure retains my facial features and general appearance from the uploaded photo, with a smiling expression, and render the image in high detail with a photorealistic quality.",
@@ -5158,7 +5163,7 @@
     {
       "id": "ai-269",
       "title": "BBQ KING Pitmaster Action Figure",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-269.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-269.jpg",
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "prompt": "Create a photorealistic action figure of a male barbecue pitmaster in a blister pack, styled like a premium collectible toy. The figure should be posed standing upright. The blister pack should have a dark brown header with the text 'BBQ KING' in large white letters and below it, in smaller orange letters. Include accessories in compartments on the right side of the figure: a pair of tongs, a meat thermometer, a bottle of BBQ sauce, and a grill lid with a FlameBroz logo on it. The background of the blister pack should be black. Ensure the action figure retains facial features and general appearance, with a smiling expression, and render the image in high detail with a photorealistic quality.",
@@ -10633,11 +10638,11 @@
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "prompt": "Create a powerful front-facing portrait poster of [NAMJON, RM], centered and looking directly at the viewer. The face and upper torso are composed of a clean grid mosaic made of many small rectangular images, each showing different stages, expressions, iconic moments, achievements, and emotional scenes from [NAMJON  , RM]’s life and career. The overall portrait forms a unified face when viewed from a distance. Use a monochrome and muted color palette with subtle warm tones, soft contrast, and gentle shadows. The background is minimal and neutral, allowing the mosaic portrait to stand out. The style is cinematic, biographical, emotional, and timeless, with sharp details, professional poster composition, high-resolution editorial artwork, and subtle film grain texture.",
-      "ai_style": "Biographical Poster Art",
+      "ai_style": "Biographical Mosaic Art",
       "tags": [
-        "poster",
         "mosaic",
         "biography",
+        "poster",
         "cinematic"
       ],
       "likes": 61240,
@@ -10648,18 +10653,13 @@
     },
     {
       "id": "ai-549",
-      "title": "Surreal Clone Fashion Portrait",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-549.png",
+      "title": "Surreal Clone Fashion Editorial",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-549.jpg",
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "prompt": "Photorealistic central man (exact match to reference: masculine facial features, hair, expression, skin tone, body) front-facing camera in stoic clasped-hands pose, surrounded by six identical male clones in single-file line behind, clones leaning heads out symmetrically left/right in cascading fan pattern for all seven faces fully visible, everyone in varied random men’s streetwear (hoodies, graphic tees, baggy pants, sneakers, jackets, caps in mixed colors/styles and all dress Center text OMER J), soft professional studio lighting, plain light grey seamless background, high-contrast symmetrical composition, surreal multiplicity effect, ultra-sharp 8k fabric/texture details, cinematic fashion editorial vibe --ar 3:2 --stylize 300\" Don't change model face.",
       "ai_style": "Surreal Fashion Editorial",
-      "tags": [
-        "surreal",
-        "fashion",
-        "clone",
-        "editorial"
-      ],
+      "title": "Surreal Clone Fashion Editorial",
       "likes": 43810,
       "views": 2467000,
       "is_premium": true,
@@ -10876,7 +10876,7 @@
     {
       "id": "ai-560",
       "title": "Anime Night Solitude Portrait",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-560.png",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-560.jpg",
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "prompt": "Highly detailed portrait of a young, solitary man with short hair, wearing modern glasses, set against a nighttime background, anime illustration style.",
@@ -10918,7 +10918,7 @@
     {
       "id": "ai-562",
       "title": "Alien Abduction Urban Selfie Scene",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-562.png",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-562.jpeg",
       "category_id": "action-1",
       "category_name": "Action / Cinematic",
       "prompt": "{\n  \"scene\": {\n    \"type\": \"urban sci-fi chaos\",\n    \"setting\": {\n      \"location\": \"city street with tall buildings\",\n      \"time\": \"daytime, partly cloudy sky\",\n      \"environment\": \"hectic, debris flying, paper in air, yellow taxi visible\"\n    },\n    \"action\": {\n      \"event\": \"alien abduction in progress\",\n      \"ufo\": {\n        \"type\": \"large metallic disc-shaped UFO\",\n        \"position\": \"hovering above street, centered in sky\",\n        \"effect\": \"bright blue tractor beam pulling objects and people upward\"\n      },\n      \"objects_affected\": [\n        \"person being abducted mid-air\",\n        \"papers\",\n        \"rubble\",\n        \"bicycles\"\n      ]\n    }\n  },\n  \"subject\": {\n    \"type\": \"male human\",\n    \"ethnicity\": \"white\",\n    \"expression\": \"extreme shock and fear, mouth wide open, eyes bulging\",\n    \"pose\": \"taking a selfie or wide-angle POV\",\n    \"clothing\": {\n      \"top\": \"orange-brown t-shirt\",\n      \"bottom\": \"dark jeans\"\n    },\n    \"framing\": \"close-up from front, wide lens effect\"\n  },\n  \"camera\": {\n    \"angle\": \"slightly low, upward-facing toward UFO\",\n    \"lens\": \"ultra wide-angle\",\n    \"focus\": \"sharp foreground on face, slightly motion-blurred background\"\n  },\n  \"lighting\": {\n    \"source\": \"natural daylight + intense blue glow from UFO\",\n    \"mood\": \"dramatic, cinematic, high tension\"\n  },\n  \"aesthetic\": {\n    \"genre\": \"sci-fi, action, comedy-drama\",\n    \"vibe\": \"chaotic, absurd, high-energy\",\n    \"color_palette\": [\"cyan\", \"brown\", \"gray\", \"yellow\"]\n  }\n}",
@@ -11002,7 +11002,7 @@
     {
       "id": "ai-566",
       "title": "80s Anime Female Illustration",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-566.png",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-566.jpg",
       "category_id": "art-1",
       "category_name": "Art / Creative",
       "prompt": "Japanese 22yo woman, front shot. 80s anime illustration masterpeice",
@@ -11565,7 +11565,7 @@
     {
       "id": "ai-593",
       "title": "Man and Lion Spiritual Bond",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-593.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-593.png",
       "category_id": "nature-1",
       "category_name": "Nature / Outdoor",
       "prompt": "Create a realistic and emotional scene showing a man (use the provided image for accurate facial features) and a lion face to face in a moment of connection and respect. The man's eyes are closed, with a serene expression, while the lion gently rests its forehead and muzzle against his, conveying trust and a spiritual bond.\nBoth are standing on ground covered in light snow, with snowflakes gently falling. The man wears a dark coat and hair slightly tousled by the wind, and the lion displays a thick, majestic mane.\nIn the background, a cold, misty natural landscape with blurred mountains and gray tones reinforces the calm and powerful atmosphere.\nThe lighting is soft and diffuse, highlighting the textures of the skin, fur, and coat, creating a cinematic and poetic atmosphere.\nThe composition should convey friendship, courage, and harmony between man and nature.\nSuggested settings:\nStyle: Ultra-realistic, cinematic, 8K\nLighting: Soft, diffuse, natural winter light\nCamera: Medium close-up, focus on expressions\nEmotion: Connection, respect, tranquility\nSetting: Falling snow, blurred background with mountains",
@@ -11721,6 +11721,806 @@
       "is_premium": true,
       "is_recommended": true,
       "is_trending": false
+    },
+    {
+      "id": "ai-601",
+      "title": "Futuristic Gamer Editorial Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-601.png",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Modelo masculino em um retrato ultra-realista em 8k,vestindo um moletom oversized preto e calças de moletom pretas,combinados com tênis brancos. modelo está sentado elegantemente em uma cadeira gamer preta com Iluminada LED,em um estúdio minimalista com fundo preto e uma luz suave e cinematográfica que destaca as texturas. estilo é futurista e editorial,com o modelo em uma pose de moda,com a cabeça levemente inclinada.rosto é consistente com o da foto fornecida.",
+      "ai_style": "Futuristic Editorial",
+      "tags": [
+        "futuristic",
+        "gamer",
+        "studio",
+        "editorial"
+      ],
+      "likes": 24310,
+      "views": 1184000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-602",
+      "title": "Enchanted Garden Fantasy Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-602.png",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "An ethereal, magical fantasy photograph, capturing a female figure like a princess or fairy in an enchanted garden setting. The subject sits on a swing lushly decorated with a profusion of pink, white, and purple flowers and foliage. The swing is suspended over a pool of calm, blue-green water, reflecting the surrounding foliage.\n\nThe figure sits sideways on the swing, legs crossed or extended, one foot touching the water or a rock. She looks directly at the camera with a serene expression and a slight smile.\n\nShe wears a stunning ball gown in shades of pink or peach, with a bodice adorned with lace or glittering details and a high collar. The skirt is flowing and voluminous, with a high side slit that reveals her legs.\n\nHer hair is long, wavy, and golden blonde, with strands falling over her shoulders and chest, complementing the fantasy aesthetic.\n\nThe backdrop is a lush garden or forest, with dense, dark green foliage surrounding the lake, creating a mystical atmosphere. The lighting is natural and soft, typical of a clear or slightly cloudy day, with reflections from the water and a gentle glow on the skin and hair, enhancing the beauty of the dress and flowers.\n\nCamera Settings: Captured with a portrait lens (e.g., 85mm or 100mm) on a full-frame camera for flattering compression and pronounced bokeh. Aperture set between f/2.8 and f/4.0 to isolate the subject from the background and create a shallow depth of field that keeps the figure sharp and the surroundings softly blurred. ISO 100-200 for maximum image quality in abundant natural light. Shutter speed of 1/250s to 1/500s to ensure sharpness. Soft, natural lighting, taking advantage of ambient light for an ethereal result.\n\nInstructions for the \"nano banana\":\n\n\"Please use the user's reference image to capture and apply all of their facial features, facial structure, eye color, skin tone, hair style, and color with maximum fidelity. The goal is to create a version of the user in this fantasy scene. The clothing (pink evening dress with a slit, detailed bodice), the floral swing, the pose over the lake, the serene expression, the soft lighting, and the enchanted garden background should be generated as described, creating a perfect fusion between the user's identity and the aesthetics of the image.\"",
+      "ai_style": "Fantasy Editorial Photography",
+      "tags": [
+        "fantasy",
+        "fairy",
+        "enchanted",
+        "editorial"
+      ],
+      "likes": 39120,
+      "views": 2045000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-603",
+      "title": "Contemplative Watercolor Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-603.png",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Ciptakan potret cat air vertikal 3:4 menggunakan foto terlampir ini sebagai subjek: bahu terangkat, pandangan tiga perempat halus menghadap ke kanan dengan ekspresi tenang dan introspektif. Gunakan palet warna nila, biru Prusia, dan abu-abu Payne yang terkendali untuk latar belakang dan pakaian, dengan glasir persik/krem/umber yang hangat untuk kulit. Tiru teknik cat air lukis tangan—sapuan berlapis transparan, gradasi basah-di-basah yang lembut, backrun/bloom, sapuan kuas kering yang halus dan garis halus untuk rambut dan bulu mata, aksen tajam pada mata, hidung, dan bibir, serta tepi yang tampak hilang di sepanjang rahang dan leher. Terangi dengan lembut dari kiri untuk menciptakan bayangan yang sejuk dan desaturasi; tempatkan mata utama di dekat sepertiga bagian kanan atas. Jaga latar belakang tetap minimalis: sapuan biru-abu-abu yang lapang dengan cipratan dan beberapa tetesan ke bawah, semuanya di atas kertas hot-press bertekstur halus. Pertahankan suasana hati yang sejuk dan kontemplatif dengan hasil akhir matte, tanpa efek fotografi atau lensa, mengutamakan kualitas ilustrasi, lukisan, dan suasana karya seni asli.",
+      "ai_style": "Watercolor Fine Art",
+      "tags": [
+        "watercolor",
+        "illustration",
+        "fine-art",
+        "portrait"
+      ],
+      "likes": 19840,
+      "views": 912000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-604",
+      "title": "Surreal Coffee Smartphone Art",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-604.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Gambar seni digital dramatis, konsep surealis, dari saya yang menggunakan foto yang diunggah, mengenakan kemeja polo biru mudah, muncul dari layar ponsel pintar. Saya memegang ketel baja tahan karat dan menuangkan kopi hitam panas ke dalam cangkir kopi porselen putih yang diletakkan di atas tatakan. Kopi mengalir keluar dari layar, menciptakan efek 3D surealis. Adegan tersebut diatur di atas meja kayu gelap dan pedesaan dengan biji kopi yang tersebar di sekitar cangkir. Sebuah tangan besar memegang ponsel pintar, Nakulo Sadewo.Penulis yang tampaknya mengambang di latar belakang studio abu-abu gelap dan berasap. Pencahayaannya dramatis dan berkualitas studio, menonjolkan tekstur kopi dan wajah saya. Pencahayaan ultra-realistis, detail tinggi, volumetrik, fotorealistik.",
+      "ai_style": "Surreal Digital Art",
+      "tags": [
+        "surreal",
+        "3d-effect",
+        "coffee",
+        "digital-art"
+      ],
+      "likes": 22750,
+      "views": 1063000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-605",
+      "title": "Graffiti Silk Painting Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-605.png",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "graffiti style, silk painting aesthetic on silk-covered canvas, portrait of a woman posing confidently at the camera with art supplies, natural red hair, wearing a multicolored top and skirt, jewelry, and tattoos, set against a white graffiti-patterned background. Artistic, powerful, fashionable, expressive, timeless.",
+      "ai_style": "Graffiti Silk Art",
+      "tags": [
+        "graffiti",
+        "silk",
+        "fashion-art",
+        "portrait"
+      ],
+      "likes": 18460,
+      "views": 865000,
+      "is_premium": false,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-606",
+      "title": "Hijab Expression Paper Tear Collage",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-606.png",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Kolase foto hyper-realistic bergaya studio menampilkan seorang wanita hijab dari foto terlampir (sesuai 100% wajah asli) dengan berbagai ekspresi wajah dan pose lucu. Setiap pose muncul dari sobekan kertas putih yang tidak teratur seperti menembus dinding, dengan efek 3D seolah-olah keluar dari latar belakang. Dalam tiap sobekan berbeda, pria tersebut tampil dengan outfit berbeda-beda, mulai dari kasual, semi-formal, sporty, hingga lucu atau nyentrik.Pencahayaan terang dan latar belakang polos abu-abu muda. Komposisi rapi dalam susunan grid 2x3, masing-masing ekspresi dan gerakan tubuh unik dan menarik-misalnya sedang menunjuk, tertawa, tidur pura-pura, minum, mengedipkan mata, berpikir, atau memberi isyarat tangan.",
+      "ai_style": "Hyper-realistic Collage",
+      "tags": [
+        "collage",
+        "paper-tear",
+        "expressions",
+        "studio"
+      ],
+      "likes": 25900,
+      "views": 1328000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-607",
+      "title": "iPhone Spotify Futuristic Fashion",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-607.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Create a stylish, modern photo of a male model in a vertical, 9:16 format. Use the provided image for accurate facial features. He stands confidently at the giant screen of an iPhone 16 lying on the floor. The screen displays a Spotify playlist with the song \"Enter Sandman - Metallica.\" He's wearing AirPods Max 2025, an oversized white hoodie, black pants, and crisp white Air Jordans. The scene is shot from a high angle, top-down, to highlight the large size of the phone. The vibe is minimalist, stylish, and futuristic.",
+      "ai_style": "Futuristic Brand Art",
+      "tags": [
+        "iphone",
+        "spotify",
+        "fashion",
+        "futuristic"
+      ],
+      "likes": 33410,
+      "views": 1754000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-608",
+      "title": "Elevator Whisper Selfie",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-608.png",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "**Overall Vibe & Emotion**\nA moment of candid, whispered intimacy and playful spontaneity. The atmosphere is one of shared secret, a quick, hushed conversation captured in a fleeting instant. There's a subtle humor in the confinement, a genuine warmth and connection emanating from the subject, caught between the urgency of the moment and the desire to share it. The emotion is authentic and engaging, a small, private world made public, brimming with a lighthearted yet personal energy.\n\n**Subject's Pose Breakdown**\nThe subject is a vibrant individual, their face animated mid-sentence, a genuine, warm smile playing on their lips. Their eyes sparkle with engagement, looking slightly past the camera lens as if addressing someone unseen, their mouth subtly open as if about to utter or having just uttered a word, showcasing authentic expression. One arm is outstretched, holding the smartphone aloft and angled slightly downwards, positioned to capture their own reflection and the immediate surroundings. The other hand might be resting casually on a hip, tucked in a pocket, or subtly gesturing, adding to the natural, unposed feel. Their head is tilted just so, conveying a comfortable, relatable demeanor, perhaps a slight shrug of the shoulders or a gentle lean into the shot, emphasizing the spontaneity.\n\n**Interaction with Environment**\nThe subject is intimately nestled within the polished confines of the elevator. Their image, along with the phone they're holding, is subtly reflected in the glossy, brushed metal doors and panels behind them, creating a mesmerizing interplay of light and distorted form that adds depth and an almost surreal quality. These reflections offer a glimpse into the depth of the small space, hinting at the opposite wall or ceiling. The subject's proximity to the elevator's internal architecture is palpable; perhaps a hand is almost brushing against the call panel, or their silhouette is framed perfectly against the minimalist design elements. The confined space enhances the sense of personal connection, making the selfie feel like a secret shared from a private bubble.\n\n**Scenery & Lighting**\nThe elevator interior is sleek and modern, characterized by cool-toned brushed stainless steel panels that meet seamlessly, perhaps punctuated by subtle dark wood or frosted glass accents. A digital floor display glows softly in the background, a small island of technology in the polished expanse. The primary light source comes from soft, even LED strip lighting integrated into the ceiling, casting a flattering, slightly warm glow that contrasts beautifully with the cooler metallic surfaces. This overhead light creates subtle highlights on the subject's hair and skin, and soft, delicate shadows that define their features without being harsh. The reflections in the polished surfaces scatter and diffuse this light, creating a dreamy, ethereal quality around the edges of the frame. The overall impression is one of sophisticated urban transit, momentarily transformed into a personal portrait studio.",
+      "ai_style": "Lifestyle Cinematic",
+      "tags": [
+        "selfie",
+        "elevator",
+        "lifestyle",
+        "cinematic"
+      ],
+      "likes": 21480,
+      "views": 1016000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-609",
+      "title": "Executive Brown Studio Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-609.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A full-length studio photograph with a sophisticated and professional aesthetic. It captures a female figure sitting elegantly in a modern brown leather armchair with a metal swivel base. The subject sits confidently, with her body at a slight angle, looking directly at the camera with a serene expression. One hand is resting on the knee or arm of the chair, while the other is close to her face. Her legs are crossed or elegantly positioned.\n\nShe wears a dark brown or chocolate suit (blazer and wide-leg pants) over a light (white or cream) top. On her feet are light-colored (nude or off-white) high-heeled shoes with buckle or jewel details. She wears several pieces of gold jewelry: earrings, rings, and a wide bracelet. Her nails are painted a vibrant red.\n\nHer hair is dark, medium-length, with soft waves and swept to the side. Her makeup is polished and professional.\n\nThe background is a solid-colored studio backdrop in a shade of brown that complements the suit and armchair, creating a sophisticated, monochromatic color palette. The lighting is studio-grade, soft, and directional, coming from a front-to-side angle, shaping the face and body, highlighting the textures of the fabric and the shine of the jewelry.\n\nCamera Settings: Captured with a prime portrait lens (e.g., 85mm or 100mm) on a full-frame camera for a flattering perspective and natural proportions. Aperture set between f/4.0 and f/5.6 to ensure sharpness across the subject. ISO 100-200 for maximum studio image quality. Shutter speed from 1/160s to 1/250s. Studio lighting with a large softbox or octabox as the main light and a reflector to fill in shadows.\n\nInstructions for the \"nano banana\":\n\n\"Please use the user's reference image to capture and apply all of their facial features, facial structure, eye color, hairstyle, and skin tone with maximum fidelity. The goal is to create a professional version of the user in this portrait. The clothing (brown suit, light top, heels), jewelry, red nails, the pose sitting in the leather chair, the serene expression, the soft lighting, and the brown background should be created as described, creating a perfect fusion between the user's identity and the aesthetics of the image.\"",
+      "ai_style": "Professional Editorial Portrait",
+      "tags": [
+        "professional",
+        "studio",
+        "editorial",
+        "fashion"
+      ],
+      "likes": 30120,
+      "views": 1645000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-610",
+      "title": "Newborn Brown Knit Serenity",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-610.jpeg",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "A newborn baby, with dark hair, sleeping deeply on a rich, solid brown background. The baby is wearing a fitted, textured brown knitted romper and is lovingly embracing a soft, fluffy white knitted bunny toy. The bunny has long ears and a small brown nose. The baby's bare feet are visible, and their small hands gently hold the toy, conveying a sense of warmth, comfort, and peaceful sleep. The lighting is soft and even, highlighting the textures of the knitwear and the baby's delicate features against the uniform background.",
+      "ai_style": "Newborn Lifestyle Photography",
+      "tags": [
+        "newborn",
+        "baby",
+        "lifestyle",
+        "studio"
+      ],
+      "likes": 41250,
+      "views": 2218000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-611",
+      "title": "Cannes Red Carpet Triumph",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-611.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A low-angle close-up shot in a three-piece tuxedo, confidently walking the red carpet at the Cannes Film Festival. Paparazzi flashbulbs erupt all around him. He’s wearing designer shades, holding a gold statue in one hand, and giving a smug smile. Velvet ropes, elegant evening dresses, and modern architecture in the background.",
+      "ai_style": "Cinematic Editorial",
+      "tags": [
+        "red carpet",
+        "celebrity",
+        "cannes",
+        "luxury"
+      ],
+      "likes": 45820,
+      "views": 2543000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-612",
+      "title": "Yellow Pop Fashion Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-612.png",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A studio portrait photograph, close-up of the mid-bust (from the chest up), with a high-fashion, glamorous, and striking aesthetic. The female figure is positioned frontally, with her head tilted slightly back and her chin raised, looking straight ahead with a serious, confident, and seductive expression. Her lips are half-parted, adding a touch of mystery and sensuality. The composition is clean, dramatic, and focuses intensely on the face and glasses, with the hair flowing dynamically.\n\nThe female figure appears to have a slender build, as evidenced by the visible neckline and décolleté. Due to the framing and clothing, it is impossible to determine the size of her breasts, the narrowness of her waist, the width of her hips, the thickness of her legs, or the size of her buttocks. The skin on her face and décolleté is smooth and flawless, with a soft tan tone and a finish that subtly reflects the light.\n\nThe standout element is her sunglasses: a large, stylish, and modern pair with bright yellow frames and yellow or light orange lenses, adding a fashion-forward touch. The glasses cover much of her eyes, but her eyebrows and eyeliner are visible behind them.\n\nShe wears a dark garment, possibly a blouse or blazer, with a soft V-neckline that reveals a bit of her cleavage and part of a thin necklace with a small gold or silver pendant. The contrast between the black of the outfit and the vibrant colors of the background and the glasses is very effective.\n\nHer hair is long, very straight, and black or very dark brown. The strands are shiny, healthy, and appear to be in motion, flowing slightly up and to the sides, as if blown by a gentle breeze or a studio fan, adding dynamism and drama to the image. It frames her face and falls over her shoulders and chest. The makeup is sophisticated and polished: the eyebrows are dark, full, and perfectly arched, creating a strong line above the glasses. The eyes are dramatically highlighted with precise black eyeliner and long, voluminous lashes visible through the lenses. The lips are plumped up with a brick red, terracotta, or burnt orange lipstick, with a matte or satin finish and a well-defined contour.\n\nThe background is a completely smooth and uniform studio backdrop in a vibrant, saturated shade of egg yellow or golden orange. The solid, bright color creates a powerful contrast with the dark clothing and hair, making the figure stand out and creating an energetic, pop-art atmosphere. The lighting is studio-grade, professionally controlled, likely with a soft main light source (such as a beauty dish or large softbox) positioned frontally and slightly overhead, illuminating the face evenly and creating a soft glow on the skin. The lighting also highlights the movement and shine of the hair.\n\nCamera Settings: Captured with a high-quality portrait prime lens (e.g., 85mm f/1.4 or 100mm f/2.0) on a full-frame camera for a sharp close-up with flattering compression and excellent background separation. Aperture set between f/2.8 and f/4.0 for a shallow depth of field that keeps the face and glasses in sharp focus, while the hair and background are softly blurred. ISO 100 for maximum studio image quality. Shutter speed from 1/160s to 1/250s. Studio lighting controlled with soft modifiers and perhaps a fan for the hair effect.\n\nInstructions for the \"nano banana\":\n\n\"Please use the user's reference image to capture and apply all of their facial features, face structure, eye color (visible behind the lenses), no reflections on the glasses, skin tone Skin tone, hair style and color (long, straight, dark, and flowing), as well as the suggested body shape (slender) with maximum fidelity. The goal is to create a version of the user in this high-fashion portrait. The clothing (dark piece, thin necklace), yellow sunglasses with yellow frames, the frontal pose with a raised chin, the confident expression, the glamorous makeup (defined eyebrows, lined eyes, warm-toned lips), the soft studio lighting, and the vibrant yellow background should be rendered as described, creating a perfect fusion between the user's identity and the aesthetics of the image.",
+      "ai_style": "High-Fashion Studio",
+      "tags": [
+        "fashion",
+        "studio",
+        "editorial",
+        "glamour"
+      ],
+      "likes": 37210,
+      "views": 1984000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-613",
+      "title": "Formula 1 Legend Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-613.jpeg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Retrato de estúdio colorido em alta definição de Carlos Eduardo Freitas, piloto de Fórmula 1, vestindo seu macacão de corrida vermelho e branco da McLaren-Honda, com logotipos de patrocinadores como Marlboro, Honda e BOSS. Ele está segurando seu capacete de corrida amarelo e preto (icônico) na mão. Fundo liso azul celeste ou ciano. Iluminação de estúdio suave e uniforme. Retrato de meio corpo com pose confiante, olhando diretamente para a câmera. (Mantenha a fidelidade do rosto da foto enviada. Formato do rosto, barba, cabelo e outros).",
+      "ai_style": "Sports Studio Portrait",
+      "tags": [
+        "formula1",
+        "racing",
+        "studio",
+        "sports"
+      ],
+      "likes": 41900,
+      "views": 2217000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-614",
+      "title": "Soft Pink Editorial Sitting Pose",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-614.png",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Recrie esta cena utilizando a foto que enviarei, substituindo a pessoa original pela minha imagem, mantendo exatamente o mesmo enquadramento, postura, iluminação e estilo visual.\n\nA cena mostra uma mulher sentada no chão, com as pernas cruzadas de forma elegante e sorrindo enquanto segura um celular com a mão direita. O olhar é voltado para o celular, transmitindo leveza, confiança e elegância.\n\nEla está vestindo um conjunto social feminino rosa claro, composto por blazer, calça de alfaiataria e blusa no mesmo tom, com sapatos de salto abertos também rosa.\n\nambiente é iluminado por luz natural, com paredes em tons suaves de branco e rosa, e um sofá branco ao fundo. O estilo geral deve ser moderno, sofisticado e feminino, com um toque de calor e suavidade na paleta de cores.\n\nA iluminação deve ser suave e natural, vindo de uma janela lateral que cria um jogo leve de sombras. O fundo pode incluir um painel artístico em tons de rosa e branco, desfocado para manter o foco na pessoa.\n\nMantenha a expressão sorridente e relaxada, o cabelo solto com leve ondulação e uma maquiagem natural, destacando olhos e lábios com tons rosados suaves.\n\nA proporção deve ser vertical (1080x1920), com alta definição e aparência fotográfica realista.",
+      "ai_style": "Lifestyle Editorial",
+      "tags": [
+        "pink",
+        "editorial",
+        "lifestyle",
+        "modern"
+      ],
+      "likes": 28740,
+      "views": 1473000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-615",
+      "title": "Black Satin Staircase Elegance",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-615.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Crie uma imagem ultrarrealista da mulher da foto (mantenha os traços faciais o máximo possível). Não altere o rosto nem a cor do cabelo que é preto. Faça um retrato em que ela esteja no centro da escadaria, usando um vestido longo ate o chão de cetim preto com um decote profundo, ombro a ombro. O tecido do vestido se estende elegantemente pelos degraus. Complete o visual com pulseira elegantes e um colocar suave. Seu cabelo cor de preto é muito longo e levemente ondulado, e sua expressão é serena, com um sorriso sem mostrar os dentes e confiante, ela esta sentada na escada de um modo elegante.\nA escadaria é ladeada por grandes vasos cheios de rosas vermelhas, com pétalas espalhadas pelos degraus de um lado ao outro, junto a buquês de rosas. No topo da escadaria, a iluminação quente de candelabros e arandelas ilumina a cena. No final dos degraus Letras luminosas médio formando a palavra 27 anos, em estilo marque com luzes embutidas brancas quentes, Iluminação suave e ambiente elegante, com decoração moderna e tons neutros (bege, branco e madeira clara). As letras devem ter aparência realista, estrutura tridimensional e brilho suave, esta posicionada no centro no final da escada.\nUse as características física da imagem que te enviei sem alterar o rosto\nEstilo: Editorial de moda feminina, fotografia realista, hiperdetalhada, foco nítido, gradação de cores cinematográfica, resolução 8K, hiper-realista, FHD, lente Sony",
+      "ai_style": "Luxury Fashion Editorial",
+      "tags": [
+        "fashion",
+        "luxury",
+        "editorial",
+        "evening"
+      ],
+      "likes": 49810,
+      "views": 2639000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-616",
+      "title": "Window in the Clouds",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-616.png",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Render sinematik, resolusi tinggi seseorang dari foto terlampir, mengenakan baju putih, bersandar di ambang jendela kayu biru lapuk yang terbuka. Jendela itu mengambang di tengah lautan awan kumulus putih cerah yang lembut, berlatar langit biru muda yang memukau. Dia menyedu dari cangkir putih, ekspresinya kontemplatif. Beberapa burung kecil terlihat di langit kejauhan. Pencahayaannya lembut, menonjolkan tekstur awan dan kayu, menciptakan citra yang sangat detail dan tenang.",
+      "ai_style": "Surreal Cinematic",
+      "tags": [
+        "surreal",
+        "clouds",
+        "cinematic",
+        "calm"
+      ],
+      "likes": 35600,
+      "views": 1897000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-617",
+      "title": "Own The Stage Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-617.png",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Studio fashion editorial poster of a young woman standing confidently at the center, dressed in monochrome orange outfit (oversized jacket, wide-leg pants, sneakers). She holds a sleek, oversized monochrome purple microphone stand, as if about to perform. Background is deep purple with spotlight gradient. Oversized bold white typography above her spells ‘OWN THE STAGE.’ Minimal branding text at the bottom. Lighting is dramatic, like a music performance poster, with sharp clean details.",
+      "ai_style": "Graphic Fashion Poster",
+      "tags": [
+        "poster",
+        "music",
+        "fashion",
+        "graphic"
+      ],
+      "likes": 33120,
+      "views": 1762000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-618",
+      "title": "Multiplicity Clone Cinematic Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-618.jpg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Photorealistic central man (exact match to reference: masculine facial features, hair, expression, skin tone, body) front-facing camera in stoic clasped-hands pose, surrounded by six identical male clones in single-file line behind, clones leaning heads out symmetrically left/right in cascading fan pattern for all seven faces fully visible, everyone in varied random men’s streetwear (hoodies, graphic tees, baggy pants, sneakers, jackets, caps in mixed colors/styles and all dress Center text OMER J), soft professional studio lighting, plain light grey seamless background, high-contrast symmetrical composition, surreal multiplicity effect, ultra-sharp 8k fabric/texture details, cinematic fashion editorial vibe --ar 3:2 --stylize 300\" Don't change model face",
+      "ai_style": "Cinematic Surreal Composition",
+      "tags": [
+        "cinematic",
+        "clones",
+        "surreal",
+        "fashion"
+      ],
+      "likes": 52140,
+      "views": 2891000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-619",
+      "title": "Golden Rim Light Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-619.png",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A woman with loose, messy hair, in a dark shade. Her hair is brilliantly illuminated from behind, creating a luminous golden halo that contrasts sharply with the dark background.\nExpression and pose: She turns her face to the camera, looking directly at it, but partially obscured by shadows. Her mouth is slightly parted, which adds an expressive and intimate air to the photo. Without changing her facial features.",
+      "ai_style": "Low-Key Cinematic",
+      "tags": [
+        "rim light",
+        "portrait",
+        "cinematic",
+        "moody"
+      ],
+      "likes": 26890,
+      "views": 1345000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-620",
+      "title": "Ultra-Wide Forest Perspective",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-620.jpeg",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Usando esta imagem fornecida como referência: gere um retrato editorial hiperrealista da mesma pessoa, preservando a estrutura facial, estrutura física e tom de pele, textura do cabelo e expressão emocional com máxima fidelidade um leve sorriso branco dentes harmônicos. Ele é forte musculos definido . Não remova imperfeições naturais - sardas, cicatrizes, poros, assimetrias ou rugas devem ser preservadas para honrar a autenticidade e individualidade do sujeito.\nA composição é uma fotografia de visão de ângulo extremamente baixo, capturada com uma lente ultra-wide para criar uma perspectiva forçada. O sujeito está com um leve sorriso no rosto suéter amarelo e jeans azul . Uma mão é estendida em direção à câmera, parecendo exageradamente grande devido à distorção da lente, enquanto o resto do corpo recua naturalmente para o fundo.\nO cenário é ao ar livre, cercado por pinheiros imponentes que formam linhas radiais convergindo em direção ao céu. Um forte clarão solar ilumina a cena, lançando destaques quentes e luz suave ao redor da silhueta do assunto. O clima é vibrante, cinematográfico e emocionalmente edificante - como uma imagem de uma alegre série editorial.\nA imagem deve preservar alto detalhe e realismo, com profundidade dinâmica e iluminação expressiva. O fundo deve permanecer natural e imersivo, enfatizando a escala das árvores e o calor da luz.\n---Aevores- \"Usando esta imagem como referência: gere um retrato editorial hiperrealista da mesma pessoa, preservando a estrutura facial, tom de pele, textura do cabelo e expressão emocional com máxima fidelidade. Não remova imperfeições naturais - sardas, cicatrizes, poros, assimetrias ou rugas devem ser preservadas para honrar a autenticidade e individualidade",
+      "ai_style": "Outdoor Cinematic Editorial",
+      "tags": [
+        "forest",
+        "ultrawide",
+        "editorial",
+        "cinematic"
+      ],
+      "likes": 44120,
+      "views": 2376000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-621",
+      "title": "Flaming Tiger Manifestation",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-621.jpeg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Create a photorealistic, cinematic image of a man (use the provided image for accurate facial features) wearing a simple black t-shirt, in a dimly lit indoor space. He is in right side profile, staring intently at a life-size tiger head made of fire that appears above his outstretched hand.\n\nThe flaming tiger, formed by intense, undulating lines of gold and orange fire, has a fierce and dynamic expression—with its mouth open, teeth visible, and eyes glowing with energy, staring at the man. The flames form the entire outline of the tiger, emitting sparks and luminous reflections that partially illuminate the man's face and arm.\n\nThe ambient lighting is soft and warm, coming primarily from the glow of the fire, creating contrast between light and shadow on the face and walls of the room. The background features a white wooden door, white walls, and modern furniture, reinforcing the everyday realism of the setting.\n\nThe style should be realistic, detailed, and dramatic, with precise skin textures, light reflections on surfaces, and an atmosphere of power and introspection. The frame is half-length, captured with a shallow depth of field, with a sharp focus on the man and the flaming projection.\n\nVisual keywords: photographic realism, dynamic fire, tiger energy, warm light, soft shadows, determined expression, light contrast, magical atmosphere, inner power, modern fantasy scene.",
+      "ai_style": "Modern Fantasy Cinematic",
+      "tags": [
+        "fire",
+        "tiger",
+        "power",
+        "cinematic"
+      ],
+      "likes": 49210,
+      "views": 2714000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-622",
+      "title": "Color Smoke Introspection",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-622.png",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Retrato artístico fotorrealista de um homem (use a imagem fornecida para características específicas) em perfil, com o rosto voltado para cima e os olhos internos, transmitindo serenidade e introspecção.\nEle veste uma jaqueta de couro preta moderna, com gola levantada.\n\nO ambiente ao redor está imerso em fumaça densa e envolvente, que circunda todo o personagem, mas com o rosto aparecendo claramente. As nuvens de fumaça possuem cores vibrantes — azul, roxo, laranja e vermelho — misturando-se de forma natural e criando um contraste marcante com o preto da jaqueta.\n\nA fumaça deve ter volume, textura e profundidade, formando um cenário quase etéreo, como se o homem estivesse imerso em um mundo de nuvens coloridas.\n\nA iluminação é suave e lateral, realçando os contornos do rosto, o brilho do couro e as camadas de fumaça.\n\nEstilo visual: fotografia fotorrealista, 8K, iluminação luminosa, foco nítido, núcleos saturados e atmosfera envolvente.\n\nPalavras-chave: fumaça densa e colorida, retrato fotorrealista, iluminação cinematográfica, vista de perfil, jaqueta de couro, sombras suaves, clima dramático, cercado por névoa, iluminação volumétrica.",
+      "ai_style": "Artistic Smoke Portrait",
+      "tags": [
+        "smoke",
+        "portrait",
+        "dramatic",
+        "cinematic"
+      ],
+      "likes": 36180,
+      "views": 1986000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-623",
+      "title": "Chess Mind Editorial",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-623.png",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "A dynamic, high-fashion black and white photograph of the person in the initial reference photo, meticulously maintaining their exact facial features, characteristic dark, neatly styled hair, and well-groomed beard. The subject is a man, standing with a confident, slightly intense, and direct serious expression, looking straight into the camera from a dramatic low-angle perspective. He is impeccably dressed in a sharp, classic black tuxedo with a crisp white shirt and black bow tie. Numerous black and white chess pieces (including pawns, knights, rooks, and queens) are dynamically frozen in mid-air, floating and scattered all around the subject, creating a surreal and intellectual atmosphere. The background is a clean, minimalist light grey studio. The lighting is high-key and high-contrast, professional studio lighting, emphasizing the textures of the tuxedo and the sharp edges of the chess pieces, creating strong shadows and highlights. The overall mood is sophisticated, powerful, intelligent, and subtly surreal. Aspect ratio 4:5 (portrait).",
+      "ai_style": "Surreal Fashion Editorial",
+      "tags": [
+        "chess",
+        "blackandwhite",
+        "editorial",
+        "surreal"
+      ],
+      "likes": 52840,
+      "views": 3129000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-624",
+      "title": "Glowing Name Power",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-624.png",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Use reference image to create Ultra Realistic ultra Resolution cinematic 8k detail A young men with your face, wearing a silk Dark red shirt, He left hand holding glowing text that reads \"Dharti\" font stylish name in his one hand.\n\nThe scene is dark, with the glowing text illuminating his face and hands. The style is a realistic photograph with dramatie, low key lighting.",
+      "ai_style": "Low-Key Cinematic Portrait",
+      "tags": [
+        "name",
+        "glow",
+        "dark",
+        "cinematic"
+      ],
+      "likes": 34490,
+      "views": 1765000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-625",
+      "title": "Superhero Group Selfie",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-625.png",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "A ultra realistic group selfie, center is the person from the attached image, wearing a fitted black shirt and ripped jeans, holding an iPhone for the selfie. Around are Chris Hemsworth as Thor, Gal Gadot as Wonder Woman, Scarlett Johansson as Black Widow, Mark Ruffalo as Hulk, Henry Cavill as Superman, RDJ in full armor all hugging, smiling, posing casually like close friends. Fun, joyful mood, bright daylight, cinematic quality, natural look, high detail.",
+      "ai_style": "Cinematic Group Portrait",
+      "tags": [
+        "selfie",
+        "superheroes",
+        "fun",
+        "cinematic"
+      ],
+      "likes": 61200,
+      "views": 4218000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-626",
+      "title": "Miniature Bathtub Perspective",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-626.png",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Use the attached reference image for the face.\nA miniature man (use the face from the reference photo) is soaking in a small, white, rectangular bathtub with sharp, pointed corners, filled with water and plenty of soap suds. He appears surprised with a tense expression, holding his knees with both hands. His hair is styled exactly as in the reference photo. His body is folded narrowly to fit the bathtub, with his knees bent and his feet together.\nThe bathtub is held by a large hand from below, gripping the outside with curved fingers while the palm supports it.\nThe perspective is a top view with the bathtub in a vertical position, showing almost the entire body from head to toe, and clearly showing the hands holding the tub. The background is a plain dark gray, with dramatic lighting that brings out the realistic details of the skin, soap suds, and hand texture.\nAspect ratio: 3:4",
+      "ai_style": "Surreal Realism",
+      "tags": [
+        "miniature",
+        "surreal",
+        "scale",
+        "creative"
+      ],
+      "likes": 40120,
+      "views": 2159000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-627",
+      "title": "Gradient Jacket Editorial",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-627.jpeg",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "A Highly Detailed 8K, High-fashion editorial portrait of a handsome young East Asian man. (As a uploaded photo use face) He is wearing a unique red-to-gree ombre/gradient bomber jacket, a clean white t-shirt, and white cargo pants. He poses with a calm, confident expression against the backdrop of the india flag. The atmosphere is filled with dramatic, swirling red and white smoke.",
+      "ai_style": "High-Fashion Editorial",
+      "tags": [
+        "fashion",
+        "gradient",
+        "editorial",
+        "smoke"
+      ],
+      "likes": 38260,
+      "views": 2043000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-628",
+      "title": "Romantic Morning Bedroom",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-628.png",
+      "category_id": "social-1",
+      "category_name": "Social / Lifestyle",
+      "prompt": "Outfit: Off-shoulder pastel knit top with white mini shorts.\nSetting: Cozy bedroom with natural window light filtering through sheer curtains.\nLighting: Morning soft light, warm and intimate.\nPose: Sitting on bed with relaxed posture, hair tousled, smiling softly.\nShot Type: Mid-shot, focus on face and soft textures of outfit.\nMood: Romantic morning charm, natural beauty meets flirty comfort.",
+      "ai_style": "Lifestyle Morning Portrait",
+      "tags": [
+        "bedroom",
+        "morning",
+        "romantic",
+        "soft"
+      ],
+      "likes": 29610,
+      "views": 1438000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-629",
+      "title": "Mid-Air Disaster Fall",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-629.png",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "create a hyper-realistic photo of a person falling without a parachute from a plane that exploded in the air. The person has semi-long hair, with their hand extended towards the camera trying to reach another person's hand. Looking forward with panic and effort. Dramatic scene FHD 4k. Parts of the plane and passengers' belongings falling around the character. In the background, the plane and sky with clouds.",
+      "ai_style": "Disaster Cinematic",
+      "tags": [
+        "falling",
+        "disaster",
+        "action",
+        "dramatic"
+      ],
+      "likes": 55890,
+      "views": 3397000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-630",
+      "title": "Water Meditation Levitation",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-630.png",
+      "category_id": "nature-1",
+      "category_name": "Nature / Outdoor",
+      "prompt": "Create a photorealistic image of a man (use the provided image for accurate facial features) wearing all-white clothing—a linen shirt and light trousers—floating serenely in the lotus position on the calm surface of a body of water. The man's eyes are closed, in a state of meditation and tranquility, with a serene and balanced expression. Below him, a gentle circular ripple forms in the water, as if the air around him is gently touching the surface. The perfect reflection of the man and the sky appears in the body of water. The setting is natural and harmonious, with gentle mountains in the background and a golden late-afternoon sky dotted with scattered clouds illuminated by the soft light of sunset. The atmosphere should convey peace, balance, and spirituality. Warm natural lighting, photographic realism, sharp focus, and balanced composition.",
+      "ai_style": "Spiritual Cinematic Realism",
+      "tags": [
+        "meditation",
+        "water",
+        "peace",
+        "spiritual"
+      ],
+      "likes": 44780,
+      "views": 2485000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-631",
+      "title": "Fashion Magazine Editorial Spread",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-631.png",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Hyper-realistic 8K HD high-resolution photo of an open fashion magazine lying on a dark gray surface with subtle softbox reflections and realistic shadows beneath it, shot diagonally from above.\nThe magazine is open across two pages:\nOn the left page, there is a printed editorial photo of Same Person (keep his original face), fit and dark hair slightly messy yet glossy, head tilted slightly upward with a confident and intense gaze.\nHe wears Same outfit same uploaded image paired with a silver wristwatch, giving a clean, modern, and confident fashion vibe.\nThe background of the printed photo is a vivid orange backdrop with strong front-top lighting, creating dramatic highlights and shadows on his face and neck. The lighting is glossy, high-contrast, with shallow depth of field, giving an edgy high-fashion editorial aesthetic.\nOn the right page, include a small to big Instagram Original logo icon followed by the handle \"@mr.mori_vinay\" in sleek modern sans-serif font, maintaining a luxury fashion-magazine composition.\nThe pages show realistic glossy paper reflections, fine paper texture, slightly curved pages, and stacked magazines underneath. Cinematic, elegant, ultra-detailed, with realistic reflections and premium editorial aesthetics. -ar 16:9 -v 6-style raw -quality 2 -upbeta -realistic lighting -8k ultra detailed -magazine editorial -printed photo on glossy paper -no\nelements breaking page boundary.",
+      "ai_style": "High-Fashion Magazine Editorial",
+      "tags": [
+        "magazine",
+        "editorial",
+        "fashion",
+        "printed"
+      ],
+      "likes": 41860,
+      "views": 2294000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-632",
+      "title": "Burning iMac Surreal Editorial",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-632.png",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "Uma fotografia de editorial de alta moda com uma estética surreal. Um homem (use a imagem fornecida para características faciais precisas), está sentado em uma cadeira com uma mesa de trabalho de cor clara. Ele está usando um iMac que está pegando fogo, com chamas alaranjadas brilhantes subindo dele, mas ele mantém uma expressão calma e séria, olhando diretamente para a tela. A mesa está inexplicavelmente posicionada no meio de um corpo de água calmo, como um lago ou o mar, parcialmente submersa. O homem veste um terno preto,  camisa branca, calças pretas e sapato social preto entram na água. A cena acontece durante o pôr do sol (golden hour), com o céu no horizonte em tons quentes de laranja e amarelo, refletindo lindamente na superfície da água. A iluminação é suave e quente, vinda do sol poente e do fogo do computador. A atmosfera é enigmática, serena e conceitual. O estilo é fotorealista 9:19, com cores ricas e uma composição cinematográfica. Qualidade 8K, com detalhes nítidos.",
+      "ai_style": "Surreal High-Fashion Cinematic",
+      "tags": [
+        "surreal",
+        "fire",
+        "editorial",
+        "conceptual"
+      ],
+      "likes": 49730,
+      "views": 2861000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-633",
+      "title": "Tomb Raider Cinematic Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-633.jpeg",
+      "category_id": "action-1",
+      "category_name": "Action / Cinematic",
+      "prompt": "A cinematic, medium-length portrait with a gritty, adventurous aesthetic, capturing a female figure as a tomb raider. The subject is posed tensely and ready for action, holding the string of a bow and arrow, with a quiver of arrows slung across her back. She looks directly at the camera with a serious, determined, and focused expression, her face smeared with dirt and small cuts visible.\n\nShe wears a gray-green tank top, dirty and torn, her arms also dirty, with bandages wrapped around her forearms and hands.\n\nHer hair is dark, tied in a ponytail or makeshift bun, with loose, dirty strands falling over her face.\n\nThe background is dark and atmospheric, suggesting the interior of a cave or tomb, with dust particles or mist floating in the air and a mysterious light coming from above or below. The lighting is dramatic and contrasty, with a key light that illuminates the face and body, creating deep shadows and highlighting the dirt, cuts, and texture of the skin and clothing.\n\nCamera Settings: Captured with a prime portrait lens (e.g., 85mm f/1.8) on a full-frame camera for a sharp close-up and flattering compression. Aperture set between f/2.8 and f/4.0 for a shallow depth of field, focusing on the face and blurring the atmospheric background. ISO 400-800 to capture the scene in low light and highlight texture. Shutter speed 1/160s to 1/250s. Controlled studio lighting (or directed natural light) with a strong key light and rim lights to create dramatic contrast and a cinematic effect.\n\nInstructions for the \"nano banana\":\n\n\"Please use the user's reference image to capture and apply all of their facial features, facial structure, eye color, hairstyle, and skin tone with maximum fidelity. The goal is to create a version of the user as the character Lara Croft. The clothing (dirty tank top, sashes), the bow and arrow, the dirt and cuts on the face and body, the determined pose, the dramatic lighting, and the atmospheric cave/tomb background should be generated as described, creating a perfect fusion between the user's identity and the aesthetic of the image.\"",
+      "ai_style": "Adventure Cinematic Realism",
+      "tags": [
+        "tombraider",
+        "adventure",
+        "cinematic",
+        "action"
+      ],
+      "likes": 46320,
+      "views": 2547000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-634",
+      "title": "Confident Minimal Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-634.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Edit this image into a bold, confident portrait of a young woman sitting elegantly, chin resting lightly on her hand, eyes forward with unwavering composure. Use dynamic lighting to emphasize her features and add depth to the scene. Style her in a fitted ribbed sweater or chic blazer in tones of cream or midnight blue. Keep the background minimal, with smooth gradients and soft shadows that frame her aura of grace and empowerment.",
+      "ai_style": "Modern Editorial Portrait",
+      "tags": [
+        "portrait",
+        "confidence",
+        "minimal",
+        "editorial"
+      ],
+      "likes": 28740,
+      "views": 1389000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-635",
+      "title": "Oil Paint Editorial Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-635.png",
+      "category_id": "art-1",
+      "category_name": "Art / Creative",
+      "prompt": "Convert to this image into An editorial art-poster of a my face in extreme close-up, half-frame composition; thick impasto oil-paint texture with palette-knife strokes forming realistic masculine features, teal-green iris with sharp catchlight, lips and skin rendered in layered paint ridges; abstract paint blocks in matte black and deep yellow overlapping the left side like chipped panels, :  subtle paper grain and micro-cracks; typography integrated vertically on the left: large stacked numerals “2026 mr.mori_vinay” in bold modern sans-serif with alternating white and warm yellow accents, plus a small subtitle line reading “FOLLOW ME” near the bottom; clean poster edges, deep vignette and soft studio background blur for focus;3/1 :  lighting: soft museum key light from upper left with gentle speculars on paint peaks, HDR exposure, high local contrast without clipping, smooth highlight roll-off; optical language: 85 mm portrait look, f/2.8, ISO 100, 1/160s, shallow depth isolating the eye; output intent: ultra-sharp, high-frequency paint detail, print. Right writing now",
+      "ai_style": "Fine-Art Editorial Poster",
+      "tags": [
+        "oilpaint",
+        "poster",
+        "editorial",
+        "art"
+      ],
+      "likes": 51290,
+      "views": 3016000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-636",
+      "title": "Elegant Red Dress Studio Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-636.jpeg",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "Utilse ma photo pour un rendu optimal haute résolution et de qualité.\nGénère une photo 8K HYPERRÉALISTE d’Une belle jeune femme (se referer à la photo) posant joyeusement dans une robe rouge moulante  arrivé au genoux à épaules legerement dénudées. Elle tient dans ses bras un grand bouquet de roses rouges enveloppées de papier blanc, tout en souriant largement avec une expression élégante et confiante. Ses cheveux bouclés tombent naturellement sur ses épaules. Elle lève une jambe de façon gracieuse tout en portant des sandales à talons hauts argentées. L’arrière-plan est un studio avec un fond lisse vert olive. Portrait en pied, haute résolution, éclairage professionnel de studio, mise au point nette, ambiance élégante et festive.",
+      "ai_style": "Elegant Studio Portrait",
+      "tags": [
+        "studio",
+        "red dress",
+        "portrait",
+        "festive"
+      ],
+      "likes": 32480,
+      "views": 1674000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-637",
+      "title": "Man and Dolphin Tropical Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-637.png",
+      "category_id": "nature-1",
+      "category_name": "Nature / Wildlife",
+      "prompt": "Take a photo of me, without changing my features, taken in the water, showing a man and a dolphin.\nThe man:\n​100% identical to the attached image and with wet hair, he is looking at the camera.\n​He is wearing what appears to be a life jacket and beach trunks.\n​He is hugging the dolphin, or with his head against his.\nThe Dolphin:\n​The dolphin's head is very close to the man, floating on the surface of the water. He appears to be looking directly at the camera or the man\nYour skin is smooth and gray.\n​The Environment:\n​The water is incredibly clear and a brilliant turquoise, suggesting a tropical or Caribbean environment.\n​The background, slightly out of focus, shows some vegetation and structures (perhaps piers or buildings) on land.\n​The day is sunny, and the intense light contributes to the brightness and clarity of the scene.\n​The photo conveys a feeling of joy, adventure and close interaction with marine life in a paradisiacal environment.",
+      "ai_style": "Photorealistic Wildlife Interaction",
+      "tags": [
+        "dolphin",
+        "ocean",
+        "tropical",
+        "adventure"
+      ],
+      "likes": 45120,
+      "views": 2583000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-638",
+      "title": "Autumn Urban iPhone Selfie",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-638.png",
+      "category_id": "lifestyle-1",
+      "category_name": "Lifestyle / Street",
+      "prompt": "📱🍂 Editorial Theme: “Selfie de Outono — Realidade em Alta”\n🎭 Conceito\nUm retrato hiper realista capturado como uma selfie casual com iPhone, em uma calçada urbana durante o outono. A imagem simula um momento espontâneo, não intencional, com estética 100% natural — sem filtros, sem gradação de cor, sem estilização. O modelo — com rosto fiel à imagem original — aparece descentralizado no enquadramento, com parte do rosto cortada e o braço esquerdo estendido para cima, segurando o celular. A expressão é neutra com leve curiosidade, boca relaxada, olhos atentos. O cabelo está levemente bagunçado, com fios soltos refletindo a luz solar intensa do fim da tarde. A composição transmite autenticidade, estilo urbano e conexão com o ambiente.\n🎥 Especificações Técnicas\nDispositivo simulado: iPhone (câmera frontal, lente grande angulagive this in json with other properties add as previous conversation and make sure given prompt should not change by you. & extension in image is .jpeg.r nativa)\nFormato da imagem: 4:3 — proporção padrão de captura casual\nEnquadramento: selfie descentralizada, levemente torta, parte do rosto cortada\nÂngulo da câmera: alto (high angle), com o braço esquerdo estendido — reforça espontaneidade e perspectiva pessoal\nDistância focal: curta, com leve distorção nas bordas — típica de lente de celular\nDesfoque de movimento: sutil nas pontas dos dedos e fios de cabelo — reforça realismo\nFoco: uniforme — tanto o rosto quanto o fundo estão nítidos, sem bokeh ou modo retrato\nIluminação: luz natural intensa do fim da tarde — sombras nítidas e reflexos quentes\nFaixa dinâmica: realista — contraste entre luz e sombra preservado sem exageros\nEstilo visual: fotografia documental urbana — sem retoques, sem filtros, aparência humana e crua\n🧍‍♂️ Pose Principal: “Selfie em Perspectiva”\nPostura corporal: corpo levemente inclinado para trás, cabeça voltada para a lente com leve inclinação lateral\nBraço visível: esquerdo — estendido para cima e à frente, antebraço entrando no quadro\nExpressão facial: neutra com leve inquisitividade — transmite presença e naturalidade\nCabelo: levemente bagunçado, com fios soltos refletindo a luz — reforça espontaneidade\nTextura da pele: preservada com fidelidade — sem retoques, com brilho natural e poros visíveis\n👕 Detalhes do Look\nJaqueta: boxy felpuda com zíper, em bloco de cores sálvia/cinza — textura visível e bem definida\nCamiseta: preta canelada — aparece discretamente sob a jaqueta\nCalça: jeans ultra-largos com lavagem de areia — não visível na selfie, mas parte do conjunto\nTênis: slip-on creme robustos — não visíveis no enquadramento atual\nFones de ouvido: brancos over-ear — encaixados sobre a cabeça, com arco visível no topo do cabelo\nAcessórios: nenhum adicional visível — foco na composição e na expressão\n🌇 Detalhes do Ambiente\nLocal: calçada urbana com pavimentação de pedra quadrada\nElementos visíveis:\nFaixa tátil de meio-fio — textura realista e funcional\nFolhas amarelas espalhadas — reforça estação de outono\nSombra diagonal de árvore — cria composição gráfica e profundidade\nParte do pneu de um carro estacionado — visível no canto superior direito\nLuz: sol brilhante do fim da tarde — cria sombras definidas e reflexos quentes sobre o rosto e o chão\nEstilo: fotografia casual urbana — ideal para retratos de estilo pessoal, lifestyle ou redes sociais",
+      "ai_style": "Urban Documentary Selfie",
+      "tags": [
+        "selfie",
+        "autumn",
+        "urban",
+        "iphone"
+      ],
+      "likes": 29610,
+      "views": 1429000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-639",
+      "title": "Dreamy Maternity Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-639.png",
+      "category_id": "ai-001",
+      "category_name": "AI Portrait",
+      "prompt": "A full-body semiprofile shot of the uploaded model, depicted as a pregnant woman, standing against a pure black background. She is adorned in a flowing, ethereal white gown crafted from sheer, lightweight fabric, dramatically billowing as if in a gentle breeze. Her hands softly cradle her belly, and her head is gracefully tilted upward, displaying a serene and peaceful expression. Soft, directional studio lighting accentuates her silhouette and the delicate folds of her dress. The image should convey a dreamy, elegant, and spiritual mood, reminiscent of a modern maternity portrait. Emphasize high resolution, photorealism, cinematic lighting, and a shallow depth of field. Apply appropriate makeup to enhance her beauty, ensuring faithfulness to the model's facial details, body proportions, and hair style.",
+      "ai_style": "Cinematic Maternity Portrait",
+      "tags": [
+        "maternity",
+        "elegant",
+        "cinematic",
+        "portrait"
+      ],
+      "likes": 38790,
+      "views": 1986000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-640",
+      "title": "Luxury Supercar Lifestyle Editorial",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-640.jpeg",
+      "category_id": "lifestyle-1",
+      "category_name": "Lifestyle / Luxury",
+      "prompt": "“A stylish young man sits confidently with glasses,on the front bumper of a sleek white supercar with butterfly doors raised, posed in front of an ornate wrought-iron gate and lush garden background; he wears a black puffer jacket over a white tee ripped grey-black jeans pants,white apple watch and white sneakers, soft natural daylight creating crisp reflections on the car’s glossy surface, shallow depth of field, high-resolution editorial lifestyle photo.”",
+      "ai_style": "Luxury Editorial Lifestyle",
+      "tags": [
+        "supercar",
+        "luxury",
+        "editorial",
+        "lifestyle"
+      ],
+      "likes": 51240,
+      "views": 3128000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
     }
   ]
 }
