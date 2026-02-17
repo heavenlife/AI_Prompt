@@ -7746,7 +7746,7 @@
     {
       "id": "ai-401",
       "title": "Mexican Muralism Portrait Transformation",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-401.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-401.webp",
       "category_id": "art-heritage",
       "category_name": "Cultural Art Styles",
       "prompt": "Transform the uploaded photo of a person into a Mexican muralism art style, preserving facial structure and expression, dressed in a charro suit with silver spurs, rendered using fresco technique, featuring a colonial plaza wall, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
@@ -7766,7 +7766,7 @@
     {
       "id": "ai-402",
       "title": "Celtic Illuminated Manuscript Portrait",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-402.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-402.webp",
       "category_id": "art-heritage",
       "category_name": "Cultural Art Styles",
       "prompt": "Transform the uploaded photo of a person into a Celtic illuminated manuscript art style, preserving facial structure and expression, dressed in a Celtic tunic with a torc necklace, rendered using tempera on parchment, featuring knotwork manuscript pages, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
@@ -7786,7 +7786,7 @@
     {
       "id": "ai-403",
       "title": "Tibetan Thangka Portrait Art",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-403.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-403.webp",
       "category_id": "art-heritage",
       "category_name": "Cultural Art Styles",
       "prompt": "Transform the uploaded photo of a person into a Tibetan thangka art style, preserving facial structure and expression, dressed in a Tibetan chuba with prayer beads, rendered using mineral pigments on silk, featuring a Himalayan monastery interior, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
@@ -7806,7 +7806,7 @@
     {
       "id": "ai-404",
       "title": "Kerala Mural Painting Portrait",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-404.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-404.webp",
       "category_id": "art-heritage",
       "category_name": "Cultural Art Styles",
       "prompt": "Transform the uploaded photo of a person into a Kerala mural painting art style, preserving facial structure and expression, dressed in kasavu attire with temple flower garlands, rendered using mineral pigment mural method, featuring a temple wall with vegetal borders, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
@@ -7825,7 +7825,7 @@
     {
       "id": "ai-405",
       "title": "Andean Retablo Portrait Art",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-405.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-405.webp",
       "category_id": "art-heritage",
       "category_name": "Cultural Art Styles",
       "prompt": "Transform the uploaded photo of a person into an Andean retablo art style, preserving facial structure and expression, dressed in a pollera and poncho with woven tassels, rendered using mixed-media wood panel, featuring an Andean mountain village, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
@@ -7844,7 +7844,7 @@
     {
       "id": "ai-406",
       "title": "Rajasthani Miniature Painting Portrait",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-406.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-406.webp",
       "category_id": "art-heritage",
       "category_name": "Cultural Art Styles",
       "prompt": "Transform the uploaded photo of a person into a Rajasthani miniature painting art style, preserving facial structure and expression, dressed in a royal angarkha with a jeweled turban, rendered using natural pigments on handmade paper, featuring a palace courtyard with jharokha arches, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
@@ -7863,7 +7863,7 @@
     {
       "id": "ai-407",
       "title": "Chinese Gongbi Portrait Painting",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-407.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-407.webp",
       "category_id": "art-heritage",
       "category_name": "Cultural Art Styles",
       "prompt": "Transform the uploaded photo of a person into a Chinese gongbi art style, preserving facial structure and expression, dressed in hanfu with a jade hairpin, rendered using fine ink and color on silk, featuring a classical garden pavilion, rich textures, authentic motifs, soft natural lighting, ultra-detailed, high-resolution, museum-quality artwork",
@@ -7882,7 +7882,7 @@
     {
       "id": "ai-408",
       "title": "Kid Birthday Carnival Photoshoot",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-408.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-408.webp",
       "category_id": "kids-photoshoot",
       "category_name": "Kids Photography",
       "prompt": "Professional kid birthday photoshoot featuring a cheerful 5-year-old boy enjoying cotton candy, wearing bright carnival-themed clothes. Styled in bold, colorful, playful tones. Shot with mirrorless 35mm lens, dynamic depth of field. Lighting: warm natural sunlight with highlights. Background: carnival fairground with balloons and banners. Emotions/Vibe: excited, happy, playful. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing fun moments.",
@@ -7902,7 +7902,7 @@
     {
       "id": "ai-409",
       "title": "Kid Astronaut Birthday Photoshoot",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-409.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-409.webp",
       "category_id": "kids-photoshoot",
       "category_name": "Kids Photography",
       "prompt": "Professional kid birthday photoshoot featuring a curious 5-year-old boy wearing astronaut costume, playing with space toys. Styled in futuristic, bright tones. Shot with DSLR 50mm lens, shallow depth of field. Lighting: soft ambient studio light with glowing accents. Background: space-themed studio with planets and stars. Emotions/Vibe: imaginative, excited, playful. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing wonder.",
@@ -7921,7 +7921,7 @@
     {
       "id": "ai-410",
       "title": "Superhero Kid Birthday Portrait",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-410.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-410.webp",
       "category_id": "kids-photoshoot",
       "category_name": "Kids Photography",
       "prompt": "Professional kid birthday photoshoot featuring a proud 5-year-old boy in superhero costume, standing on a stool with arms raised. Styled in bold comic-inspired colors. Shot with mirrorless 24-70mm lens, cinematic framing. Lighting: bright directional sunlight with soft fill. Background: superhero themed studio backdrop with stars and cityscape graphics. Emotions/Vibe: heroic, imaginative, fun. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing adventure and excitement.",
@@ -7940,7 +7940,7 @@
     {
       "id": "ai-411",
       "title": "Kid Birthday Airplane Run",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-411.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-411.webp",
       "category_id": "kids-photoshoot",
       "category_name": "Kids Photography",
       "prompt": "Professional kid birthday photoshoot featuring a happy 5-year-old boy running with a toy airplane, wearing a casual adventure outfit. Styled in bright and airy playful colors. Shot with mirrorless 35mm lens, capturing motion blur and candid action. Lighting: golden hour sunlight. Background: park playground decorated with balloons and banners. Emotions/Vibe: energetic, adventurous, fun-loving. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing childhood joy.",
@@ -7960,7 +7960,7 @@
     {
       "id": "ai-412",
       "title": "Kid Birthday Candle Moment",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-412.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-412.webp",
       "category_id": "kids-photoshoot",
       "category_name": "Kids Photography",
       "prompt": "Professional kid birthday photoshoot featuring an excited 5-year-old boy blowing out candles, wearing a colorful party hat and suspenders. Styled in vibrant and whimsical tones. Shot with DSLR 50mm lens, crisp focus on the subject. Lighting: natural diffused daylight. Background: lush garden with flowers and balloons. Emotions/Vibe: joyful, celebratory, playful. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing festive fun.",
@@ -7979,7 +7979,7 @@
     {
       "id": "ai-413",
       "title": "Train Conductor Birthday Theme",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-413.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-413.webp",
       "category_id": "kids-photoshoot",
       "category_name": "Kids Photography",
       "prompt": "Professional kid birthday photoshoot featuring a joyful 5-year-old boy dressed as a train conductor, holding a toy train. Styled in warm, playful tones. Shot with mirrorless 24-70mm lens, cinematic focus. Lighting: bright natural daylight with soft shadows. Background: train station themed setup with balloons and banners. Emotions/Vibe: energetic, playful, happy. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing childhood excitement.",
@@ -7998,7 +7998,7 @@
     {
       "id": "ai-414",
       "title": "Soft Indoor Birthday Portrait",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-414.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-414.webp",
       "category_id": "kids-photoshoot",
       "category_name": "Kids Photography",
       "prompt": "Professional kid birthday photoshoot featuring a shy 4-year-old boy sitting at a birthday table with cupcakes, wearing a cute knitted sweater. Styled in soft pastel tones. Shot with DSLR 85mm lens, shallow depth of field, soft bokeh. Lighting: warm indoor ambient glow. Background: cozy living room with minimal birthday decorations. Emotions/Vibe: calm, heartwarming, intimate. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing childhood wonder.",
@@ -8018,7 +8018,7 @@
     {
       "id": "ai-415",
       "title": "Rustic Barn Pre-Wedding",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-415.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-415.webp",
       "category_id": "pre-wedding",
       "category_name": "Pre-Wedding Photography",
       "prompt": "Use the above uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple dressed in rustic chic outfits, sitting on hay bales near a vintage barn. Styled in countryside romantic. Shot with a 50mm prime lens, warm tone edit. Lighting: afternoon sun rays through barn doors. Background: open farm fields with wooden barn backdrop. Emotions/Vibe: cozy, authentic, affectionate, and relaxed. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing heartfelt simplicity.",
@@ -8037,7 +8037,7 @@
     {
       "id": "ai-416",
       "title": "Beach Sunset Pre-Wedding",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-416.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-416.webp",
       "category_id": "pre-wedding",
       "category_name": "Pre-Wedding Photography",
       "prompt": "Use the uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple in flowing beachwear, embracing near the shoreline as waves crash gently. Styled in romantic minimalism. Shot with a DSLR 35mm lens, soft focus and cinematic tones. Lighting: golden sunset glow reflecting off the water. Background: tropical beach horizon with warm orange skies. Emotions/Vibe: passionate, serene, affectionate, and relaxed. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing warmth and timeless love.",
@@ -8056,7 +8056,7 @@
     {
       "id": "ai-417",
       "title": "Garden Vintage Pre-Wedding",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-417.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-417.webp",
       "category_id": "pre-wedding",
       "category_name": "Pre-Wedding Photography",
       "prompt": "Use the uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple dressed in vintage-inspired clothing, sitting in a blooming floral garden. Styled in timeless romanticism. Shot with a DSLR 105mm lens, smooth background blur. Lighting: soft afternoon sunlight through blossoms. Background: colorful botanical garden with blooming roses. Emotions/Vibe: gentle, nostalgic, loving, and natural. High-resolution, editorial-quality, cinematic composition, photorealistic details evoking classic romance.",
@@ -8075,7 +8075,7 @@
     {
       "id": "ai-418",
       "title": "Paris Editorial Pre-Wedding",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-418.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-418.webp",
       "category_id": "pre-wedding",
       "category_name": "Pre-Wedding Photography",
       "prompt": "Use the above uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple elegantly dressed, walking hand-in-hand near the Eiffel Tower. Styled in Parisian editorial glamour. Shot with a 35mm lens, natural daylight tones. Lighting: morning soft light. Background: romantic Paris streets and landmarks. Emotions/Vibe: chic, passionate, sophisticated, and timeless. High-resolution, editorial-quality, cinematic composition, photorealistic details radiating European elegance.",
@@ -8094,7 +8094,7 @@
     {
       "id": "ai-419",
       "title": "Waterfall Adventure Pre-Wedding",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-419.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-419.webp",
       "category_id": "pre-wedding",
       "category_name": "Pre-Wedding Photography",
       "prompt": "Use the above uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple in light clothing standing under a cascading waterfall mist. Styled in natural cinematic beauty. Shot with a DSLR 35mm lens, misty water droplets enhancing mood. Lighting: diffused daylight with natural backlight. Background: lush jungle and waterfall scene. Emotions/Vibe: adventurous, refreshing, and deeply connected. High-resolution, editorial-quality, cinematic composition, photorealistic details capturing emotion and nature.",
@@ -8113,7 +8113,7 @@
     {
       "id": "ai-420",
       "title": "Desert Dunes Pre-Wedding",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-420.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-420.webp",
       "category_id": "pre-wedding",
       "category_name": "Pre-Wedding Photography",
       "prompt": "Use the uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple in flowing neutral-toned outfits walking through golden desert dunes. Styled in boho-luxury. Shot with a 70-200mm telephoto lens, dreamy focus and motion blur. Lighting: warm sunset casting long shadows. Background: vast desert expanse with rippling sand. Emotions/Vibe: romantic, soulful, and tranquil. High-resolution, editorial-quality, cinematic composition, photorealistic details reflecting passion and calm.",
@@ -8132,7 +8132,7 @@
     {
       "id": "ai-421",
       "title": "Lavender Field Pre-Wedding",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-421.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-421.webp",
       "category_id": "pre-wedding",
       "category_name": "Pre-Wedding Photography",
       "prompt": "Use the above uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple in white and lavender attire dancing among endless lavender rows. Styled in dreamy rustic elegance. Shot with a 55mm lens, soft focus and creamy tones. Lighting: golden hour illumination with pastel hues. Background: purple lavender fields stretching to the horizon. Emotions/Vibe: serene, tender, and poetic. High-resolution, editorial-quality, cinematic composition, photorealistic details filled with warmth and scent of love.",
@@ -8151,7 +8151,7 @@
     {
       "id": "ai-422",
       "title": "Mountain Peak Pre-Wedding",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-422.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-422.webp",
       "category_id": "pre-wedding",
       "category_name": "Pre-Wedding Photography",
       "prompt": "Use the uploaded images of couple and create a Professional pre-wedding photoshoot — featuring a couple wearing elegant trekking outfits, embracing at the edge of a snow-capped mountain peak. Styled in cinematic adventure. Shot with a wide-angle 24mm lens, emphasizing vast landscapes. Lighting: natural high-altitude sunlight with dramatic shadows. Background: panoramic mountain view under clear skies. Emotions/Vibe: adventurous, free-spirited, and emotional. High-resolution, editorial-quality, cinematic composition, photorealistic details reflecting love and freedom.",
@@ -8170,7 +8170,7 @@
     {
       "id": "ai-423",
       "title": "ASOS Style Menswear Stock",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-423.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-423.webp",
       "category_id": "fashion-stock",
       "category_name": "Fashion Stock",
       "prompt": "A high quality stock photo of an indian man wearing orange nylon bomber jacket in modern ASOS-inspired styling, full body shot, running pose, very short hair, multi color background, 85-mm-lens, The overall style should feature bright, vibrant color accents, ultra-high-definition clarity, crisp edges, and refined visual depth. Aspect Ratio: 4:5.",
@@ -8189,7 +8189,7 @@
     {
       "id": "ai-424",
       "title": "ASOS Style Womenswear Stock",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-424.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-424.webp",
       "category_id": "fashion-stock",
       "category_name": "Fashion Stock",
       "prompt": "A high quality stock photo of a caucasian girl wearing yellow denim oversized t-shirt in modern ASOS-inspired styling, full body shot, walking pose, long wavy hair, gradient background, 85-mm-lens, The overall style should feature bright, vibrant color accents, ultra-high-definition clarity, crisp edges, and refined visual depth. Aspect Ratio: 4:5.",
@@ -8208,7 +8208,7 @@
     {
       "id": "ai-425",
       "title": "Emerald Royal Saree Jewelry",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-425.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-425.webp",
       "category_id": "jewelry-fashion",
       "category_name": "Jewelry Photography",
       "prompt": "Create a hyper-realistic image of a female model wearing a stunning emerald-studded necklace with matching earrings and bracelet. The model is dressed in a royal silk saree with golden zari work, seated elegantly on a marble bench in a palace garden. The lighting should consist of soft golden spotlights and natural daylight to highlight the vibrant emeralds and the intricate saree fabric. Use a Canon EOS R5 with an 85mm f/1.2 lens to capture a full-body shot at a 45° angle. The backdrop is a luxurious palace garden with ornate sculptures and flowing fountains in the blur. The color palette transitions from emerald greens to golds and soft pastels. The jewelry should glimmer with soft, clean reflections. Add a brand logo in the bottom right corner with the tagline '[Brand Name]'. Place the product code and pricing QR in the lower left. Mood: regal, elegant, and sophisticated. Ideal for royal wedding campaigns.",
@@ -8227,7 +8227,7 @@
     {
       "id": "ai-426",
       "title": "Emerald Lehenga Jewelry Editorial",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-426.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-426.webp",
       "category_id": "jewelry-fashion",
       "category_name": "Jewelry Photography",
       "prompt": "Create a hyper-realistic image of a woman wearing an emerald-studded choker with matching dangler earrings and a maang tikka. The model is dressed in a velvet lehenga with intricate zari embroidery, seated gracefully on a velvet antique couch. The lighting should consist of a warm golden spotlight from above paired with soft fill lights to highlight the shimmer of the emeralds and the texture of the fabric. Use a Canon EOS R5 with an 85mm f/1.2 lens to capture a full-body fashion shot at a 45° angle. The backdrop is a royal palace with golden columns blurred in the background. The color palette transitions from golden tones to deep greens, adding depth and richness. The jewelry sparkles with dramatic highlights on every gemstone. Add the brand logo in the bottom right corner. Ideal for fashion magazine campaigns.",
@@ -8246,7 +8246,7 @@
     {
       "id": "ai-427",
       "title": "Luxury Female Fitness Strength",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-427.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-427.webp",
       "category_id": "fitness",
       "category_name": "Fitness Photography",
       "prompt": "Professional female fitness photoshoot featuring a muscular female performing strength exercises in high-end, fashion-forward gym wear. Styled in editorial, luxury style. Shot with 85mm lens, crisp focus. Lighting: diffused studio light. Background: modern luxury gym with sleek interiors. Emotions/Vibe: stylish, powerful, confident. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting strength and sophistication.",
@@ -8265,7 +8265,7 @@
     {
       "id": "ai-428",
       "title": "Pilates Resort Fitness",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-428.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-428.webp",
       "category_id": "fitness",
       "category_name": "Fitness Photography",
       "prompt": "Professional female fitness photoshoot featuring a toned female performing Pilates and light resistance exercises in designer swimwear. Styled in luxurious, cinematic style. Shot with 85mm lens, shallow depth of field. Lighting: soft morning resort sunlight. Background: infinity pool overlooking ocean. Emotions/Vibe: elegant, confident, serene. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting grace and poise.",
@@ -8284,7 +8284,7 @@
     {
       "id": "ai-429",
       "title": "Female Deadlift Power",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-429.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-429.webp",
       "category_id": "fitness",
       "category_name": "Fitness Photography",
       "prompt": "Professional female fitness photoshoot featuring a muscular female lifter performing deadlifts in fitted gym wear. Styled in gritty, high-contrast gym style. Shot with 70â€“200mm telephoto lens, crisp focus. Lighting: dramatic studio strobes with strong shadows. Background: modern weightlifting gym. Emotions/Vibe: powerful, focused, relentless. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting strength and determination.",
@@ -8303,7 +8303,7 @@
     {
       "id": "ai-430",
       "title": "Female Boxer Action Shot",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-430.jpeg",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-430.webp",
       "category_id": "fitness",
       "category_name": "Fitness Photography",
       "prompt": "Professional female fitness photoshoot featuring a strong female boxer mid-punch wearing boxing gloves and athletic gear. Styled in dramatic, action-oriented style. Shot with 70â€“200mm lens, motion capture focus. Lighting: studio spotlights with shadows. Background: modern boxing gym with equipment. Emotions/Vibe: fierce, intense, focused. High-resolution, editorial-quality, cinematic composition, photorealistic details highlighting power and agility.",
