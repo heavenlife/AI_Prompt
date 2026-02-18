@@ -21653,7 +21653,7 @@
       "views": 23100400,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1092",
@@ -21673,7 +21673,7 @@
       "views": 18832000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1093",
@@ -21693,7 +21693,7 @@
       "views": 20488000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1094",
@@ -21712,7 +21712,7 @@
       "views": 10322000,
       "is_premium": false,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1095",
@@ -21732,7 +21732,7 @@
       "views": 17499000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1096",
@@ -21752,7 +21752,7 @@
       "views": 24777000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1097",
@@ -21772,7 +21772,7 @@
       "views": 22911000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1098",
@@ -21792,7 +21792,7 @@
       "views": 14200400,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1099",
@@ -21812,7 +21812,7 @@
       "views": 13822000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1100",
@@ -21832,7 +21832,7 @@
       "views": 15088000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1101",
@@ -21852,7 +21852,7 @@
       "views": 19678000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1102",
@@ -21872,7 +21872,7 @@
       "views": 22144000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1103",
@@ -21892,7 +21892,7 @@
       "views": 16355000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1104",
@@ -21912,7 +21912,7 @@
       "views": 14287000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1105",
@@ -21932,7 +21932,7 @@
       "views": 20933000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1106",
@@ -21952,7 +21952,7 @@
       "views": 17311000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1107",
@@ -21972,7 +21972,7 @@
       "views": 12844000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1108",
@@ -21992,7 +21992,7 @@
       "views": 21877000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1109",
@@ -22011,7 +22011,7 @@
       "views": 11900200,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1110",
@@ -22031,7 +22031,7 @@
       "views": 20366000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1111",
@@ -22051,7 +22051,7 @@
       "views": 24783000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1112",
@@ -22071,7 +22071,7 @@
       "views": 15647000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1113",
@@ -22091,7 +22091,7 @@
       "views": 22105000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1114",
@@ -22111,7 +22111,7 @@
       "views": 16894000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1115",
@@ -22131,7 +22131,7 @@
       "views": 23811000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1116",
@@ -22151,7 +22151,7 @@
       "views": 18120000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1117",
@@ -22171,7 +22171,7 @@
       "views": 14255000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1118",
@@ -22191,7 +22191,7 @@
       "views": 21488000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1119",
@@ -22211,7 +22211,7 @@
       "views": 26955000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1120",
@@ -22231,7 +22231,7 @@
       "views": 25244000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1121",
@@ -22251,7 +22251,7 @@
       "views": 29876500,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1122",
@@ -22271,7 +22271,7 @@
       "views": 22348000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1123",
@@ -22291,7 +22291,7 @@
       "views": 26891000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1124",
@@ -22311,7 +22311,7 @@
       "views": 24730000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1125",
@@ -22331,7 +22331,7 @@
       "views": 25678000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1126",
@@ -22351,7 +22351,7 @@
       "views": 18764000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1127",
@@ -22371,7 +22371,7 @@
       "views": 20977000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1128",
@@ -22391,7 +22391,7 @@
       "views": 27654000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1129",
@@ -22411,7 +22411,7 @@
       "views": 20113000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1130",
@@ -22431,7 +22431,7 @@
       "views": 22456000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     }
   ]
 }
