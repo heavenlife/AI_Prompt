@@ -22446,7 +22446,7 @@
       "views": 21450800,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1132",
@@ -22461,7 +22461,7 @@
       "views": 14920300,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1133",
@@ -22476,7 +22476,7 @@
       "views": 26784000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1134",
@@ -22491,7 +22491,7 @@
       "views": 24866000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1135",
@@ -22506,7 +22506,7 @@
       "views": 31254000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1136",
@@ -22521,7 +22521,7 @@
       "views": 35876000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1137",
@@ -22536,7 +22536,7 @@
       "views": 19843000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1138",
@@ -22551,7 +22551,7 @@
       "views": 21654000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1139",
@@ -22566,7 +22566,7 @@
       "views": 18476000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1140",
@@ -22581,7 +22581,7 @@
       "views": 23241000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1141",
@@ -22596,7 +22596,7 @@
       "views": 18320440,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1142",
@@ -22611,7 +22611,7 @@
       "views": 22450990,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1143",
@@ -22626,7 +22626,7 @@
       "views": 34877650,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1144",
@@ -22641,7 +22641,7 @@
       "views": 31654400,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1145",
@@ -22656,7 +22656,7 @@
       "views": 25433000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1146",
@@ -22671,7 +22671,7 @@
       "views": 19800440,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1147",
@@ -22686,7 +22686,7 @@
       "views": 26988400,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1148",
@@ -22701,7 +22701,7 @@
       "views": 17644000,
       "is_premium": false,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1149",
@@ -22716,7 +22716,7 @@
       "views": 30211000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1150",
@@ -22731,7 +22731,7 @@
       "views": 38977600,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1151",
@@ -23029,6 +23029,606 @@
       "tags": ["holi", "couple", "romantic", "festival"],
       "likes": 1223340,
       "views": 46355000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1171",
+      "title": "Chaotic Ink Scribble Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1171.webp",
+      "category_id": "art-abstract",
+      "category_name": "Abstract / Experimental Art",
+      "prompt": "Redraw the provided face as a raw chaotic ink poster built mainly from dense curved black scribble strokes. Use the original only for proportions. Form hair, shadows and structure with overlapping uneven lines and rough cross-hatching. Keep minimal flat beige tone, no realism, no gradients. Slight asymmetry. Irregular tangled aura. Solid flat orange background. High contrast, no 3D, no polish.",
+      "ai_style": "Chaotic Ink Poster",
+      "tags": ["ink-art", "scribble", "abstract", "poster"],
+      "likes": 654210,
+      "views": 21544000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1172",
+      "title": "GTA Coastal Loading Screen",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1172.webp",
+      "category_id": "gaming-cinematic",
+      "category_name": "Gaming / Cinematic Style",
+      "prompt": "A close-up of a man (as in the uploaded image) looking directly at the viewer. He is heavily tattooed on both arms, neck, and chest. He wears an unbuttoned, bright coral-pink (or salmon) short-sleeved collared shirt over a loose-fitting, V-neck light olive-green T-shirt.\nHe is wearing dark blue denim jeans held up by a brown leather belt with a large, ornate, gold-colored buckle (possibly featuring an animal or symbol). A black pistol is tucked into his waistband, partially obscured by his right hand, which is resting on the grip. He also wears a black watch on his left wrist and a gold bracelet on his right.\nThe background is a vibrant, sunny, coastal scene reminiscent of Southern California or Miami. It features tall palm trees, a sandy beach, and the ocean. In the distance, there are some houses or low-rise buildings and mountains. The lighting is golden, suggesting either sunrise or sunset, casting a warm glow over the scene.\nhard shadows, and a distinct color palette typical of GTA loading screens and cover.\nHighly detailed and rendered. Vibrant, cinematic.\nOptional Text Overlay (for added authenticity): Include the 'Grand Theft Auto V' logo in the middle right.",
+      "ai_style": "GTA V Loading Screen",
+      "tags": ["gta-style", "gaming", "cinematic", "vector"],
+      "likes": 1123440,
+      "views": 38455000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1173",
+      "title": "The Last Wolf King",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1173.webp",
+      "category_id": "fantasy-portrait",
+      "category_name": "Fantasy / Cinematic Portrait",
+      "prompt": "A hyper-realistic, 8k medium close-up portrait of a male character, uploaded 100% face as reference, with a serious and intense expression. He wears an intricately detailed, dark metallic crown featuring sharp, sword-like spikes and ornate carvings of wolves and mountains. His attire includes a thick, shaggy dark fur cloak draped over dark, rugged clothing or armor, all rendered with highly detailed texture. The lighting is cinematic and dramatic, with a cool, desaturated blue-grey color palette, emphasizing the textures of the fur and crown. Volumetric lighting captures numerous falling snow particles, creating a cold, icy atmosphere. The background is a softly blurred, snowy, desolate landscape. The composition is a centered head-and-shoulders shot, with the stylized text 'THE LAST WOLF KING' rendered in a metallic, icy font positioned at the bottom center of the image.",
+      "ai_style": "Dark Fantasy Cinematic",
+      "tags": ["fantasy", "wolf-king", "cinematic", "snow"],
+      "likes": 945780,
+      "views": 33211000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1174",
+      "title": "Extreme Impasto Oil Masterpiece",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1174.webp",
+      "category_id": "fine-art",
+      "category_name": "Fine Art / Oil Painting",
+      "prompt": "Transform this image into an extreme palette knife oil painting with heavy impasto texture and thick, sculpted paint strokes. Preserve and amplify the original image colors, using them as the dominant palette. Add rough canvas grain, layered knife strokes, abstract paint breaks, and dramatic high-contrast lighting. Keep the main subject sharp and detailed while allowing the background to dissolve into expressive, textured brushwork. Raw, cinematic, gallery-scale oil painting style.",
+      "ai_style": "Impasto Oil Painting",
+      "tags": ["oil-painting", "impasto", "fine-art", "gallery"],
+      "likes": 732890,
+      "views": 25677000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1175",
+      "title": "GTA Glam Vector Cover",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1175.webp",
+      "category_id": "gaming-vector",
+      "category_name": "Gaming / Vector Art",
+      "prompt": "{'image_analysis':{'artistic_style':'GTA V loading screen aesthetic, iconic Rockstar Games vector art, high-contrast pop art, cel-shaded with thick contours','color_palette':'Electric magenta, vibrant hot pink, deep black, golden yellow outlines, natural skin tones','atmosphere':'Sultry, high-end urban glamour, seductive and mysterious, retro-modern vibe'},'generation_prompt':{'identity_preservation':'Maintain 100% strict facial likeness, bone structure, and unique features of the reference person. High-fidelity facial reconstruction in vector style.','subject_details':{'face':'Sultry bedroom eyes with a heavy-lidded gaze, slightly parted glossy magenta lips (playful pout), translucent pink-tinted aviator sunglasses resting slightly down the nose, oversized silver hoop earrings','hair':'Exact hair texture and style as seen in reference, but with a 'wind-swept' voluminous look, rendered in stylized cel-shaded layers'},'attire':{'outerwear':'Luxury hot pink varsity jacket, worn off-the-shoulder to reveal a hint of skin, silk finish with vibrant highlights','inner':'Tight-fitting black ribbed tank top, emphasizing a confident silhouette','accessories':'Thin silver chain necklace, black leather wristband with silver metallic spikes'},'pose_and_composition':'Close-up portrait with a slight head tilt, one hand gently touching the temple or playing with a strand of hair, 'femme fatale' posture, alluring magazine cover composition','environment':'Solid, clean hot pink background with subtle vignette, studio lighting that accentuates facial contours and collarbones','technical_specs':'Sharp yellow 'halo' outline, bold black line art, flat colors with hard-edged professional shadows, 8k resolution, stylized GTA art style'}}",
+      "ai_style": "GTA Vector Glam",
+      "tags": ["gta-style", "vector", "pop-art", "gaming"],
+      "likes": 1189900,
+      "views": 40555000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1176",
+      "title": "Cosmic Stardust Empress",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1176.webp",
+      "category_id": "fantasy-cosmic",
+      "category_name": "Fantasy / Cosmic Portrait",
+      "prompt": "Ultra-detailed cinematic fantasy portrait of a confident woman standing in a vast galaxy environment filled with swirling nebula clouds, luminous constellations, drifting stardust, and deep cosmic blues, violets, and magentas. She stands sideways with graceful posture, her body angled away while she looks back over her shoulder toward the camera with a calm, powerful expression.\nUse the uploaded photo as facial reference. Preserve her natural face shape, eye spacing, nose structure, lip fullness, skin tone, and expression. Keep her glasses, necklace, and piercings visible. Maintain realistic skin texture and natural lighting.\nHer “dress” is formed entirely from living stardust and flowing nebula light. The cosmic material wraps and cascades around her like a celestial current, appearing organic and weightless rather than fabric. It glows softly and moves like illuminated mist, subtly revealing her silhouette beneath the shimmering layers without looking like clothing. Fine particles of light trail behind her as if gravity barely affects them.\nHighly detailed, sharp focus, soft cosmic glow, volumetric lighting, cinematic depth of field, radiant highlights, rich contrast, ethereal atmosphere, 8k resolution, professional fantasy photography style.\nNegative Prompt\nblurry, low resolution, flat lighting, harsh shadows, overexposed highlights, underexposed image, distorted anatomy, warped limbs, unnatural proportions, stiff pose, dull colors, muddy tones, plastic skin texture, overly airbrushed skin, missing glasses, missing necklace, missing piercings, heavy fabric dress, visible seams, obvious clothing, solid opaque outfit, cluttered background, text, watermark, logo, grainy image",
+      "ai_style": "Cosmic Fantasy Photography",
+      "tags": ["fantasy", "galaxy", "cosmic", "stardust"],
+      "likes": 1245600,
+      "views": 45223000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1177",
+      "title": "WWE Performance Center Moment",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1177.webp",
+      "category_id": "celebrity-realism",
+      "category_name": "Celebrity / Realistic Photography",
+      "prompt": "A high-quality, realistic photograph taken inside the WWE Performance Center. The scene shows me standing beside John Cena, both facing the camera. John Cena is wearing a fitted WWE training t-shirt and athletic pants, relaxed and smiling confidently. I am dressed smart-casual, neat and professional, smiling with genuine gratitude.\nWe are standing close together in a friendly, respectful pose. One of us is holding a subtle hand gesture of appreciation, while the other maintains a relaxed stance. The atmosphere feels warm, respectful, and memorable, like a fan meeting a legend.\nThe background clearly shows the WWE Performance Center interior: professional wrestling ring slightly visible, training mats, gym equipment, WWE logos on the walls, bright indoor lighting. The setting feels authentic, professional, and energetic.\nThe overall mood is grateful and celebratory. The moment captures appreciation and respect rather than hype. The image looks like a candid but well-composed photo taken by a staff member or trainer.\nCinematic realism, sharp focus, natural skin tones, accurate facial features, realistic proportions. No exaggerated effects. No blur. No distortion.",
+      "ai_style": "Cinematic Realism",
+      "tags": ["wwe", "john-cena", "celebrity", "realistic"],
+      "likes": 1389900,
+      "views": 50112000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1178",
+      "title": "RCB Cricket Cinematic Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1178.webp",
+      "category_id": "sports-poster",
+      "category_name": "Sports / Cinematic Poster",
+      "prompt": "An ultra-realistic cinematic cricket poster featuring a young male cricketer using the uploaded reference face exactly (100% facial accuracy). He has a fair-whitish glass skin tone, soft red lips, sharp jawline, light stubble beard, and a voluminous slightly messy fade mullet hairstyle with natural texture.\nThe composition is a triple-layer cinematic layout on a clean, textured light-grey studio background, with a large, softly embedded “77” subtly visible behind the subject.\nPrimary dominant pose (upper background):\nThe cricketer is shown from the back, standing tall and confident, wearing an official Royal Challengers Bangalore (RCB) jersey in deep red and black with gold accents. Bold golden typography on the jersey reads “OVEE” with the number “77” below it. His athletic physique is emphasized, shoulders squared, as he slightly turns his head over the shoulder, revealing an intense, fearless side profile.\nForeground action pose (half body):\nA powerful celebration moment captures him mid-roar, mouth open in victory, right fist clenched and arm flexed. He wears the complete RCB match kit, including black-red trousers, and ground texture. The RCB logo and sponsor details appear authentic and sharp.\nSweat highlights on the skin add realism, with cinematic rim lighting separating the face from the background.\nAtmosphere & lighting:\nPremium cinematic studio lighting with balanced highlights and shadows enhances fabric folds, muscle definition, and facial contours. Subtle smoke and dust effects rise from the base, adding intensity without obscuring details. No blur, no distortion.\nCamera & quality:\nDSLR photography look, 85mm lens feel, shallow depth where needed, ultra-sharp focus, realistic proportions, professional color grading with rich reds, blacks, and gold tones.\nPhotorealistic, 8K resolution, vertical poster composition, IPL magazine-cover style.\nNo cartoon look, no extra limbs, no facial alteration, no watermark.",
+      "ai_style": "Sports Cinematic Poster",
+      "tags": ["cricket", "rcb", "sports", "poster"],
+      "likes": 1498800,
+      "views": 56234000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1179",
+      "title": "Ramadan Lantern Editorial",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1179.webp",
+      "category_id": "cultural-editorial",
+      "category_name": "Cultural / Editorial Portrait",
+      "prompt": "Prompt: Young man sitting cross-legged in a minimal studio, holding an illuminated, ornate Arabic lantern. Wearing a white long-sleeve thobe and red-white checkered ghutra secured with a black agal. Modern young Qatari drape: right side swept backwards over the shoulder, left side partially folded and falling toward the front chest, clean open cheek area with visible diagonal fold. Light natural moustache, short, neatly trimmed beard, thin, defined sideburns to mid-ear level. Soft studio key light from front-left 45°, warm golden glow from lantern illuminating lower face and hands, subtle rim light, neutral cool-grey background. 85mm lens, f/2.4, ISO 200, 1/160s, eye-level, medium full-body framing, tripod stabilized. Luxury Ramadan editorial colour grading, soft contrast, warm highlights, subtle film grain, ultra-realistic 8K. Use face reference, don't alter and make it identic 100 %",
+      "ai_style": "Luxury Ramadan Editorial",
+      "tags": ["ramadan", "lantern", "editorial", "portrait"],
+      "likes": 876540,
+      "views": 29887000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1180",
+      "title": "Luxury Changshan Courtyard",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1180.webp",
+      "category_id": "luxury-cultural",
+      "category_name": "Luxury / Cultural Portrait",
+      "prompt": "Ultra-realistic luxury photography, extremely detailed textures, no 3D, no illustration. A handsome young asian man (use uploaded photo don't alter the face) dressed in an elegant crimson silk changshan with golden embroidery, standing in a grand courtyard villa decorated with red lanterns and blooming peach blossoms. Marble floor reflection, realistic shadows, natural daylight, festive red envelopes on a lacquered wooden table. Confident expression, gentle smile. Professional DSLR photography, high dynamic range.",
+      "ai_style": "Luxury Cultural Photography",
+      "tags": ["luxury", "changshan", "cultural", "dslr"],
+      "likes": 934210,
+      "views": 32155000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1181",
+      "title": "Holi Baby Explosion Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1181.webp",
+      "category_id": "holi-baby",
+      "category_name": "Holi / Baby Portrait",
+      "prompt": "Create an ultra-realistic 8K portrait based on the reference image. Maintain 100% identical facial identity — exact same facial structure, eyes, eyebrows, nose shape, lips, jawline, expression, proportions, and age. Strict face preservation required. No facial modifications, no reshaping, no beautification changes. Ultra-realistic cinematic Holi festival portrait of an adorable baby sitting joyfully surrounded by vibrant colorful powder explosions... Aspect ratio 1:1 or 9:16 vertical.",
+      "ai_style": "Cinematic Holi Portrait",
+      "tags": ["holi", "baby", "festival", "identity-lock"],
+      "likes": 1012450,
+      "views": 36877000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1182",
+      "title": "Ultra-Real Identity Portrait 4:3",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1182.webp",
+      "category_id": "identity-portrait",
+      "category_name": "Identity / Ultra Real Portrait",
+      "prompt": "Create an ultra-realistic 8K portrait based on the reference image. Maintain 100% identical facial identity... Aspect ratio 1:1 or 4:3.",
+      "ai_style": "Ultra Realistic DSLR",
+      "tags": ["portrait", "identity-lock", "8k", "dslr"],
+      "likes": 845220,
+      "views": 29455000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1183",
+      "title": "Ultra-Real Identity Portrait 16:9",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1183.webp",
+      "category_id": "identity-portrait",
+      "category_name": "Identity / Ultra Real Portrait",
+      "prompt": "Create an ultra-realistic 8K portrait based on the reference image... Aspect ratio 9:16 vertical or 16:9 horizontal.",
+      "ai_style": "Ultra Realistic DSLR",
+      "tags": ["portrait", "identity-lock", "cinematic", "8k"],
+      "likes": 792340,
+      "views": 27388000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1184",
+      "title": "Ultra-Real Identity Portrait Square",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1184.webp",
+      "category_id": "identity-portrait",
+      "category_name": "Identity / Ultra Real Portrait",
+      "prompt": "Create an ultra-realistic 8K portrait based on the reference image... Aspect ratio 1:1 square or 4:3.",
+      "ai_style": "Ultra Realistic DSLR",
+      "tags": ["portrait", "square", "identity-lock", "8k"],
+      "likes": 721560,
+      "views": 24899000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1185",
+      "title": "Ultra-Real Identity Portrait 3:4",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1185.webp",
+      "category_id": "identity-portrait",
+      "category_name": "Identity / Ultra Real Portrait",
+      "prompt": "Create an ultra-realistic 8K portrait based on the reference image... Aspect ratio 9:16 vertical or 3:4.",
+      "ai_style": "Ultra Realistic DSLR",
+      "tags": ["portrait", "vertical", "identity-lock", "8k"],
+      "likes": 703880,
+      "views": 23644000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1186",
+      "title": "Holi Festival Car Splash",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1186.webp",
+      "category_id": "holi-vehicle",
+      "category_name": "Holi / Vehicle Edit",
+      "prompt": "Holi Festival Car – Realistic Gulal Splash\nAdd vibrant Holi festival colors around and on this vehicle while keeping the original vehicle exactly the same. Do NOT change the vehicle model, design, shape, number plate, wheels, or proportions. Preserve all original details and realism. Apply realistic pink, yellow, blue, and green gulal powder splashes on the vehicle body with natural texture and depth. Add cinematic color smoke and flying powder particles in the air for a dynamic festival atmosphere. Keep lighting natural and consistent with the original photo. Ultra realistic, high detail, 4K professional photography, sharp focus, realistic reflections, festival Holi vibe.",
+      "ai_style": "Holi Vehicle Realism",
+      "tags": ["holi", "car", "gulal", "vehicle-edit"],
+      "likes": 934450,
+      "views": 32288000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1187",
+      "title": "Holi Color Splash Bike",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1187.webp",
+      "category_id": "holi-vehicle",
+      "category_name": "Holi / Vehicle Edit",
+      "prompt": "Holi Color Splash Bike Add colorful Holi powder splash and vibrant color smoke around this vehicle. Do not change the vehicle model, design, shape, or number plate. Keep the original vehicle exactly the same. Only add realistic pink, green, yellow, and blue powder effects and cinematic smoke background. Ultra realistic, high detail, natural lighting, professional photography look.",
+      "ai_style": "Holi Vehicle Realism",
+      "tags": ["holi", "bike", "festival", "vehicle-edit"],
+      "likes": 812770,
+      "views": 27933000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1188",
+      "title": "Joyful Yellow Holi Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1188.webp",
+      "category_id": "holi-portrait",
+      "category_name": "Holi / Editorial Portrait",
+      "prompt": "Ultra-realistic Holi festival portrait using my uploaded photo as the face reference, joyful young man smiling naturally, hands pressed together in front of chest covered in bright yellow Holi powder, vibrant yellow color powder exploding and flying across the frame, white button-up shirt splashed with multicolor paint stains (yellow, red, blue), red powder streak on one cheek, playful festive expression, dynamic powder particles frozen mid-air, outdoor garden background softly blurred with green foliage, bright natural daylight, warm tones, cinematic lighting, shallow depth of field, sharp focus on face, ultra-detailed skin texture, high shutter speed capture, 85mm lens, f/1.8, professional DSLR photography, vibrant colors, high contrast, 8K resolution, realistic fabric texture, energetic Holi celebration atmosphere, editorial photography style",
+      "ai_style": "Cinematic Holi Editorial",
+      "tags": ["holi", "portrait", "festival", "dslr"],
+      "likes": 1184420,
+      "views": 40112000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1189",
+      "title": "Divine Prem Mandir Holi Couple",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1189.webp",
+      "category_id": "holi-devotional",
+      "category_name": "Holi / Devotional Couple",
+      "prompt": "Full-body Indian couple in portrait orientation (1080x1350), boy smart & handsome (exact face & hairstyle), girl beautiful (exact face, long open hair, black kajal, pink lipstick), both facing camera with soft gentle smiles (no teeth showing), playful Holi pose - girl slightly in front, boy leaning from side with playful tilt, each holding high-quality Holi pichkari, faces and white Chikankari outfits splashed with vibrant Holi colors. Outfits: elegant, traditional, matching. Background: vibrant Radha-Krishna murti at Prem Mandir, Vrindavan, Krishna bluish-indigo with golden mukut & peacock feather, Radha in flowing red-pink-yellow drapery, flower garlands. Holi powders (pink, yellow, green, blue) floating, petals drifting, subtle colorful mist, bright daylight, warm golden highlights, cinematic HDR lighting, selective focus on couple & murti, soft blurred background, divine aura, gentle sparkles. Ultra-realistic, cinematic full-body photo, reel-style, vibrant yet serene devotional Holi scene.",
+      "ai_style": "Devotional Cinematic Holi",
+      "tags": ["holi", "couple", "vrindavan", "devotional"],
+      "likes": 1398870,
+      "views": 51877000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1190",
+      "title": "Village Krishna Holi Celebration",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1190.webp",
+      "category_id": "holi-rural",
+      "category_name": "Holi / Rural Festival Scene",
+      "prompt": "Ganrate A young village man 22s old dressed like Lord Krishna standing in a colorful desi village during Holi, wearing yellow dhoti, blue shawl, peacock feather on head, holding a traditional pichkari, face joyfully covered with gulal colors, mud houses and rangoli designs around, villagers in traditional clothes celebrating Holi, women carrying pots, children throwing colors, cows decorated with flowers nearby, rural India atmosphere, bright sunlight, festive flags.",
+      "ai_style": "Rural Holi Cinematic",
+      "tags": ["holi", "village", "krishna", "festival"],
+      "likes": 1112340,
+      "views": 38999000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1191",
+      "title": "White Saree Blue Burst Holi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1191.webp",
+      "category_id": "holi-women",
+      "category_name": "Holi / Women Portrait",
+      "prompt": "Beautiful woman in a white saree with soft Holi colors on pallu and cheeks. Hair open, moving slightly in the air. Looking sideways, joyful smile, one hand touching face, the other hand holding blue powder. A burst of blue and orange colors behind her. Rustic street background blurred. Golden hour lighting, detailed skin pores, natural shadows, ultra-realistic color texture.",
+      "ai_style": "Golden Hour Holi Portrait",
+      "tags": ["holi", "saree", "festival", "portrait"],
+      "likes": 1124500,
+      "views": 39221000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1192",
+      "title": "Green Pink Powder Explosion",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1192.webp",
+      "category_id": "holi-men",
+      "category_name": "Holi / Men Portrait",
+      "prompt": "Young Men in a white T-shirt, laughing openly, head slightly back. Both hands are throwing green and pink powder upward. Thick color explosion above the head falling down. Outdoor park background, trees softly blurred. Bright daylight, high shutter freeze effect, visible powder grains, realistic stains on clothes and hair, cinematic photography.",
+      "ai_style": "Cinematic Holi Freeze Shot",
+      "tags": ["holi", "men", "powder", "festival"],
+      "likes": 1087760,
+      "views": 37455000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1193",
+      "title": "Rooftop Pastel Holi Girl",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1193.webp",
+      "category_id": "holi-women",
+      "category_name": "Holi / Women Portrait",
+      "prompt": "Young woman sitting on steps, wearing a white crop top and jeans with Holi splashes. Looking down with a soft smile. One hand holding a small plate of colors, the other brushing hair back. Light pastel powder misted around her. Urban rooftop background, natural sunlight, sharp focus on face, realistic skin tone, shallow depth, high-resolution photo.",
+      "ai_style": "Urban Holi Editorial",
+      "tags": ["holi", "urban", "woman", "festival"],
+      "likes": 934220,
+      "views": 31877000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1194",
+      "title": "Purple Splash Sunglasses Shot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1194.webp",
+      "category_id": "holi-men",
+      "category_name": "Holi / Men Portrait",
+      "prompt": "Man wearing a white shirt and sunglasses, slight beard, playful smile. Throwing purple powder toward the camera. Strong color splash in foreground. Background filled with blurred Holi crowd and flying colors. Midday lighting, high contrast, ultra-detailed powder texture, realistic cloth folds and stains, DSLR festival photography.",
+      "ai_style": "DSLR Festival Action",
+      "tags": ["holi", "action", "powder", "festival"],
+      "likes": 1208890,
+      "views": 42133000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1195",
+      "title": "Terrace Yellow Blue Couple",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1195.webp",
+      "category_id": "holi-couple",
+      "category_name": "Holi / Couple Portrait",
+      "prompt": "A couple facing each other, laughing. A woman applying yellow color on man’s cheek, a man holding blue powder in his hand. Color cloud around waist level. Bright terrace background, clear sky. Natural lighting, realistic skin tones, visible powder grains, authentic Holi stains on clothes, and high-resolution DSLR style.",
+      "ai_style": "Romantic Holi DSLR",
+      "tags": ["holi", "couple", "festival", "romantic"],
+      "likes": 1293340,
+      "views": 45899000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1196",
+      "title": "Playful Ground Holi Couple",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1196.webp",
+      "category_id": "holi-couple",
+      "category_name": "Holi / Couple Portrait",
+      "prompt": "Playful couple sitting on the ground,( outdoor location), legs crossed. Throwing colors at each other. Pink, green, and orange powder mid-air between faces. Background filled with floating powder mist. Soft diffused lighting, shallow depth, clear facial details, natural expressions, realistic cloth texture, and color stains.",
+      "ai_style": "Soft Cinematic Holi",
+      "tags": ["holi", "couple", "festival", "powder"],
+      "likes": 1012230,
+      "views": 34988000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1197",
+      "title": "Holi Selfie Moment",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1197.webp",
+      "category_id": "holi-modern",
+      "category_name": "Holi / Modern Social",
+      "prompt": "Stylish couple posing for a selfie during Holi, phone visible in front. Both smiling naturally, faces covered in bright colors. Soft, colorful smoke in the background. Bright daylight, shallow depth of field, detailed skin texture, realistic powder stains, modern social media festival frame.",
+      "ai_style": "Modern Festival Portrait",
+      "tags": ["holi", "selfie", "couple", "festival"],
+      "likes": 1189000,
+      "views": 40977000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1198",
+      "title": "Joyful Little Girl Holi Burst",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1198.webp",
+      "category_id": "holi-kids",
+      "category_name": "Holi / Kids Portrait",
+      "prompt": "Little girl in a white frock, cheeks covered with pink and yellow colors. Laughing with mouth open, both hands raised, throwing powder. Thick colorful burst above her head. Park’s background is softly blurred. Bright daylight, frozen motion, powder particles, detailed skin texture, realistic, joyful expression.",
+      "ai_style": "Kids Festival Freeze Shot",
+      "tags": ["holi", "kids", "festival", "powder"],
+      "likes": 1345500,
+      "views": 48766000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1199",
+      "title": "Holi Water Gun Splash",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1199.webp",
+      "category_id": "holi-kids",
+      "category_name": "Holi / Kids Portrait",
+      "prompt": "Young boy holding a water gun filled with colored water. Wearing a white T-shirt stained with Holi colors. Spraying toward the camera. Splash effect in foreground. The outdoor street background blurred. Natural sunlight, high shutter speed, realistic water droplets, vibrant festival atmosphere.",
+      "ai_style": "Action Festival Shot",
+      "tags": ["holi", "kids", "watergun", "festival"],
+      "likes": 1077700,
+      "views": 36122000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1200",
+      "title": "Two Kids Color Plate Holi",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1200.webp",
+      "category_id": "holi-kids",
+      "category_name": "Holi / Kids Portrait",
+      "prompt": "Two small kids sitting on the ground with plates of colors. Smiling at the camera, hands dipped in powder. Soft cloud of colors around them. Background filled with light pastel mist. Warm daylight, detailed facial features, realistic color stains on hands and clothes, and high-quality photography.",
+      "ai_style": "Warm Kids Festival Portrait",
+      "tags": ["holi", "kids", "festival", "portrait"],
+      "likes": 1223340,
+      "views": 43211000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1201",
+      "title": "Messy Hair Holi Child Smile",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1201.webp",
+      "category_id": "holi-kids",
+      "category_name": "Holi / Kids Portrait",
+      "prompt": "Cute child with messy hair covered in colors. Looking directly at the camera with a big smile. One hand touching the cheek, the other holding pink powder. Soft diffused lighting, shallow depth, highly detailed skin and powder texture, DSLR style.",
+      "ai_style": "Soft Kids Festival Portrait",
+      "tags": ["holi", "child", "festival", "portrait"],
+      "likes": 1094450,
+      "views": 37422000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1202",
+      "title": "Happy Holi Family Explosion",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1202.webp",
+      "category_id": "holi-family",
+      "category_name": "Holi / Family Portrait",
+      "prompt": " Happy family of four wearing white traditional clothes with Holi splashes. Standing close together, smiling at the camera. Father is throwing colors upward. A big, multicolored cloud above their heads. The outdoor garden background blurred. Natural daylight, detailed facial features, realistic powder texture, and warm family emotion. ",
+      "ai_style": "Family Festival Cinematic",
+      "tags": ["holi", "family", "festival", "outdoor"],
+      "likes": 1287740,
+      "views": 44655000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1203",
+      "title": "Courtyard Holi Family Joy",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1203.webp",
+      "category_id": "holi-family",
+      "category_name": "Holi / Family Portrait",
+      "prompt": "Parents try to apply colors to children’s cheeks. Kids laughing. Soft color mist around the group. Rustic home courtyard background. Warm sunlight, natural shadows, ultra-detailed skin texture, authentic Holi stains on clothes, cinematic family photography.",
+      "ai_style": "Rustic Holi Cinematic",
+      "tags": ["holi", "family", "courtyard", "festival"],
+      "likes": 1012330,
+      "views": 34899000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1204",
+      "title": "Circle of Colors Family Shot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1204.webp",
+      "category_id": "holi-family",
+      "category_name": "Holi / Family Portrait",
+      "prompt": "Family sitting on the ground in a circle with plates of colors. Everyone is smiling and throwing powder toward the center. A thick color cloud is rising. Bright outdoor setting, clear sky. Sharp focus, realistic powder grains, vibrant festive mood, high-resolution DSLR look.",
+      "ai_style": "Festival Group DSLR",
+      "tags": ["holi", "family", "powder", "festival"],
+      "likes": 954440,
+      "views": 32244000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1205",
+      "title": "Golden Hour Holi Hug",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1205.webp",
+      "category_id": "holi-family",
+      "category_name": "Holi / Family Portrait",
+      "prompt": "Mother hugging daughter, father standing beside, smiling. All covered in Holi colors. A woman looking at the camera, a child laughing. Colorful burst behind them. Village street background blurred. Golden hour lighting, natural skin tones, realistic cloth texture.",
+      "ai_style": "Golden Hour Family Portrait",
+      "tags": ["holi", "family", "village", "festival"],
+      "likes": 1198800,
+      "views": 41877000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1206",
+      "title": "Joint Family Color Celebration",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1206.webp",
+      "category_id": "holi-family",
+      "category_name": "Holi / Family Portrait",
+      "prompt": "Joint family group photo, elders and kids together in white outfits stained with colors. Everyone is raising hands, throwing powder upward. Huge colorful explosion above. Outdoor terrace background. Bright daylight, sharp details, realistic faces, authentic joyful Holi celebration.",
+      "ai_style": "Grand Festival Group Shot",
+      "tags": ["holi", "joint-family", "festival", "celebration"],
+      "likes": 1324450,
+      "views": 47233000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1207",
+      "title": "Rooftop Holi Jump Party",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1207.webp",
+      "category_id": "holi-friends",
+      "category_name": "Holi / Friends Group",
+      "prompt": "A group of young friends in white outfits, sunglasses, laughing loudly. Jumping in the air while throwing pink and blue powder. Massive color explosion around them. Rooftop party background. Bright sunlight, motion freeze effect, ultra-detailed powder texture, vibrant festival energy.",
+      "ai_style": "Festival Freeze Action",
+      "tags": ["holi", "friends", "rooftop", "festival"],
+      "likes": 1412200,
+      "views": 50999000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1208",
+      "title": "Studio Holi Squad Shot",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1208.webp",
+      "category_id": "holi-friends",
+      "category_name": "Holi / Friends Group",
+      "prompt": "Stylish group of friends wearing white T-shirts, jeans, and colorful bandanas, standing shoulder to shoulder with confident expressions, throwing multicolored Holi powder toward the camera. Studio setup with powder smoke background. Shot on an 85mm lens, f/2 aperture, controlled studio lighting, high shutter speed freeze effect, sharp skin texture, realistic fabric details, HDR color grading, shallow depth of field, DSLR-quality, photorealistic festival look.",
+      "ai_style": "Studio Festival Editorial",
+      "tags": ["holi", "friends", "studio", "festival"],
+      "likes": 1175560,
+      "views": 40444000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1209",
+      "title": "Sunny Rooftop Holi Couple",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1209.webp",
+      "category_id": "holi-couple",
+      "category_name": "Holi / Couple Portrait",
+      "prompt": "A high-angle, candid medium shot of a happy couple celebrating the Holi festival on a sunny rooftop. They are covered in vibrant pink, purple and vellow powder (qulal) on their faces and white traditiona Indian clothing. The man is wearing a white kurta and sunglasses, smiling down at the woman. The woman is wearing a white tunic with an orange skirt leaning back slightlv in his arms while laughing. Natural bright sunlight, colorful textures, iovful atmosphere, high-resolution photography",
+      "ai_style": "Candid Holi Romance",
+      "tags": ["holi", "couple", "rooftop", "festival"],
+      "likes": 1033440,
+      "views": 35677000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1210",
+      "title": "Young Man Cinematic Holi 9:16",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1210.webp",
+      "category_id": "holi-identity-portrait",
+      "category_name": "Holi / Identity Portrait",
+      "prompt": "A cinematic. ultra-realistic portrait of a young Indian man 22vear old celebrating Holi. He is wearing a traditional light kurta with a cotton dupatta around his neck. Bright red blue and pink qulal colors are smeared on his face and beard with colorful powder flying in the air. Jovful confident smile sliaht side look. one hand raised Natural outdoor background soft daylight, shallow depth of field, sharp focus, realistic skin texture, vibrant vet natura colors. Face not change original face only. same face sunglasses ,Size 9:16",
+      "ai_style": "Cinematic Holi Identity",
+      "tags": ["holi", "identity-lock", "portrait", "festival"],
+      "likes": 1267780,
+      "views": 43999000,
       "is_premium": true,
       "is_recommended": true,
       "is_trending": true
