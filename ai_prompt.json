@@ -24784,7 +24784,12 @@
       "category_name": "Islamic / Architecture Scene",
       "prompt": "An image of a solitary military figure, dressed in fatigues, standing in front of a significant historic Islamic architecture, the Aqsa Mosque. The figure is captured mid-stride, his/her body language suggesting purpose and determination. The Aqsa Mosque in the backdrop stands majestic, its elaborate domes and minarets reaching out to the clear, blue sky.",
       "ai_style": "Historic Architectural Scene",
-      "tags": ["aqsa", "mosque", "architecture", "historic"],
+      "tags": [
+        "aqsa",
+        "mosque",
+        "architecture",
+        "historic"
+      ],
       "likes": 942550,
       "views": 32477000,
       "is_premium": true,
@@ -24799,7 +24804,12 @@
       "category_name": "Islamic / Kids Portrait",
       "prompt": "Quran Islamic Little Boy Poor Clothes White.",
       "ai_style": "Minimal Spiritual Portrait",
-      "tags": ["quran", "boy", "islamic", "child"],
+      "tags": [
+        "quran",
+        "boy",
+        "islamic",
+        "child"
+      ],
       "likes": 884440,
       "views": 30112000,
       "is_premium": true,
@@ -24814,7 +24824,12 @@
       "category_name": "Arab / Cultural Portrait",
       "prompt": "A Middle-Eastern child wearing a traditional Emirati Thobe, a loose, long-sleeved, ankle-length garment for boys in Dubai. The attire is white, made of high-quality fabric and may have subtle embroidery on the placket. He also wears a white Ghutra on his head, fastened with a black Agal. The child is standing against a background of the iconic Dubai skyline, filled with futuristic skyscrapers and architectural marvels, under a clear, blue sky.",
       "ai_style": "Modern Emirati Cultural Portrait",
-      "tags": ["dubai", "emirati", "culture", "child"],
+      "tags": [
+        "dubai",
+        "emirati",
+        "culture",
+        "child"
+      ],
       "likes": 1038800,
       "views": 36633000,
       "is_premium": true,
@@ -24829,7 +24844,12 @@
       "category_name": "Education / Lifestyle Portrait",
       "prompt": "A beautiful student wearing a hijab. She is Middle-Eastern, focused on her book with a smile indicating her enthusiasm for learning. She's sitting on a park bench, under a sunny sky. The lush green trees in the background add to the idyllic setting. Beside her, a bag filled with textbooks, a pen in her hand as she makes notes. She is dressed in modest attire consistent with her cultural background, eloquently emphasizing her grace and serenity. Her hijab is elegantly styled, coordinating well with her outfit, retaining her modesty while also showcasing her vibrant personality and commitment to knowledge.",
       "ai_style": "Educational Lifestyle Portrait",
-      "tags": ["student", "hijab", "education", "learning"],
+      "tags": [
+        "student",
+        "hijab",
+        "education",
+        "learning"
+      ],
       "likes": 1077700,
       "views": 37899000,
       "is_premium": true,
@@ -24844,7 +24864,12 @@
       "category_name": "Islamic / Spiritual Scene",
       "prompt": "Imagine a Muslim boy reciting the Quran for a beautiful Muslim girl in the garden of flowers.",
       "ai_style": "Spiritual Garden Scene",
-      "tags": ["quran", "garden", "spiritual", "islamic"],
+      "tags": [
+        "quran",
+        "garden",
+        "spiritual",
+        "islamic"
+      ],
       "likes": 964880,
       "views": 33911000,
       "is_premium": true,
