@@ -1,9 +1,9 @@
 {
   "status": true,
   "categories": [
-    {
-      "category_id": "all",
-      "category_name": "All",
+     {
+      "category_id": "trending",
+      "category_name": "Trending",
       "order": 0
     },
     {
@@ -12,8 +12,8 @@
       "order": 1
     },
     {
-      "category_id": "trending",
-      "category_name": "Trending",
+      "category_id": "all",
+      "category_name": "All",
       "order": 2
     },
     {
