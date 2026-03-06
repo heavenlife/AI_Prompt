@@ -22441,7 +22441,12 @@
       "category_name": "Fashion / Editorial",
       "prompt": "Create an image-edit prompt that transforms the user’s photo into a dramatic backstage opera-house fashion moment. Keep the same woman from the input photo; preserve identity, face, and proportions. Place her backstage in an ornate old theater: velvet curtains, gold moldings, dusty stage light beams, mirrors with soft bulb lights (no readable labels). Dress her in a couture black gown with a structured bodice and a massive feathered cape in deep burgundy fading to black; add statement chandelier earrings and satin gloves. Pose her like a star about to go on stage: one hand lifting the curtain slightly, the other resting at her waist; head turned toward the spotlight with a poised, fearless expression. Add floating particles (stage dust) in the light beams and a faint silhouette of the empty auditorium in the distance. Light with a single intense warm spotlight from stage-left creating a halo edge, plus soft mirror-bulb fill on her face; rich shadows, high drama, glossy highlights on feathers. Color palette: velvet burgundy, gold, warm amber light, deep blacks, subtle smoky haze. Camera: 85mm look for elegance, 3/4 to full-body vertical 4:5, shallow depth, cinematic contrast, premium magazine retouch with natural texture. Remove all text/logos/watermarks; avoid extra people.",
       "ai_style": "Couture Cinematic Editorial",
-      "tags": ["opera", "couture", "editorial", "dramatic"],
+      "tags": [
+        "opera",
+        "couture",
+        "editorial",
+        "dramatic"
+      ],
       "likes": 642310,
       "views": 21450800,
       "is_premium": true,
@@ -22456,7 +22461,12 @@
       "category_name": "Moody / Portrait",
       "prompt": "Can you make this A side-profile shot of me, with light highlighting the edges of his hair and face. The background fades into blue darkness, creating a soft contrast that emphasizes his silhouette",
       "ai_style": "Moody Edge Light Portrait",
-      "tags": ["profile", "silhouette", "blue", "portrait"],
+      "tags": [
+        "profile",
+        "silhouette",
+        "blue",
+        "portrait"
+      ],
       "likes": 381240,
       "views": 14920300,
       "is_premium": false,
@@ -22471,7 +22481,12 @@
       "category_name": "Luxury / Studio",
       "prompt": "Subject: A high-detail portrait of a man standing confidently, facing the camera. [HARD CONSTRAINT: The subject must strictly match the facial landmarks, eye shape, nose structure, and jawline of the provided reference photo. The face should be a precise replica, not a generic model or blend.] Pose & Attire: Standing with arms slightly outstretched, palms facing up or forward in a relaxed, triumphant gesture. Wearing a premium, high-quality black oversized hoodie and slim-fit dark blue jeans. Clean, modern white sneakers. The man has a calm, slightly stoic but successful expression. Environment & Atmosphere: The Rain: Hundreds of crisp, detailed India 500rupees bills are falling through the air all around him, captured in mid-air with realistic motion blur and depth of field. Some bills are scattered on the dark, reflective marble floor at his feet. Background: A minimalist, dark studio background with professional cinematic lighting.",
       "ai_style": "Cinematic Wealth Portrait",
-      "tags": ["money", "studio", "cinematic", "success"],
+      "tags": [
+        "money",
+        "studio",
+        "cinematic",
+        "success"
+      ],
       "likes": 711520,
       "views": 26784000,
       "is_premium": true,
@@ -22486,7 +22501,12 @@
       "category_name": "Mystical / Luxury",
       "prompt": "Using the attached image as the definitive source for identity. Preserve 100% of the original facial structure, bone definition, skin tone, hairstyle, beard details (if present), and natural expression. Facial fidelity must remain exact while enhancing physical presence with a slightly stronger, more athletic physique (realistic and natural, not exaggerated). Scene: A full-body cinematic artistic portrait set in a mystical forest environment. The atmosphere feels cinematic and powerful, with soft natural light filtering through trees, creating dramatic highlights and shadows on the subject and surroundings. Subtle mist and natural depth give a magical yet grounded realism. Pose: He is seated confidently on a luxurious golden chair with rich red upholstery. His posture is relaxed but dominant, projecting charisma and presence. He is smiling and gently pulling his lower lip with one finger to reveal diamond-encrusted teeth in a stylish, confident gesture. Wardrobe & Styling: Shirtless upper body, defined and stronger physique (enhanced but realistic anatomy). Tight black pants with a sleek panther-like texture and subtle sheen. Brown leather boots, rugged yet elegant. A statement belt featuring a large buckle shaped like a viper head. Diamond-encrusted necklace reflecting natural light. Companion Element: A large boa constrictor (jiboia) positioned naturally with him — coiled artistically around the chair or body, realistic scales and lifelike presence, conveying strength and exotic elegance. Lighting: Cinematic natural lighting with soft sun rays breaking through foliage. Balanced warm and cool tones for depth. Highlights sculpt muscles and textures without artificial glow. No CGI look, ultra-photorealistic skin and environment rendering. Camera & Technical Style: Shot as if captured on a full-frame professional camera, 35mm lens, f/1.8 aperture. Full-body framing, shallow depth of field with softly blurred forest background. Subtle film grain for artistic cinematic realism. Mood: Powerful, sensual but elegant, mystical luxury, artistic masculinity, confident and striking. High fidelity facial match, authentic skin tone, exact features preservation.",
       "ai_style": "Mystical Cinematic Luxury",
-      "tags": ["forest", "luxury", "mystical", "cinematic"],
+      "tags": [
+        "forest",
+        "luxury",
+        "mystical",
+        "cinematic"
+      ],
       "likes": 689440,
       "views": 24866000,
       "is_premium": true,
@@ -22501,7 +22521,12 @@
       "category_name": "Fantasy / Warrior",
       "prompt": "Crea una imagen : Full body cinematic shot of a tall, lean Viking berserker (183 cm, athletic slim build). He stands in a confident battle stance with one foot placed on a fallen enemy on a snowy battlefield. Heavy snowfall, cold blue moonlight from a large full moon in the sky. The warrior is facing forward, looking directly at the viewer with a determined, fearless expression. His face must exactly match the reference photo: same facial structure, same haircut, same eyebrows, same eyes, same nose, same lips, same proportions. On his left cheek there is a half-erased black rune tattoo, worn and slightly smeared into the skin (not sharp, not sticker-like, realistic ink). Correct human anatomy and proportions: natural neck length, proportional head size, realistic shoulders and torso. He wears light Viking gear: fur on the shoulders, leather straps, no heavy armor. His torso is visible with detailed Norse tattoos across chest and arms. Body is lean, slightly muscular but not bulky. In both hands he holds two Viking axes with glowing red runes engraved into the metal. The axes emit a red fiery glow that lights his hands and body. A raven with open wings and open beak sits on his shoulder. Background: battlefield covered with bodies, weapons in the snow, cinematic depth of field. Ultra-realistic, photorealistic, cinematic lighting, high detail, sharp focus, dramatic contrast between cold blue moonlight and warm red glow from axes. Snow particles in the air. 8k, masterpiece, realistic skin texture. NEGATIVE PROMPT (обязательно использовать): long neck, stretched head, deformed face, wrong proportions, bulky body, heavy armor, cartoon style, blurry face, different person, smooth tattoo, sticker tattoo, fantasy face, oversized head, bad anatomy",
       "ai_style": "Epic Fantasy Realism",
-      "tags": ["viking", "battle", "fantasy", "cinematic"],
+      "tags": [
+        "viking",
+        "battle",
+        "fantasy",
+        "cinematic"
+      ],
       "likes": 803210,
       "views": 31254000,
       "is_premium": true,
@@ -22516,7 +22541,12 @@
       "category_name": "Cyberpunk / Epic",
       "prompt": "Ultra-realistic 8K cinematic shot, hyper-realistic, Unreal Engine 5 render, epic movie poster style. A tall (183 cm), lean athletic young man (71 kg) with the same face as the reference photo. He stands on a massive urban bridge on the outskirts of a мегаполис at sunset. He is turned with his back to the camera but looking back over his left shoulder with an intense, cold expression. His hair is curly with red and white highlights fully blended (mélange style, mixed strands, not split half-and-half). Subtle stubble, sharp jawline. Outfit: high-fashion cyberpunk streetwear — black futuristic tactical jacket with layered textures, matte and glossy panels, subtle red LED accents, dark techwear pants, minimalistic unbranded sneakers. Over-ear black headphones on his head. In his left hand, held in front of his face, he grips a demonic oni-style mask emitting a dark red sinister aura with glowing cracks and ember particles. In his right hand he holds a black katana with a faint red demonic glow along the blade. A second katana is strapped diagonally across his back. Both katanas radiate subtle red infernal energy. Behind him in the distance floats a massive red-white crystalline sword (Damocles style), larger than a human, suspended vertically in the sky. The sword glows with demonic red energy, internal crystal fractures illuminated from within. It radiates intense sunlight reflections and dark red aura waves. Around the character — swirling crimson aura filled with anger and energy distortion, ember particles, heat haze effect. Background: dramatic cloudy sky, warm sunset light, distant city skyline, cinematic depth of field, volumetric lighting, sharp focus on character, dynamic composition, high contrast, film grain, ultra detailed textures, realistic skin pores, photorealistic lighting.",
       "ai_style": "Cyberpunk Epic Cinematic",
-      "tags": ["cyberpunk", "oni", "katana", "epic"],
+      "tags": [
+        "cyberpunk",
+        "oni",
+        "katana",
+        "epic"
+      ],
       "likes": 921340,
       "views": 35876000,
       "is_premium": true,
@@ -22531,7 +22561,12 @@
       "category_name": "Fine Art / Portrait",
       "prompt": "Ultra-realistic cinematic portrait of a man in left side profile, head and shoulders composition, wearing an aged wooden crown with carved fleur-de-lis details. His skin appears cracked like dry earth or ancient clay, with deep texture fissures across the face, neck, and shoulders — hyper-detailed skin texture resembling weathered stone sculpture. He wears a large circular bronze earring with an intricate ring design and a hanging feather, plus a heavy oxidized iron chain draped across his chest. Expression serious, contemplative, stoic. Lighting: dramatic Rembrandt lighting from upper left, soft cinematic shadows, subtle rim light separating subject from background. Background: dark, painterly, muted earthy tones (deep green and brown gradient), shallow depth of field, creamy bokeh. Style: hyper-realistic, 8K resolution, macro texture detail, fine art photography, ultra sharp focus, high dynamic range, volumetric lighting, cinematic color grading, museum portrait aesthetic. Camera settings: 85mm portrait lens, f/1.8, ISO 100, shallow depth of field. Mood: ancient king turned to stone, symbolic, powerful, timeless.",
       "ai_style": "Fine Art Museum Portrait",
-      "tags": ["ancient", "king", "rembrandt", "fineart"],
+      "tags": [
+        "ancient",
+        "king",
+        "rembrandt",
+        "fineart"
+      ],
       "likes": 574220,
       "views": 19843000,
       "is_premium": true,
@@ -22546,7 +22581,12 @@
       "category_name": "Motorcycle / Lifestyle",
       "prompt": "Hyper-realistic photo of a young man sitting on a black Honda Africa Twin with gold details, parked at a modern gas station at night. Strong, typical gas station lighting reflects on the slightly wet ground. The motorcycle is prominently displayed in the foreground, featuring gold-rimmed wheels, gold front suspension, a tall, transparent windscreen, and a visible chrome sports exhaust. He is wearing a light green hooded sweatshirt, light blue jeans, and casual sneakers. He holds the handlebars with one hand and gestures with the other as if conversing. A motorcycle helmet with a mirrored visor rests on the Africa Twin's tank. The urban environment in the background includes fuel pumps, illuminated signs, and some out-of-focus cars. The image features a soft depth of field, vibrant colors, high contrast, a motorcycle lifestyle photography style, a nighttime atmosphere, 4K resolution, ultra-detail, and sharp focus.",
       "ai_style": "Motorcycle Night Realism",
-      "tags": ["motorcycle", "night", "lifestyle", "gasstation"],
+      "tags": [
+        "motorcycle",
+        "night",
+        "lifestyle",
+        "gasstation"
+      ],
       "likes": 608110,
       "views": 21654000,
       "is_premium": false,
@@ -22561,7 +22601,12 @@
       "category_name": "Official / Portrait",
       "prompt": "Portrait of me in his late 20s, smiling warmly at the camera, wearing elegant slim-fit beige-brown Nehru jacket vest with subtle texture and dark buttons, high collar, paired with crisp white shirt and dark navy blue trousers, standing in a formal office setting, one hand resting on a polished wooden desk, the other hand on his hip, Indian national flag (saffron, white, green with Ashoka Chakra) prominently displayed behind him on the left, small Indian table flags on the desk, large bookshelf filled with neatly arranged law books in the background, luxurious wooden paneling and bookshelves, professional and dignified atmosphere, bright but natural indoor lighting, sharp details, realistic photography style, high resolution, 8k, photorealistic, official government portrait, slight depth of field",
       "ai_style": "Official Formal Portrait",
-      "tags": ["government", "formal", "office", "portrait"],
+      "tags": [
+        "government",
+        "formal",
+        "office",
+        "portrait"
+      ],
       "likes": 529870,
       "views": 18476000,
       "is_premium": false,
@@ -22576,7 +22621,12 @@
       "category_name": "Cosplay / Anime",
       "prompt": "A 24-year-old East Asian female cosplayer with a lean athletic build portraying an elite masked black-ops shinobi unit member, standing in a composed but battle-ready stance, one hand resting on the handle of a katana mounted across her back and the other relaxed at her side, shoulders squared with disciplined posture. She wears a highly accurate anime-inspired covert ninja cosplay costume: sleeveless grey tactical flak vest with structured panel stitching and front zipper detail, fitted black long-sleeve compression underlayer covering neck and arms, black fitted shinobi trousers with dual horizontal white thigh straps on the right leg, dark forearm guards with reinforced texture, open-toe black shinobi sandals with wrapped shin bindings, subtle red spiral marking on upper arm, and crossed katana sheaths mounted on the back with black-wrapped handles. Her face is concealed by a white porcelain-style animal mask with sharp eye cutouts and minimal red markings, secured with black head ties trailing slightly behind. Dark hair tied into a tight low ponytail beneath the mask strap, natural skin visible only around eye openings. Environment: forest clearing at dusk with muted natural backdrop, soft mist in the air, mossy ground and tree trunks providing subtle depth but not overpowering the subject, keeping focus on cosplay accuracy. Photographed on Canon EOS R5 II with RF 85mm f/1.8 lens, aperture f/5.6 for full outfit clarity, shutter speed 1/800 sec, ISO 400, 85mm focal length, priority on sharp costume detailing and clean silhouette rendering. Lighting: soft directional natural light from camera left, subtle rim light from behind to outline mask and vest edges, 3:1 lighting ratio for dimensional but not overly dramatic look, neutral daylight white balance 5500K. Composition: full-body vertical 4:5 framing, eye-level angle for character authenticity, subject centered for character showcase presentation, camera approximately 8 feet away. Mood: disciplined, calm, silent operative presence. Color grading: muted neutral tones with emphasis on grey vest and deep black fabrics, slight contrast enhancement, preserved fabric texture detail, minimal saturation boost, clean live-action realism. Post-processing: enhanced stitching detail on vest, refined texture on arm guards, realistic foam/prop sword material rendering to maintain cosplay authenticity, no cartoon effect, no exaggerated anime proportions. Style declaration: hyper-realistic anime black-ops ninja cosplay portrait, convention-grade professional character showcase photography.",
       "ai_style": "Hyper Realistic Cosplay Portrait",
-      "tags": ["cosplay", "ninja", "anime", "realistic"],
+      "tags": [
+        "cosplay",
+        "ninja",
+        "anime",
+        "realistic"
+      ],
       "likes": 648920,
       "views": 23241000,
       "is_premium": true,
@@ -22591,7 +22641,12 @@
       "category_name": "Artistic / Vintage",
       "prompt": "Using 100% original image references, maintaining the same face as in the original image 100%, original clothing 100%, and not changing the facial structure or characteristics. Changing the character style in the given photo and maintaining the correct proportions of the character's face, such as the eyes, nose, mouth, and moles. In the screen, the woman with long black hair appears to be leaning out from behind an old wooden window.  The white window frame is stained and peeling, the glass is broken into several irregular pieces, creating a relatively large gap in the middle, and there is a dark environment inside the room through the glass.  In the distant sky, the bright sun hangs.  Background Environment Texture: The entire image is coated with coarse grain to emphasize a vintage feel. Atmosphere and colors Overall atmosphere: Calm, dreamlike, and exuding a slight sense of loneliness. There is an emphasis on a mysterious feeling. Colors: Lines form the main tones, contrasting with the warm, brownish-yellow skin tone of a person. Overall, low saturation and low tones are used. Lighting Features Lighting Direction: With soft lighting illuminating the character from the front, subtle shadows are created on the face and body, adding a sense of three-dimensionality. Lighting quality: It is a feeling of soft natural light, not intense light, and soft light shines on the hair and arms. Artistry It is an artistic image that explores a person's inner self and emotions, with rough textures and blurred expressions blurring the line between reality and non-reality. The contrast between the background and the character, along with the contemplative pose, symbolizes a sense of solitude and reflection, making it a unique work that harmoniously blends vintage emotions with a modern feel. The entire screen creates a calm yet slightly lonely atmosphere, resulting in a more peaceful and serene mood.",
       "ai_style": "Vintage Emotional Fine Art",
-      "tags": ["vintage", "solitude", "artistic", "window"],
+      "tags": [
+        "vintage",
+        "solitude",
+        "artistic",
+        "window"
+      ],
       "likes": 512430,
       "views": 18320440,
       "is_premium": true,
@@ -22606,7 +22661,12 @@
       "category_name": "Cinematic / Black & White",
       "prompt": "Dramatic, ultra-realistic close-up in black and white with high-contrast cinematic lighting from the side, highlighting the contours of his face and beard, casting deep shadows. He wears round, reflective sunglasses. He gazes confidently upward into a dark void. The sunglasses reflect a city's towering skyline. The atmosphere is mysterious with a minimalist black background. Details in 4K. Keep the subject's exact facial structure, hair texture, the original photo.",
       "ai_style": "High Contrast Noir Portrait",
-      "tags": ["blackandwhite", "cinematic", "noir", "portrait"],
+      "tags": [
+        "blackandwhite",
+        "cinematic",
+        "noir",
+        "portrait"
+      ],
       "likes": 648110,
       "views": 22450990,
       "is_premium": false,
@@ -22621,7 +22681,12 @@
       "category_name": "Anime / Cyberpunk",
       "prompt": "Use my selfie as reference. Full-body anime cyberpunk version of me in Crimson Protocol overload. The exosuit is fracturing violently with bright red neon energy bursting through wide cracks. Add glowing fractures across my face, jawline, and around the eyes, as if the internal core is burning through the skin. Eyes should emit a piercing red beam-like glow. Surround the character with red digital warnings, distorted holograms, and flickering light. Add heat waves, sparks, and micro-explosions along the armor. High-detail anime illustration with intense, chaotic lighting and a feeling of uncontrollable power.",
       "ai_style": "Cyberpunk Anime Power Surge",
-      "tags": ["anime", "cyberpunk", "redenergy", "overload"],
+      "tags": [
+        "anime",
+        "cyberpunk",
+        "redenergy",
+        "overload"
+      ],
       "likes": 921870,
       "views": 34877650,
       "is_premium": true,
@@ -22636,7 +22701,12 @@
       "category_name": "Anime / Cyberpunk",
       "prompt": "Use my selfie as reference. Full-body anime cyberpunk version of me in a critical overload state. The black exosuit is cracking open with bright red neon energy bursting through the fractures. Add glowing fissures, drifting embers, and unstable electrical arcs. My eyes should reflect the same red energy. The scene should feel chaotic and dangerous, with alarms, red holographic warnings, and distorted light. High-detail anime illustration with intense lighting and a sense of internal collapse.",
       "ai_style": "Cyberpunk Collapse Mode",
-      "tags": ["anime", "cyberpunk", "overload", "neon"],
+      "tags": [
+        "anime",
+        "cyberpunk",
+        "overload",
+        "neon"
+      ],
       "likes": 884330,
       "views": 31654400,
       "is_premium": true,
@@ -22651,7 +22721,12 @@
       "category_name": "Anime / Stealth",
       "prompt": "Use my selfie as reference. Create a full-body stealth version of my Apex Circuit design. The exosuit should be matte black with minimal neon accents (subtle blue micro-lights only). Emphasize a covert-ops, Ghost in the Shell aesthetic: sleek armor plates, tactical silhouette, low visibility surfaces, and integrated stealth tech. Place me in a dark cyberpunk environment with soft ambient light, faint holographic interfaces, and minimal reflections. Maintain my facial structure and white spiked hair, but with a colder, more focused expression. Clean anime style, high detail, controlled lighting, stealth-focused composition.",
       "ai_style": "Stealth Cyber Anime",
-      "tags": ["stealth", "cyberpunk", "anime", "ghost"],
+      "tags": [
+        "stealth",
+        "cyberpunk",
+        "anime",
+        "ghost"
+      ],
       "likes": 703540,
       "views": 25433000,
       "is_premium": true,
@@ -22666,7 +22741,12 @@
       "category_name": "Studio / Fashion",
       "prompt": "Create a portrait of a woman aged 20 to 25 with a professional and elegant full-body studio portrait. This photograph captures a woman seated in a light wooden chair with a seat and back covered in sheer fabric and straw accents. The model is wearing a textured pink sleeveless vest. The vest features intricate silver beading and rhinestone floral embellishments on the front panel, three small metal buttons at the neckline, and side straps tied in a bow. The fabric has a tweed-like weave with a pointed front hem. Soft, neutral lighting accentuates the beading details and texture of the fabric. The dress is layered with a cream lace camisole, paired with a warm cream high-waisted pleated skirt and sheer ankle-length socks with soft ballet flats. The fabrics are soft and comfortable to the touch—cotton knit, light chiffon, and delicate lace—arranged in a harmonious pastel palette. The photorealistic skin texture, in 8k resolution, is highly detailed. The subject sits in a confident and relaxed pose, slightly turned toward the camera, with a gentle smile. One arm rests on the back of the chair, her legs crossed at the ankles, and her hair styled in soft, loose waves with a small satin ribbon tied back. Her makeup is minimal and radiant, with natural blush, a glossy lip, and light eyeliner. Her accessories include pearl earrings, a dainty gold necklace, and a canvas tote bag resting at her side. Camera Settings: Shot with a prime portrait lens (e.g., 85mm or 50mm) on a full-frame camera for interesting perspective and natural proportions. The aperture is set between f/4.0 and f/5.6 to ensure sharpness across the entire subject. ISO 100-200 for maximum studio-quality images. Shutter speeds range from 1/160s to 1/250s. Background: Clean, minimalist studio with soft, off-white tones. Lighting: Soft, diffused light, subtle shadows, an airy TikTok/Instagram aesthetic. Soft, modern colors. Aspect ratio 4:5",
       "ai_style": "Pastel Editorial Studio",
-      "tags": ["studio", "fashion", "pastel", "editorial"],
+      "tags": [
+        "studio",
+        "fashion",
+        "pastel",
+        "editorial"
+      ],
       "likes": 566210,
       "views": 19800440,
       "is_premium": false,
@@ -22681,7 +22761,12 @@
       "category_name": "Fantasy / Surreal",
       "prompt": "Seorang perempuan muda wajah sama dengan referensi , dia berdiri anggun di dalam terowongan ombak laut yang membeku secara magis, mengenakan gaun tulle transparan berwarna biru toska bercahaya lembut. Air laut berputar membentuk spiral seperti energi mistis, dengan partikel cahaya halus dan kilau etereal melayang di udara. Rambut terurai jatuh ke bahu, ekspresi wajah tenang seolah berada dalam dunia mimpi. Cahaya magis biru-putih menembus air, menciptakan aura fantasy yang tidak realistis. Atmosfer dreamlike, mystical, high fantasy, cinematic surrealism, ultra-detailed water texture, soft glow lighting, volumetric light, shallow depth of field, fine art fantasy photography, 8K, hyper-realistic yet magical. 9:16",
       "ai_style": "Mystical Ocean Fantasy",
-      "tags": ["fantasy", "ocean", "surreal", "mystical"],
+      "tags": [
+        "fantasy",
+        "ocean",
+        "surreal",
+        "mystical"
+      ],
       "likes": 733100,
       "views": 26988400,
       "is_premium": true,
@@ -22696,7 +22781,12 @@
       "category_name": "Studio / Fashion",
       "prompt": "Create a portrait of a woman aged 20 to 25 with a professional and elegant full-body studio portrait. This photograph captures a woman seated in a light wooden chair with a seat and back covered in sheer fabric and straw accents. The model is wearing a textured pink sleeveless vest. The vest features intricate silver beading and rhinestone floral embellishments on the front panel, three small metal buttons at the neckline, and side straps tied in a bow. The fabric has a tweed-like weave with a pointed front hem. Soft, neutral lighting accentuates the beading details and texture of the fabric. The dress is layered with a cream lace camisole, paired with a warm cream high-waisted pleated skirt and sheer ankle-length socks with soft ballet flats. The fabrics are soft and comfortable to the touch—cotton knit, light chiffon, and delicate lace—arranged in a harmonious pastel palette. The photorealistic skin texture, in 8k resolution, is highly detailed. The subject sits in a confident and relaxed pose, slightly turned toward the camera, with a gentle smile. One arm rests on the back of the chair, her legs crossed at the ankles, and her hair styled in soft, loose waves with a small satin ribbon tied back. Her makeup is minimal and radiant, with natural blush, a glossy lip, and light eyeliner. Her accessories include pearl earrings, a dainty gold necklace, and a canvas tote bag resting at her side. Camera Settings: Shot with a prime portrait lens (e.g., 85mm or 50mm) on a full-frame camera for interesting perspective and natural proportions. The aperture is set between f/4.0 and f/5.6 to ensure sharpness across the entire subject. ISO 100-200 for maximum studio-quality images. Shutter speeds range from 1/160s to 1/250s. Background: Clean, minimalist studio with soft, off-white tones. Lighting: Soft, diffused light, subtle shadows, an airy TikTok/Instagram aesthetic. Soft, modern colors. Aspect ratio 4:5",
       "ai_style": "Pastel Editorial Studio",
-      "tags": ["studio", "fashion", "pastel", "editorial"],
+      "tags": [
+        "studio",
+        "fashion",
+        "pastel",
+        "editorial"
+      ],
       "likes": 502880,
       "views": 17644000,
       "is_premium": false,
@@ -22711,7 +22801,12 @@
       "category_name": "Spring / Fashion",
       "prompt": "Take the face from the uploaded face source image, keeping all facial features, expression, and head orientation exactly as they are in the original. Use the outfit, pose, and background shown in the provided reference image: a young woman with fair skin and long, wavy blonde hair styled in loose, voluminous waves with delicate cherry blossom sprigs woven throughout (enhancing spring freshness while maintaining seductive movement), standing outdoors on a city street during spring. She is wearing a glamorous, shimmering baby pink mini dress (hem ending at the upper thighs) with thin straps. The dress maintains the same backless and high-slit design but uses lightweight, flowing chiffon fabric (replacing heavy evening materials) for a breezy, spring-appropriate silhouette that accentuates her figure. The scene is set at golden hour with soft, natural, and warm lighting. There are café tables and chairs adorned with pale pink and white tulips on the left, classic buildings with hanging lights, and spring trees with fresh green foliage and blooming cherry blossoms lining the street. A few blurred pedestrians are in the background, and the cobblestone sidewalk is scattered with delicate pink petals and new green leaves. Important: The final image must be hyper-realistic and completely photoreal, indistinguishable from a real photograph. When blending the new face onto the body, maintain perfect, natural head-to-body proportions. The head size must match the body precisely—no distortion in scale or anatomy. Makeup: Use fresh, dewy spring makeup—subtle peach blush, glossy nude lips (no heavy contouring), and soft rose-gold shimmer on the inner corners of the eyes (enhancing allure without intensity). Preserve all original facial features exactly; only amplify natural spring freshness. Hairstyle: Keep the wavy texture but add voluminous lift and cherry blossom accents (no static or stiff styling) to convey effortless spring seduction. Blend the face seamlessly with the new body, mini dress, and environment. Prioritize realistic fabric texture (chiffon’s gentle folds), petal-soft lighting, and natural skin translucency under golden-hour sun. The final result must look visually perfect: lifelike shadows, zero digital artifacts, and absolute harmony between the face, spring attire, and environment. Do not alter the source face’s expression, features, or head angle. All adjustments must serve spring’s vibrancy while keeping the mood elegant, sensual, and utterly believable.",
       "ai_style": "Golden Hour Editorial Glam",
-      "tags": ["spring", "goldenhour", "fashion", "photoreal"],
+      "tags": [
+        "spring",
+        "goldenhour",
+        "fashion",
+        "photoreal"
+      ],
       "likes": 846220,
       "views": 30211000,
       "is_premium": true,
@@ -22726,7 +22821,12 @@
       "category_name": "Festival / Portrait",
       "prompt": "Vibrant Holi festival portrait of the uploaded person, exact face identity preserved, joyful laughing expression with sparkling eyes and wide smile, face and upper body dramatically surrounded and partially covered in exploding multicolored gulal powder clouds, massive colorful powder bursts in red pink yellow turquoise blue purple magenta orange flying everywhere like paint splatter explosion, powder particles densely filling the air and background creating abstract colorful backdrop, bright natural afternoon daylight high-key lighting soft side light from left illuminating face with gentle highlights and natural shadows, hyper-saturated vivid colors, dreamy festive atmosphere, ultra detailed powder texture and glow, photorealistic with artistic flair, 8k masterpiece, high resolution",
       "ai_style": "Festival Color Explosion",
-      "tags": ["holi", "festival", "color", "portrait"],
+      "tags": [
+        "holi",
+        "festival",
+        "color",
+        "portrait"
+      ],
       "likes": 978540,
       "views": 38977600,
       "is_premium": true,
@@ -22741,12 +22841,17 @@
       "category_name": "Festival / Portrait",
       "prompt": "Photorealistic mid-shot Holi festival portrait from uploaded photo, exact preserve facial features, skin tone, hair style, body proportions, joyful laughing expression with sparkling eyes, medium composition from waist up, person actively throwing vibrant gulal powder with both hands creating massive colorful explosions in red pink yellow turquoise magenta orange clouds and flying particles around upper body and face, light multicolored powder dusting on skin hair clothes, bright 4PM afternoon sunlight strictly from left side illuminating left face cheek shoulder arm with soft natural highlights and gentle right-side shadows, high-key bright atmosphere no sunset no backlighting no rim light, outdoor festival square bg softly blurred with joyful crowd flower garlands colorful banners, hyper-realistic powder texture and skin details, professional editorial mid-shot photography, sharp focus 8k HDR, vibrant energetic masterpiece",
       "ai_style": "High-Key Holi Editorial",
-      "tags": ["holi", "festival", "midshot", "colorburst"],
+      "tags": [
+        "holi",
+        "festival",
+        "midshot",
+        "colorburst"
+      ],
       "likes": 1045520,
       "views": 41234000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1152",
@@ -22756,12 +22861,17 @@
       "category_name": "Festival / Portrait",
       "prompt": "Photorealistic vibrant Holi festival portrait of the uploaded person, exact facial features, skin tone, hair style, proportions and joyful laughing expression preserved with wide open-mouth smile and sparkling eyes, face, beard if any, neck, hair and upper body heavily splashed and covered with intense multicolored gulal powder, thick vivid red pink yellow turquoise blue purple magenta orange particles densely clinging to skin with realistic colorful streaks, smudges, fresh heavy splatters, powder texture and buildup like thrown paint, massive explosive colorful powder clouds bursting and swirling around the head and shoulders filling most of the frame with dense mist flying particles splatters in all directions, PLUS irregular messy organic overflowing dripping border like real powder and paint spilling over the image edges, uneven colorful gulal drips flowing downward random thick splashes scattered bursts chaotic overflows messy runs no straight lines no symmetry no clean frame natural chaotic dripping as if excess powder overflowed the scene, bright natural afternoon daylight high-key lighting soft side light from left illuminating the powdered face and body with luminous glow gentle natural shadows no backlighting no golden hour, hyper-saturated vivid explosive colors, energetic dreamy festive atmosphere, ultra detailed powder texture on person plus wild dripping overflowing border, sharp focus 8k masterpiece",
       "ai_style": "Holi Extreme Color Explosion",
-      "tags": ["holi", "festival", "colorchaos", "explosion"],
+      "tags": [
+        "holi",
+        "festival",
+        "colorchaos",
+        "explosion"
+      ],
       "likes": 1198840,
       "views": 46899200,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1153",
@@ -22771,12 +22881,17 @@
       "category_name": "Festival / Couple",
       "prompt": "A joyful couple embracing and laughing during Holi festival, colorful powder floating in the air, clothes stained with bright pigments, outdoor celebration, dynamic composition, cinematic depth of field, vibrant festival colors, ultra-realistic photography",
       "ai_style": "Cinematic Holi Couple",
-      "tags": ["holi", "couple", "festival", "cinematic"],
+      "tags": [
+        "holi",
+        "couple",
+        "festival",
+        "cinematic"
+      ],
       "likes": 865420,
       "views": 30988000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1154",
@@ -22786,12 +22901,17 @@
       "category_name": "Festival / Couple",
       "prompt": "A couple walking hand in hand during Holi festival, relaxed and happy expressions, colorful powder on faces and clothes, sunlit street, festive crowd blurred in background, natural candid photography, warm and romantic tone, high realism",
       "ai_style": "Warm Festival Romance",
-      "tags": ["holi", "romantic", "festival", "street"],
+      "tags": [
+        "holi",
+        "romantic",
+        "festival",
+        "street"
+      ],
       "likes": 744310,
       "views": 27655000,
       "is_premium": false,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1155",
@@ -22801,12 +22921,17 @@
       "category_name": "Festival / Portrait",
       "prompt": "A joyful young woman celebrating Holi festival, colorful powder bursting in the air around her, vibrant pigments naturally smeared on her face and white kurta, soft sunlight filtering through trees, candid smile, dynamic motion, outdoor Indian street, festive crowd blurred in background, cinematic photography, shallow depth of field, warm tones, ultra-realistic, high detail",
       "ai_style": "Street Holi Cinematic",
-      "tags": ["holi", "woman", "festival", "street"],
+      "tags": [
+        "holi",
+        "woman",
+        "festival",
+        "street"
+      ],
       "likes": 903770,
       "views": 33511800,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1156",
@@ -22816,12 +22941,17 @@
       "category_name": "Festival / Portrait",
       "prompt": "A confident young woman celebrating Holi, wearing a white kurta with colorful powder stains, playful expression, holding colored powder in her hand, vibrant colors frozen mid-air, sunlit outdoor street, modern cinematic style, energetic mood, sharp focus, professional photography",
       "ai_style": "Modern Holi Portrait",
-      "tags": ["holi", "confidence", "festival", "portrait"],
+      "tags": [
+        "holi",
+        "confidence",
+        "festival",
+        "portrait"
+      ],
       "likes": 822940,
       "views": 29477400,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1157",
@@ -22831,12 +22961,17 @@
       "category_name": "Festival / Fashion",
       "prompt": "A stylish Indian woman celebrating Holi, colorful powders floating around her, traditional outfit with modern accessories, confident pose, bright sunlight, vivid festival colors, cinematic composition, high contrast, magazine-style portrait, ultra-detailed, realistic lighting",
       "ai_style": "Holi Fashion Editorial",
-      "tags": ["holi", "fashion", "indian", "magazine"],
+      "tags": [
+        "holi",
+        "fashion",
+        "indian",
+        "magazine"
+      ],
       "likes": 956300,
       "views": 35289000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1158",
@@ -22846,12 +22981,17 @@
       "category_name": "Festival / Portrait",
       "prompt": "A young man celebrating Holi festival, white kurta splashed with vibrant colored powder, confident smile, sunlight illuminating the scene, outdoor Indian street, joyful crowd in background, cinematic photography, dynamic motion, high realism, warm festive tones",
       "ai_style": "Festive Street Hero",
-      "tags": ["holi", "man", "festival", "street"],
+      "tags": [
+        "holi",
+        "man",
+        "festival",
+        "street"
+      ],
       "likes": 888610,
       "views": 32166000,
       "is_premium": false,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1159",
@@ -22861,12 +23001,17 @@
       "category_name": "Festival / Couple",
       "prompt": "A couple walking hand in hand during Holi festival, relaxed and happy expressions, colorful powder on faces and clothes, sunlit street, festive crowd blurred in background, natural candid photography, warm and romantic tone, high realism",
       "ai_style": "Festival Candid Romance",
-      "tags": ["holi", "couple", "romantic", "festival"],
+      "tags": [
+        "holi",
+        "couple",
+        "romantic",
+        "festival"
+      ],
       "likes": 712500,
       "views": 26177000,
       "is_premium": false,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1160",
@@ -22876,12 +23021,17 @@
       "category_name": "Festival / Couple",
       "prompt": "A cinematic couple portrait during Holi, colorful powder explosion around them, strong emotional connection, traditional Indian outfits, golden hour lighting, dramatic yet joyful atmosphere, professional photography, ultra-detailed, realistic textures",
       "ai_style": "Golden Holi Editorial",
-      "tags": ["holi", "couple", "goldenhour", "cinematic"],
+      "tags": [
+        "holi",
+        "couple",
+        "goldenhour",
+        "cinematic"
+      ],
       "likes": 1034410,
       "views": 39855400,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1161",
@@ -22891,12 +23041,17 @@
       "category_name": "Holi / Identity Portrait",
       "prompt": "Create a cinematic, ultra-realistic DSLR-style portrait of a young Indian man, using the exact same face, skin texture, facial structure, and identity as the uploaded reference image (100% face match, no alteration). The scene celebrates the vibrant festival of Holi, captured in natural outdoor daylight with soft golden sunlight. He is wearing a traditional off-white/light white cotton kurta, slightly wrinkled for realism, with a soft, semi-transparent dupatta/scarf casually draped around his neck, gently moving in the air. Bright red, blue, and pink gulal is naturally smeared across his cheeks, forehead, nose bridge, and beard, blending realistically with skin pores and facial hair. Tiny specks of dry and wet color particles are visible on the kurta fabric. A slow-motion-style cloud of colorful Holi powder floats around him, with realistic depth, motion blur, and particle separation, giving a lively festival vibe without overdoing the colors. He has a confident, joyful smile, eyes sharp and expressive, with one hand raised mid-celebration, fingers slightly spread, captured in a candid moment. Shot with a professional DSLR camera, 85mm lens, f/1.8 aperture, shallow depth of field, crisp subject focus, creamy blurred background (bokeh). Ultra-high resolution, 4K quality, cinematic color grading, natural skin tones, realistic shadows, detailed fabric texture, festival atmosphere. No face distortion, no beauty filter, no cartoon effect, no over-sharpening, no watermark, no text, no logo.",
       "ai_style": "Cinematic Holi DSLR",
-      "tags": ["holi", "indian-man", "festival", "dslr"],
+      "tags": [
+        "holi",
+        "indian-man",
+        "festival",
+        "dslr"
+      ],
       "likes": 1215400,
       "views": 45233000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1162",
@@ -22906,12 +23061,17 @@
       "category_name": "Holi / Identity Portrait",
       "prompt": "Create a cinematic, ultra-realistic DSLR-style portrait of a young Indian woman, using the exact same face, facial structure, skin tone, and identity as the uploaded reference image (100% face match, no alteration). The scene celebrates the vibrant festival of Holi, captured outdoors in soft natural daylight with a gentle warm sun glow. She is wearing a traditional off-white/light white cotton kurta with subtle natural fabric folds and realistic texture, along with a soft, lightweight dupatta loosely draped around her neck, gently flowing in the breeze for an elegant festive look. Bright red, blue, and pink gulal is naturally smeared and blended across her cheeks, forehead, nose bridge, and along the jawline, interacting realistically with skin pores and natural facial details. Tiny specks of Holi powder are visible on the kurta and dupatta fabric. A soft, slow-motion cloud of colorful Holi powder floats gently around her, with realistic particle depth, natural dispersion, and light motion blur, creating a joyful and energetic atmosphere without overpowering the subject. She displays a confident, joyful smile with expressive eyes, one hand raised mid-celebration, captured in a candid moment of happiness and freedom. Shot with a professional DSLR camera, 85mm portrait lens, f/1.8 aperture, shallow depth of field, sharp focus on facial features, and a smooth, softly blurred natural background (bokeh). Ultra-high-resolution 4K quality, cinematic lighting with warm highlights and soft shadows, high dynamic range, vibrant yet natural color grading, realistic skin texture, polished poster-ready festive finish. No face distortion, no beautification filters, no plastic skin, no cartoon effect, no AI artifacts, no over-sharpening, no text, no watermark, no logo.",
       "ai_style": "Elegant Holi DSLR",
-      "tags": ["holi", "indian-woman", "festival", "portrait"],
+      "tags": [
+        "holi",
+        "indian-woman",
+        "festival",
+        "portrait"
+      ],
       "likes": 1342200,
       "views": 49877400,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1163",
@@ -22921,12 +23081,17 @@
       "category_name": "Holi / Close-Up Portrait",
       "prompt": "Create an ultra-realistic, cinematic close-up Holi portrait of a young woman, focusing on her face with super-sharp facial detail and expressive eyes. Multicolored Holi powder is naturally smeared across her cheeks, forehead, nose, and blended into her hair, with realistic pigment texture interacting with skin pores and fine hair strands. Soft pastel lighting creates a gentle, dreamy glow, while subtle glitter particles are delicately mixed with the Holi powder, adding refined sparkle highlights on the forehead and cheeks without overpowering the natural look. Her expression is calm yet joyful, capturing a whimsical festival mood. She wears fashionable boho-style earrings and minimal accessories that complement the festive aesthetic. Shot on a professional DSLR camera, macro/close-up portrait look, 85–100mm lens, f/1.8 aperture, shallow depth of field, sharp focus on the eyes with natural light reflections, and a smooth creamy bokeh background. Cinematic tone mapping, high dynamic range, vibrant yet balanced color grading with high color impact, natural skin tones, fine micro-details, and a polished editorial finish inspired by trending Instagram portrait photography. No face distortion, no beautification filters, no plastic skin, no cartoon or AI artifacts, no over-sharpening, no text, no watermark, no logo.",
       "ai_style": "Holi Macro Editorial",
-      "tags": ["holi", "closeup", "macro", "festival"],
+      "tags": [
+        "holi",
+        "closeup",
+        "macro",
+        "festival"
+      ],
       "likes": 987430,
       "views": 36122000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1164",
@@ -22936,12 +23101,17 @@
       "category_name": "Holi / Identity Lock",
       "prompt": "Use the uploaded photo as the ONLY face reference. Face must match 100% exactly — same identity, facial structure, skin tone, eyes, nose, lips, and expression. Do not beautify, reshape, or stylize the face. No anime, no cartoon, no illustration. Ultra-realistic cinematic Holi portrait of a young woman, captured in a natural candid moment at the exact second of a slow-motion color burst. Fine gulal powder particles float and disperse naturally around her face and hair, with realistic gravity, depth, and subtle motion blur (not frozen or artificial). Sharp, natural focus on her eyes and facial features, with gentle fall-off toward the edges. Shot on a professional DSLR camera using an 85mm lens at wide aperture, creating shallow depth of field and creamy cinematic bokeh. Soft yet dramatic cinematic lighting highlights feminine facial contours with realistic shadows. Authentic skin texture with visible pores, fine baby hair, natural imperfections, and true skin tones. Realistic color grading, balanced contrast, no artificial glow, no beauty filter, no plastic skin, no over-sharpening, photorealistic 4K ultra-HD clarity.",
       "ai_style": "Holi Identity Lock DSLR",
-      "tags": ["holi", "identity-lock", "festival", "dslr"],
+      "tags": [
+        "holi",
+        "identity-lock",
+        "festival",
+        "dslr"
+      ],
       "likes": 842510,
       "views": 29755000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1165",
@@ -22951,12 +23121,17 @@
       "category_name": "Holi / Identity Lock",
       "prompt": "Use the uploaded photo as the ONLY face reference. Face must match 100% exactly — same identity, facial structure, skin tone, eyes, nose, lips, and expression. Do not beautify, reshape, or stylize the face. No anime, no cartoon, no illustration. Ultra-realistic cinematic Holi portrait of a young woman, captured in a natural candid moment at the exact second of a slow-motion color burst. Fine gulal powder particles float and disperse naturally around her face and hair, with realistic gravity, depth, and subtle motion blur (not frozen or artificial). Sharp, natural focus on her eyes and facial features, with gentle fall-off toward the edges. Shot on a professional DSLR camera using an 85mm lens at wide aperture, creating shallow depth of field and creamy cinematic bokeh. Soft yet dramatic cinematic lighting highlights feminine facial contours with realistic shadows. Authentic skin texture with visible pores, fine baby hair, natural imperfections, and true skin tones. Realistic color grading, balanced contrast, no artificial glow, no beauty filter, no plastic skin, no over-sharpening, photorealistic 4K ultra-HD clarity.",
       "ai_style": "Holi Identity Lock DSLR",
-      "tags": ["holi", "identity-lock", "festival", "dslr"],
+      "tags": [
+        "holi",
+        "identity-lock",
+        "festival",
+        "dslr"
+      ],
       "likes": 799880,
       "views": 28144000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1166",
@@ -22966,12 +23141,17 @@
       "category_name": "Holi / Candid Portrait",
       "prompt": "Ultra-realistic cinematic DSLR portrait of a real person celebrating Holi, captured in a candid moment. Fine gulal powder particles exploding in mid-air in slow motion, with natural color blending and realistic motion blur. Soft golden sunlight falling from the side, creating natural highlights and shadows on the face. Shallow depth of field with a creamy bokeh background, shot on a professional DSLR camera using an 85mm lens. Authentic skin texture with visible pores, natural imperfections, and realistic color grading. Joyful, genuine smile (not posed), cinematic contrast, true-to-life colors, high dynamic range (HDR), 4K ultra-high resolution, photorealistic, no artificial glow, no plastic skin, no over-sharpening.",
       "ai_style": "Cinematic Holi DSLR",
-      "tags": ["holi", "festival", "candid", "dslr"],
+      "tags": [
+        "holi",
+        "festival",
+        "candid",
+        "dslr"
+      ],
       "likes": 915430,
       "views": 31877400,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1167",
@@ -22981,12 +23161,17 @@
       "category_name": "Holi / Identity Portrait",
       "prompt": "Use the uploaded girl’s reference photo. The face must be a 100% exact match — same facial structure, eyes, nose, lips, skin tone, and natural expression. The result must look like a real human photograph, not anime, not cartoon, not illustration. Scene: Indian Holi festival celebration, colorful temple town background, traditional Indian architecture, people celebrating Holi in the background, vibrant colors in the air. The girl is wearing a modern casual outfit, a light pink t-shirt with clear text “Happy Holi” written on it. Natural Holi colors on her face, joyful smile, candid movement pose. Lighting: Golden hour sunlight, soft cinematic lighting, realistic shadows, natural skin texture. Quality: Ultra-realistic DSLR photo, sharp focus, depth of field, 8K detail, professional photography look. Negative prompt: anime style, cartoon, illustration, CGI, painting, artificial skin, over-smoothed face, face distortion, extra fingers, blur.",
       "ai_style": "Holi Identity Lock DSLR",
-      "tags": ["holi", "indian-girl", "festival", "dslr"],
+      "tags": [
+        "holi",
+        "indian-girl",
+        "festival",
+        "dslr"
+      ],
       "likes": 1045520,
       "views": 38766000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1168",
@@ -22996,12 +23181,17 @@
       "category_name": "Holi / Identity Portrait",
       "prompt": "Use the uploaded boy’s reference photo. The face must be a 100% exact match — same facial structure, eyes, nose, lips, skin tone, hairstyle, and natural expression. The face must look completely realistic and human, not anime, not cartoon, not illustration. Scene: Indian street Holi celebration, traditional old-town market street, colorful flags overhead, people playing Holi in the background, vibrant gulal powders everywhere. Pose: The boy is standing confidently near a Holi color stall, holding a glass of colored drink (thandai or sherbet), smiling naturally at the camera. Outfit: Casual modern t-shirt with a name printed (optional), lightly splashed with natural Holi colors. Face & Details: Natural Holi colors on cheeks and forehead, realistic skin texture, no artificial smoothness. Lighting: Soft daylight / golden hour lighting, cinematic mood, realistic shadows. Quality: Ultra-realistic DSLR photo, sharp focus, depth of field, 8K detail, professional photography look. Background: Slightly blurred festive crowd, bowls of colorful powders visible, lively Indian atmosphere. Negative prompt: anime style, cartoon, illustration, CGI, painting, plastic skin, over-smooth face, face distortion, unrealistic proportions, blur.",
       "ai_style": "Holi Street DSLR",
-      "tags": ["holi", "indian-boy", "street", "festival"],
+      "tags": [
+        "holi",
+        "indian-boy",
+        "street",
+        "festival"
+      ],
       "likes": 978640,
       "views": 35211400,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1169",
@@ -23011,12 +23201,17 @@
       "category_name": "Holi / Couple Portrait",
       "prompt": "Wide holistic portrait of a couple throwing rainbow Holi powder together toward camera, ultra-HD, sunlight glinting off colorful particles, warm and bold color grading, intertwined hands and joyful expressions, matching stylish outfits mixed with vivid pigments, soft hazy bokeh background, trending Instagram joyful festival aesthetic with color pop enhancement and subtle vignette.",
       "ai_style": "Holi Editorial Couple",
-      "tags": ["holi", "couple", "festival", "color-burst"],
+      "tags": [
+        "holi",
+        "couple",
+        "festival",
+        "color-burst"
+      ],
       "likes": 1154430,
       "views": 42188700,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1170",
@@ -23026,12 +23221,17 @@
       "category_name": "Holi / Couple Portrait",
       "prompt": "A joyful couple embracing and laughing during Holi festival, colorful powder floating in the air, clothes stained with bright pigments, outdoor celebration, dynamic composition, cinematic depth of field, vibrant festival colors, ultra-realistic photography",
       "ai_style": "Cinematic Holi Romance",
-      "tags": ["holi", "couple", "romantic", "festival"],
+      "tags": [
+        "holi",
+        "couple",
+        "romantic",
+        "festival"
+      ],
       "likes": 1223340,
       "views": 46355000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1171",
@@ -23041,7 +23241,12 @@
       "category_name": "Abstract / Experimental Art",
       "prompt": "Redraw the provided face as a raw chaotic ink poster built mainly from dense curved black scribble strokes. Use the original only for proportions. Form hair, shadows and structure with overlapping uneven lines and rough cross-hatching. Keep minimal flat beige tone, no realism, no gradients. Slight asymmetry. Irregular tangled aura. Solid flat orange background. High contrast, no 3D, no polish.",
       "ai_style": "Chaotic Ink Poster",
-      "tags": ["ink-art", "scribble", "abstract", "poster"],
+      "tags": [
+        "ink-art",
+        "scribble",
+        "abstract",
+        "poster"
+      ],
       "likes": 654210,
       "views": 21544000,
       "is_premium": true,
@@ -23056,7 +23261,12 @@
       "category_name": "Gaming / Cinematic Style",
       "prompt": "A close-up of a man (as in the uploaded image) looking directly at the viewer. He is heavily tattooed on both arms, neck, and chest. He wears an unbuttoned, bright coral-pink (or salmon) short-sleeved collared shirt over a loose-fitting, V-neck light olive-green T-shirt.\nHe is wearing dark blue denim jeans held up by a brown leather belt with a large, ornate, gold-colored buckle (possibly featuring an animal or symbol). A black pistol is tucked into his waistband, partially obscured by his right hand, which is resting on the grip. He also wears a black watch on his left wrist and a gold bracelet on his right.\nThe background is a vibrant, sunny, coastal scene reminiscent of Southern California or Miami. It features tall palm trees, a sandy beach, and the ocean. In the distance, there are some houses or low-rise buildings and mountains. The lighting is golden, suggesting either sunrise or sunset, casting a warm glow over the scene.\nhard shadows, and a distinct color palette typical of GTA loading screens and cover.\nHighly detailed and rendered. Vibrant, cinematic.\nOptional Text Overlay (for added authenticity): Include the 'Grand Theft Auto V' logo in the middle right.",
       "ai_style": "GTA V Loading Screen",
-      "tags": ["gta-style", "gaming", "cinematic", "vector"],
+      "tags": [
+        "gta-style",
+        "gaming",
+        "cinematic",
+        "vector"
+      ],
       "likes": 1123440,
       "views": 38455000,
       "is_premium": true,
@@ -23071,7 +23281,12 @@
       "category_name": "Fantasy / Cinematic Portrait",
       "prompt": "A hyper-realistic, 8k medium close-up portrait of a male character, uploaded 100% face as reference, with a serious and intense expression. He wears an intricately detailed, dark metallic crown featuring sharp, sword-like spikes and ornate carvings of wolves and mountains. His attire includes a thick, shaggy dark fur cloak draped over dark, rugged clothing or armor, all rendered with highly detailed texture. The lighting is cinematic and dramatic, with a cool, desaturated blue-grey color palette, emphasizing the textures of the fur and crown. Volumetric lighting captures numerous falling snow particles, creating a cold, icy atmosphere. The background is a softly blurred, snowy, desolate landscape. The composition is a centered head-and-shoulders shot, with the stylized text 'THE LAST WOLF KING' rendered in a metallic, icy font positioned at the bottom center of the image.",
       "ai_style": "Dark Fantasy Cinematic",
-      "tags": ["fantasy", "wolf-king", "cinematic", "snow"],
+      "tags": [
+        "fantasy",
+        "wolf-king",
+        "cinematic",
+        "snow"
+      ],
       "likes": 945780,
       "views": 33211000,
       "is_premium": true,
@@ -23086,7 +23301,12 @@
       "category_name": "Fine Art / Oil Painting",
       "prompt": "Transform this image into an extreme palette knife oil painting with heavy impasto texture and thick, sculpted paint strokes. Preserve and amplify the original image colors, using them as the dominant palette. Add rough canvas grain, layered knife strokes, abstract paint breaks, and dramatic high-contrast lighting. Keep the main subject sharp and detailed while allowing the background to dissolve into expressive, textured brushwork. Raw, cinematic, gallery-scale oil painting style.",
       "ai_style": "Impasto Oil Painting",
-      "tags": ["oil-painting", "impasto", "fine-art", "gallery"],
+      "tags": [
+        "oil-painting",
+        "impasto",
+        "fine-art",
+        "gallery"
+      ],
       "likes": 732890,
       "views": 25677000,
       "is_premium": true,
@@ -23101,7 +23321,12 @@
       "category_name": "Gaming / Vector Art",
       "prompt": "{'image_analysis':{'artistic_style':'GTA V loading screen aesthetic, iconic Rockstar Games vector art, high-contrast pop art, cel-shaded with thick contours','color_palette':'Electric magenta, vibrant hot pink, deep black, golden yellow outlines, natural skin tones','atmosphere':'Sultry, high-end urban glamour, seductive and mysterious, retro-modern vibe'},'generation_prompt':{'identity_preservation':'Maintain 100% strict facial likeness, bone structure, and unique features of the reference person. High-fidelity facial reconstruction in vector style.','subject_details':{'face':'Sultry bedroom eyes with a heavy-lidded gaze, slightly parted glossy magenta lips (playful pout), translucent pink-tinted aviator sunglasses resting slightly down the nose, oversized silver hoop earrings','hair':'Exact hair texture and style as seen in reference, but with a 'wind-swept' voluminous look, rendered in stylized cel-shaded layers'},'attire':{'outerwear':'Luxury hot pink varsity jacket, worn off-the-shoulder to reveal a hint of skin, silk finish with vibrant highlights','inner':'Tight-fitting black ribbed tank top, emphasizing a confident silhouette','accessories':'Thin silver chain necklace, black leather wristband with silver metallic spikes'},'pose_and_composition':'Close-up portrait with a slight head tilt, one hand gently touching the temple or playing with a strand of hair, 'femme fatale' posture, alluring magazine cover composition','environment':'Solid, clean hot pink background with subtle vignette, studio lighting that accentuates facial contours and collarbones','technical_specs':'Sharp yellow 'halo' outline, bold black line art, flat colors with hard-edged professional shadows, 8k resolution, stylized GTA art style'}}",
       "ai_style": "GTA Vector Glam",
-      "tags": ["gta-style", "vector", "pop-art", "gaming"],
+      "tags": [
+        "gta-style",
+        "vector",
+        "pop-art",
+        "gaming"
+      ],
       "likes": 1189900,
       "views": 40555000,
       "is_premium": true,
@@ -23116,7 +23341,12 @@
       "category_name": "Fantasy / Cosmic Portrait",
       "prompt": "Ultra-detailed cinematic fantasy portrait of a confident woman standing in a vast galaxy environment filled with swirling nebula clouds, luminous constellations, drifting stardust, and deep cosmic blues, violets, and magentas. She stands sideways with graceful posture, her body angled away while she looks back over her shoulder toward the camera with a calm, powerful expression.\nUse the uploaded photo as facial reference. Preserve her natural face shape, eye spacing, nose structure, lip fullness, skin tone, and expression. Keep her glasses, necklace, and piercings visible. Maintain realistic skin texture and natural lighting.\nHer “dress” is formed entirely from living stardust and flowing nebula light. The cosmic material wraps and cascades around her like a celestial current, appearing organic and weightless rather than fabric. It glows softly and moves like illuminated mist, subtly revealing her silhouette beneath the shimmering layers without looking like clothing. Fine particles of light trail behind her as if gravity barely affects them.\nHighly detailed, sharp focus, soft cosmic glow, volumetric lighting, cinematic depth of field, radiant highlights, rich contrast, ethereal atmosphere, 8k resolution, professional fantasy photography style.\nNegative Prompt\nblurry, low resolution, flat lighting, harsh shadows, overexposed highlights, underexposed image, distorted anatomy, warped limbs, unnatural proportions, stiff pose, dull colors, muddy tones, plastic skin texture, overly airbrushed skin, missing glasses, missing necklace, missing piercings, heavy fabric dress, visible seams, obvious clothing, solid opaque outfit, cluttered background, text, watermark, logo, grainy image",
       "ai_style": "Cosmic Fantasy Photography",
-      "tags": ["fantasy", "galaxy", "cosmic", "stardust"],
+      "tags": [
+        "fantasy",
+        "galaxy",
+        "cosmic",
+        "stardust"
+      ],
       "likes": 1245600,
       "views": 45223000,
       "is_premium": true,
@@ -23131,7 +23361,12 @@
       "category_name": "Celebrity / Realistic Photography",
       "prompt": "A high-quality, realistic photograph taken inside the WWE Performance Center. The scene shows me standing beside John Cena, both facing the camera. John Cena is wearing a fitted WWE training t-shirt and athletic pants, relaxed and smiling confidently. I am dressed smart-casual, neat and professional, smiling with genuine gratitude.\nWe are standing close together in a friendly, respectful pose. One of us is holding a subtle hand gesture of appreciation, while the other maintains a relaxed stance. The atmosphere feels warm, respectful, and memorable, like a fan meeting a legend.\nThe background clearly shows the WWE Performance Center interior: professional wrestling ring slightly visible, training mats, gym equipment, WWE logos on the walls, bright indoor lighting. The setting feels authentic, professional, and energetic.\nThe overall mood is grateful and celebratory. The moment captures appreciation and respect rather than hype. The image looks like a candid but well-composed photo taken by a staff member or trainer.\nCinematic realism, sharp focus, natural skin tones, accurate facial features, realistic proportions. No exaggerated effects. No blur. No distortion.",
       "ai_style": "Cinematic Realism",
-      "tags": ["wwe", "john-cena", "celebrity", "realistic"],
+      "tags": [
+        "wwe",
+        "john-cena",
+        "celebrity",
+        "realistic"
+      ],
       "likes": 1389900,
       "views": 50112000,
       "is_premium": true,
@@ -23146,7 +23381,12 @@
       "category_name": "Sports / Cinematic Poster",
       "prompt": "An ultra-realistic cinematic cricket poster featuring a young male cricketer using the uploaded reference face exactly (100% facial accuracy). He has a fair-whitish glass skin tone, soft red lips, sharp jawline, light stubble beard, and a voluminous slightly messy fade mullet hairstyle with natural texture.\nThe composition is a triple-layer cinematic layout on a clean, textured light-grey studio background, with a large, softly embedded “77” subtly visible behind the subject.\nPrimary dominant pose (upper background):\nThe cricketer is shown from the back, standing tall and confident, wearing an official Royal Challengers Bangalore (RCB) jersey in deep red and black with gold accents. Bold golden typography on the jersey reads “OVEE” with the number “77” below it. His athletic physique is emphasized, shoulders squared, as he slightly turns his head over the shoulder, revealing an intense, fearless side profile.\nForeground action pose (half body):\nA powerful celebration moment captures him mid-roar, mouth open in victory, right fist clenched and arm flexed. He wears the complete RCB match kit, including black-red trousers, and ground texture. The RCB logo and sponsor details appear authentic and sharp.\nSweat highlights on the skin add realism, with cinematic rim lighting separating the face from the background.\nAtmosphere & lighting:\nPremium cinematic studio lighting with balanced highlights and shadows enhances fabric folds, muscle definition, and facial contours. Subtle smoke and dust effects rise from the base, adding intensity without obscuring details. No blur, no distortion.\nCamera & quality:\nDSLR photography look, 85mm lens feel, shallow depth where needed, ultra-sharp focus, realistic proportions, professional color grading with rich reds, blacks, and gold tones.\nPhotorealistic, 8K resolution, vertical poster composition, IPL magazine-cover style.\nNo cartoon look, no extra limbs, no facial alteration, no watermark.",
       "ai_style": "Sports Cinematic Poster",
-      "tags": ["cricket", "rcb", "sports", "poster"],
+      "tags": [
+        "cricket",
+        "rcb",
+        "sports",
+        "poster"
+      ],
       "likes": 1498800,
       "views": 56234000,
       "is_premium": true,
@@ -23161,7 +23401,12 @@
       "category_name": "Cultural / Editorial Portrait",
       "prompt": "Prompt: Young man sitting cross-legged in a minimal studio, holding an illuminated, ornate Arabic lantern. Wearing a white long-sleeve thobe and red-white checkered ghutra secured with a black agal. Modern young Qatari drape: right side swept backwards over the shoulder, left side partially folded and falling toward the front chest, clean open cheek area with visible diagonal fold. Light natural moustache, short, neatly trimmed beard, thin, defined sideburns to mid-ear level. Soft studio key light from front-left 45°, warm golden glow from lantern illuminating lower face and hands, subtle rim light, neutral cool-grey background. 85mm lens, f/2.4, ISO 200, 1/160s, eye-level, medium full-body framing, tripod stabilized. Luxury Ramadan editorial colour grading, soft contrast, warm highlights, subtle film grain, ultra-realistic 8K. Use face reference, don't alter and make it identic 100 %",
       "ai_style": "Luxury Ramadan Editorial",
-      "tags": ["ramadan", "lantern", "editorial", "portrait"],
+      "tags": [
+        "ramadan",
+        "lantern",
+        "editorial",
+        "portrait"
+      ],
       "likes": 876540,
       "views": 29887000,
       "is_premium": true,
@@ -23176,7 +23421,12 @@
       "category_name": "Luxury / Cultural Portrait",
       "prompt": "Ultra-realistic luxury photography, extremely detailed textures, no 3D, no illustration. A handsome young asian man (use uploaded photo don't alter the face) dressed in an elegant crimson silk changshan with golden embroidery, standing in a grand courtyard villa decorated with red lanterns and blooming peach blossoms. Marble floor reflection, realistic shadows, natural daylight, festive red envelopes on a lacquered wooden table. Confident expression, gentle smile. Professional DSLR photography, high dynamic range.",
       "ai_style": "Luxury Cultural Photography",
-      "tags": ["luxury", "changshan", "cultural", "dslr"],
+      "tags": [
+        "luxury",
+        "changshan",
+        "cultural",
+        "dslr"
+      ],
       "likes": 934210,
       "views": 32155000,
       "is_premium": true,
@@ -23191,12 +23441,17 @@
       "category_name": "Holi / Baby Portrait",
       "prompt": "Create an ultra-realistic 8K portrait based on the reference image. Maintain 100% identical facial identity — exact same facial structure, eyes, eyebrows, nose shape, lips, jawline, expression, proportions, and age. Strict face preservation required. No facial modifications, no reshaping, no beautification changes. Ultra-realistic cinematic Holi festival portrait of an adorable baby sitting joyfully surrounded by vibrant colorful powder explosions... Aspect ratio 1:1 or 9:16 vertical.",
       "ai_style": "Cinematic Holi Portrait",
-      "tags": ["holi", "baby", "festival", "identity-lock"],
+      "tags": [
+        "holi",
+        "baby",
+        "festival",
+        "identity-lock"
+      ],
       "likes": 1012450,
       "views": 36877000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1182",
@@ -23206,12 +23461,17 @@
       "category_name": "Identity / Ultra Real Portrait",
       "prompt": "Create an ultra-realistic 8K portrait based on the reference image. Maintain 100% identical facial identity... Aspect ratio 1:1 or 4:3.",
       "ai_style": "Ultra Realistic DSLR",
-      "tags": ["portrait", "identity-lock", "8k", "dslr"],
+      "tags": [
+        "portrait",
+        "identity-lock",
+        "8k",
+        "dslr"
+      ],
       "likes": 845220,
       "views": 29455000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1183",
@@ -23221,12 +23481,17 @@
       "category_name": "Identity / Ultra Real Portrait",
       "prompt": "Create an ultra-realistic 8K portrait based on the reference image... Aspect ratio 9:16 vertical or 16:9 horizontal.",
       "ai_style": "Ultra Realistic DSLR",
-      "tags": ["portrait", "identity-lock", "cinematic", "8k"],
+      "tags": [
+        "portrait",
+        "identity-lock",
+        "cinematic",
+        "8k"
+      ],
       "likes": 792340,
       "views": 27388000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1184",
@@ -23236,12 +23501,17 @@
       "category_name": "Identity / Ultra Real Portrait",
       "prompt": "Create an ultra-realistic 8K portrait based on the reference image... Aspect ratio 1:1 square or 4:3.",
       "ai_style": "Ultra Realistic DSLR",
-      "tags": ["portrait", "square", "identity-lock", "8k"],
+      "tags": [
+        "portrait",
+        "square",
+        "identity-lock",
+        "8k"
+      ],
       "likes": 721560,
       "views": 24899000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1185",
@@ -23251,12 +23521,17 @@
       "category_name": "Identity / Ultra Real Portrait",
       "prompt": "Create an ultra-realistic 8K portrait based on the reference image... Aspect ratio 9:16 vertical or 3:4.",
       "ai_style": "Ultra Realistic DSLR",
-      "tags": ["portrait", "vertical", "identity-lock", "8k"],
+      "tags": [
+        "portrait",
+        "vertical",
+        "identity-lock",
+        "8k"
+      ],
       "likes": 703880,
       "views": 23644000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1186",
@@ -23266,12 +23541,17 @@
       "category_name": "Holi / Vehicle Edit",
       "prompt": "Holi Festival Car – Realistic Gulal Splash\nAdd vibrant Holi festival colors around and on this vehicle while keeping the original vehicle exactly the same. Do NOT change the vehicle model, design, shape, number plate, wheels, or proportions. Preserve all original details and realism. Apply realistic pink, yellow, blue, and green gulal powder splashes on the vehicle body with natural texture and depth. Add cinematic color smoke and flying powder particles in the air for a dynamic festival atmosphere. Keep lighting natural and consistent with the original photo. Ultra realistic, high detail, 4K professional photography, sharp focus, realistic reflections, festival Holi vibe.",
       "ai_style": "Holi Vehicle Realism",
-      "tags": ["holi", "car", "gulal", "vehicle-edit"],
+      "tags": [
+        "holi",
+        "car",
+        "gulal",
+        "vehicle-edit"
+      ],
       "likes": 934450,
       "views": 32288000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1187",
@@ -23281,12 +23561,17 @@
       "category_name": "Holi / Vehicle Edit",
       "prompt": "Holi Color Splash Bike Add colorful Holi powder splash and vibrant color smoke around this vehicle. Do not change the vehicle model, design, shape, or number plate. Keep the original vehicle exactly the same. Only add realistic pink, green, yellow, and blue powder effects and cinematic smoke background. Ultra realistic, high detail, natural lighting, professional photography look.",
       "ai_style": "Holi Vehicle Realism",
-      "tags": ["holi", "bike", "festival", "vehicle-edit"],
+      "tags": [
+        "holi",
+        "bike",
+        "festival",
+        "vehicle-edit"
+      ],
       "likes": 812770,
       "views": 27933000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1188",
@@ -23296,12 +23581,17 @@
       "category_name": "Holi / Editorial Portrait",
       "prompt": "Ultra-realistic Holi festival portrait using my uploaded photo as the face reference, joyful young man smiling naturally, hands pressed together in front of chest covered in bright yellow Holi powder, vibrant yellow color powder exploding and flying across the frame, white button-up shirt splashed with multicolor paint stains (yellow, red, blue), red powder streak on one cheek, playful festive expression, dynamic powder particles frozen mid-air, outdoor garden background softly blurred with green foliage, bright natural daylight, warm tones, cinematic lighting, shallow depth of field, sharp focus on face, ultra-detailed skin texture, high shutter speed capture, 85mm lens, f/1.8, professional DSLR photography, vibrant colors, high contrast, 8K resolution, realistic fabric texture, energetic Holi celebration atmosphere, editorial photography style",
       "ai_style": "Cinematic Holi Editorial",
-      "tags": ["holi", "portrait", "festival", "dslr"],
+      "tags": [
+        "holi",
+        "portrait",
+        "festival",
+        "dslr"
+      ],
       "likes": 1184420,
       "views": 40112000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1189",
@@ -23311,12 +23601,17 @@
       "category_name": "Holi / Devotional Couple",
       "prompt": "Full-body Indian couple in portrait orientation (1080x1350), boy smart & handsome (exact face & hairstyle), girl beautiful (exact face, long open hair, black kajal, pink lipstick), both facing camera with soft gentle smiles (no teeth showing), playful Holi pose - girl slightly in front, boy leaning from side with playful tilt, each holding high-quality Holi pichkari, faces and white Chikankari outfits splashed with vibrant Holi colors. Outfits: elegant, traditional, matching. Background: vibrant Radha-Krishna murti at Prem Mandir, Vrindavan, Krishna bluish-indigo with golden mukut & peacock feather, Radha in flowing red-pink-yellow drapery, flower garlands. Holi powders (pink, yellow, green, blue) floating, petals drifting, subtle colorful mist, bright daylight, warm golden highlights, cinematic HDR lighting, selective focus on couple & murti, soft blurred background, divine aura, gentle sparkles. Ultra-realistic, cinematic full-body photo, reel-style, vibrant yet serene devotional Holi scene.",
       "ai_style": "Devotional Cinematic Holi",
-      "tags": ["holi", "couple", "vrindavan", "devotional"],
+      "tags": [
+        "holi",
+        "couple",
+        "vrindavan",
+        "devotional"
+      ],
       "likes": 1398870,
       "views": 51877000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1190",
@@ -23326,12 +23621,17 @@
       "category_name": "Holi / Rural Festival Scene",
       "prompt": "Ganrate A young village man 22s old dressed like Lord Krishna standing in a colorful desi village during Holi, wearing yellow dhoti, blue shawl, peacock feather on head, holding a traditional pichkari, face joyfully covered with gulal colors, mud houses and rangoli designs around, villagers in traditional clothes celebrating Holi, women carrying pots, children throwing colors, cows decorated with flowers nearby, rural India atmosphere, bright sunlight, festive flags.",
       "ai_style": "Rural Holi Cinematic",
-      "tags": ["holi", "village", "krishna", "festival"],
+      "tags": [
+        "holi",
+        "village",
+        "krishna",
+        "festival"
+      ],
       "likes": 1112340,
       "views": 38999000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1191",
@@ -23341,12 +23641,17 @@
       "category_name": "Holi / Women Portrait",
       "prompt": "Beautiful woman in a white saree with soft Holi colors on pallu and cheeks. Hair open, moving slightly in the air. Looking sideways, joyful smile, one hand touching face, the other hand holding blue powder. A burst of blue and orange colors behind her. Rustic street background blurred. Golden hour lighting, detailed skin pores, natural shadows, ultra-realistic color texture.",
       "ai_style": "Golden Hour Holi Portrait",
-      "tags": ["holi", "saree", "festival", "portrait"],
+      "tags": [
+        "holi",
+        "saree",
+        "festival",
+        "portrait"
+      ],
       "likes": 1124500,
       "views": 39221000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1192",
@@ -23356,12 +23661,17 @@
       "category_name": "Holi / Men Portrait",
       "prompt": "Young Men in a white T-shirt, laughing openly, head slightly back. Both hands are throwing green and pink powder upward. Thick color explosion above the head falling down. Outdoor park background, trees softly blurred. Bright daylight, high shutter freeze effect, visible powder grains, realistic stains on clothes and hair, cinematic photography.",
       "ai_style": "Cinematic Holi Freeze Shot",
-      "tags": ["holi", "men", "powder", "festival"],
+      "tags": [
+        "holi",
+        "men",
+        "powder",
+        "festival"
+      ],
       "likes": 1087760,
       "views": 37455000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1193",
@@ -23371,12 +23681,17 @@
       "category_name": "Holi / Women Portrait",
       "prompt": "Young woman sitting on steps, wearing a white crop top and jeans with Holi splashes. Looking down with a soft smile. One hand holding a small plate of colors, the other brushing hair back. Light pastel powder misted around her. Urban rooftop background, natural sunlight, sharp focus on face, realistic skin tone, shallow depth, high-resolution photo.",
       "ai_style": "Urban Holi Editorial",
-      "tags": ["holi", "urban", "woman", "festival"],
+      "tags": [
+        "holi",
+        "urban",
+        "woman",
+        "festival"
+      ],
       "likes": 934220,
       "views": 31877000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1194",
@@ -23386,12 +23701,17 @@
       "category_name": "Holi / Men Portrait",
       "prompt": "Man wearing a white shirt and sunglasses, slight beard, playful smile. Throwing purple powder toward the camera. Strong color splash in foreground. Background filled with blurred Holi crowd and flying colors. Midday lighting, high contrast, ultra-detailed powder texture, realistic cloth folds and stains, DSLR festival photography.",
       "ai_style": "DSLR Festival Action",
-      "tags": ["holi", "action", "powder", "festival"],
+      "tags": [
+        "holi",
+        "action",
+        "powder",
+        "festival"
+      ],
       "likes": 1208890,
       "views": 42133000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1195",
@@ -23401,12 +23721,17 @@
       "category_name": "Holi / Couple Portrait",
       "prompt": "A couple facing each other, laughing. A woman applying yellow color on man’s cheek, a man holding blue powder in his hand. Color cloud around waist level. Bright terrace background, clear sky. Natural lighting, realistic skin tones, visible powder grains, authentic Holi stains on clothes, and high-resolution DSLR style.",
       "ai_style": "Romantic Holi DSLR",
-      "tags": ["holi", "couple", "festival", "romantic"],
+      "tags": [
+        "holi",
+        "couple",
+        "festival",
+        "romantic"
+      ],
       "likes": 1293340,
       "views": 45899000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1196",
@@ -23416,12 +23741,17 @@
       "category_name": "Holi / Couple Portrait",
       "prompt": "Playful couple sitting on the ground,( outdoor location), legs crossed. Throwing colors at each other. Pink, green, and orange powder mid-air between faces. Background filled with floating powder mist. Soft diffused lighting, shallow depth, clear facial details, natural expressions, realistic cloth texture, and color stains.",
       "ai_style": "Soft Cinematic Holi",
-      "tags": ["holi", "couple", "festival", "powder"],
+      "tags": [
+        "holi",
+        "couple",
+        "festival",
+        "powder"
+      ],
       "likes": 1012230,
       "views": 34988000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1197",
@@ -23431,12 +23761,17 @@
       "category_name": "Holi / Modern Social",
       "prompt": "Stylish couple posing for a selfie during Holi, phone visible in front. Both smiling naturally, faces covered in bright colors. Soft, colorful smoke in the background. Bright daylight, shallow depth of field, detailed skin texture, realistic powder stains, modern social media festival frame.",
       "ai_style": "Modern Festival Portrait",
-      "tags": ["holi", "selfie", "couple", "festival"],
+      "tags": [
+        "holi",
+        "selfie",
+        "couple",
+        "festival"
+      ],
       "likes": 1189000,
       "views": 40977000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1198",
@@ -23446,12 +23781,17 @@
       "category_name": "Holi / Kids Portrait",
       "prompt": "Little girl in a white frock, cheeks covered with pink and yellow colors. Laughing with mouth open, both hands raised, throwing powder. Thick colorful burst above her head. Park’s background is softly blurred. Bright daylight, frozen motion, powder particles, detailed skin texture, realistic, joyful expression.",
       "ai_style": "Kids Festival Freeze Shot",
-      "tags": ["holi", "kids", "festival", "powder"],
+      "tags": [
+        "holi",
+        "kids",
+        "festival",
+        "powder"
+      ],
       "likes": 1345500,
       "views": 48766000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1199",
@@ -23461,12 +23801,17 @@
       "category_name": "Holi / Kids Portrait",
       "prompt": "Young boy holding a water gun filled with colored water. Wearing a white T-shirt stained with Holi colors. Spraying toward the camera. Splash effect in foreground. The outdoor street background blurred. Natural sunlight, high shutter speed, realistic water droplets, vibrant festival atmosphere.",
       "ai_style": "Action Festival Shot",
-      "tags": ["holi", "kids", "watergun", "festival"],
+      "tags": [
+        "holi",
+        "kids",
+        "watergun",
+        "festival"
+      ],
       "likes": 1077700,
       "views": 36122000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1200",
@@ -23476,12 +23821,17 @@
       "category_name": "Holi / Kids Portrait",
       "prompt": "Two small kids sitting on the ground with plates of colors. Smiling at the camera, hands dipped in powder. Soft cloud of colors around them. Background filled with light pastel mist. Warm daylight, detailed facial features, realistic color stains on hands and clothes, and high-quality photography.",
       "ai_style": "Warm Kids Festival Portrait",
-      "tags": ["holi", "kids", "festival", "portrait"],
+      "tags": [
+        "holi",
+        "kids",
+        "festival",
+        "portrait"
+      ],
       "likes": 1223340,
       "views": 43211000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1201",
@@ -23491,12 +23841,17 @@
       "category_name": "Holi / Kids Portrait",
       "prompt": "Cute child with messy hair covered in colors. Looking directly at the camera with a big smile. One hand touching the cheek, the other holding pink powder. Soft diffused lighting, shallow depth, highly detailed skin and powder texture, DSLR style.",
       "ai_style": "Soft Kids Festival Portrait",
-      "tags": ["holi", "child", "festival", "portrait"],
+      "tags": [
+        "holi",
+        "child",
+        "festival",
+        "portrait"
+      ],
       "likes": 1094450,
       "views": 37422000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1202",
@@ -23506,12 +23861,17 @@
       "category_name": "Holi / Family Portrait",
       "prompt": " Happy family of four wearing white traditional clothes with Holi splashes. Standing close together, smiling at the camera. Father is throwing colors upward. A big, multicolored cloud above their heads. The outdoor garden background blurred. Natural daylight, detailed facial features, realistic powder texture, and warm family emotion. ",
       "ai_style": "Family Festival Cinematic",
-      "tags": ["holi", "family", "festival", "outdoor"],
+      "tags": [
+        "holi",
+        "family",
+        "festival",
+        "outdoor"
+      ],
       "likes": 1287740,
       "views": 44655000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1203",
@@ -23521,12 +23881,17 @@
       "category_name": "Holi / Family Portrait",
       "prompt": "Parents try to apply colors to children’s cheeks. Kids laughing. Soft color mist around the group. Rustic home courtyard background. Warm sunlight, natural shadows, ultra-detailed skin texture, authentic Holi stains on clothes, cinematic family photography.",
       "ai_style": "Rustic Holi Cinematic",
-      "tags": ["holi", "family", "courtyard", "festival"],
+      "tags": [
+        "holi",
+        "family",
+        "courtyard",
+        "festival"
+      ],
       "likes": 1012330,
       "views": 34899000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1204",
@@ -23536,12 +23901,17 @@
       "category_name": "Holi / Family Portrait",
       "prompt": "Family sitting on the ground in a circle with plates of colors. Everyone is smiling and throwing powder toward the center. A thick color cloud is rising. Bright outdoor setting, clear sky. Sharp focus, realistic powder grains, vibrant festive mood, high-resolution DSLR look.",
       "ai_style": "Festival Group DSLR",
-      "tags": ["holi", "family", "powder", "festival"],
+      "tags": [
+        "holi",
+        "family",
+        "powder",
+        "festival"
+      ],
       "likes": 954440,
       "views": 32244000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1205",
@@ -23551,12 +23921,17 @@
       "category_name": "Holi / Family Portrait",
       "prompt": "Mother hugging daughter, father standing beside, smiling. All covered in Holi colors. A woman looking at the camera, a child laughing. Colorful burst behind them. Village street background blurred. Golden hour lighting, natural skin tones, realistic cloth texture.",
       "ai_style": "Golden Hour Family Portrait",
-      "tags": ["holi", "family", "village", "festival"],
+      "tags": [
+        "holi",
+        "family",
+        "village",
+        "festival"
+      ],
       "likes": 1198800,
       "views": 41877000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1206",
@@ -23566,12 +23941,17 @@
       "category_name": "Holi / Family Portrait",
       "prompt": "Joint family group photo, elders and kids together in white outfits stained with colors. Everyone is raising hands, throwing powder upward. Huge colorful explosion above. Outdoor terrace background. Bright daylight, sharp details, realistic faces, authentic joyful Holi celebration.",
       "ai_style": "Grand Festival Group Shot",
-      "tags": ["holi", "joint-family", "festival", "celebration"],
+      "tags": [
+        "holi",
+        "joint-family",
+        "festival",
+        "celebration"
+      ],
       "likes": 1324450,
       "views": 47233000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1207",
@@ -23581,12 +23961,17 @@
       "category_name": "Holi / Friends Group",
       "prompt": "A group of young friends in white outfits, sunglasses, laughing loudly. Jumping in the air while throwing pink and blue powder. Massive color explosion around them. Rooftop party background. Bright sunlight, motion freeze effect, ultra-detailed powder texture, vibrant festival energy.",
       "ai_style": "Festival Freeze Action",
-      "tags": ["holi", "friends", "rooftop", "festival"],
+      "tags": [
+        "holi",
+        "friends",
+        "rooftop",
+        "festival"
+      ],
       "likes": 1412200,
       "views": 50999000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1208",
@@ -23596,12 +23981,17 @@
       "category_name": "Holi / Friends Group",
       "prompt": "Stylish group of friends wearing white T-shirts, jeans, and colorful bandanas, standing shoulder to shoulder with confident expressions, throwing multicolored Holi powder toward the camera. Studio setup with powder smoke background. Shot on an 85mm lens, f/2 aperture, controlled studio lighting, high shutter speed freeze effect, sharp skin texture, realistic fabric details, HDR color grading, shallow depth of field, DSLR-quality, photorealistic festival look.",
       "ai_style": "Studio Festival Editorial",
-      "tags": ["holi", "friends", "studio", "festival"],
+      "tags": [
+        "holi",
+        "friends",
+        "studio",
+        "festival"
+      ],
       "likes": 1175560,
       "views": 40444000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1209",
@@ -23611,12 +24001,17 @@
       "category_name": "Holi / Couple Portrait",
       "prompt": "A high-angle, candid medium shot of a happy couple celebrating the Holi festival on a sunny rooftop. They are covered in vibrant pink, purple and vellow powder (qulal) on their faces and white traditiona Indian clothing. The man is wearing a white kurta and sunglasses, smiling down at the woman. The woman is wearing a white tunic with an orange skirt leaning back slightlv in his arms while laughing. Natural bright sunlight, colorful textures, iovful atmosphere, high-resolution photography",
       "ai_style": "Candid Holi Romance",
-      "tags": ["holi", "couple", "rooftop", "festival"],
+      "tags": [
+        "holi",
+        "couple",
+        "rooftop",
+        "festival"
+      ],
       "likes": 1033440,
       "views": 35677000,
       "is_premium": true,
       "is_recommended": false,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1210",
@@ -23626,9 +24021,832 @@
       "category_name": "Holi / Identity Portrait",
       "prompt": "A cinematic. ultra-realistic portrait of a young Indian man 22vear old celebrating Holi. He is wearing a traditional light kurta with a cotton dupatta around his neck. Bright red blue and pink qulal colors are smeared on his face and beard with colorful powder flying in the air. Jovful confident smile sliaht side look. one hand raised Natural outdoor background soft daylight, shallow depth of field, sharp focus, realistic skin texture, vibrant vet natura colors. Face not change original face only. same face sunglasses ,Size 9:16",
       "ai_style": "Cinematic Holi Identity",
-      "tags": ["holi", "identity-lock", "portrait", "festival"],
+      "tags": [
+        "holi",
+        "identity-lock",
+        "portrait",
+        "festival"
+      ],
       "likes": 1267780,
       "views": 43999000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1211",
+      "title": "Ramadan Crescent Lantern Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1211.webp",
+      "category_id": "ramadan-portrait",
+      "category_name": "Ramadan / Spiritual Portrait",
+      "prompt": "FACE LOCK — CRITICAL (DO NOT CHANGE FACE) Use the uploaded reference image and keep the face 100% unchanged. No modification to eyes, nose, lips, jawline, beard, hairline, skin tone, or expression. No beautification, no AI smoothing, no stylization. Maintain authentic human skin, pores, texture, and realism. SCENE DESCRIPTION Ultra-realistic cinematic Ramadan portrait shot from a top-down angle with dramatic symmetry, giving a powerful yet peaceful composition. The subject stands centered, lifting the crescent lantern slightly upward as if offering light. SUBJECT & OUTFIT Traditional attire in deep charcoal grey with warm silver undertones. Elegant minimal design, premium fabric, natural drape. POSE & EXPRESSION One hand lifting the lantern upward. Other hand resting calmly near the waist. Chin slightly raised, eyes directly meeting the camera. Expression confident, serene, spiritually strong. LANTERN DETAILS Crescent lantern with intricate Islamic motifs. Golden internal light casting soft highlights on face and hands. LIGHTING & ATMOSPHERE Cool blue cinematic studio lighting. Warm lantern glow creates dramatic yet realistic contrast. Soft shadows, natural falloff, no harsh highlights. CAMERA & QUALITY Studio-grade photography 85mm lens equivalent Shallow depth of field Face crystal-clear, background softly diffused Ultra-HD, photorealistic Ramadan poster quality TEXT / SIGNATURE Add “Geminiaiprompt.in” at the bottom-left corner, HANDWRITTEN SIGNATURE-STYLE typography, thin cursive strokes, small size, subtle premium elegance, white or soft off-white color. ASPECT RATIO 3:4 vertical NEGATIVE PROMPT anime style, cartoon face, illustration, CGI, artificial skin, beauty filter, face smoothing, incorrect facial proportions, blur, over-bokeh, watermark, logo, text artifacts, extra limbs, distorted hands",
+      "ai_style": "Ramadan Cinematic Portrait",
+      "tags": [
+        "ramadan",
+        "lantern",
+        "spiritual",
+        "portrait"
+      ],
+      "likes": 1432100,
+      "views": 52344000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1212",
+      "title": "Ramadan Crescent Lantern Prayer",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1212.webp",
+      "category_id": "ramadan-portrait",
+      "category_name": "Ramadan / Spiritual Portrait",
+      "prompt": "FACE LOCK — IMPORTANT (STRICT & NON-NEGOTIABLE) Keep the subject’s real face exactly identical to the uploaded reference image. Do NOT alter facial structure, eye shape, nose, lips, jawline, beard, hairline, skin tone, age, or expression. No beautification, no AI face enhancement, no face swap. Preserve real human skin texture, pores, natural asymmetry, and depth. Face must look DSLR-real and fully human, not stylized or illustrated. SCENE DESCRIPTION Ultra-realistic cinematic Ramadan studio portrait captured from a high overhead angle, slightly off-center for a natural editorial feel. The subject is standing quietly in prayer-like stillness, holding a crescent-moon lantern close to the chest. SUBJECT & OUTFIT Middle Eastern man wearing elegant traditional attire in soft pearl white with subtle warm beige undertones. Premium flowing fabric, realistic folds, visible stitching, authentic texture. POSE & BODY LANGUAGE Both hands gently cupping the crescent lantern. Head slightly bowed but eyes lifted upward toward the camera. Posture calm, respectful, spiritually grounded. LANTERN DETAILS Crescent-moon lantern with fine Islamic geometric carvings. Lantern emits a soft golden glow, naturally illuminating hands, chest, and lower face. LIGHTING & COLOR Cool deep-blue studio background. Warm lantern light creates realistic contrast on skin. Soft shadows, true-to-life highlights, no artificial glow. CAMERA & QUALITY Professional studio photography 85mm portrait lens look Shallow depth of field Face in absolute sharp focus Ultra-HD, photorealistic Ramadan editorial style TEXT / SIGNATURE Add “Geminiaiprompt.in” at the bottom-left corner, HANDWRITTEN SIGNATURE-STYLE typography, thin cursive strokes, small size, subtle premium elegance, white or soft off-white color. ASPECT RATIO 3:4 vertical NEGATIVE PROMPT cartoon, anime, illustration, CGI, AI look, plastic skin, smooth skin, beauty filter, face distortion, blur, motion blur, low resolution, watermark, logo, extra fingers, incorrect anatomy, artificial lighting",
+      "ai_style": "Ramadan Editorial Portrait",
+      "tags": [
+        "ramadan",
+        "lantern",
+        "dua",
+        "portrait"
+      ],
+      "likes": 1398800,
+      "views": 49877000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1213",
+      "title": "Shab-e-Barat Reflection Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1213.webp",
+      "category_id": "shab-e-barat",
+      "category_name": "Islamic / Shab-e-Barat Portrait",
+      "prompt": "Shab-e-Barat Reflection – Side-Angle Dua With Moonlight FACE LOCK – STRICT: Use the uploaded reference face exactly as it is. No AI beautification, no smoothing, no face alteration. Maintain real human skin texture, pores, and natural facial depth. MAIN SCENE: Ultra-realistic cinematic Shab-e-Barat dua portrait captured in a mosque, styled like a genuine professional photograph. SUBJECT DETAILS: Young Muslim man Natural skin tone with visible texture Authentic facial proportions Realistic eyes and expression OUTFIT DETAILS: Light beige / pastel islamic casual kurta Soft premium cotton fabric White prayer cap with subtle texture Traditional, minimal, respectful styling POSE DETAILS (POSE 2): Seated slightly sideways One hand raised in dua Other hand resting on knee Upper body turned at a 45-degree angle Head gently tilted upward EXPRESSION DETAILS: Soulful, reflective, emotional Eyes softly open, looking upward Calm spiritual presence No smile, no drama BACKGROUND & ENVIRONMENT: Mosque prayer hall with arched windows Crescent moon clearly visible outside Soft blue night tones mixed with warm interior light Quiet, divine atmosphere LIGHTING DETAILS: Moonlight softly outlining face edges Warm indoor light balancing shadows Natural contrast No cinematic grading or artificial effects TEXT DETAILS: Refined glowing calligraphy text: “Shab-e-Barat” CAMERA & QUALITY: Close-up to mid-close portrait Sharp focus on face Natural lens perspective Ultra-realistic, professional photography look TEXT / SIGNATURE: Add “Geminiaiprompt.in” at the bottom-left corner, HANDWRITTEN SIGNATURE-STYLE typography, thin cursive strokes, small size, subtle premium elegance, white or soft off-white color. ASPECT RATIO: 3:4 vertical",
+      "ai_style": "Islamic Spiritual Portrait",
+      "tags": [
+        "shab-e-barat",
+        "dua",
+        "mosque",
+        "spiritual"
+      ],
+      "likes": 1265400,
+      "views": 45288000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1217",
+      "title": "Ramadan Lantern Studio Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1217.webp",
+      "category_id": "ramadan-portrait",
+      "category_name": "Ramadan / Studio Portrait",
+      "prompt": "A young Muslim man wearing white traditional thobe and red checkered keffiyeh (shemagh), sitting calmly and holding a glowing Islamic lantern in both hands, soft warm light coming from the lantern, peaceful expression, looking at camera, clean gray studio background, minimal style, Ramadan atmosphere, soft cinematic lighting, professional studio photography, shallow depth of field, ultra realistic, high detail skin texture, 85mm lens, soft shadows, warm tones, elegant Islamic mood. Eid Mubarak",
+      "ai_style": "Studio Ramadan Portrait",
+      "tags": [
+        "ramadan",
+        "lantern",
+        "eid",
+        "studio"
+      ],
+      "likes": 1175500,
+      "views": 41899000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1218",
+      "title": "Hijab Eid Mubarak Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1218.webp",
+      "category_id": "eid-poster",
+      "category_name": "Eid / Poster Portrait",
+      "prompt": "photorealistic ,medium shot,candid style,realistic,natural photo, candid, camera shoot, commercial poster. A stylish 25 years old malay woman with  hijab, pretty,natural face, wearing an lace flower motives black ,magenta white minimalist design of baggy abaya,profesional style vibe, extended toward the viewer. Dynamic vertical composition. The background features , gold text \"Eid Mubarak 1447H / 2026,\" and sculpted ketupat,islamic lamp deco design elements.",
+      "ai_style": "Commercial Eid Poster",
+      "tags": [
+        "eid",
+        "hijab",
+        "poster",
+        "festival"
+      ],
+      "likes": 1099900,
+      "views": 38744000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1219",
+      "title": "Kid Lantern Eid Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1219.webp",
+      "category_id": "eid-kids",
+      "category_name": "Eid / Kids Portrait",
+      "prompt": "A professional, high-quality photograph of a 5 year old girl kid wearing a bright yellow hijab and a matching long dress adorned with a black star pattern. She is gracefully holding an ornate, glowing golden lantern in one hand and a Quran with intricate gold detailing in the other. The background is a rich, dark brown featuring a large, elegant golden crescent moon & a decorative frame with the text \"Eid Mubarak\" in a stylish gold cursive font.",
+      "ai_style": "Eid Kids Portrait",
+      "tags": [
+        "eid",
+        "kids",
+        "lantern",
+        "quran"
+      ],
+      "likes": 1212300,
+      "views": 43355000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1220",
+      "title": "Serene Hijab Quran Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1220.webp",
+      "category_id": "eid-portrait",
+      "category_name": "Eid / Spiritual Portrait",
+      "prompt": "Realistic portrait of a serene young woman wearing a light blue floral hijab and matching modest dress with a delicate yellow and pink flower pattern. She is gently holding a Quran with intricate gold decorative patterns and a strand of white pearl prayer beads. On her wrist, she wears a gold watch. The background is a soft, neutral grey with subtle, elegant gold Eid Mubarak calligraphy visible. The lighting is soft and flattering, emphasizing a peaceful and spiritual atmosphere.",
+      "ai_style": "Spiritual Eid Portrait",
+      "tags": [
+        "eid",
+        "hijab",
+        "quran",
+        "portrait"
+      ],
+      "likes": 1183300,
+      "views": 41077000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1221",
+      "title": "Ramadan Brothers Eid Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1221.webp",
+      "category_id": "eid-kids",
+      "category_name": "Eid / Kids Portrait",
+      "prompt": "Two smiling Muslim children standing together in a warm Ramadan atmosphere, older boy wearing white traditional thobe and red keffiyeh, younger boy wearing white cap and black embroidered bisht with golden details, older brother gently hugging younger brother, both looking at camera and smiling happily, grand mosque background with glowing lanterns and crescent moon, golden lights and sparkling bokeh, soft warm lighting, festive Eid decoration, elegant Islamic architecture, cinematic lighting, professional photography, shallow depth of field, ultra realistic, 85mm lens, high detail, luxury Islamic style, Eid Mubarak text at bottom, golden typography",
+      "ai_style": "Luxury Eid Kids Portrait",
+      "tags": [
+        "eid",
+        "ramadan",
+        "kids",
+        "lantern",
+        "mosque"
+      ],
+      "likes": 1189400,
+      "views": 41223000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1222",
+      "title": "Ramadan Dua Lantern Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1222.webp",
+      "category_id": "ramadan-spiritual",
+      "category_name": "Ramadan / Spiritual Portrait",
+      "prompt": "A Muslim woman wearing a modest beige hijab and loose abaya, sitting indoors in a peaceful prayer setting, hands raised in dua with eyes gently closed. She is beside a traditional Ramadan lantern (fanous) placed on a low table, glowing with warm golden light that softly illuminates her face. Background features a cozy Islamic interior with patterned walls, prayer rug, crescent moon decorations, and warm fairy lights creating a spiritual Eid night atmosphere. Soft light rays emanate from the lantern, gentle shadows, cinematic lighting, shallow depth of field. photorealistic portrait photography, warm tones, calm and serene mood, high detail, realistic skin texture, professional composition, 4K resolution, Islamic spiritual aesthetic.",
+      "ai_style": "Ramadan Prayer Portrait",
+      "tags": [
+        "ramadan",
+        "dua",
+        "lantern",
+        "spiritual"
+      ],
+      "likes": 1234500,
+      "views": 43888000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1223",
+      "title": "Royal Mosque Night Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1223.webp",
+      "category_id": "eid-portrait",
+      "category_name": "Eid / Portrait",
+      "prompt": "A handsome 17-year-old South Asian young man standing in front of a grand mosque entrance at night, wearing a royal blue kurta pajama with a grey embroidered waistcoat, stylish wristwatch, neat hairstyle, soft smile, cinematic moonlight background with a full moon above the dome, glowing lanterns on both sides, Islamic royal aesthetic, ultra realistic face, DSLR portrait, shallow depth of field, soft blue fog atmosphere, 4K ultra HD, professional studio quality lighting",
+      "ai_style": "Islamic Royal Portrait",
+      "tags": [
+        "eid",
+        "mosque",
+        "portrait",
+        "royal"
+      ],
+      "likes": 1158800,
+      "views": 40433000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1224",
+      "title": "Eid Mubarak Prayer Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1224.webp",
+      "category_id": "eid-spiritual",
+      "category_name": "Eid / Spiritual Portrait",
+      "prompt": "Creating a glossy, high-fashion skin, shot of a man, inside a beautiful green mosque, kneeling and praying, dress him in a white designer pathani suit with a matching white prayer cap, he should be wearing a rolex watch, the man is wishing 'Eid Mubarak' to everyone, and the text 'Eid Mubarak' should be written at the top of the image.",
+      "ai_style": "Luxury Eid Prayer Portrait",
+      "tags": [
+        "eid",
+        "mosque",
+        "prayer",
+        "fashion"
+      ],
+      "likes": 1097700,
+      "views": 38944000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1225",
+      "title": "Eid Mubarak Kid Placard",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1225.webp",
+      "category_id": "eid-kids",
+      "category_name": "Eid / Kids Portrait",
+      "prompt": "A young Muslim boy of Middle-Eastern descent, dressed in a traditional kandura, is standing still in a well-lit room adorned with festive decorations. His eyes gleam with the innocent joy unique to childhood. Held securely in his hands is a placard bearing the vibrant, colourful words 'Eid Mubarak'. His natural, confident posture demonstrates a strong reverence towards his cultural traditions and the importance of the celebration.",
+      "ai_style": "Kids Eid Celebration Portrait",
+      "tags": [
+        "eid",
+        "kid",
+        "kandura",
+        "celebration"
+      ],
+      "likes": 1019900,
+      "views": 36288000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1226",
+      "title": "Junaid Islamic Heritage Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1226.webp",
+      "category_id": "eid-kids",
+      "category_name": "Islamic Cultural Portrait",
+      "prompt": "A young Islamic boy, of Middle-Eastern descent, is wearing traditional kurta pajamas. His outfit is rich in color and intricate embroidery, showcasing the beautiful cultural clothing. On the kurta is the name 'Junaid' written stylishly. The boy is standing in a city, filled with historic architecture, known for its religious significance. Please do not depict actual identifiable landmarks; instead, opt for generic buildings that showcase the architectural style of the Middle-Eastern region.",
+      "ai_style": "Cultural Heritage Portrait",
+      "tags": [
+        "islamic",
+        "culture",
+        "kid",
+        "portrait"
+      ],
+      "likes": 987440,
+      "views": 34977000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1227",
+      "title": "Boy Admiring Mosque Sunset",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1227.webp",
+      "category_id": "islamic-architecture",
+      "category_name": "Islamic / Architecture Portrait",
+      "prompt": "A Middle-Eastern boy standing near an architectural structure, a mesmerizing masjid. The masjid, known for its intricate design and grandeur, has a high minaret visible in the backdrop. The boy, adorned in traditional Middle-Eastern clothing, looks at the masjid with admiration and respect. The evening sun seeps through the arched windows of the masjid, casting a warm, golden hue on the boy's face. The atmosphere is serene and reverent.",
+      "ai_style": "Architectural Spiritual Portrait",
+      "tags": [
+        "mosque",
+        "islamic",
+        "architecture",
+        "portrait"
+      ],
+      "likes": 1038800,
+      "views": 37122000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1228",
+      "title": "Child Crescent Lantern Night",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1228.webp",
+      "category_id": "ramadan-kids",
+      "category_name": "Ramadan / Kids Portrait",
+      "prompt": "A young Muslim child dressed in traditional clothing, holding a lamp in their hand with the crescent moon rising high in the sky behind them",
+      "ai_style": "Ramadan Night Portrait",
+      "tags": [
+        "ramadan",
+        "lantern",
+        "kid",
+        "moon"
+      ],
+      "likes": 964220,
+      "views": 33455000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1229",
+      "title": "Omani Girl Eid Lantern",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1229.webp",
+      "category_id": "eid-kids",
+      "category_name": "Eid / Kids Portrait",
+      "prompt": "A young Omani girl, in her traditional clothing, joyously celebrates Eid, her brown eyes full of enthusiasm and a broad smile gracing her face, reflecting her excitement. She holds a lantern in her hand, a symbol of the festivities. The backdrop is set against a clear morning sky which casts soft light over the modest and peaceful neighborhood buildings. The tranquility of the scene captures the essence of the celebration in a warm, homely setting.",
+      "ai_style": "Omani Eid Portrait",
+      "tags": [
+        "eid",
+        "girl",
+        "lantern",
+        "celebration"
+      ],
+      "likes": 1026600,
+      "views": 36511000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1230",
+      "title": "Saudi Traditional Kid Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1230.webp",
+      "category_id": "islamic-cultural",
+      "category_name": "Islamic Cultural Portrait",
+      "prompt": "A full-sized Middle-Eastern child dressed in a traditional Saudi uniform. He is donning a white ghutra, a traditional head covering, completing the authentic look. The child stands confidently, embodying the spirit of his culture.",
+      "ai_style": "Saudi Cultural Portrait",
+      "tags": [
+        "saudi",
+        "culture",
+        "kid",
+        "traditional"
+      ],
+      "likes": 948770,
+      "views": 32899000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1231",
+      "title": "Ramadan Baby With Fanos Lantern",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1231.webp",
+      "category_id": "ramadan-kids",
+      "category_name": "Ramadan / Kids Portrait",
+      "prompt": "A delightful image of a happy baby boy of Middle-Eastern descent joyfully carrying a Ramadan fanos. He should be clad in festive attire fitting of the Arabic culture. The fanos, an intricate and ornamental traditional lantern, is aglow with gentle light, casting fascinating shadows around. The setting sun paints the sky with warm hues, setting the scene for the beginning of the holy month of Ramadan.",
+      "ai_style": "Ramadan Kids Portrait",
+      "tags": [
+        "ramadan",
+        "baby",
+        "lantern",
+        "fanos",
+        "festival"
+      ],
+      "likes": 1045500,
+      "views": 37120000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1232",
+      "title": "Boy Praying Inside Mosque",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1232.webp",
+      "category_id": "islamic-spiritual",
+      "category_name": "Islamic / Spiritual Scene",
+      "prompt": "A young Middle-Eastern boy wearing a traditional hat, his eyes closed in serene contemplation, crouched on bent knees on an intricately patterned rug. The soft illumination filtering through intricately designed arches in the background suggests that he is inside a beautiful mosque. Grand archways adorn the interior, while an abstract representation of Islamic art graces the walls. The scene is serene, reflecting a moment of deep spiritual devotion.",
+      "ai_style": "Spiritual Mosque Scene",
+      "tags": [
+        "islamic",
+        "mosque",
+        "prayer",
+        "spiritual"
+      ],
+      "likes": 1003300,
+      "views": 35288000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1233",
+      "title": "Omani Children Eid Celebration",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1233.webp",
+      "category_id": "eid-kids",
+      "category_name": "Eid / Kids Celebration",
+      "prompt": "Image of Omani children, boys and girls, in their traditional Omani outfits showing their joy and excitement on the festive occasion of Eid Al Fitr. They sport wide smiles on their faces, excited for the festivities. The atmosphere conveys the celebration of the Eid Al Fitr showing decorated houses, delicious traditional food, and the spirit of happiness all around.",
+      "ai_style": "Eid Celebration Scene",
+      "tags": [
+        "eid",
+        "children",
+        "celebration",
+        "omani"
+      ],
+      "likes": 1124400,
+      "views": 40211000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1234",
+      "title": "Interfaith Unity Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1234.webp",
+      "category_id": "unity-portrait",
+      "category_name": "Cultural / Unity Portrait",
+      "prompt": "A young Jewish man, smiling with a serene expression on his face, holding tightly the Holy Quran in his hands. His hair is neatly combed, and he's wearing a light blue buttoned shirt and black trousers. His eyes emanate pure joy and understanding, creating a harmonious depiction of unity and respect among different religions.",
+      "ai_style": "Unity Cultural Portrait",
+      "tags": [
+        "unity",
+        "religion",
+        "respect",
+        "portrait"
+      ],
+      "likes": 968880,
+      "views": 33077000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1235",
+      "title": "Boy Riding Camel Desert",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1235.webp",
+      "category_id": "desert-culture",
+      "category_name": "Middle Eastern / Desert Scene",
+      "prompt": "An image of a Middle-Eastern young boy wearing a traditional outfit, riding on a camel's back in the vast desert, under the bright, scorching sun. The wind is creating gentle ripples in the sand, and in the far distance, you can see a line of low-lying sand dunes. The camel is adorned with colorful fabrics around its hump, and the boy is holding onto the leash with a joyous expression on his face.",
+      "ai_style": "Desert Cultural Scene",
+      "tags": [
+        "desert",
+        "camel",
+        "culture",
+        "traditional"
+      ],
+      "likes": 1018800,
+      "views": 36022000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1236",
+      "title": "Marketplace Lamp Story Scene",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1236.webp",
+      "category_id": "arabian-folklore",
+      "category_name": "Middle Eastern / Folklore Scene",
+      "prompt": "A young Middle Eastern man, characterized by dark hair and traditional attire, is holding an ancient, intricately designed oil lamp. The lamp is golden and shimmers under the soft, warm glow of the sun. The man, identified as a folk tale character, has a look of wonder and curiosity on his face as he studies the exquisite details of the lamp in his hand. The background setting is a rich tapestry of a Middle Eastern marketplace bustling with activity.",
+      "ai_style": "Arabian Folklore Portrait",
+      "tags": [
+        "marketplace",
+        "lamp",
+        "arabian",
+        "culture"
+      ],
+      "likes": 992330,
+      "views": 34899000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1237",
+      "title": "Man Walking Toward Masjid",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1237.webp",
+      "category_id": "islamic-architecture",
+      "category_name": "Islamic / Architecture Scene",
+      "prompt": "A South Asian Muslim man, dressed in traditional Islamic attire, strolling down a sunlit street towards a beautifully designed masjid. The Masjid has tall minarets and a golden dome, symbolizing Islamic architecture, amidst a blue sky dotted with soft white clouds. The man carries an old, leather-bound copy of the Quran in his hands.",
+      "ai_style": "Islamic Architecture Scene",
+      "tags": [
+        "mosque",
+        "islamic",
+        "quran",
+        "architecture"
+      ],
+      "likes": 1082200,
+      "views": 38244000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1238",
+      "title": "Boy Facing Kaaba Desert",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1238.webp",
+      "category_id": "historic-islamic",
+      "category_name": "Islamic / Historical Scene",
+      "prompt": "An image of a young Middle-Eastern boy seen from behind, standing in the desert facing the Kaaba during the pre-Islamic era.",
+      "ai_style": "Historical Desert Scene",
+      "tags": [
+        "kaaba",
+        "desert",
+        "history",
+        "islamic"
+      ],
+      "likes": 948550,
+      "views": 32999000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1239",
+      "title": "Qatari Girl Traditional Past Scene",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1239.webp",
+      "category_id": "arab-culture",
+      "category_name": "Arab / Cultural Heritage",
+      "prompt": "A young Qatari girl from the past, living in Qatar. The surroundings show the local environment with low, sprawling desert houses made of un-plastered limestone and mud. She is dressed in a traditional Bedouin thobe, an ankle-length garment, in vibrant colors with elaborate embroideries. Her hair is covered with a headdress known as 'batula'. In her hand, she holds a clay pot, possibly filled with water, with her sun-kissed, soft fingers. Her thoughtful eyes are fixated on a distant point beyond the viewer, giving an insight into the serene simplicity of the past.",
+      "ai_style": "Arab Cultural Heritage Scene",
+      "tags": [
+        "qatar",
+        "bedouin",
+        "heritage",
+        "culture"
+      ],
+      "likes": 1027700,
+      "views": 36177000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1240",
+      "title": "Mother Daughter Kitchen Eid Moment",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1240.webp",
+      "category_id": "family-islamic",
+      "category_name": "Islamic / Family Scene",
+      "prompt": "A Muslim woman, dressed in a hijab, joyfully spending quality time in the kitchen with her little daughter. They are both experiencing a feeling of freedom and happiness as they join hands to prepare a delicious meal with rice. The vibrancy of the kitchen and the aroma of the cuisines wafting through the room amplifies their cheerful spirit.",
+      "ai_style": "Family Lifestyle Scene",
+      "tags": [
+        "family",
+        "mother",
+        "daughter",
+        "home"
+      ],
+      "likes": 1103300,
+      "views": 39211000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1231",
+      "title": "Ramadan Baby With Fanos Lantern",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1231.webp",
+      "category_id": "ramadan-kids",
+      "category_name": "Ramadan / Kids Portrait",
+      "prompt": "A delightful image of a happy baby boy of Middle-Eastern descent joyfully carrying a Ramadan fanos. He should be clad in festive attire fitting of the Arabic culture. The fanos, an intricate and ornamental traditional lantern, is aglow with gentle light, casting fascinating shadows around. The setting sun paints the sky with warm hues, setting the scene for the beginning of the holy month of Ramadan.",
+      "ai_style": "Ramadan Kids Portrait",
+      "tags": [
+        "ramadan",
+        "baby",
+        "lantern",
+        "fanos",
+        "festival"
+      ],
+      "likes": 1045500,
+      "views": 37120000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1232",
+      "title": "Boy Praying Inside Mosque",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1232.webp",
+      "category_id": "islamic-spiritual",
+      "category_name": "Islamic / Spiritual Scene",
+      "prompt": "A young Middle-Eastern boy wearing a traditional hat, his eyes closed in serene contemplation, crouched on bent knees on an intricately patterned rug. The soft illumination filtering through intricately designed arches in the background suggests that he is inside a beautiful mosque. Grand archways adorn the interior, while an abstract representation of Islamic art graces the walls. The scene is serene, reflecting a moment of deep spiritual devotion.",
+      "ai_style": "Spiritual Mosque Scene",
+      "tags": [
+        "islamic",
+        "mosque",
+        "prayer",
+        "spiritual"
+      ],
+      "likes": 1003300,
+      "views": 35288000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1233",
+      "title": "Omani Children Eid Celebration",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1233.webp",
+      "category_id": "eid-kids",
+      "category_name": "Eid / Kids Celebration",
+      "prompt": "Image of Omani children, boys and girls, in their traditional Omani outfits showing their joy and excitement on the festive occasion of Eid Al Fitr. They sport wide smiles on their faces, excited for the festivities. The atmosphere conveys the celebration of the Eid Al Fitr showing decorated houses, delicious traditional food, and the spirit of happiness all around.",
+      "ai_style": "Eid Celebration Scene",
+      "tags": [
+        "eid",
+        "children",
+        "celebration",
+        "omani"
+      ],
+      "likes": 1124400,
+      "views": 40211000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1234",
+      "title": "Interfaith Unity Portrait",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1234.webp",
+      "category_id": "unity-portrait",
+      "category_name": "Cultural / Unity Portrait",
+      "prompt": "A young Jewish man, smiling with a serene expression on his face, holding tightly the Holy Quran in his hands. His hair is neatly combed, and he's wearing a light blue buttoned shirt and black trousers. His eyes emanate pure joy and understanding, creating a harmonious depiction of unity and respect among different religions.",
+      "ai_style": "Unity Cultural Portrait",
+      "tags": [
+        "unity",
+        "religion",
+        "respect",
+        "portrait"
+      ],
+      "likes": 968880,
+      "views": 33077000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1235",
+      "title": "Boy Riding Camel Desert",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1235.webp",
+      "category_id": "desert-culture",
+      "category_name": "Middle Eastern / Desert Scene",
+      "prompt": "An image of a Middle-Eastern young boy wearing a traditional outfit, riding on a camel's back in the vast desert, under the bright, scorching sun. The wind is creating gentle ripples in the sand, and in the far distance, you can see a line of low-lying sand dunes. The camel is adorned with colorful fabrics around its hump, and the boy is holding onto the leash with a joyous expression on his face.",
+      "ai_style": "Desert Cultural Scene",
+      "tags": [
+        "desert",
+        "camel",
+        "culture",
+        "traditional"
+      ],
+      "likes": 1018800,
+      "views": 36022000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1236",
+      "title": "Marketplace Lamp Story Scene",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1236.webp",
+      "category_id": "arabian-folklore",
+      "category_name": "Middle Eastern / Folklore Scene",
+      "prompt": "A young Middle Eastern man, characterized by dark hair and traditional attire, is holding an ancient, intricately designed oil lamp. The lamp is golden and shimmers under the soft, warm glow of the sun. The man, identified as a folk tale character, has a look of wonder and curiosity on his face as he studies the exquisite details of the lamp in his hand. The background setting is a rich tapestry of a Middle Eastern marketplace bustling with activity.",
+      "ai_style": "Arabian Folklore Portrait",
+      "tags": [
+        "marketplace",
+        "lamp",
+        "arabian",
+        "culture"
+      ],
+      "likes": 992330,
+      "views": 34899000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1237",
+      "title": "Man Walking Toward Masjid",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1237.webp",
+      "category_id": "islamic-architecture",
+      "category_name": "Islamic / Architecture Scene",
+      "prompt": "A South Asian Muslim man, dressed in traditional Islamic attire, strolling down a sunlit street towards a beautifully designed masjid. The Masjid has tall minarets and a golden dome, symbolizing Islamic architecture, amidst a blue sky dotted with soft white clouds. The man carries an old, leather-bound copy of the Quran in his hands.",
+      "ai_style": "Islamic Architecture Scene",
+      "tags": [
+        "mosque",
+        "islamic",
+        "quran",
+        "architecture"
+      ],
+      "likes": 1082200,
+      "views": 38244000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1238",
+      "title": "Boy Facing Kaaba Desert",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1238.webp",
+      "category_id": "historic-islamic",
+      "category_name": "Islamic / Historical Scene",
+      "prompt": "An image of a young Middle-Eastern boy seen from behind, standing in the desert facing the Kaaba during the pre-Islamic era.",
+      "ai_style": "Historical Desert Scene",
+      "tags": [
+        "kaaba",
+        "desert",
+        "history",
+        "islamic"
+      ],
+      "likes": 948550,
+      "views": 32999000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1239",
+      "title": "Qatari Girl Traditional Past Scene",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1239.webp",
+      "category_id": "arab-culture",
+      "category_name": "Arab / Cultural Heritage",
+      "prompt": "A young Qatari girl from the past, living in Qatar. The surroundings show the local environment with low, sprawling desert houses made of un-plastered limestone and mud. She is dressed in a traditional Bedouin thobe, an ankle-length garment, in vibrant colors with elaborate embroideries. Her hair is covered with a headdress known as 'batula'. In her hand, she holds a clay pot, possibly filled with water, with her sun-kissed, soft fingers. Her thoughtful eyes are fixated on a distant point beyond the viewer, giving an insight into the serene simplicity of the past.",
+      "ai_style": "Arab Cultural Heritage Scene",
+      "tags": [
+        "qatar",
+        "bedouin",
+        "heritage",
+        "culture"
+      ],
+      "likes": 1027700,
+      "views": 36177000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1240",
+      "title": "Mother Daughter Kitchen Eid Moment",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1240.webp",
+      "category_id": "family-islamic",
+      "category_name": "Islamic / Family Scene",
+      "prompt": "A Muslim woman, dressed in a hijab, joyfully spending quality time in the kitchen with her little daughter. They are both experiencing a feeling of freedom and happiness as they join hands to prepare a delicious meal with rice. The vibrancy of the kitchen and the aroma of the cuisines wafting through the room amplifies their cheerful spirit.",
+      "ai_style": "Family Lifestyle Scene",
+      "tags": [
+        "family",
+        "mother",
+        "daughter",
+        "home"
+      ],
+      "likes": 1103300,
+      "views": 39211000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1241",
+      "title": "Military Figure Near Aqsa Mosque",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1241.webp",
+      "category_id": "islamic-architecture",
+      "category_name": "Islamic / Architecture Scene",
+      "prompt": "An image of a solitary military figure, dressed in fatigues, standing in front of a significant historic Islamic architecture, the Aqsa Mosque. The figure is captured mid-stride, his/her body language suggesting purpose and determination. The Aqsa Mosque in the backdrop stands majestic, its elaborate domes and minarets reaching out to the clear, blue sky.",
+      "ai_style": "Historic Architectural Scene",
+      "tags": ["aqsa", "mosque", "architecture", "historic"],
+      "likes": 942550,
+      "views": 32477000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1242",
+      "title": "Little Boy With Quran",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1242.webp",
+      "category_id": "islamic-kids",
+      "category_name": "Islamic / Kids Portrait",
+      "prompt": "Quran Islamic Little Boy Poor Clothes White.",
+      "ai_style": "Minimal Spiritual Portrait",
+      "tags": ["quran", "boy", "islamic", "child"],
+      "likes": 884440,
+      "views": 30112000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1243",
+      "title": "Emirati Child Dubai Skyline",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1243.webp",
+      "category_id": "arab-culture",
+      "category_name": "Arab / Cultural Portrait",
+      "prompt": "A Middle-Eastern child wearing a traditional Emirati Thobe, a loose, long-sleeved, ankle-length garment for boys in Dubai. The attire is white, made of high-quality fabric and may have subtle embroidery on the placket. He also wears a white Ghutra on his head, fastened with a black Agal. The child is standing against a background of the iconic Dubai skyline, filled with futuristic skyscrapers and architectural marvels, under a clear, blue sky.",
+      "ai_style": "Modern Emirati Cultural Portrait",
+      "tags": ["dubai", "emirati", "culture", "child"],
+      "likes": 1038800,
+      "views": 36633000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1244",
+      "title": "Hijab Student Studying In Park",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1244.webp",
+      "category_id": "education-portrait",
+      "category_name": "Education / Lifestyle Portrait",
+      "prompt": "A beautiful student wearing a hijab. She is Middle-Eastern, focused on her book with a smile indicating her enthusiasm for learning. She's sitting on a park bench, under a sunny sky. The lush green trees in the background add to the idyllic setting. Beside her, a bag filled with textbooks, a pen in her hand as she makes notes. She is dressed in modest attire consistent with her cultural background, eloquently emphasizing her grace and serenity. Her hijab is elegantly styled, coordinating well with her outfit, retaining her modesty while also showcasing her vibrant personality and commitment to knowledge.",
+      "ai_style": "Educational Lifestyle Portrait",
+      "tags": ["student", "hijab", "education", "learning"],
+      "likes": 1077700,
+      "views": 37899000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1245",
+      "title": "Boy Reciting Quran In Garden",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1245.webp",
+      "category_id": "islamic-spiritual",
+      "category_name": "Islamic / Spiritual Scene",
+      "prompt": "Imagine a Muslim boy reciting the Quran for a beautiful Muslim girl in the garden of flowers.",
+      "ai_style": "Spiritual Garden Scene",
+      "tags": ["quran", "garden", "spiritual", "islamic"],
+      "likes": 964880,
+      "views": 33911000,
       "is_premium": true,
       "is_recommended": true,
       "is_trending": true
