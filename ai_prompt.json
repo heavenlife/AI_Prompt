@@ -24688,7 +24688,7 @@
       "views": 42122000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1247",
@@ -24703,7 +24703,7 @@
       "views": 39688000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1248",
@@ -24718,7 +24718,7 @@
       "views": 36877000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1249",
@@ -24733,7 +24733,7 @@
       "views": 38422000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1250",
@@ -24748,7 +24748,7 @@
       "views": 40944000,
       "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "ai-1251",
@@ -24762,8 +24762,8 @@
       "likes": 1098200,
       "views": 38144000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1252",
@@ -24777,8 +24777,8 @@
       "likes": 1154400,
       "views": 40988000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1253",
@@ -24792,8 +24792,8 @@
       "likes": 1215500,
       "views": 43277000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1254",
@@ -24807,8 +24807,8 @@
       "likes": 1077700,
       "views": 37499000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1255",
@@ -24822,8 +24822,8 @@
       "likes": 1108800,
       "views": 38922000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1256",
@@ -24837,8 +24837,8 @@
       "likes": 1188800,
       "views": 41499000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1257",
@@ -24852,8 +24852,8 @@
       "likes": 1044400,
       "views": 36655000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1258",
@@ -24867,8 +24867,8 @@
       "likes": 1066600,
       "views": 37111000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1259",
@@ -24882,8 +24882,8 @@
       "likes": 1197700,
       "views": 41866000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1260",
@@ -24897,8 +24897,8 @@
       "likes": 1022200,
       "views": 35888000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1261",
@@ -24912,8 +24912,8 @@
       "likes": 1145200,
       "views": 40511000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1262",
@@ -24927,8 +24927,8 @@
       "likes": 1068800,
       "views": 37888000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1263",
@@ -24942,8 +24942,8 @@
       "likes": 1089900,
       "views": 38977000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1264",
@@ -24957,8 +24957,8 @@
       "likes": 1202200,
       "views": 42199000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
 
     {
@@ -24973,8 +24973,8 @@
       "likes": 1231100,
       "views": 43888000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
 
     {
@@ -24989,8 +24989,8 @@
       "likes": 1184400,
       "views": 41766000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
 
     {
@@ -25005,8 +25005,8 @@
       "likes": 1168800,
       "views": 40977000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
 
     {
@@ -25021,8 +25021,8 @@
       "likes": 1112200,
       "views": 39544000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
 
     {
@@ -25037,8 +25037,8 @@
       "likes": 1094400,
       "views": 38499000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
 
     {
@@ -25053,8 +25053,8 @@
       "likes": 1133300,
       "views": 40188000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1271",
@@ -25068,8 +25068,8 @@
       "likes": 1194400,
       "views": 42211000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1272",
@@ -25083,8 +25083,8 @@
       "likes": 1162200,
       "views": 40788000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1273",
@@ -25098,8 +25098,8 @@
       "likes": 1128800,
       "views": 39511000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1274",
@@ -25113,8 +25113,8 @@
       "likes": 1105500,
       "views": 38488000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1275",
@@ -25128,8 +25128,8 @@
       "likes": 1172200,
       "views": 41144000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1276",
@@ -25143,8 +25143,8 @@
       "likes": 1144200,
       "views": 38910000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1277",
@@ -25158,8 +25158,8 @@
       "likes": 1118700,
       "views": 37445000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1278",
@@ -25173,8 +25173,8 @@
       "likes": 1135400,
       "views": 38270000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1279",
@@ -25188,8 +25188,8 @@
       "likes": 1109800,
       "views": 36899000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1280",
@@ -25203,8 +25203,8 @@
       "likes": 1087700,
       "views": 36154000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1281",
@@ -25218,8 +25218,8 @@
       "likes": 1148800,
       "views": 40152000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1282",
@@ -25233,8 +25233,8 @@
       "likes": 1125400,
       "views": 39288000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1283",
@@ -25248,8 +25248,8 @@
       "likes": 1152100,
       "views": 40671000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1284",
@@ -25263,8 +25263,8 @@
       "likes": 1109900,
       "views": 38140000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1285",
@@ -25278,8 +25278,8 @@
       "likes": 1093400,
       "views": 37090000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1286",
@@ -25293,8 +25293,8 @@
       "likes": 1098200,
       "views": 37190000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1287",
@@ -25308,8 +25308,8 @@
       "likes": 1110400,
       "views": 37824000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1288",
@@ -25323,8 +25323,8 @@
       "likes": 1133500,
       "views": 38491000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1289",
@@ -25338,8 +25338,8 @@
       "likes": 1127800,
       "views": 38204000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1290",
@@ -25353,8 +25353,8 @@
       "likes": 1140200,
       "views": 39155000,
       "is_premium": true,
-      "is_recommended": true,
-      "is_trending": true
+      "is_recommended": false,
+      "is_trending": false
     },
     {
       "id": "ai-1291",
@@ -25367,6 +25367,501 @@
       "tags": ["cyberpunk", "neon", "portrait", "futuristic"],
       "likes": 1154300,
       "views": 39722000,
+      "is_premium": true,
+      "is_recommended": false,
+      "is_trending": false
+    },
+    {
+      "id": "ai-1292",
+      "title": "RCB IPL Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1292.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "Create a dramatic IPL-style poster using my photo. Keep my facial features exactly the same as in my photo but put me in a ROYAL CHALLENGEERS BANGALORE style jersey, in 2025 style, with sponsor logos in white on the chest and sleeves. Make two versions of me: one large portrait from the chest up with arms crossed and a confident smile in the center, and one back-body image of me below wearing a RCB jersey with golden colour 18 ZAIN smiling,surrounded by MARRON smoke at the bottom. Use a dark black background with a large Royal challengers Bangalore logo in background (logo is given in image 2). In text golden ‘Royal Challengers Bangalore’ stadium silhouette behind me, similar to a cricket team emblem. Use vivid, high-contrast lighting to make my face and jersey stand out. Make the overall style sharp, colorful and suitable for a sports poster.",
+      "ai_style": "IPL Sports Poster",
+      "tags": ["ipl", "rcb", "cricket", "poster", "sports"],
+      "likes": 1245800,
+      "views": 45230000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1293",
+      "title": "CSK Dual Pose Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1293.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "action_input: An ultra-realistic cinematic cricket poster featuring the young man from the uploaded image with a fair-whitish glass skin tone, soft red lips, and a voluminous, slightly messy fade mullet hairstyle. He is presented in a powerful dual-pose composition on a clean, textured light-grey studio backdrop with a large, softly embedded ’07’ behind him.\n\nDominant upper pose: The player is seen from the back wearing a golden-yellow Chennai Super Kings (CSK) jersey with blue accents. Bold navy typography reads ‘ANUP’ and the number ’07’ on the back. He has an athletic build and turns his head to show a sharp, intense side profile with a fearless expression.\n\nForeground pose: A dynamic action shot of him celebrating, right fist clenched, arm flexed, in a triumphant shout. He wears the full CSK kit, including match trousers with realistic ground texture. \n\nDetails: Thick dark hair, clean shaved, strong jawline, and realistic skin texture with subtle sweat highlights. Cinematic smoke and dust effects at the base. Premium studio lighting, 85mm lens feel, ultra-sharp focus, photorealistic 8K resolution, vertical poster composition. Small cursive signature ‘autophile.s_d’ in the corner.",
+      "ai_style": "Cinematic Cricket Poster",
+      "tags": ["ipl", "csk", "cricket", "cinematic", "poster"],
+      "likes": 1189200,
+      "views": 40150000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1294",
+      "title": "KKR King Fantasy Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1294.webp",
+      "category_id": "ipl-fantasy",
+      "category_name": "Sports / Fantasy IPL",
+      "prompt": "The create a 16k ultra pro high hyper-realistic a cinematic, high-contrast digital painting fan edit of the young man and dark messy hair and little beard from the uploaded image as the central ‘King’ figure for the Kolkata Knight Rider’s (KKR) team. He is wearing a regal golden crown with dark jewels and a thick grey/silver fur mantle over his shoulders. Underneath the fur, he is wearing the purple and golden KKR jersey with ‘Dream 11’ and ‘Lux Cuzi’ sponsors. He has a well-groomed beard and an intense, fierce gaze, pointing a finger toward the KKR logo on his chest. In the background, teammates like Shreys iyer, Andre Rassel, Sunil narayan, Umesh Yadav, are visible but slightly desaturated and blurred. The foreground features vibrant orange flames and glowing embers. Dominant colors are purple/golden and KKR logo.",
+      "ai_style": "Fantasy Cricket King",
+      "tags": ["ipl", "kkr", "fantasy", "king", "poster"],
+      "likes": 1324400,
+      "views": 48920000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1295",
+      "title": "Mumbai Indians Victory Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1295.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "A cinematic dual-pose cricket poster of a young man wearing the Mumbai Indians (MI) kit, set against a textured light-grey background with a faded “45” behind him. One pose shows his back view in a royal blue and gold MI jersey with “RO – 45”, turning slightly for an intense side profile, The foreground captures a powerful celebration, fist clenched and roaring with victory.Features photorealistic athletic detail, subtle sweat, cinematic smoke, dust, and sparks, dramatic stadium lighting, high contrast, and ultra-sharp 8K quality.",
+      "ai_style": "Cinematic IPL Poster",
+      "tags": ["ipl", "mi", "cricket", "victory", "poster"],
+      "likes": 1098700,
+      "views": 37860000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1296",
+      "title": "Mumbai Indians Fan Moment",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1296.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "Create an image of me, hyper realistic to my face and features (hairstyle), Next to my idol player Rohit Sharma, holding a IPL team Mumbai Indians jersey, on a Cricket field in 8k. Face 100% match Face accurate same text to jersey ‘Rohit Sharma ‘. This Image Create With Me And Me or Rohit Sharma wearing Mumbai Indians Jersey",
+      "ai_style": "Fan Cricket Poster",
+      "tags": ["ipl", "mumbai indians", "rohit sharma", "fan art", "cricket"],
+      "likes": 1284500,
+      "views": 43890000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1297",
+      "title": "RCB Hero Cinematic Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1297.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "\"The create a 8k ultra pro high hyper-realistic a high-energy, cinematic sports poster featuring Indian cricketer young handsome boy in his Royal Challenger Bengaluru (RCB) Indian Premier League (IPL) persona.\nThe image is a composite “hero” style graphic, common in sports marketing, using various poses to show different facets of the player. Uploaded image face 100% match same face is shown in three distinct portrait shots and one action shot.\nThe Centerpiece: A large, stoic close-up of his face dominates the background.\nThe Flanks: On the left, he looks intensely toward the side; on the right, he is seen cheering with a clenched fist, celebrating a victory.\nThe Action: In the foreground, a smaller figure of young man is shown mid-swing, playing an aggressive “big hit” shot typical of his batting style.\nTeam Branding: The color palette is strictly Black and Red , the official colors of the Royal Challenger Bengaluru . The RCB logo and the team name are integrated into the background flag.\nSetting: The bottom of the image features a glowing stadium atmosphere with bright floodlights, creating a “night match” feel.\nAesthetic Style: The image uses dramatic “God rays” or light streaks emanating from the center, giving the player a legendary, almost superhuman appearance.\nSymbolism The poster captures “King Khan” as the powerhouse of the team—combining his physical strength, his role as a finisher, and his emotional connection to the franchise.",
+      "ai_style": "Cinematic IPL Poster",
+      "tags": ["ipl", "rcb", "cinematic", "hero", "poster"],
+      "likes": 1367800,
+      "views": 50210000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1298",
+      "title": "CSK Victory Celebration",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1298.webp",
+      "category_id": "ipl-moment",
+      "category_name": "Sports / IPL",
+      "prompt": "Create a realistic this picture photographs\nCSK cricketers A reference image man celebrating an IPL match victory. Dhoni, on the right, is laughing joyfully and playfully messing up a reference image man messy voluminous wavy brown hair while hugging him. is smiling brightly. Both are wearing the YELLOW Chennai super king (CSK) jersey with the; ETIHAD airways logo visible and looking towards the camera. The background is a blurred cricket stadium at night with floodlights, other teammates in the distance Vand a TV",
+      "ai_style": "Realistic Cricket Moment",
+      "tags": ["ipl", "csk", "dhoni", "celebration", "cricket"],
+      "likes": 1423300,
+      "views": 52140000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1299",
+      "title": "Gujarat Titans Double Exposure Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1299.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "A high-quality sports poster featuring a slim-fit stylish handsome young Indian man (reference-uploaded photo) with quiff-style, tousled mid-length black hair, wearing rectangular black sunglasses. He is dressed in a Gujrat Titans (GT) cricket jersey in dark navy blue, with gold and white, with official GT branding and sponsor logos (use uploaded jersey). The design uses a powerful double exposure effect: in the foreground, he is captured mid-shout in an intense, triumphant celebration with a clenched fist; in the background, a larger, faded silhouette of him is shown from behind, displaying the name “SIDHARTH” and the jersey number “77”. The background is a clean, textured light gray with a large, subtle “77” watermark. Cinematic lighting, dramatic contrast, sharp focus, ultra-detailed 8K resolution, professional sports poster graphic design style.",
+      "ai_style": "Double Exposure Sports Poster",
+      "tags": ["ipl", "gt", "double exposure", "poster", "cricket"],
+      "likes": 1112400,
+      "views": 36980000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1300",
+      "title": "Rajasthan Royals Double Exposure Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1300.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "A high-quality sports poster featuring a slim-fit stylish handsome young Indian man (reference-uploaded photo) with quiff-style, tousled mid-length black hair, wearing rectangular black sunglasses. He is dressed in a Rajasthan Royals (RR) cricket jersey in pink and blue, with official RR branding and sponsor logos (use uploaded jersey). The design uses a powerful double exposure effect: in the foreground, he is captured mid-shout in an intense, triumphant celebration with a clenched fist; in the background, a larger, faded silhouette of him is shown from behind, displaying the name “SIDHARTH” and the jersey number “8”. The background is a clean, textured light gray with a large, subtle “8” watermark. Cinematic lighting, dramatic contrast, sharp focus, ultra-detailed 8K resolution, professional sports poster graphic design style.",
+      "ai_style": "Double Exposure Sports Poster",
+      "tags": ["ipl", "rr", "double exposure", "poster", "cricket"],
+      "likes": 1075600,
+      "views": 34270000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1301",
+      "title": "Sunrisers Hyderabad Double Exposure Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1301.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "A high-quality sports poster featuring a slim-fit stylish handsome young Indian man (reference-uploaded photo) with quiff-style, tousled mid-length black hair, wearing rectangular black sunglasses. He is dressed in a Sunrisers Hyderabad (SRH) cricket jersey in fiery orange and black, with official SRH branding and sponsor logos (use uploaded jersey). The design uses a powerful double exposure effect: in the foreground, he is captured mid-shout in an intense, triumphant celebration with a clenched fist; in the background, a larger, faded silhouette of him is shown from behind, displaying the name “SIDHARTH” and the jersey number “4”. The background is a clean, textured light gray with a large, subtle “4” watermark. Cinematic lighting, dramatic contrast, sharp focus, ultra-detailed 8K resolution, professional sports poster graphic design style.",
+      "ai_style": "Double Exposure Sports Poster",
+      "tags": ["ipl", "srh", "double exposure", "poster", "cricket"],
+      "likes": 1083400,
+      "views": 35270000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1302",
+      "title": "KKR Double Exposure Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1302.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "A high-quality sports poster featuring a slim-fit stylish handsome young Indian man (reference- uploaded photo) with quiff-style, tousled mid-length black hair, wearing rectangular black sunglasses. He is dressed in a Kolkata Knight Riders (KKR) cricket jersey in purple and gold, with official KKR branding and sponsor logos (use uploaded jersey). The design uses a powerful double exposure effect: in the foreground, he is captured mid-shout in an intense, triumphant celebration with a clenched fist; in the background, a larger, faded silhouette of him is shown from behind, displaying the name “SIDHARTH” and the jersey number “35”. The background is a clean, textured light gray with a large, subtle “35” watermark. Cinematic lighting, dramatic contrast, sharp focus, ultra-detailed 8K resolution, professional sports poster graphic design style.",
+      "ai_style": "Double Exposure Sports Poster",
+      "tags": ["ipl", "kkr", "double exposure", "poster", "cricket"],
+      "likes": 1127800,
+      "views": 36890000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1303",
+      "title": "Punjab Kings Double Exposure Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1303.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "A high-quality sports poster featuring a slim-fit stylish handsome young Indian man (reference- uploaded photo) with quiff-style, tousled mid-length black hair, wearing rectangular black sunglasses. He is dressed in a Punjab Kings (PBKS) cricket jersey in vibrant red and gold color scheme, with official PBKS branding and sponsor logos (use uploaded jersey). The design uses a powerful double exposure effect: in the foreground, he is captured mid-shout in an intense, triumphant celebration with a clenched fist; in the background, a larger, faded silhouette of him is shown from behind, displaying the name “SIDHARTH” and the jersey number “96”. The background is a clean, textured light gray with a large, subtle “96” watermark. Cinematic lighting, dramatic contrast, sharp focus, ultra-detailed 8K resolution, professional sports poster graphic design style.",
+      "ai_style": "Double Exposure Sports Poster",
+      "tags": ["ipl", "pbks", "double exposure", "poster", "cricket"],
+      "likes": 1045600,
+      "views": 32980000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1304",
+      "title": "Delhi Capitals Double Exposure Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1304.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "A high-quality sports poster featuring a slim-fit stylish handsome young Indian man (reference- uploaded photo) with quiff-style, tousled mid-length black hair, wearing rectangular black sunglasses. He is dressed in a Delhi Capitals (DC) cricket jersey in vibrant blue base, representing stability and ambition, with prominent red accents on the shoulders, collar, and sleeves, with official DC branding and sponsor logos (use uploaded jersey). The design uses a powerful double exposure effect: in the foreground, he is captured mid-shout in an intense, triumphant celebration with a clenched fist; in the background, a larger, faded silhouette of him is shown from behind, displaying the name “SIDHARTH” and the jersey number “1”. The background is a clean, textured light gray with a large, subtle “1” watermark. Cinematic lighting, dramatic contrast, sharp focus, ultra-detailed 8K resolution, professional sports poster graphic design style",
+      "ai_style": "Double Exposure Sports Poster",
+      "tags": ["ipl", "dc", "double exposure", "poster", "cricket"],
+      "likes": 1069200,
+      "views": 34120000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1305",
+      "title": "Mumbai Indians Double Exposure Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1305.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "A high-quality sports poster featuring a slim-fit stylish handsome young Indian man (reference- uploaded photo) with quiff-style, tousled mid-length black hair, wearing rectangular black sunglasses. He is dressed in a Mumbai Indians (MI) cricket jersey in iconic royal blue and gold, with official MI branding and sponsor logos (use uploaded jersey). The design uses a powerful double exposure effect: in the foreground, he is captured mid-shout in an intense, triumphant celebration with a clenched fist; in the background, a larger, faded silhouette of him is shown from behind, displaying the name “SIDHARTH” and the jersey number “45”. The background is a clean, textured light gray with a large, subtle “45” watermark. Cinematic lighting, dramatic contrast, sharp focus, ultra-detailed 8K resolution, professional sports poster graphic design style.",
+      "ai_style": "Double Exposure Sports Poster",
+      "tags": ["ipl", "mi", "double exposure", "poster", "cricket"],
+      "likes": 1156700,
+      "views": 38950000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1306",
+      "title": "CSK Double Exposure Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1306.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "A high-quality sports poster featuring a slim-fit stylish handsome young Indian man (reference- uploaded photo) with quiff-style, tousled mid-length black hair, wearing rectangular black sunglasses. He is dressed in a Chennai Super Kings (CSK) cricket jersey in iconic yellow with blue accents, featuring authentic CSK branding and sponsor logos (use uploaded jersey). The design uses a powerful double exposure effect: in the foreground, he is captured mid-shout in an intense, triumphant celebration with a clenched fist; in the background, a larger, faded silhouette of him is shown from behind, displaying the name “SIDHARTH” and the jersey number “7”. The background is a clean, textured light gray with a large, subtle “7” watermark. Cinematic lighting, dramatic contrast, sharp focus, ultra-detailed 8K resolution, professional sports poster graphic design style.",
+      "ai_style": "Double Exposure Sports Poster",
+      "tags": ["ipl", "csk", "double exposure", "poster", "cricket"],
+      "likes": 1192300,
+      "views": 40210000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1307",
+      "title": "RCB Double Exposure Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1307.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "A high-quality sports poster featuring a slim-fit stylish handsome young Indian man (reference-uploaded photo) with quiff-style tousled mid-length black hair, Rectangular black sunglasses. He is wearing a Royal Challengers Bangalore (RCB) cricket jersey in navy blue and red, with official RCB branding and sponsor logos (use uploaded jersey). The image uses a double exposure effect: in the foreground, he is shouting in a triumphant celebration with a clenched fist; in the background, a larger, faded silhouette of him shows his back, displaying the name ‘SIDHARTH’ and the number ’18’ in metallic gold. The background is a clean, textured light gray with a large, subtle number ’18’ watermark. Cinematic lighting, sharp focus, 8k resolution, professional graphic design style.",
+      "ai_style": "Double Exposure Sports Poster",
+      "tags": ["ipl", "rcb", "double exposure", "poster", "cricket"],
+      "likes": 1257800,
+      "views": 44120000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1308",
+      "title": "RCB Stadium Fan Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1308.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "A confident boy wearing a Royal Challengers Bangalore red jersey, standing in the stadium, shouting in excitement, holding an RCB flag, cinematic lighting, ultra realistic, 8K, DSLR, depth of field, dramatic shadows, face 100% identical to the uploaded image.",
+      "ai_style": "Fan Stadium Poster",
+      "tags": ["ipl", "rcb", "fan", "stadium", "cricket"],
+      "likes": 1094500,
+      "views": 35890000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1309",
+      "title": "RCB Girl Fan Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1309.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "A young girl cheering for RCB with face paint and scarf, red and black theme, energetic crowd background, cinematic lighting, ultra realistic, 8K, DSLR, depth of field, great detail, face 100% identical to the uploaded image.",
+      "ai_style": "Fan Stadium Poster",
+      "tags": ["ipl", "rcb", "fan", "girl", "stadium"],
+      "likes": 1023400,
+      "views": 33120000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1310",
+      "title": "Mumbai Indians Stadium Fan",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1310.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "A 35 year old man wearing Mumbai Indians blue jersey standing in IPL stadium, waving MI flag, crowd cheering behind, cinematic lighting, ultra realistic, 8K, DSLR, depth of field, glowing stadium lights, face 100% identical to uploaded image.",
+      "ai_style": "Fan Stadium Poster",
+      "tags": ["ipl", "mi", "fan", "stadium", "cricket"],
+      "likes": 1135600,
+      "views": 37980000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1311",
+      "title": "Mumbai Indians Girl Fan Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1311.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "A stylish girl supporting Mumbai Indians, wearing blue jersey and face paint, cheering loudly in stadium, confetti flying, cinematic lighting, ultra realistic, 8K, DSLR, depth of field, vibrant IPL atmosphere, face 100% identical to uploaded image.",
+      "ai_style": "Fan Stadium Poster",
+      "tags": ["ipl", "mi", "fan", "girl", "stadium"],
+      "likes": 1067800,
+      "views": 34950000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1312",
+      "title": "Mumbai Indians Fan Moment Capture",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1312.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "A passionate 35 year old man MI fan capturing moment on phone in IPL stadium, blue theme crowd, fireworks and lights, cinematic lighting, ultra realistic, 8K, DSLR, depth of field, face 100% identical to uploaded image.",
+      "ai_style": "Fan Moment Poster",
+      "tags": ["ipl", "mi", "fan", "moment", "stadium"],
+      "likes": 1012300,
+      "views": 31870000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1313",
+      "title": "CSK Stadium Fan Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1313.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "A stylish young man wearing Chennai Super Kings yellow jersey standing in a packed IPL stadium, cheering with excitement, holding CSK flag, cinematic lighting, ultra realistic, 8K, DSLR, depth of field, dramatic stadium lights, face 100% identical to uploaded image.",
+      "ai_style": "Fan Stadium Poster",
+      "tags": ["ipl", "csk", "fan", "stadium", "cricket"],
+      "likes": 1174500,
+      "views": 39560000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1314",
+      "title": "CSK Woman Fan Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1314.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "A confident WOMAN in a CSK jersey WITH BLUE JEANS, cheering in the REALISTIC IPL stadium crowd, cinematic lighting, ultra realistic, 8K, DSLR, depth of field, vibrant colours, face 100% identical to uploaded image.",
+      "ai_style": "Fan Stadium Poster",
+      "tags": ["ipl", "csk", "fan", "woman", "stadium"],
+      "likes": 1039800,
+      "views": 33690000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1315",
+      "title": "KKR Fan Emotion Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1315.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "A confident boy with KKR face paint sitting in excitement during IPL match, crowd blurred in background, dramatic shadows, cinematic lighting, ultra realistic, 8K, DSLR, depth of field, sports photography style, face 100% identical to uploaded image.",
+      "ai_style": "Fan Stadium Poster",
+      "tags": ["ipl", "kkr", "fan", "emotion", "stadium"],
+      "likes": 998700,
+      "views": 30120000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1316",
+      "title": "KKR Girl Fan Cheer Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1316.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "A confident girl with a KKR scarf and face paint, standing in the stadium WITH crowd, smiling and cheering (NOT SHOUTING), smiling, fireworks in the background, cinematic lighting, ultra-realistic, 8K, DSLR, depth of field, great detail, face 100% identical to the uploaded image",
+      "ai_style": "Fan Stadium Poster",
+      "tags": ["ipl", "kkr", "fan", "girl", "stadium"],
+      "likes": 1014500,
+      "views": 32560000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1317",
+      "title": "KKR Group Fans Celebration",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1317.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "A group of KKR fans boys  celebrating together in a crowd (not shouting), smiling with KKR flag in hands waving it in air, wearing normal clothes no purple jersey energetic IPL vibe, cinematic lighting, ultra realistic, 8K, DSLR, depth of field, dynamic composition, face 100% identical to the uploaded image.",
+      "ai_style": "Fan Group Poster",
+      "tags": ["ipl", "kkr", "fans", "group", "stadium"],
+      "likes": 978300,
+      "views": 30120000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1318",
+      "title": "KKR Grand Entry with Shah Rukh Khan",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1318.webp",
+      "category_id": "ipl-cinematic",
+      "category_name": "Sports / IPL",
+      "prompt": "A stylish man making a grand entry into IPL stadium with Shah Rukh Khan, wearing Kolkata Knight Riders purple jersey, walking through tunnel with smoke and purple lights, slow-motion cinematic entry, crowd cheering loudly, dramatic pose with arms spread, cinematic lighting, ultra realistic, 8K, DSLR, depth of field, intense shadows, face 100% identical to uploaded image ",
+      "ai_style": "Cinematic Entry Poster",
+      "tags": ["ipl", "kkr", "cinematic", "entry", "srk"],
+      "likes": 1456700,
+      "views": 52890000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1319",
+      "title": "CSK Studio Style Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1319.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "Stylish young man in CSK jersey with sunglasses, clean studio background, soft golden light, modern sports branding poster",
+      "ai_style": "Studio Sports Poster",
+      "tags": ["ipl", "csk", "studio", "poster", "modern"],
+      "likes": 934500,
+      "views": 28970000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1320",
+      "title": "CSK Logo Focus Fan Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1320.webp",
+      "category_id": "ipl-fan-art",
+      "category_name": "Sports / IPL",
+      "prompt": "CSK fan poster, person pointing to jersey logo, crowd blurred behind, vibrant yellow tones, ultra realistic",
+      "ai_style": "Fan Poster",
+      "tags": ["ipl", "csk", "fan", "logo", "poster"],
+      "likes": 965200,
+      "views": 31280000,
+      "is_premium": false,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1321",
+      "title": "CSK Lion Theme Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1321.webp",
+      "category_id": "ipl-fantasy",
+      "category_name": "Sports / Fantasy IPL",
+      "prompt": "CSK lion theme poster, player standing in front of giant golden lion, fire effects, intense dramatic lighting, ultra realistic",
+      "ai_style": "Fantasy Sports Poster",
+      "tags": ["ipl", "csk", "lion", "fantasy", "poster"],
+      "likes": 1213400,
+      "views": 41890000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1322",
+      "title": "SRH Fire Theme Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1322.webp",
+      "category_id": "ipl-fantasy",
+      "category_name": "Sports / IPL",
+      "prompt": "A high-quality sports poster featuring a young South Asian man with messy dark hair and glasses. He is wearing a ORANGE T shirt Sunrisers Hyderabad (SRH) cricket jersey with \"Dream11' and 'Kent water purifier' logos. The image uses a double exposure effect: in the foreground, he is shouting in a triumphant celebration with a clenched fist; in the background, a larger, faded silhouette of him shows his back, displaying the name 'Abhishek Sharma' and the number '04'. The background is a clean, textured light gray with a large, subtle number '04' watermark. Cinematic lighting, sharp focus, 8k resolution, professional graphic design style.\n\"Add this logo in background set the opacity according firy background with the quote play with fire",
+      "ai_style": "Fire Fantasy Poster",
+      "tags": ["ipl", "srh", "fire", "double exposure", "poster"],
+      "likes": 1175600,
+      "views": 39230000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1323",
+      "title": "KKR King Throne Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1323.webp",
+      "category_id": "ipl-cinematic",
+      "category_name": "Sports / IPL",
+      "prompt": "\"The create a 128k ultra pro high hyper-realistic a cinematic scene in, The main subject is a man who closely resembles the young handsome man. He is sitting confidently in a black chair right in the center of the image.\nAttire: He is wearing a purple and golden cricket jersey (resembling the Kolkata Knight Rider's (KKR) uniform with, \"LUX CUZI\", \"DREAMS 11\" printed on the front, paired with matching purple and golden trousers and white shoes.\nPose: He has a relaxed yet dominant posture, leaning back slightly while pointing his right index finger directly forward at the viewer. He looks completely unfazed by his surroundings.\nThe Crowd: He is surrounded by a dense crowd of men wearing various other brightly colored franchise cricket jerseys (representing opposing teams, with colors similar to Mumbai Indians, Sunrisers Hyderabad, Rajasthan Royals, Chennai super king, Gujarat Titans etc.).\nAction: The surrounding crowd is pointing cricket bats inward toward the central figure. Some are gripping the bats aggressively, creating a highly confrontational and intense atmosphere.\nSetting & Vibe: The group is standing on an ornate, dark, circular floor pattern. Directly beneath the chair is a circular red carpet. The lighting is very dramatic, acting as a spotlight on the central figure while casting the surrounding crowd into slight shadows.\nText/Watermark: Faintly visible on the floor near the bottom center in stylish small signature text \"Crazy Boy WASIM\", which perfectly sums up the dramatic theme of the artwork.\"",
+      "ai_style": "Cinematic King Poster",
+      "tags": ["ipl", "kkr", "king", "cinematic", "poster"],
+      "likes": 1397800,
+      "views": 48960000,
+      "is_premium": true,
+      "is_recommended": true,
+      "is_trending": true
+    },
+    {
+      "id": "ai-1324",
+      "title": "CSK IPL Dual Poster",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images_1/ai-1324.webp",
+      "category_id": "ipl-poster",
+      "category_name": "Sports / IPL",
+      "prompt": "Create a dramatic ultra-realistic IPL-style poster using my photo. Keep my facial features exactly the same. Dress me in a Chennai Super Kings (CSK) inspired yellow jersey with navy blue accents and white sponsor logos on chest and sleeves. Create two versions: a center chest-up portrait with arms crossed and confident smile, and a lower back-body pose wearing a yellow jersey with navy blue “7 DHONI” on the back and army print on both shoulders, smiling and surrounded.",
+      "ai_style": "IPL Sports Poster",
+      "tags": ["ipl", "csk", "poster", "dual pose", "sports"],
+      "likes": 1264500,
+      "views": 43780000,
       "is_premium": true,
       "is_recommended": true,
       "is_trending": true
