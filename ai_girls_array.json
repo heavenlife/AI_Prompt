@@ -3829,26 +3829,26 @@
     },
     {
       "id": "aig167",
-      "title": "Dreamy Y2K Clouds",
+      "title": "Hibiscus Watercolor Portrait",
       "image_url": "https://heavenlife.github.io/AI_Prompt/ai_girls_image/aig167.webp",
-      "category_id": "aesthetic-portrait",
-      "category_name": "Aesthetic Portrait",
-      "prompt": "“Foto realista de uma mulher posando em frente a um fundo azul com nuvens de algodão fofas flutuando. Ela está com expressão confiante e divertida, usando óculos de sol vermelhos estilo retrô, argolas douradas grandes e unhas coloridas em tons pastel (rosa, amarelo, verde, azul e lilás). Ela veste um moletom oversized com estampa floral suave em tons de azul, bege e creme. O cabelo é longo, castanho e solto, com dois coques pequenos no topo da cabeça. A iluminação é suave e natural, com foco no rosto. Manter 100% o rosto original, proporções, textura de pele e expressões naturais da pessoa. Apenas aprimorar a luz, nitidez e estilo fotográfico profissional com leve tom pastel. Fundo e cenário inspirados em sessão fotográfica moderna, estilo aesthetic anos 20, com nuvens brancas e vibe sonhadora. Alta definição, realismo, foco nítido nos detalhes.” Preserve completamente o rosto e as feições originais da pessoa da foto. Não alterar formato, olhos, nariz ou boca. Apenas aplicar o cenário, iluminação e cores conforme a descrição.”",
-      "ai_style": "Y2K Aesthetic Photography",
+      "category_id": "watercolor-illustration",
+      "category_name": "Watercolor Illustration",
+      "prompt": "A stylized digital watercolor illustration of a young woman with soft, realistic facial features and expressive eyes, black hair loosely tied back with strands falling around her face. She wears a red traditional dress with subtle gold detailing and delicate jewelry. Large red hibiscus flowers and green leaves surround her head and shoulders, blending into the background like ink and watercolor splashes. The composition is slightly tilted, giving a dreamy, poetic feel. Fine sketch lines, paint",
+      "ai_style": "Digital Watercolor Illustration",
       "tags": [
-        "y2k",
-        "pastel",
+        "watercolor",
+        "illustration",
+        "hibiscus",
+        "traditional",
         "portrait",
-        "clouds",
-        "fashion",
-        "retro",
-        "photorealistic"
+        "digital art",
+        "artistic"
       ],
-      "likes": 29518,
-      "views": 10887,
-      "is_premium": false,
+      "likes": 31993,
+      "views": 120,
+      "is_premium": true,
       "is_recommended": true,
-      "is_trending": true
+      "is_trending": false
     },
     {
       "id": "aig168",
@@ -9952,29 +9952,6 @@
         "photorealistic"
       ],
       "likes": 31999,
-      "views": 120,
-      "is_premium": true,
-      "is_recommended": true,
-      "is_trending": false
-    },
-    {
-      "id": "aig437",
-      "title": "Hibiscus Watercolor Portrait",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/ai_girls_image/aig437.webp",
-      "category_id": "watercolor-illustration",
-      "category_name": "Watercolor Illustration",
-      "prompt": "A stylized digital watercolor illustration of a young woman with soft, realistic facial features and expressive eyes, black hair loosely tied back with strands falling around her face. She wears a red traditional dress with subtle gold detailing and delicate jewelry. Large red hibiscus flowers and green leaves surround her head and shoulders, blending into the background like ink and watercolor splashes. The composition is slightly tilted, giving a dreamy, poetic feel. Fine sketch lines, paint",
-      "ai_style": "Digital Watercolor Illustration",
-      "tags": [
-        "watercolor",
-        "illustration",
-        "hibiscus",
-        "traditional",
-        "portrait",
-        "digital art",
-        "artistic"
-      ],
-      "likes": 31993,
       "views": 120,
       "is_premium": true,
       "is_recommended": true,
